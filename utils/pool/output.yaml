@@ -6068,7 +6068,7 @@ proxies:
   sni: downloadde.xn--mes358acgm99l.com
   skip-cert-verify: true
   udp: true
-- name: "\U0001F1E9\U0001F1EA DE 559 VMS"
+- name: "\U0001F1FA\U0001F1F3 UN 559 VMS"
   server: hackteam.link
   port: 8443
   type: vmess
@@ -6104,7 +6104,7 @@ proxies:
   cipher: chacha20-ietf-poly1305
   password: f44cb5a7-4b5b-45cc-8aa1-97f8227b5616
   udp: true
-- name: "\U0001F1E9\U0001F1EA DE 563 VMS"
+- name: "\U0001F1FA\U0001F1F3 UN 563 VMS"
   server: hackteam.link
   port: 2083
   type: vmess
@@ -8791,7 +8791,7 @@ proxies:
   sni: 206.237.5.220
   skip-cert-verify: true
   udp: true
-- name: "\U0001F1FA\U0001F1F8 US 866 TJN"
+- name: "\U0001F1FA\U0001F1F3 UN 866 TJN"
   server: aws-ge-frankfurt-1.f1cflineb.com
   port: 443
   type: trojan
@@ -9201,7 +9201,7 @@ proxies:
     headers:
       Host: ca6.tehme100.fun
   udp: true
-- name: "\U0001F1FA\U0001F1F8 US 906 TJN"
+- name: "\U0001F1FA\U0001F1F3 UN 906 TJN"
   server: aws-hk-1.f1cflinea.com
   port: 443
   type: trojan
@@ -9338,7 +9338,7 @@ proxies:
   cipher: aes-256-gcm
   password: RexnBgU7EV5ADxG
   udp: true
-- name: "\U0001F1FA\U0001F1F8 US 920 VMS"
+- name: "\U0001F1FA\U0001F1F3 UN 920 VMS"
   server: moon.chanell.mci.v-x4ssd.space
   port: 8080
   type: vmess
@@ -9951,7 +9951,7 @@ proxies:
     headers:
       Host: in1.jiedian.stream
   udp: true
-- name: "\U0001F1FA\U0001F1F3 UN 981 TJN"
+- name: "\U0001F1FA\U0001F1F8 US 981 TJN"
   server: aws-sg-1.f1cflineb.com
   port: 443
   type: trojan
@@ -10179,7 +10179,7 @@ proxies:
   sni: us01.trojanyyds.xyz
   skip-cert-verify: true
   udp: true
-- name: "\U0001F1FA\U0001F1F8 US 1003 TJN"
+- name: "\U0001F1FA\U0001F1F3 UN 1003 TJN"
   server: cf.network383.online
   port: 2096
   type: trojan
@@ -11051,7 +11051,7 @@ proxies:
     headers:
       Host: 6us3.pqjc.buzz
   udp: true
-- name: "\U0001F1FA\U0001F1F3 UN 1088 VMS"
+- name: "\U0001F1FA\U0001F1F8 US 1088 VMS"
   server: sbl4.shabijichang.com
   port: 80
   type: vmess
@@ -11144,7 +11144,7 @@ proxies:
   cipher: aes-256-gcm
   password: faBAoD54k87UJG7
   udp: true
-- name: "\U0001F1FA\U0001F1F8 US 1096 VMS"
+- name: "\U0001F1FA\U0001F1F3 UN 1096 VMS"
   server: moon.chanell.mci.v-x4ssd.space
   port: 8080
   type: vmess
@@ -11265,7 +11265,7 @@ proxies:
   sni: aws-ch-zurich-1.f1rocketnode.com
   skip-cert-verify: true
   udp: true
-- name: "\U0001F1FA\U0001F1F8 US 1107 TJN"
+- name: "\U0001F1FA\U0001F1F3 UN 1107 TJN"
   server: aws-ar-buenosaires-1.f1cflinea.com
   port: 443
   type: trojan
@@ -11473,7 +11473,7 @@ proxies:
   cipher: aes-256-gcm
   password: FoOiGlkAA9yPEGP
   udp: true
-- name: "\U0001F1FA\U0001F1F8 US 1127 TJN"
+- name: "\U0001F1FA\U0001F1F3 UN 1127 TJN"
   server: aws-jp-tokyo-1.f1cflinea.com
   port: 443
   type: trojan
@@ -12391,7 +12391,7 @@ proxies:
   cipher: aes-256-gcm
   password: KixLvKzwjekG00rm
   udp: true
-- name: "\U0001F1FA\U0001F1F8 US 1224 TJN"
+- name: "\U0001F1FA\U0001F1F3 UN 1224 TJN"
   server: aws-ch-zurich-1.f1cflineb.com
   port: 443
   type: trojan
@@ -13460,7 +13460,7 @@ proxies:
     headers:
       Host: 6us3.pqjc.buzz
   udp: true
-- name: "\U0001F1FA\U0001F1F8 US 1329 VMS"
+- name: "\U0001F1FA\U0001F1F3 UN 1329 VMS"
   server: bobbykotick.rip
   port: 443
   type: vmess
@@ -13650,7 +13650,7 @@ proxies:
     headers:
       Host: 6us3.pqjc.buzz
   udp: true
-- name: "\U0001F1FA\U0001F1F3 UN 1345 VMS"
+- name: "\U0001F1FA\U0001F1F8 US 1345 VMS"
   server: cn.azhz.eu.org
   port: 2096
   type: vmess
@@ -13859,7 +13859,7 @@ proxies:
   cipher: aes-256-gcm
   password: RexnBgU7EV5ADxG
   udp: true
-- name: "\U0001F1FA\U0001F1F3 UN 1367 TJN"
+- name: "\U0001F1FA\U0001F1F8 US 1367 TJN"
   server: cf.network383.online
   port: 2096
   type: trojan
@@ -13919,7 +13919,7 @@ proxies:
   cipher: aes-256-gcm
   password: RexnBgU7EV5ADxG
   udp: true
-- name: "\U0001F1FA\U0001F1F3 UN 1373 TJN"
+- name: "\U0001F1FA\U0001F1F8 US 1373 TJN"
   server: cf.network383.online
   port: 2096
   type: trojan
@@ -13981,7 +13981,7 @@ proxies:
     headers:
       Host: 6us3.pqjc.buzz
   udp: true
-- name: "\U0001F1FA\U0001F1F8 US 1379 VMS"
+- name: "\U0001F1FA\U0001F1F3 UN 1379 VMS"
   server: Kansas.kotick.site
   port: 443
   type: vmess
@@ -14131,7 +14131,7 @@ proxies:
   cipher: chacha20-ietf-poly1305
   password: ba3d636a-eeb9-4a6e-9755-c7eac5228c81
   udp: true
-- name: "\U0001F1FA\U0001F1F3 UN 1395 TJN"
+- name: "\U0001F1FA\U0001F1F8 US 1395 TJN"
   server: aws-ge-frankfurt-1.f1cflinea.com
   port: 443
   type: trojan
@@ -14438,7 +14438,7 @@ proxies:
   cipher: chacha20-ietf-poly1305
   password: G!yBwPWH3Vao
   udp: true
-- name: "\U0001F1FA\U0001F1F8 US 1425 TJN"
+- name: "\U0001F1FA\U0001F1F3 UN 1425 TJN"
   server: cf.network383.online
   port: 2096
   type: trojan
@@ -15679,7 +15679,7 @@ proxies:
     headers:
       Host: 6us3.pqjc.buzz
   udp: true
-- name: "\U0001F1FA\U0001F1F3 UN 1550 TJN"
+- name: "\U0001F1FA\U0001F1F8 US 1550 TJN"
   server: aws-ch-zurich-1.f1cflinea.com
   port: 443
   type: trojan
@@ -15810,7 +15810,7 @@ proxies:
   cipher: chacha20-ietf-poly1305
   password: 75172987-c67e-4903-80a9-bbd8128a57e5
   udp: true
-- name: "\U0001F1FA\U0001F1F3 UN 1562 TJN"
+- name: "\U0001F1FA\U0001F1F8 US 1562 TJN"
   server: cf.network383.online
   port: 8443
   type: trojan
@@ -15958,7 +15958,7 @@ proxies:
   cipher: aes-256-cfb
   password: asdKkaskJKfnsa
   udp: true
-- name: "\U0001F1FA\U0001F1F8 US 1577 VMS"
+- name: "\U0001F1FA\U0001F1F3 UN 1577 VMS"
   server: v2ray.ibgfw.top
   port: 2053
   type: vmess
@@ -16107,7 +16107,7 @@ proxies:
     headers:
       Host: 6us3.pqjc.buzz
   udp: true
-- name: "\U0001F1FA\U0001F1F8 US 1591 TJN"
+- name: "\U0001F1FA\U0001F1F3 UN 1591 TJN"
   server: cf.network383.online
   port: 8443
   type: trojan
@@ -16236,7 +16236,7 @@ proxies:
     headers:
       Host: 6us3.pqjc.buzz
   udp: true
-- name: "\U0001F1FA\U0001F1F8 US 1603 VMS"
+- name: "\U0001F1FA\U0001F1F3 UN 1603 VMS"
   server: us-02.jikuai.xyz
   port: 2082
   type: vmess
@@ -16587,7 +16587,7 @@ proxies:
   port: 989
   password: f8f7aCzcPKbsF8p3
   cipher: aes-256-cfb
-- name: "\U0001F1FA\U0001F1F3 UN 1637 TJN"
+- name: "\U0001F1FA\U0001F1F8 US 1637 TJN"
   type: trojan
   server: cdn-16.cdn2cdn.com
   port: 2083
@@ -16598,6 +16598,1547 @@ proxies:
   network: ws
   ws-opts:
     path: /
+- name: "\U0001F1FB\U0001F1F3 VN 1638 VMS"
+  type: vmess
+  server: hn1.maxprovpn.com
+  port: 80
+  cipher: auto
+  uuid: b02a3331-8f9f-4f4c-a042-a1632eedf5bc
+  alterId: 0
+  tls: false
+  skip-cert-verify: true
+  network: ws
+  ws-opts:
+    path: /maxprovpn.com
+    headers:
+      host: lienquan.garena.vn
+- name: "\U0001F1FB\U0001F1F3 VN 1639 VMS"
+  type: vmess
+  server: hn2.maxprovpn.com
+  port: 80
+  cipher: auto
+  uuid: b02a3331-8f9f-4f4c-a042-a1632eedf5bc
+  alterId: 0
+  tls: false
+  skip-cert-verify: true
+  network: ws
+  ws-opts:
+    path: /maxprovpn.com
+    headers:
+      host: lienquan.garena.vn
+- name: "\U0001F1FB\U0001F1F3 VN 1640 TJN"
+  type: trojan
+  server: tls1.maxprovpn.com
+  port: 443
+  udp: true
+  password: b02a3331-8f9f-4f4c-a042-a1632eedf5bc
+  sni: lienquan.garena.vn
+  skip-cert-verify: true
+  network: tcp
+- name: "\U0001F1FB\U0001F1F3 VN 1641 TJN"
+  type: trojan
+  server: tls2.maxprovpn.com
+  port: 443
+  udp: true
+  password: b02a3331-8f9f-4f4c-a042-a1632eedf5bc
+  sni: lienquan.garena.vn
+  skip-cert-verify: true
+  network: tcp
+- name: "\U0001F1F8\U0001F1EC SG 1642 TJN"
+  type: trojan
+  server: vipz.maxprovpn.com
+  port: 443
+  udp: true
+  password: b02a3331-8f9f-4f4c-a042-a1632eedf5bc
+  sni: lienquan.garena.vn
+  skip-cert-verify: true
+  network: tcp
+- name: "\U0001F1F8\U0001F1EC SG 1643 VMS"
+  type: vmess
+  server: vip.maxprovpn.com
+  port: 80
+  cipher: auto
+  uuid: b02a3331-8f9f-4f4c-a042-a1632eedf5bc
+  alterId: 0
+  tls: false
+  skip-cert-verify: true
+  network: ws
+  ws-opts:
+    path: /maxprovpn.com
+    headers:
+      host: lienquan.garena.vn
+- name: "\U0001F1EE\U0001F1F3 IN 1644 VMS"
+  type: vmess
+  server: ad.maxprovpn.com
+  port: 80
+  cipher: auto
+  uuid: b02a3331-8f9f-4f4c-a042-a1632eedf5bc
+  alterId: 0
+  tls: false
+  skip-cert-verify: true
+  network: ws
+  ws-opts:
+    path: /maxprovpn.com
+    headers:
+      host: lienquan.garena.vn
+- name: "\U0001F1FA\U0001F1F8 US 1645 VMS"
+  type: vmess
+  server: usa.maxprovpn.com
+  port: 80
+  cipher: auto
+  uuid: b02a3331-8f9f-4f4c-a042-a1632eedf5bc
+  alterId: 0
+  tls: false
+  skip-cert-verify: true
+  network: ws
+  ws-opts:
+    path: /maxprovpn.com
+    headers:
+      host: lienquan.garena.vn
+- name: "\U0001F1FB\U0001F1F3 VN 1646 VMS"
+  type: vmess
+  server: hcm1.server4pn.net
+  port: 80
+  cipher: auto
+  uuid: d2430b16-6fb9-43e6-aea0-f487c8f7a01b
+  alterId: 0
+  tls: false
+  skip-cert-verify: true
+  network: ws
+  ws-opts:
+    path: /4pn.me
+    headers:
+      host: lienquan.garena.vn
+- name: "\U0001F1FB\U0001F1F3 VN 1647 VMS"
+  type: vmess
+  server: hcm1.server4pn.net
+  port: 80
+  cipher: auto
+  uuid: d2430b16-6fb9-43e6-aea0-f487c8f7a01b
+  alterId: 0
+  tls: false
+  skip-cert-verify: true
+  network: ws
+  ws-opts:
+    path: /4pn.me
+    headers:
+      host: lienquan.garena.vn
+- name: "\U0001F1FB\U0001F1F3 VN 1648 VMS"
+  type: vmess
+  server: 10gbps.server4pn.com
+  port: 80
+  cipher: auto
+  uuid: d2430b16-6fb9-43e6-aea0-f487c8f7a01b
+  alterId: 0
+  tls: false
+  skip-cert-verify: true
+  network: ws
+  ws-opts:
+    path: /4pn.me
+    headers:
+      host: lienquan.garena.vn
+- name: "\U0001F1FB\U0001F1F3 VN 1649 VMS"
+  type: vmess
+  server: 10gbps.server4pn.com
+  port: 80
+  cipher: auto
+  uuid: d2430b16-6fb9-43e6-aea0-f487c8f7a01b
+  alterId: 0
+  tls: false
+  skip-cert-verify: true
+  network: ws
+  ws-opts:
+    path: /4pn.me
+    headers:
+      host: lienquan.garena.vn
+- name: "\U0001F1FB\U0001F1F3 VN 1650 VMS"
+  type: vmess
+  server: vn1.server4pn.com
+  port: 80
+  cipher: auto
+  uuid: d2430b16-6fb9-43e6-aea0-f487c8f7a01b
+  alterId: 0
+  tls: false
+  skip-cert-verify: true
+  network: ws
+  ws-opts:
+    path: /4pn.me
+    headers:
+      host: lienquan.garena.vn
+- name: "\U0001F1FB\U0001F1F3 VN 1651 VMS"
+  type: vmess
+  server: vn1.server4pn.com
+  port: 80
+  cipher: auto
+  uuid: d2430b16-6fb9-43e6-aea0-f487c8f7a01b
+  alterId: 0
+  tls: false
+  skip-cert-verify: true
+  network: ws
+  ws-opts:
+    path: /4pn.me
+    headers:
+      host: lienquan.garena.vn
+- name: "\U0001F1FB\U0001F1F3 VN 1652 VMS"
+  type: vmess
+  server: vn2.server4pn.com
+  port: 80
+  cipher: auto
+  uuid: d2430b16-6fb9-43e6-aea0-f487c8f7a01b
+  alterId: 0
+  tls: false
+  skip-cert-verify: true
+  network: ws
+  ws-opts:
+    path: /4pn.me
+    headers:
+      host: lienquan.garena.vn
+- name: "\U0001F1FB\U0001F1F3 VN 1653 VMS"
+  type: vmess
+  server: vn2.server4pn.com
+  port: 80
+  cipher: auto
+  uuid: d2430b16-6fb9-43e6-aea0-f487c8f7a01b
+  alterId: 0
+  tls: false
+  skip-cert-verify: true
+  network: ws
+  ws-opts:
+    path: /4pn.me
+    headers:
+      host: lienquan.garena.vn
+- name: "\U0001F1F8\U0001F1EC SG 1654 VMS"
+  type: vmess
+  server: sg1.server4pn.com
+  port: 80
+  cipher: auto
+  uuid: d2430b16-6fb9-43e6-aea0-f487c8f7a01b
+  alterId: 0
+  tls: false
+  skip-cert-verify: true
+  network: ws
+  ws-opts:
+    path: /4pn.me
+    headers:
+      host: lienquan.garena.vn
+- name: "\U0001F1F8\U0001F1EC SG 1655 VMS"
+  type: vmess
+  server: sg1.server4pn.com
+  port: 80
+  cipher: auto
+  uuid: d2430b16-6fb9-43e6-aea0-f487c8f7a01b
+  alterId: 0
+  tls: false
+  skip-cert-verify: true
+  network: ws
+  ws-opts:
+    path: /4pn.me
+    headers:
+      host: lienquan.garena.vn
+- name: "\U0001F1F8\U0001F1EC SG 1656 VMS"
+  type: vmess
+  server: sg2.server4pn.com
+  port: 80
+  cipher: auto
+  uuid: d2430b16-6fb9-43e6-aea0-f487c8f7a01b
+  alterId: 0
+  tls: false
+  skip-cert-verify: true
+  network: ws
+  ws-opts:
+    path: /4pn.me
+    headers:
+      host: lienquan.garena.vn
+- name: "\U0001F1F8\U0001F1EC SG 1657 VMS"
+  type: vmess
+  server: sg2.server4pn.com
+  port: 80
+  cipher: auto
+  uuid: d2430b16-6fb9-43e6-aea0-f487c8f7a01b
+  alterId: 0
+  tls: false
+  skip-cert-verify: true
+  network: ws
+  ws-opts:
+    path: /4pn.me
+    headers:
+      host: lienquan.garena.vn
+- name: "\U0001F1F8\U0001F1EC SG 1658 VMS"
+  type: vmess
+  server: sg3.server4pn.com
+  port: 80
+  cipher: auto
+  uuid: d2430b16-6fb9-43e6-aea0-f487c8f7a01b
+  alterId: 0
+  tls: false
+  skip-cert-verify: true
+  network: ws
+  ws-opts:
+    path: /4pn.me
+    headers:
+      host: lienquan.garena.vn
+- name: "\U0001F1F8\U0001F1EC SG 1659 VMS"
+  type: vmess
+  server: sg3.server4pn.com
+  port: 80
+  cipher: auto
+  uuid: d2430b16-6fb9-43e6-aea0-f487c8f7a01b
+  alterId: 0
+  tls: false
+  skip-cert-verify: true
+  network: ws
+  ws-opts:
+    path: /4pn.me
+    headers:
+      host: lienquan.garena.vn
+- name: "\U0001F1F8\U0001F1EC SG 1660 VMS"
+  type: vmess
+  server: sg4.server4pn.com
+  port: 80
+  cipher: auto
+  uuid: d2430b16-6fb9-43e6-aea0-f487c8f7a01b
+  alterId: 0
+  tls: false
+  skip-cert-verify: true
+  network: ws
+  ws-opts:
+    path: /4pn.me
+    headers:
+      host: lienquan.garena.vn
+- name: "\U0001F1F8\U0001F1EC SG 1661 VMS"
+  type: vmess
+  server: sg4.server4pn.com
+  port: 80
+  cipher: auto
+  uuid: d2430b16-6fb9-43e6-aea0-f487c8f7a01b
+  alterId: 0
+  tls: false
+  skip-cert-verify: true
+  network: ws
+  ws-opts:
+    path: /4pn.me
+    headers:
+      host: lienquan.garena.vn
+- name: "\U0001F1F8\U0001F1EC SG 1662 VMS"
+  type: vmess
+  server: sg5.server4pn.com
+  port: 80
+  cipher: auto
+  uuid: d2430b16-6fb9-43e6-aea0-f487c8f7a01b
+  alterId: 0
+  tls: false
+  skip-cert-verify: true
+  network: ws
+  ws-opts:
+    path: /4pn.me
+    headers:
+      host: lienquan.garena.vn
+- name: "\U0001F1F8\U0001F1EC SG 1663 VMS"
+  type: vmess
+  server: sg5.server4pn.com
+  port: 80
+  cipher: auto
+  uuid: d2430b16-6fb9-43e6-aea0-f487c8f7a01b
+  alterId: 0
+  tls: false
+  skip-cert-verify: true
+  network: ws
+  ws-opts:
+    path: /4pn.me
+    headers:
+      host: lienquan.garena.vn
+- name: "\U0001F1FA\U0001F1F8 US 1664 VMS"
+  type: vmess
+  server: jp1.server4pn.com
+  port: 80
+  cipher: auto
+  uuid: d2430b16-6fb9-43e6-aea0-f487c8f7a01b
+  alterId: 0
+  tls: false
+  skip-cert-verify: true
+  network: ws
+  ws-opts:
+    path: /4pn.me
+    headers:
+      host: lienquan.garena.vn
+- name: "\U0001F1FA\U0001F1F8 US 1665 VMS"
+  type: vmess
+  server: jp1.server4pn.com
+  port: 80
+  cipher: auto
+  uuid: d2430b16-6fb9-43e6-aea0-f487c8f7a01b
+  alterId: 0
+  tls: false
+  skip-cert-verify: true
+  network: ws
+  ws-opts:
+    path: /4pn.me
+    headers:
+      host: lienquan.garena.vn
+- name: "\U0001F1FB\U0001F1F3 VN 1666 VMS"
+  type: vmess
+  server: all2.tnetz.net
+  port: 80
+  cipher: auto
+  uuid: f3701a75-164d-41e7-a7a3-3a487cbda613
+  alterId: 0
+  tls: false
+  skip-cert-verify: true
+  network: ws
+  ws-opts:
+    path: /tnetz.net
+    headers:
+      host: lienquan.garena.vn
+- name: "\U0001F1FB\U0001F1F3 VN 1667 VMS"
+  type: vmess
+  server: all2.tnetz.net
+  port: 80
+  cipher: auto
+  uuid: f3701a75-164d-41e7-a7a3-3a487cbda613
+  alterId: 0
+  tls: false
+  skip-cert-verify: true
+  network: ws
+  ws-opts:
+    path: /tnetz.net
+    headers:
+      host: lienquan.garena.vn
+- name: "\U0001F1FB\U0001F1F3 VN 1668 VMS"
+  type: vmess
+  server: all2.tnetz.net
+  port: 80
+  cipher: auto
+  uuid: f3701a75-164d-41e7-a7a3-3a487cbda613
+  alterId: 0
+  tls: false
+  skip-cert-verify: true
+  network: ws
+  ws-opts:
+    path: /tnetz.net
+    headers:
+      host: lienquan.garena.vn
+- name: "\U0001F1FB\U0001F1F3 VN 1669 VMS"
+  type: vmess
+  server: all2.tnetz.net
+  port: 80
+  cipher: auto
+  uuid: f3701a75-164d-41e7-a7a3-3a487cbda613
+  alterId: 0
+  tls: false
+  skip-cert-verify: true
+  network: ws
+  ws-opts:
+    path: /tnetz.net
+    headers:
+      host: lienquan.garena.vn
+- name: "\U0001F1FB\U0001F1F3 VN 1670 VMS"
+  type: vmess
+  server: all2.tnetz.net
+  port: 80
+  cipher: auto
+  uuid: f3701a75-164d-41e7-a7a3-3a487cbda613
+  alterId: 0
+  tls: false
+  skip-cert-verify: true
+  network: ws
+  ws-opts:
+    path: /tnetz.net
+    headers:
+      host: lienquan.garena.vn
+- name: "\U0001F1FB\U0001F1F3 VN 1671 VMS"
+  type: vmess
+  server: all2.tnetz.net
+  port: 80
+  cipher: auto
+  uuid: f3701a75-164d-41e7-a7a3-3a487cbda613
+  alterId: 0
+  tls: false
+  skip-cert-verify: true
+  network: ws
+  ws-opts:
+    path: /tnetz.net
+    headers:
+      host: lienquan.garena.vn
+- name: "\U0001F1FB\U0001F1F3 VN 1672 VMS"
+  type: vmess
+  server: all2.tnetz.net
+  port: 80
+  cipher: auto
+  uuid: f3701a75-164d-41e7-a7a3-3a487cbda613
+  alterId: 0
+  tls: false
+  skip-cert-verify: true
+  network: ws
+  ws-opts:
+    path: /tnetz.net
+    headers:
+      host: lienquan.garena.vn
+- name: "\U0001F1FB\U0001F1F3 VN 1673 TJN"
+  type: trojan
+  server: all2.tnetz.net
+  port: 443
+  udp: true
+  password: f3701a75-164d-41e7-a7a3-3a487cbda613
+  sni: lienquan.garena.vn
+  skip-cert-verify: true
+  network: tcp
+- name: "\U0001F1F8\U0001F1EC SG 1674 VMS"
+  type: vmess
+  server: default.tnetz.net
+  port: 80
+  cipher: auto
+  uuid: f3701a75-164d-41e7-a7a3-3a487cbda613
+  alterId: 0
+  tls: false
+  skip-cert-verify: true
+  network: ws
+  ws-opts:
+    path: /tnetz.net
+    headers:
+      host: lienquan.garena.vn
+- name: "\U0001F1F8\U0001F1EC SG 1675 TJN"
+  type: trojan
+  server: default.tnetz.net
+  port: 443
+  udp: true
+  password: f3701a75-164d-41e7-a7a3-3a487cbda613
+  sni: lienquan.garena.vn
+  skip-cert-verify: true
+  network: tcp
+- name: "\U0001F1FA\U0001F1F3 UN 1676 VMS"
+  type: vmess
+  server: crom.tnetz.net
+  port: 80
+  cipher: auto
+  uuid: f3701a75-164d-41e7-a7a3-3a487cbda613
+  alterId: 0
+  tls: false
+  skip-cert-verify: true
+  network: ws
+  ws-opts:
+    path: /tnetz.net
+    headers:
+      host: lienquan.garena.vn
+- name: "\U0001F1FA\U0001F1F3 UN 1677 TJN"
+  type: trojan
+  server: crom.tnetz.net
+  port: 443
+  udp: true
+  password: f3701a75-164d-41e7-a7a3-3a487cbda613
+  sni: lienquan.garena.vn
+  skip-cert-verify: true
+  network: tcp
+- name: "\U0001F1FB\U0001F1F3 VN 1678 TJN"
+  type: trojan
+  server: mobi.tnetz.net
+  port: 443
+  udp: true
+  password: f3701a75-164d-41e7-a7a3-3a487cbda613
+  sni: lienquan.garena.vn
+  skip-cert-verify: true
+  network: tcp
+- name: "\U0001F1FB\U0001F1F3 VN 1679 VMS"
+  type: vmess
+  server: mcvl2.tnetz.net
+  port: 80
+  cipher: auto
+  uuid: f3701a75-164d-41e7-a7a3-3a487cbda613
+  alterId: 0
+  tls: false
+  skip-cert-verify: true
+  network: ws
+  ws-opts:
+    path: /tnetz.net
+    headers:
+      host: lienquan.garena.vn
+- name: "\U0001F1FB\U0001F1F3 VN 1680 TJN"
+  type: trojan
+  server: mcvl2.tnetz.net
+  port: 443
+  udp: true
+  password: f3701a75-164d-41e7-a7a3-3a487cbda613
+  sni: lienquan.garena.vn
+  skip-cert-verify: true
+  network: tcp
+- name: "\U0001F1FA\U0001F1F3 UN 1681 VMS"
+  type: vmess
+  server: Hydro.tnetz.net
+  port: 80
+  cipher: auto
+  uuid: f3701a75-164d-41e7-a7a3-3a487cbda613
+  alterId: 0
+  tls: false
+  skip-cert-verify: true
+  network: ws
+  ws-opts:
+    path: /tnetz.net
+    headers:
+      host: lienquan.garena.vn
+- name: "\U0001F1FA\U0001F1F3 UN 1682 TJN"
+  type: trojan
+  server: Hydro.tnetz.net
+  port: 443
+  udp: true
+  password: f3701a75-164d-41e7-a7a3-3a487cbda613
+  sni: lienquan.garena.vn
+  skip-cert-verify: true
+  network: tcp
+- name: "\U0001F1FA\U0001F1F3 UN 1683 VMS"
+  type: vmess
+  server: heli.tnetz.net
+  port: 80
+  cipher: auto
+  uuid: f3701a75-164d-41e7-a7a3-3a487cbda613
+  alterId: 0
+  tls: false
+  skip-cert-verify: true
+  network: ws
+  ws-opts:
+    path: /tnetz.net
+    headers:
+      host: lienquan.garena.vn
+- name: "\U0001F1FA\U0001F1F3 UN 1684 TJN"
+  type: trojan
+  server: heli.tnetz.net
+  port: 443
+  udp: true
+  password: f3701a75-164d-41e7-a7a3-3a487cbda613
+  sni: lienquan.garena.vn
+  skip-cert-verify: true
+  network: tcp
+- name: "\U0001F1FA\U0001F1F3 UN 1685 VMS"
+  type: vmess
+  server: Platin.tnetz.net
+  port: 80
+  cipher: auto
+  uuid: f3701a75-164d-41e7-a7a3-3a487cbda613
+  alterId: 0
+  tls: false
+  skip-cert-verify: true
+  network: ws
+  ws-opts:
+    path: /tnetz.net
+    headers:
+      host: lienquan.garena.vn
+- name: "\U0001F1FA\U0001F1F3 UN 1686 TJN"
+  type: trojan
+  server: Platin.tnetz.net
+  port: 443
+  udp: true
+  password: f3701a75-164d-41e7-a7a3-3a487cbda613
+  sni: lienquan.garena.vn
+  skip-cert-verify: true
+  network: tcp
+- name: "\U0001F1FA\U0001F1F3 UN 1687 VMS"
+  type: vmess
+  server: Neon.tnetz.net
+  port: 80
+  cipher: auto
+  uuid: f3701a75-164d-41e7-a7a3-3a487cbda613
+  alterId: 0
+  tls: false
+  skip-cert-verify: true
+  network: ws
+  ws-opts:
+    path: /tnetz.net
+    headers:
+      host: lienquan.garena.vn
+- name: "\U0001F1FA\U0001F1F3 UN 1688 TJN"
+  type: trojan
+  server: Neon.tnetz.net
+  port: 443
+  udp: true
+  password: f3701a75-164d-41e7-a7a3-3a487cbda613
+  sni: lienquan.garena.vn
+  skip-cert-verify: true
+  network: tcp
+- name: "\U0001F1FB\U0001F1F3 VN 1689 VMS"
+  type: vmess
+  server: meta.tnetz.net
+  port: 80
+  cipher: auto
+  uuid: f3701a75-164d-41e7-a7a3-3a487cbda613
+  alterId: 0
+  tls: false
+  skip-cert-verify: true
+  network: ws
+  ws-opts:
+    path: /tnetz.net
+    headers:
+      host: lienquan.garena.vn
+- name: "\U0001F1FB\U0001F1F3 VN 1690 VMS"
+  type: vmess
+  server: meta2.tnetz.net
+  port: 80
+  cipher: auto
+  uuid: f3701a75-164d-41e7-a7a3-3a487cbda613
+  alterId: 0
+  tls: false
+  skip-cert-verify: true
+  network: ws
+  ws-opts:
+    path: /tnetz.net
+    headers:
+      host: lienquan.garena.vn
+- name: "\U0001F1FB\U0001F1F3 VN 1691 VMS"
+  type: vmess
+  server: meta3.tnetz.net
+  port: 80
+  cipher: auto
+  uuid: f3701a75-164d-41e7-a7a3-3a487cbda613
+  alterId: 0
+  tls: false
+  skip-cert-verify: true
+  network: ws
+  ws-opts:
+    path: /tnetz.net
+    headers:
+      host: lienquan.garena.vn
+- name: "\U0001F1FB\U0001F1F3 VN 1692 TJN"
+  type: trojan
+  server: meta.tnetz.net
+  port: 443
+  udp: true
+  password: f3701a75-164d-41e7-a7a3-3a487cbda613
+  sni: lienquan.garena.vn
+  skip-cert-verify: true
+  network: tcp
+- name: "\U0001F1FB\U0001F1F3 VN 1693 TJN"
+  type: trojan
+  server: meta2.tnetz.net
+  port: 443
+  udp: true
+  password: f3701a75-164d-41e7-a7a3-3a487cbda613
+  sni: lienquan.garena.vn
+  skip-cert-verify: true
+  network: tcp
+- name: "\U0001F1FB\U0001F1F3 VN 1694 TJN"
+  type: trojan
+  server: meta3.tnetz.net
+  port: 443
+  udp: true
+  password: f3701a75-164d-41e7-a7a3-3a487cbda613
+  sni: lienquan.garena.vn
+  skip-cert-verify: true
+  network: tcp
+- name: "\U0001F1EF\U0001F1F5 JP 1695 VMS"
+  type: vmess
+  server: jp.tnetz.net
+  port: 80
+  cipher: auto
+  uuid: f3701a75-164d-41e7-a7a3-3a487cbda613
+  alterId: 0
+  tls: false
+  skip-cert-verify: true
+  network: ws
+  ws-opts:
+    path: /tnetz.net
+    headers:
+      host: lienquan.garena.vn
+- name: "\U0001F1EF\U0001F1F5 JP 1696 TJN"
+  type: trojan
+  server: jp.tnetz.net
+  port: 443
+  udp: true
+  password: f3701a75-164d-41e7-a7a3-3a487cbda613
+  sni: lienquan.garena.vn
+  skip-cert-verify: true
+  network: tcp
+- name: "\U0001F1FA\U0001F1F3 UN 1697 TJN"
+  type: trojan
+  server: 103.154.63.16
+  port: 443
+  udp: true
+  password: 5bae27f5-3b8e-48f3-b91f-30fc680ea78f
+  sni: lienquan.garena.vn
+  skip-cert-verify: true
+  network: tcp
+- name: "\U0001F1FA\U0001F1F3 UN 1698 TJN"
+  type: trojan
+  server: 103.154.62.23
+  port: 443
+  udp: true
+  password: 5bae27f5-3b8e-48f3-b91f-30fc680ea78f
+  sni: lienquan.garena.vn
+  skip-cert-verify: true
+  network: tcp
+- name: "\U0001F1FB\U0001F1F3 VN 1699 VMS"
+  type: vmess
+  server: skyht2.vpndata.vn
+  port: 80
+  cipher: auto
+  uuid: fbccfed7-1aeb-416a-a4fd-7af1747f9f3b
+  alterId: 0
+  tls: false
+  skip-cert-verify: true
+  network: ws
+  ws-opts:
+    path: /VPNDATA.VPN
+    headers:
+      host: lienquan.garena.vn
+- name: "\U0001F1FB\U0001F1F3 VN 1700 TJN"
+  type: trojan
+  server: skyht2.vpndata.vn
+  port: 443
+  udp: true
+  password: fbccfed7-1aeb-416a-a4fd-7af1747f9f3b
+  sni: lienquan.garena.vn
+  skip-cert-verify: true
+  network: tcp
+- name: "\U0001F1F8\U0001F1EC SG 1701 VMS"
+  type: vmess
+  server: sg.vpndata.vn
+  port: 80
+  cipher: auto
+  uuid: fbccfed7-1aeb-416a-a4fd-7af1747f9f3b
+  alterId: 0
+  tls: false
+  skip-cert-verify: true
+  network: ws
+  ws-opts:
+    path: /VPNDATA.xYx
+    headers:
+      host: lienquan.garena.vn
+- name: "\U0001F1F8\U0001F1EC SG 1702 TJN"
+  type: trojan
+  server: sg.vpndata.vn
+  port: 443
+  udp: true
+  password: fbccfed7-1aeb-416a-a4fd-7af1747f9f3b
+  sni: lienquan.garena.vn
+  skip-cert-verify: true
+  network: tcp
+- name: "\U0001F1FB\U0001F1F3 VN 1703 TJN"
+  type: trojan
+  server: 103.149.87.45
+  port: 443
+  udp: true
+  password: fbccfed7-1aeb-416a-a4fd-7af1747f9f3b
+  sni: lienquan.garena.vn
+  skip-cert-verify: true
+  network: tcp
+- name: "\U0001F1FB\U0001F1F3 VN 1704 TJN"
+  type: trojan
+  server: 42.96.13.27
+  port: 443
+  udp: true
+  password: fbccfed7-1aeb-416a-a4fd-7af1747f9f3b
+  sni: lienquan.garena.vn
+  skip-cert-verify: true
+  network: tcp
+- name: "\U0001F1E8\U0001F1F3 CN 1705 VMS"
+  type: vmess
+  server: 36.50.53.173
+  port: 80
+  cipher: auto
+  uuid: 0d42e6df-8fbb-4cdd-ba46-d885297eebca
+  alterId: 0
+  tls: false
+  skip-cert-verify: true
+  network: ws
+  ws-opts:
+    path: /4GDAta.Xyz
+    headers:
+      host: lienquan.garena.vn
+- name: "\U0001F1FB\U0001F1F3 VN 1706 VMS"
+  type: vmess
+  server: 103.74.121.15
+  port: 80
+  cipher: auto
+  uuid: 0d42e6df-8fbb-4cdd-ba46-d885297eebca
+  alterId: 0
+  tls: false
+  skip-cert-verify: true
+  network: ws
+  ws-opts:
+    path: /4GDAta.Xyz
+    headers:
+      host: lienquan.garena.vn
+- name: "\U0001F1FB\U0001F1F3 VN 1707 VMS"
+  type: vmess
+  server: 103.74.121.129
+  port: 80
+  cipher: auto
+  uuid: 0d42e6df-8fbb-4cdd-ba46-d885297eebca
+  alterId: 0
+  tls: false
+  skip-cert-verify: true
+  network: ws
+  ws-opts:
+    path: /4GDAta.Xyz
+    headers:
+      host: lienquan.garena.vn
+- name: "\U0001F1FB\U0001F1F3 VN 1708 VMS"
+  type: vmess
+  server: 103.74.121.40
+  port: 80
+  cipher: auto
+  uuid: 0d42e6df-8fbb-4cdd-ba46-d885297eebca
+  alterId: 0
+  tls: false
+  skip-cert-verify: true
+  network: ws
+  ws-opts:
+    path: /4GDAta.Xyz
+    headers:
+      host: lienquan.garena.vn
+- name: "\U0001F1FB\U0001F1F3 VN 1709 VMS"
+  type: vmess
+  server: 103.74.121.20
+  port: 80
+  cipher: auto
+  uuid: 0d42e6df-8fbb-4cdd-ba46-d885297eebca
+  alterId: 0
+  tls: false
+  skip-cert-verify: true
+  network: ws
+  ws-opts:
+    path: /4GDAta.Xyz
+    headers:
+      host: lienquan.garena.vn
+- name: "\U0001F1FB\U0001F1F3 VN 1710 VMS"
+  type: vmess
+  server: 103.74.121.15
+  port: 443
+  cipher: auto
+  uuid: 0d42e6df-8fbb-4cdd-ba46-d885297eebca
+  alterId: 0
+  tls: true
+  skip-cert-verify: true
+  network: grpc
+  grpc-opts:
+    grpc-service-name: /
+    grpc-mode: gun
+- name: "\U0001F1FB\U0001F1F3 VN 1711 VMS"
+  type: vmess
+  server: 103.74.121.17
+  port: 443
+  cipher: auto
+  uuid: 0d42e6df-8fbb-4cdd-ba46-d885297eebca
+  alterId: 0
+  tls: true
+  skip-cert-verify: true
+  network: grpc
+  grpc-opts:
+    grpc-service-name: /
+    grpc-mode: gun
+- name: "\U0001F1FA\U0001F1F8 US 1712 VMS"
+  type: vmess
+  server: 146.190.90.180
+  port: 80
+  cipher: auto
+  uuid: 0d42e6df-8fbb-4cdd-ba46-d885297eebca
+  alterId: 0
+  tls: false
+  skip-cert-verify: true
+  network: ws
+  ws-opts:
+    path: /4GDAta.Xyz
+    headers:
+      host: lienquan.garena.vn
+- name: "\U0001F1FB\U0001F1F3 VN 1713 VMS"
+  type: vmess
+  server: vn3.5gtocdocao.com
+  port: 80
+  cipher: auto
+  uuid: eb9e8a52-0fec-4a10-8d16-af3b32874933
+  alterId: 0
+  tls: false
+  skip-cert-verify: true
+  network: ws
+  ws-opts:
+    path: /anti9.5gtocdocao.com
+    headers:
+      host: lienquan.garena.vn
+- name: "\U0001F1FB\U0001F1F3 VN 1714 VMS"
+  type: vmess
+  server: vn3.5gtocdocao.com
+  port: 443
+  cipher: auto
+  uuid: eb9e8a52-0fec-4a10-8d16-af3b32874933
+  alterId: 0
+  tls: true
+  skip-cert-verify: true
+  network: grpc
+  grpc-opts:
+    grpc-service-name: /
+    grpc-mode: gun
+- name: "\U0001F1FB\U0001F1F3 VN 1715 VMS"
+  type: vmess
+  server: vn8.5gtocdocao.com
+  port: 443
+  cipher: auto
+  uuid: eb9e8a52-0fec-4a10-8d16-af3b32874933
+  alterId: 0
+  tls: true
+  skip-cert-verify: true
+  network: grpc
+  grpc-opts:
+    grpc-service-name: /
+    grpc-mode: gun
+- name: "\U0001F1FB\U0001F1F3 VN 1716 TJN"
+  type: trojan
+  server: vn7.5gtocdocao.com
+  port: 443
+  udp: true
+  password: eb9e8a52-0fec-4a10-8d16-af3b32874933
+  sni: lienquan.garena.vn
+  skip-cert-verify: true
+  network: tcp
+- name: "\U0001F1FA\U0001F1F3 UN 1717 VMS"
+  type: vmess
+  server: vn2.5gtocdocao.com
+  port: 80
+  cipher: auto
+  uuid: eb9e8a52-0fec-4a10-8d16-af3b32874933
+  alterId: 0
+  tls: false
+  skip-cert-verify: true
+  network: ws
+  ws-opts:
+    path: /anti9.5gtocdocao.com
+    headers:
+      host: lienquan.garena.vn
+- name: "\U0001F1FA\U0001F1F3 UN 1718 VMS"
+  type: vmess
+  server: vn2.5gtocdocao.com
+  port: 443
+  cipher: auto
+  uuid: eb9e8a52-0fec-4a10-8d16-af3b32874933
+  alterId: 0
+  tls: true
+  skip-cert-verify: true
+  network: grpc
+  grpc-opts:
+    grpc-service-name: /
+    grpc-mode: gun
+- name: "\U0001F1FB\U0001F1F3 VN 1719 TJN"
+  type: trojan
+  server: ANTIDDOS5.5GTOCDOCAO.COM
+  port: 443
+  udp: true
+  password: eb9e8a52-0fec-4a10-8d16-af3b32874933
+  sni: lienquan.garena.vn
+  skip-cert-verify: true
+  network: tcp
+- name: "\U0001F1F8\U0001F1EC SG 1720 VMS"
+  type: vmess
+  server: UC99.5GTOCDOCAO.COM
+  port: 80
+  cipher: auto
+  uuid: eb9e8a52-0fec-4a10-8d16-af3b32874933
+  alterId: 0
+  tls: false
+  skip-cert-verify: true
+  network: ws
+  ws-opts:
+    path: /5gtocdocao.com
+    headers:
+      host: lienquan.garena.vn
+- name: "\U0001F1F8\U0001F1EC SG 1721 VMS"
+  type: vmess
+  server: SING88.5GTOCDOCAO.COM
+  port: 80
+  cipher: auto
+  uuid: eb9e8a52-0fec-4a10-8d16-af3b32874933
+  alterId: 0
+  tls: false
+  skip-cert-verify: true
+  network: ws
+  ws-opts:
+    path: /5gtocdocao.com
+    headers:
+      host: lienquan.garena.vn
+- name: "\U0001F1FA\U0001F1F8 US 1722 VMS"
+  type: vmess
+  server: JAPAN11.5GTOCDOCAO.COM
+  port: 80
+  cipher: auto
+  uuid: eb9e8a52-0fec-4a10-8d16-af3b32874933
+  alterId: 0
+  tls: false
+  skip-cert-verify: true
+  network: ws
+  ws-opts:
+    path: /5gtocdocao.com
+    headers:
+      host: lienquan.garena.vn
+- name: "\U0001F1FA\U0001F1F8 US 1723 VMS"
+  type: vmess
+  server: JAPAN62.5GTOCDOCAO.COM
+  port: 80
+  cipher: auto
+  uuid: eb9e8a52-0fec-4a10-8d16-af3b32874933
+  alterId: 0
+  tls: false
+  skip-cert-verify: true
+  network: ws
+  ws-opts:
+    path: /5gtocdocao.com
+    headers:
+      host: lienquan.garena.vn
+- name: "\U0001F1FA\U0001F1F8 US 1724 VMS"
+  type: vmess
+  server: ANH99.5GTOCDOCAO.COM
+  port: 80
+  cipher: auto
+  uuid: eb9e8a52-0fec-4a10-8d16-af3b32874933
+  alterId: 0
+  tls: false
+  skip-cert-verify: true
+  network: ws
+  ws-opts:
+    path: /5gtocdocao.com
+    headers:
+      host: lienquan.garena.vn
+- name: "\U0001F1F0\U0001F1F7 KR 1725 TJN"
+  type: trojan
+  server: KR68.5GTOCDOCAO.COM
+  port: 443
+  udp: true
+  password: eb9e8a52-0fec-4a10-8d16-af3b32874933
+  sni: lienquan.garena.vn
+  skip-cert-verify: true
+  network: tcp
+- name: "\U0001F1FA\U0001F1F3 UN 1726 VMS"
+  type: vmess
+  server: vietnam-2.4g.mkvn.net
+  port: 80
+  cipher: auto
+  uuid: 952e97d2-17ef-4e42-b8aa-c9f892ca4eed
+  alterId: 0
+  tls: false
+  skip-cert-verify: true
+  network: ws
+  ws-opts:
+    path: /4g.mkvn.net
+    headers:
+      host: lienquan.garena.vn
+- name: "\U0001F1FA\U0001F1F3 UN 1727 VMS"
+  type: vmess
+  server: vietnam-2.4g.mkvn.net
+  port: 80
+  cipher: auto
+  uuid: 952e97d2-17ef-4e42-b8aa-c9f892ca4eed
+  alterId: 0
+  tls: false
+  skip-cert-verify: true
+  network: ws
+  ws-opts:
+    path: /4g.mkvn.net
+    headers:
+      host: lienquan.garena.vn
+- name: "\U0001F1FA\U0001F1F8 US 1728 VMS"
+  type: vmess
+  server: us-5.4g.mkvn.net
+  port: 80
+  cipher: auto
+  uuid: 952e97d2-17ef-4e42-b8aa-c9f892ca4eed
+  alterId: 0
+  tls: false
+  skip-cert-verify: true
+  network: ws
+  ws-opts:
+    path: /4g.mkvn.net
+    headers:
+      host: lienquan.garena.vn
+- name: "\U0001F1FA\U0001F1F8 US 1729 VMS"
+  type: vmess
+  server: us-5.4g.mkvn.net
+  port: 80
+  cipher: auto
+  uuid: 952e97d2-17ef-4e42-b8aa-c9f892ca4eed
+  alterId: 0
+  tls: false
+  skip-cert-verify: true
+  network: ws
+  ws-opts:
+    path: /4g.mkvn.net
+    headers:
+      host: lienquan.garena.vn
+- name: "\U0001F1FA\U0001F1F3 UN 1730 VMS"
+  type: vmess
+  server: VNPT-HN.uudai4g.com
+  port: 80
+  cipher: auto
+  uuid: 054c82f7-9b61-4223-86a4-c231e9fafcf0
+  alterId: 0
+  tls: false
+  skip-cert-verify: true
+  network: ws
+  ws-opts:
+    path: /uudai4g.com
+    headers:
+      host: lienquan.garena.vn
+- name: "\U0001F1FA\U0001F1F3 UN 1731 VMS"
+  type: vmess
+  server: VNPT-HN.uudai4g.com
+  port: 80
+  cipher: auto
+  uuid: 054c82f7-9b61-4223-86a4-c231e9fafcf0
+  alterId: 0
+  tls: false
+  skip-cert-verify: true
+  network: ws
+  ws-opts:
+    path: /uudai4g.com
+    headers:
+      host: lienquan.garena.vn
+- name: "\U0001F1FA\U0001F1F3 UN 1732 VMS"
+  type: vmess
+  server: VNPT-HN.uudai4g.com
+  port: 80
+  cipher: auto
+  uuid: 054c82f7-9b61-4223-86a4-c231e9fafcf0
+  alterId: 0
+  tls: false
+  skip-cert-verify: true
+  network: ws
+  ws-opts:
+    path: /uudai4g.com
+    headers:
+      host: lienquan.garena.vn
+- name: "\U0001F1FA\U0001F1F3 UN 1733 VMS"
+  type: vmess
+  server: VNPT-HN.uudai4g.com
+  port: 80
+  cipher: auto
+  uuid: 054c82f7-9b61-4223-86a4-c231e9fafcf0
+  alterId: 0
+  tls: false
+  skip-cert-verify: true
+  network: ws
+  ws-opts:
+    path: /uudai4g.com
+    headers:
+      host: lienquan.garena.vn
+- name: "\U0001F1FA\U0001F1F3 UN 1734 VMS"
+  type: vmess
+  server: VNPT-HN.uudai4g.com
+  port: 80
+  cipher: auto
+  uuid: 054c82f7-9b61-4223-86a4-c231e9fafcf0
+  alterId: 0
+  tls: false
+  skip-cert-verify: true
+  network: ws
+  ws-opts:
+    path: /uudai4g.com
+    headers:
+      host: lienquan.garena.vn
+- name: "\U0001F1F8\U0001F1EC SG 1735 VMS"
+  type: vmess
+  server: sg5.uudai4g.com
+  port: 80
+  cipher: auto
+  uuid: 054c82f7-9b61-4223-86a4-c231e9fafcf0
+  alterId: 0
+  tls: false
+  skip-cert-verify: true
+  network: ws
+  ws-opts:
+    path: /uudai4g.com
+    headers:
+      host: lienquan.garena.vn
+- name: "\U0001F1FA\U0001F1F8 US 1736 VMS"
+  type: vmess
+  server: sg1.uudai4g.com
+  port: 80
+  cipher: auto
+  uuid: 054c82f7-9b61-4223-86a4-c231e9fafcf0
+  alterId: 0
+  tls: false
+  skip-cert-verify: true
+  network: ws
+  ws-opts:
+    path: /uudai4g.com
+    headers:
+      host: lienquan.garena.vn
+- name: "\U0001F1F8\U0001F1EC SG 1737 VMS"
+  type: vmess
+  server: sg4.uudai4g.com
+  port: 80
+  cipher: auto
+  uuid: 054c82f7-9b61-4223-86a4-c231e9fafcf0
+  alterId: 0
+  tls: false
+  skip-cert-verify: true
+  network: ws
+  ws-opts:
+    path: /uudai4g.com
+    headers:
+      host: lienquan.garena.vn
+- name: "\U0001F1ED\U0001F1F0 HK 1738 VMS"
+  type: vmess
+  server: hongkong-01.uudai4g.com
+  port: 80
+  cipher: auto
+  uuid: 054c82f7-9b61-4223-86a4-c231e9fafcf0
+  alterId: 0
+  tls: false
+  skip-cert-verify: true
+  network: ws
+  ws-opts:
+    path: ''
+    headers:
+      host: lienquan.garena.vn
+- name: "\U0001F1FA\U0001F1F8 US 1739 VMS"
+  type: vmess
+  server: Australia-01.uudai4g.com
+  port: 80
+  cipher: auto
+  uuid: 054c82f7-9b61-4223-86a4-c231e9fafcf0
+  alterId: 0
+  tls: false
+  skip-cert-verify: true
+  network: ws
+  ws-opts:
+    path: ''
+    headers:
+      host: lienquan.garena.vn
+- name: "\U0001F1F8\U0001F1EC SG 1740 VMS"
+  type: vmess
+  server: sg3.uudai4g.com
+  port: 80
+  cipher: auto
+  uuid: 054c82f7-9b61-4223-86a4-c231e9fafcf0
+  alterId: 0
+  tls: false
+  skip-cert-verify: true
+  network: ws
+  ws-opts:
+    path: /uudai4g.com
+    headers:
+      host: lienquan.garena.vn
+- name: "\U0001F1FA\U0001F1F3 UN 1741 VMS"
+  type: vmess
+  server: dpt-vn1.uudai4g.com
+  port: 80
+  cipher: auto
+  uuid: 054c82f7-9b61-4223-86a4-c231e9fafcf0
+  alterId: 0
+  tls: false
+  skip-cert-verify: true
+  network: ws
+  ws-opts:
+    path: /uudai4g.com
+    headers:
+      host: lienquan.garena.vn
+- name: "\U0001F1FA\U0001F1F3 UN 1742 TJN"
+  type: trojan
+  server: dpt-vn1.uudai4g.com
+  port: 443
+  udp: true
+  password: 054c82f7-9b61-4223-86a4-c231e9fafcf0
+  sni: lienquan.garena.vn
+  skip-cert-verify: true
+  network: tcp
+- name: "\U0001F1FA\U0001F1F8 US 1743 TJN"
+  type: trojan
+  server: sg1.uudai4g.com
+  port: 443
+  udp: true
+  password: 054c82f7-9b61-4223-86a4-c231e9fafcf0
+  sni: lienquan.garena.vn
+  skip-cert-verify: true
+  network: tcp
+- name: "\U0001F1FB\U0001F1F3 VN 1744 VMS"
+  type: vmess
+  server: 42.96.3.223
+  port: 80
+  cipher: auto
+  uuid: f2d51ddb-1dea-414d-b179-3880e7a60ad6
+  alterId: 0
+  tls: false
+  skip-cert-verify: true
+  network: ws
+  ws-opts:
+    path: ''
+    headers:
+      host: lienquan.garena.vn
+- name: "\U0001F1FA\U0001F1F3 UN 1745 VMS"
+  type: vmess
+  server: 103.118.28.110
+  port: 80
+  cipher: auto
+  uuid: f2d51ddb-1dea-414d-b179-3880e7a60ad6
+  alterId: 0
+  tls: false
+  skip-cert-verify: true
+  network: ws
+  ws-opts:
+    path: ''
+    headers:
+      host: lienquan.garena.vn
+- name: "\U0001F1FA\U0001F1F3 UN 1746 VMS"
+  type: vmess
+  server: 103.118.28.110
+  port: 80
+  cipher: auto
+  uuid: f2d51ddb-1dea-414d-b179-3880e7a60ad6
+  alterId: 0
+  tls: false
+  skip-cert-verify: true
+  network: ws
+  ws-opts:
+    path: ''
+    headers:
+      host: lienquan.garena.vn
+- name: "\U0001F1FA\U0001F1F3 UN 1747 TJN"
+  type: trojan
+  server: 103.77.214.241
+  port: 443
+  udp: true
+  password: f2d51ddb-1dea-414d-b179-3880e7a60ad6
+  sni: lienquan.garena.vn
+  skip-cert-verify: true
+  network: tcp
+- name: "\U0001F1FA\U0001F1F3 UN 1748 TJN"
+  type: trojan
+  server: 103.77.214.248
+  port: 443
+  udp: true
+  password: f2d51ddb-1dea-414d-b179-3880e7a60ad6
+  sni: lienquan.garena.vn
+  skip-cert-verify: true
+  network: tcp
+- name: "\U0001F1FA\U0001F1F3 UN 1749 TJN"
+  type: trojan
+  server: 103.118.28.110
+  port: 443
+  udp: true
+  password: f2d51ddb-1dea-414d-b179-3880e7a60ad6
+  sni: lienquan.garena.vn
+  skip-cert-verify: true
+  network: tcp
+- name: "\U0001F1FA\U0001F1F3 UN 1750 TJN"
+  type: trojan
+  server: 103.118.28.110
+  port: 443
+  udp: true
+  password: f2d51ddb-1dea-414d-b179-3880e7a60ad6
+  sni: lienquan.garena.vn
+  skip-cert-verify: true
+  network: tcp
+- name: "\U0001F1FB\U0001F1F3 VN 1751 TJN"
+  type: trojan
+  server: gamehcm.fast4g.vn
+  port: 443
+  udp: true
+  password: a7e840da-c9a3-4808-bc68-19bbd2defeab
+  sni: lienquan.garena.vn
+  skip-cert-verify: true
+  network: tcp
+- name: "\U0001F1FB\U0001F1F3 VN 1752 TJN"
+  type: trojan
+  server: gamehn1.fast4g.vn
+  port: 443
+  udp: true
+  password: a7e840da-c9a3-4808-bc68-19bbd2defeab
+  sni: lienquan.garena.vn
+  skip-cert-verify: true
+  network: tcp
+- name: "\U0001F1F8\U0001F1EC SG 1753 TJN"
+  type: trojan
+  server: 139.180.137.151
+  port: 443
+  udp: true
+  password: a7e840da-c9a3-4808-bc68-19bbd2defeab
+  sni: lienquan.garena.vn
+  skip-cert-verify: true
+  network: tcp
+- name: "\U0001F1F8\U0001F1EC SG 1754 VMS"
+  type: vmess
+  server: 139.180.157.14
+  port: 80
+  cipher: auto
+  uuid: a7e840da-c9a3-4808-bc68-19bbd2defeab
+  alterId: 0
+  tls: false
+  skip-cert-verify: true
+  network: ws
+  ws-opts:
+    path: /
+    headers:
+      host: lienquan.garena.vn
+- name: "\U0001F1F8\U0001F1EC SG 1755 TJN"
+  type: trojan
+  server: 139.180.157.14
+  port: 443
+  udp: true
+  password: a7e840da-c9a3-4808-bc68-19bbd2defeab
+  sni: lienquan.garena.vn
+  skip-cert-verify: true
+  network: tcp
+- name: "\U0001F1FB\U0001F1F3 VN 1756 VMS"
+  type: vmess
+  server: vm01.nguyendinhnghi.id.vn
+  port: 80
+  cipher: auto
+  uuid: e51b7afc-ca85-4336-aee8-0ef812d788f6
+  alterId: 0
+  tls: false
+  skip-cert-verify: true
+  network: ws
+  ws-opts:
+    path: /
+    headers:
+      host: lienquan.garena.vn
+- name: "\U0001F1FB\U0001F1F3 VN 1757 VMS"
+  type: vmess
+  server: vm01.nguyendinhnghi.id.vn
+  port: 80
+  cipher: auto
+  uuid: e51b7afc-ca85-4336-aee8-0ef812d788f6
+  alterId: 0
+  tls: false
+  skip-cert-verify: true
+  network: ws
+  ws-opts:
+    path: /
+    headers:
+      host: lienquan.garena.vn
+- name: "\U0001F1FB\U0001F1F3 VN 1758 TJN"
+  type: trojan
+  server: vm01.nguyendinhnghi.id.vn
+  port: 443
+  udp: true
+  password: e51b7afc-ca85-4336-aee8-0ef812d788f6
+  sni: lienquan.garena.vn
+  skip-cert-verify: true
+  network: tcp
+- name: "\U0001F1FB\U0001F1F3 VN 1759 TJN"
+  type: trojan
+  server: vm02.nguyendinhnghi.id.vn
+  port: 443
+  udp: true
+  password: e51b7afc-ca85-4336-aee8-0ef812d788f6
+  sni: lienquan.garena.vn
+  skip-cert-verify: true
+  network: tcp
+- name: "\U0001F1FB\U0001F1F3 VN 1760 VMS"
+  type: vmess
+  server: vm04.nguyendinhnghi.id.vn
+  port: 80
+  cipher: auto
+  uuid: e51b7afc-ca85-4336-aee8-0ef812d788f6
+  alterId: 0
+  tls: false
+  skip-cert-verify: true
+  network: ws
+  ws-opts:
+    path: /
+    headers:
+      host: lienquan.garena.vn
+- name: "\U0001F1FB\U0001F1F3 VN 1761 TJN"
+  type: trojan
+  server: vm04.nguyendinhnghi.id.vn
+  port: 443
+  udp: true
+  password: e51b7afc-ca85-4336-aee8-0ef812d788f6
+  sni: lienquan.garena.vn
+  skip-cert-verify: true
+  network: tcp
 proxy-groups:
 - name: automatic
   type: url-test
@@ -17160,11 +18701,11 @@ proxy-groups:
   - "\U0001F1EB\U0001F1F7 FR 556 SSS"
   - "\U0001F1FA\U0001F1F8 US 557 VMS"
   - "\U0001F1E9\U0001F1EA DE 558 TJN"
-  - "\U0001F1E9\U0001F1EA DE 559 VMS"
+  - "\U0001F1FA\U0001F1F3 UN 559 VMS"
   - "\U0001F1EB\U0001F1F7 FR 560 SSS"
   - "\U0001F1EB\U0001F1F7 FR 561 SSS"
   - "\U0001F1E9\U0001F1EA DE 562 SSS"
-  - "\U0001F1E9\U0001F1EA DE 563 VMS"
+  - "\U0001F1FA\U0001F1F3 UN 563 VMS"
   - "\U0001F1EB\U0001F1F7 FR 564 SSS"
   - "\U0001F1EB\U0001F1F7 FR 565 SSS"
   - "\U0001F1E8\U0001F1FF CZ 566 VMS"
@@ -17467,7 +19008,7 @@ proxy-groups:
   - "\U0001F1F8\U0001F1EC SG 863 TJN"
   - "\U0001F1FA\U0001F1F8 US 864 TJN"
   - "\U0001F1FA\U0001F1F8 US 865 TJN"
-  - "\U0001F1FA\U0001F1F8 US 866 TJN"
+  - "\U0001F1FA\U0001F1F3 UN 866 TJN"
   - "\U0001F1FA\U0001F1F8 US 867 SSS"
   - "\U0001F1FA\U0001F1F8 US 868 VMS"
   - "\U0001F1FA\U0001F1F8 US 869 SSS"
@@ -17507,7 +19048,7 @@ proxy-groups:
   - "\U0001F1FA\U0001F1F8 US 903 SSS"
   - "\U0001F1FA\U0001F1F8 US 904 SSS"
   - "\U0001F1FA\U0001F1F8 US 905 VMS"
-  - "\U0001F1FA\U0001F1F8 US 906 TJN"
+  - "\U0001F1FA\U0001F1F3 UN 906 TJN"
   - "\U0001F1FA\U0001F1F8 US 907 TJN"
   - "\U0001F1FA\U0001F1F8 US 908 TJN"
   - "\U0001F1FA\U0001F1F3 UN 909 VMS"
@@ -17521,7 +19062,7 @@ proxy-groups:
   - "\U0001F1FA\U0001F1F8 US 917 TJN"
   - "\U0001F1FA\U0001F1F8 US 918 VMS"
   - "\U0001F1FA\U0001F1F8 US 919 SSS"
-  - "\U0001F1FA\U0001F1F8 US 920 VMS"
+  - "\U0001F1FA\U0001F1F3 UN 920 VMS"
   - "\U0001F1FA\U0001F1F8 US 921 VMS"
   - "\U0001F1FA\U0001F1F8 US 922 TJN"
   - "\U0001F1E9\U0001F1EA DE 923 VMS"
@@ -17582,7 +19123,7 @@ proxy-groups:
   - "\U0001F1FA\U0001F1F8 US 978 VMS"
   - "\U0001F1EB\U0001F1F7 FR 979 VMS"
   - "\U0001F1FA\U0001F1F3 UN 980 VMS"
-  - "\U0001F1FA\U0001F1F3 UN 981 TJN"
+  - "\U0001F1FA\U0001F1F8 US 981 TJN"
   - "\U0001F1FA\U0001F1F8 US 982 SSS"
   - "\U0001F1FA\U0001F1F8 US 983 TJN"
   - "\U0001F1FA\U0001F1F8 US 984 TJN"
@@ -17604,7 +19145,7 @@ proxy-groups:
   - "\U0001F1FA\U0001F1F8 US 1000 TJN"
   - "\U0001F1FA\U0001F1F8 US 1001 VMS"
   - "\U0001F1ED\U0001F1F0 HK 1002 TJN"
-  - "\U0001F1FA\U0001F1F8 US 1003 TJN"
+  - "\U0001F1FA\U0001F1F3 UN 1003 TJN"
   - "\U0001F1FA\U0001F1F3 UN 1004 VMS"
   - "\U0001F1FA\U0001F1F8 US 1005 TJN"
   - "\U0001F1FA\U0001F1F8 US 1006 TJN"
@@ -17689,7 +19230,7 @@ proxy-groups:
   - "\U0001F1FA\U0001F1F8 US 1085 TJN"
   - "\U0001F1FA\U0001F1F8 US 1086 SSS"
   - "\U0001F1FA\U0001F1F8 US 1087 TJN"
-  - "\U0001F1FA\U0001F1F3 UN 1088 VMS"
+  - "\U0001F1FA\U0001F1F8 US 1088 VMS"
   - "\U0001F1FA\U0001F1F8 US 1089 TJN"
   - "\U0001F1FA\U0001F1F8 US 1090 TJN"
   - "\U0001F1FA\U0001F1F8 US 1091 TJN"
@@ -17697,7 +19238,7 @@ proxy-groups:
   - "\U0001F1EF\U0001F1F5 JP 1093 VMS"
   - "\U0001F1FA\U0001F1F8 US 1094 VMS"
   - "\U0001F1FA\U0001F1F8 US 1095 SSS"
-  - "\U0001F1FA\U0001F1F8 US 1096 VMS"
+  - "\U0001F1FA\U0001F1F3 UN 1096 VMS"
   - "\U0001F1FA\U0001F1F8 US 1097 TJN"
   - "\U0001F1FA\U0001F1F8 US 1098 VMS"
   - "\U0001F1FA\U0001F1F8 US 1099 TJN"
@@ -17708,7 +19249,7 @@ proxy-groups:
   - "\U0001F1FA\U0001F1F8 US 1104 SSS"
   - "\U0001F1FA\U0001F1F3 UN 1105 TJN"
   - "\U0001F1E8\U0001F1ED CH 1106 TJN"
-  - "\U0001F1FA\U0001F1F8 US 1107 TJN"
+  - "\U0001F1FA\U0001F1F3 UN 1107 TJN"
   - "\U0001F1FA\U0001F1F8 US 1108 TJN"
   - "\U0001F1FA\U0001F1F8 US 1109 SSS"
   - "\U0001F1EB\U0001F1F7 FR 1110 VMS"
@@ -17728,7 +19269,7 @@ proxy-groups:
   - "\U0001F1FA\U0001F1F8 US 1124 TJN"
   - "\U0001F1ED\U0001F1F0 HK 1125 TJN"
   - "\U0001F1FA\U0001F1F8 US 1126 SSS"
-  - "\U0001F1FA\U0001F1F8 US 1127 TJN"
+  - "\U0001F1FA\U0001F1F3 UN 1127 TJN"
   - "\U0001F1FA\U0001F1F8 US 1128 SSS"
   - "\U0001F1FA\U0001F1F8 US 1129 SSS"
   - "\U0001F1F8\U0001F1EC SG 1130 TJN"
@@ -17825,7 +19366,7 @@ proxy-groups:
   - "\U0001F1FA\U0001F1F8 US 1221 VMS"
   - "\U0001F1EF\U0001F1F5 JP 1222 VMS"
   - "\U0001F1FA\U0001F1F8 US 1223 SSS"
-  - "\U0001F1FA\U0001F1F8 US 1224 TJN"
+  - "\U0001F1FA\U0001F1F3 UN 1224 TJN"
   - "\U0001F1EB\U0001F1F7 FR 1225 SSS"
   - "\U0001F1FA\U0001F1F8 US 1226 SSS"
   - "\U0001F1E9\U0001F1EA DE 1227 SSS"
@@ -17930,7 +19471,7 @@ proxy-groups:
   - "\U0001F1FA\U0001F1F3 UN 1326 VMS"
   - "\U0001F1FA\U0001F1F8 US 1327 TJN"
   - "\U0001F1FA\U0001F1F8 US 1328 TJN"
-  - "\U0001F1FA\U0001F1F8 US 1329 VMS"
+  - "\U0001F1FA\U0001F1F3 UN 1329 VMS"
   - "\U0001F1FA\U0001F1F8 US 1330 TJN"
   - "\U0001F1FA\U0001F1F3 UN 1331 VMS"
   - "\U0001F1FA\U0001F1F8 US 1332 TJN"
@@ -17946,7 +19487,7 @@ proxy-groups:
   - "\U0001F1FA\U0001F1F8 US 1342 VMS"
   - "\U0001F1FA\U0001F1F8 US 1343 TJN"
   - "\U0001F1FA\U0001F1F8 US 1344 TJN"
-  - "\U0001F1FA\U0001F1F3 UN 1345 VMS"
+  - "\U0001F1FA\U0001F1F8 US 1345 VMS"
   - "\U0001F1FA\U0001F1F8 US 1346 SSS"
   - "\U0001F1FA\U0001F1F8 US 1347 SSS"
   - "\U0001F1FA\U0001F1F8 US 1348 SSS"
@@ -17968,19 +19509,19 @@ proxy-groups:
   - "\U0001F1FA\U0001F1F8 US 1364 TJN"
   - "\U0001F1FA\U0001F1F8 US 1365 VMS"
   - "\U0001F1FA\U0001F1F8 US 1366 SSS"
-  - "\U0001F1FA\U0001F1F3 UN 1367 TJN"
+  - "\U0001F1FA\U0001F1F8 US 1367 TJN"
   - "\U0001F1FA\U0001F1F8 US 1368 TJN"
   - "\U0001F1FA\U0001F1F8 US 1369 TJN"
   - "\U0001F1FA\U0001F1F8 US 1370 SSS"
   - "\U0001F1E6\U0001F1FA AU 1371 SSS"
   - "\U0001F1F3\U0001F1F1 NL 1372 SSS"
-  - "\U0001F1FA\U0001F1F3 UN 1373 TJN"
+  - "\U0001F1FA\U0001F1F8 US 1373 TJN"
   - "\U0001F1FA\U0001F1F3 UN 1374 TJN"
   - "\U0001F1FA\U0001F1F8 US 1375 SSS"
   - "\U0001F1FA\U0001F1F8 US 1376 TJN"
   - "\U0001F1FA\U0001F1F8 US 1377 TJN"
   - "\U0001F1FA\U0001F1F8 US 1378 TJN"
-  - "\U0001F1FA\U0001F1F8 US 1379 VMS"
+  - "\U0001F1FA\U0001F1F3 UN 1379 VMS"
   - "\U0001F1FA\U0001F1F8 US 1380 SSS"
   - "\U0001F1FA\U0001F1F8 US 1381 SSS"
   - "\U0001F1FA\U0001F1F8 US 1382 TJN"
@@ -17996,7 +19537,7 @@ proxy-groups:
   - "\U0001F1FA\U0001F1F8 US 1392 SSS"
   - "\U0001F1FA\U0001F1F8 US 1393 TJN"
   - "\U0001F1E6\U0001F1FA AU 1394 SSS"
-  - "\U0001F1FA\U0001F1F3 UN 1395 TJN"
+  - "\U0001F1FA\U0001F1F8 US 1395 TJN"
   - "\U0001F1FA\U0001F1F8 US 1396 TJN"
   - "\U0001F1FA\U0001F1F8 US 1397 VMS"
   - "\U0001F1FA\U0001F1F8 US 1398 TJN"
@@ -18026,7 +19567,7 @@ proxy-groups:
   - "\U0001F1FA\U0001F1F8 US 1422 SSS"
   - "\U0001F1FA\U0001F1F8 US 1423 SSS"
   - "\U0001F1FA\U0001F1F8 US 1424 SSS"
-  - "\U0001F1FA\U0001F1F8 US 1425 TJN"
+  - "\U0001F1FA\U0001F1F3 UN 1425 TJN"
   - "\U0001F1FA\U0001F1F8 US 1426 SSS"
   - "\U0001F1EE\U0001F1F9 IT 1427 TJN"
   - "\U0001F1EB\U0001F1F7 FR 1428 SSS"
@@ -18151,7 +19692,7 @@ proxy-groups:
   - "\U0001F1FA\U0001F1F8 US 1547 VMS"
   - "\U0001F1FA\U0001F1F8 US 1548 VMS"
   - "\U0001F1FA\U0001F1F8 US 1549 TJN"
-  - "\U0001F1FA\U0001F1F3 UN 1550 TJN"
+  - "\U0001F1FA\U0001F1F8 US 1550 TJN"
   - "\U0001F1FA\U0001F1F8 US 1551 VMS"
   - "\U0001F1FA\U0001F1F3 UN 1552 VMS"
   - "\U0001F1FA\U0001F1F8 US 1553 SSS"
@@ -18163,7 +19704,7 @@ proxy-groups:
   - "\U0001F1FA\U0001F1F8 US 1559 VMS"
   - "\U0001F1FA\U0001F1F8 US 1560 TJN"
   - "\U0001F1FA\U0001F1F8 US 1561 SSS"
-  - "\U0001F1FA\U0001F1F3 UN 1562 TJN"
+  - "\U0001F1FA\U0001F1F8 US 1562 TJN"
   - "\U0001F1FA\U0001F1F8 US 1563 VMS"
   - "\U0001F1FA\U0001F1F8 US 1564 TJN"
   - "\U0001F1FA\U0001F1F8 US 1565 VMS"
@@ -18178,7 +19719,7 @@ proxy-groups:
   - "\U0001F1FA\U0001F1F8 US 1574 SSS"
   - "\U0001F1FA\U0001F1F8 US 1575 TJN"
   - "\U0001F1EC\U0001F1E7 GB 1576 SSS"
-  - "\U0001F1FA\U0001F1F8 US 1577 VMS"
+  - "\U0001F1FA\U0001F1F3 UN 1577 VMS"
   - "\U0001F1FA\U0001F1F8 US 1578 SSS"
   - "\U0001F1FA\U0001F1F8 US 1579 TJN"
   - "\U0001F1FA\U0001F1F8 US 1580 TJN"
@@ -18192,7 +19733,7 @@ proxy-groups:
   - "\U0001F1FA\U0001F1F8 US 1588 TJN"
   - "\U0001F1F8\U0001F1EC SG 1589 VMS"
   - "\U0001F1FA\U0001F1F8 US 1590 TJN"
-  - "\U0001F1FA\U0001F1F8 US 1591 TJN"
+  - "\U0001F1FA\U0001F1F3 UN 1591 TJN"
   - "\U0001F1FA\U0001F1F8 US 1592 SSS"
   - "\U0001F1FA\U0001F1F8 US 1593 TJN"
   - "\U0001F1FA\U0001F1F8 US 1594 TJN"
@@ -18204,7 +19745,7 @@ proxy-groups:
   - "\U0001F1FA\U0001F1F8 US 1600 TJN"
   - "\U0001F1FA\U0001F1F8 US 1601 SSS"
   - "\U0001F1FA\U0001F1F8 US 1602 TJN"
-  - "\U0001F1FA\U0001F1F8 US 1603 VMS"
+  - "\U0001F1FA\U0001F1F3 UN 1603 VMS"
   - "\U0001F1FA\U0001F1F8 US 1604 SSS"
   - "\U0001F1FA\U0001F1F8 US 1605 TJN"
   - "\U0001F1FA\U0001F1F8 US 1606 TJN"
@@ -18238,7 +19779,131 @@ proxy-groups:
   - "\U0001F1FA\U0001F1F3 UN 1634 VMS"
   - "\U0001F1FA\U0001F1F8 US 1635 TJN"
   - "\U0001F1EB\U0001F1F7 FR 1636 SSS"
-  - "\U0001F1FA\U0001F1F3 UN 1637 TJN"
+  - "\U0001F1FA\U0001F1F8 US 1637 TJN"
+  - "\U0001F1FB\U0001F1F3 VN 1638 VMS"
+  - "\U0001F1FB\U0001F1F3 VN 1639 VMS"
+  - "\U0001F1FB\U0001F1F3 VN 1640 TJN"
+  - "\U0001F1FB\U0001F1F3 VN 1641 TJN"
+  - "\U0001F1F8\U0001F1EC SG 1642 TJN"
+  - "\U0001F1F8\U0001F1EC SG 1643 VMS"
+  - "\U0001F1EE\U0001F1F3 IN 1644 VMS"
+  - "\U0001F1FA\U0001F1F8 US 1645 VMS"
+  - "\U0001F1FB\U0001F1F3 VN 1646 VMS"
+  - "\U0001F1FB\U0001F1F3 VN 1647 VMS"
+  - "\U0001F1FB\U0001F1F3 VN 1648 VMS"
+  - "\U0001F1FB\U0001F1F3 VN 1649 VMS"
+  - "\U0001F1FB\U0001F1F3 VN 1650 VMS"
+  - "\U0001F1FB\U0001F1F3 VN 1651 VMS"
+  - "\U0001F1FB\U0001F1F3 VN 1652 VMS"
+  - "\U0001F1FB\U0001F1F3 VN 1653 VMS"
+  - "\U0001F1F8\U0001F1EC SG 1654 VMS"
+  - "\U0001F1F8\U0001F1EC SG 1655 VMS"
+  - "\U0001F1F8\U0001F1EC SG 1656 VMS"
+  - "\U0001F1F8\U0001F1EC SG 1657 VMS"
+  - "\U0001F1F8\U0001F1EC SG 1658 VMS"
+  - "\U0001F1F8\U0001F1EC SG 1659 VMS"
+  - "\U0001F1F8\U0001F1EC SG 1660 VMS"
+  - "\U0001F1F8\U0001F1EC SG 1661 VMS"
+  - "\U0001F1F8\U0001F1EC SG 1662 VMS"
+  - "\U0001F1F8\U0001F1EC SG 1663 VMS"
+  - "\U0001F1FA\U0001F1F8 US 1664 VMS"
+  - "\U0001F1FA\U0001F1F8 US 1665 VMS"
+  - "\U0001F1FB\U0001F1F3 VN 1666 VMS"
+  - "\U0001F1FB\U0001F1F3 VN 1667 VMS"
+  - "\U0001F1FB\U0001F1F3 VN 1668 VMS"
+  - "\U0001F1FB\U0001F1F3 VN 1669 VMS"
+  - "\U0001F1FB\U0001F1F3 VN 1670 VMS"
+  - "\U0001F1FB\U0001F1F3 VN 1671 VMS"
+  - "\U0001F1FB\U0001F1F3 VN 1672 VMS"
+  - "\U0001F1FB\U0001F1F3 VN 1673 TJN"
+  - "\U0001F1F8\U0001F1EC SG 1674 VMS"
+  - "\U0001F1F8\U0001F1EC SG 1675 TJN"
+  - "\U0001F1FA\U0001F1F3 UN 1676 VMS"
+  - "\U0001F1FA\U0001F1F3 UN 1677 TJN"
+  - "\U0001F1FB\U0001F1F3 VN 1678 TJN"
+  - "\U0001F1FB\U0001F1F3 VN 1679 VMS"
+  - "\U0001F1FB\U0001F1F3 VN 1680 TJN"
+  - "\U0001F1FA\U0001F1F3 UN 1681 VMS"
+  - "\U0001F1FA\U0001F1F3 UN 1682 TJN"
+  - "\U0001F1FA\U0001F1F3 UN 1683 VMS"
+  - "\U0001F1FA\U0001F1F3 UN 1684 TJN"
+  - "\U0001F1FA\U0001F1F3 UN 1685 VMS"
+  - "\U0001F1FA\U0001F1F3 UN 1686 TJN"
+  - "\U0001F1FA\U0001F1F3 UN 1687 VMS"
+  - "\U0001F1FA\U0001F1F3 UN 1688 TJN"
+  - "\U0001F1FB\U0001F1F3 VN 1689 VMS"
+  - "\U0001F1FB\U0001F1F3 VN 1690 VMS"
+  - "\U0001F1FB\U0001F1F3 VN 1691 VMS"
+  - "\U0001F1FB\U0001F1F3 VN 1692 TJN"
+  - "\U0001F1FB\U0001F1F3 VN 1693 TJN"
+  - "\U0001F1FB\U0001F1F3 VN 1694 TJN"
+  - "\U0001F1EF\U0001F1F5 JP 1695 VMS"
+  - "\U0001F1EF\U0001F1F5 JP 1696 TJN"
+  - "\U0001F1FA\U0001F1F3 UN 1697 TJN"
+  - "\U0001F1FA\U0001F1F3 UN 1698 TJN"
+  - "\U0001F1FB\U0001F1F3 VN 1699 VMS"
+  - "\U0001F1FB\U0001F1F3 VN 1700 TJN"
+  - "\U0001F1F8\U0001F1EC SG 1701 VMS"
+  - "\U0001F1F8\U0001F1EC SG 1702 TJN"
+  - "\U0001F1FB\U0001F1F3 VN 1703 TJN"
+  - "\U0001F1FB\U0001F1F3 VN 1704 TJN"
+  - "\U0001F1E8\U0001F1F3 CN 1705 VMS"
+  - "\U0001F1FB\U0001F1F3 VN 1706 VMS"
+  - "\U0001F1FB\U0001F1F3 VN 1707 VMS"
+  - "\U0001F1FB\U0001F1F3 VN 1708 VMS"
+  - "\U0001F1FB\U0001F1F3 VN 1709 VMS"
+  - "\U0001F1FB\U0001F1F3 VN 1710 VMS"
+  - "\U0001F1FB\U0001F1F3 VN 1711 VMS"
+  - "\U0001F1FA\U0001F1F8 US 1712 VMS"
+  - "\U0001F1FB\U0001F1F3 VN 1713 VMS"
+  - "\U0001F1FB\U0001F1F3 VN 1714 VMS"
+  - "\U0001F1FB\U0001F1F3 VN 1715 VMS"
+  - "\U0001F1FB\U0001F1F3 VN 1716 TJN"
+  - "\U0001F1FA\U0001F1F3 UN 1717 VMS"
+  - "\U0001F1FA\U0001F1F3 UN 1718 VMS"
+  - "\U0001F1FB\U0001F1F3 VN 1719 TJN"
+  - "\U0001F1F8\U0001F1EC SG 1720 VMS"
+  - "\U0001F1F8\U0001F1EC SG 1721 VMS"
+  - "\U0001F1FA\U0001F1F8 US 1722 VMS"
+  - "\U0001F1FA\U0001F1F8 US 1723 VMS"
+  - "\U0001F1FA\U0001F1F8 US 1724 VMS"
+  - "\U0001F1F0\U0001F1F7 KR 1725 TJN"
+  - "\U0001F1FA\U0001F1F3 UN 1726 VMS"
+  - "\U0001F1FA\U0001F1F3 UN 1727 VMS"
+  - "\U0001F1FA\U0001F1F8 US 1728 VMS"
+  - "\U0001F1FA\U0001F1F8 US 1729 VMS"
+  - "\U0001F1FA\U0001F1F3 UN 1730 VMS"
+  - "\U0001F1FA\U0001F1F3 UN 1731 VMS"
+  - "\U0001F1FA\U0001F1F3 UN 1732 VMS"
+  - "\U0001F1FA\U0001F1F3 UN 1733 VMS"
+  - "\U0001F1FA\U0001F1F3 UN 1734 VMS"
+  - "\U0001F1F8\U0001F1EC SG 1735 VMS"
+  - "\U0001F1FA\U0001F1F8 US 1736 VMS"
+  - "\U0001F1F8\U0001F1EC SG 1737 VMS"
+  - "\U0001F1ED\U0001F1F0 HK 1738 VMS"
+  - "\U0001F1FA\U0001F1F8 US 1739 VMS"
+  - "\U0001F1F8\U0001F1EC SG 1740 VMS"
+  - "\U0001F1FA\U0001F1F3 UN 1741 VMS"
+  - "\U0001F1FA\U0001F1F3 UN 1742 TJN"
+  - "\U0001F1FA\U0001F1F8 US 1743 TJN"
+  - "\U0001F1FB\U0001F1F3 VN 1744 VMS"
+  - "\U0001F1FA\U0001F1F3 UN 1745 VMS"
+  - "\U0001F1FA\U0001F1F3 UN 1746 VMS"
+  - "\U0001F1FA\U0001F1F3 UN 1747 TJN"
+  - "\U0001F1FA\U0001F1F3 UN 1748 TJN"
+  - "\U0001F1FA\U0001F1F3 UN 1749 TJN"
+  - "\U0001F1FA\U0001F1F3 UN 1750 TJN"
+  - "\U0001F1FB\U0001F1F3 VN 1751 TJN"
+  - "\U0001F1FB\U0001F1F3 VN 1752 TJN"
+  - "\U0001F1F8\U0001F1EC SG 1753 TJN"
+  - "\U0001F1F8\U0001F1EC SG 1754 VMS"
+  - "\U0001F1F8\U0001F1EC SG 1755 TJN"
+  - "\U0001F1FB\U0001F1F3 VN 1756 VMS"
+  - "\U0001F1FB\U0001F1F3 VN 1757 VMS"
+  - "\U0001F1FB\U0001F1F3 VN 1758 TJN"
+  - "\U0001F1FB\U0001F1F3 VN 1759 TJN"
+  - "\U0001F1FB\U0001F1F3 VN 1760 VMS"
+  - "\U0001F1FB\U0001F1F3 VN 1761 TJN"
   url: https://www.google.com/favicon.ico
   interval: 300
 - name: "\U0001F310 Proxy"
@@ -18803,11 +20468,11 @@ proxy-groups:
   - "\U0001F1EB\U0001F1F7 FR 556 SSS"
   - "\U0001F1FA\U0001F1F8 US 557 VMS"
   - "\U0001F1E9\U0001F1EA DE 558 TJN"
-  - "\U0001F1E9\U0001F1EA DE 559 VMS"
+  - "\U0001F1FA\U0001F1F3 UN 559 VMS"
   - "\U0001F1EB\U0001F1F7 FR 560 SSS"
   - "\U0001F1EB\U0001F1F7 FR 561 SSS"
   - "\U0001F1E9\U0001F1EA DE 562 SSS"
-  - "\U0001F1E9\U0001F1EA DE 563 VMS"
+  - "\U0001F1FA\U0001F1F3 UN 563 VMS"
   - "\U0001F1EB\U0001F1F7 FR 564 SSS"
   - "\U0001F1EB\U0001F1F7 FR 565 SSS"
   - "\U0001F1E8\U0001F1FF CZ 566 VMS"
@@ -19110,7 +20775,7 @@ proxy-groups:
   - "\U0001F1F8\U0001F1EC SG 863 TJN"
   - "\U0001F1FA\U0001F1F8 US 864 TJN"
   - "\U0001F1FA\U0001F1F8 US 865 TJN"
-  - "\U0001F1FA\U0001F1F8 US 866 TJN"
+  - "\U0001F1FA\U0001F1F3 UN 866 TJN"
   - "\U0001F1FA\U0001F1F8 US 867 SSS"
   - "\U0001F1FA\U0001F1F8 US 868 VMS"
   - "\U0001F1FA\U0001F1F8 US 869 SSS"
@@ -19150,7 +20815,7 @@ proxy-groups:
   - "\U0001F1FA\U0001F1F8 US 903 SSS"
   - "\U0001F1FA\U0001F1F8 US 904 SSS"
   - "\U0001F1FA\U0001F1F8 US 905 VMS"
-  - "\U0001F1FA\U0001F1F8 US 906 TJN"
+  - "\U0001F1FA\U0001F1F3 UN 906 TJN"
   - "\U0001F1FA\U0001F1F8 US 907 TJN"
   - "\U0001F1FA\U0001F1F8 US 908 TJN"
   - "\U0001F1FA\U0001F1F3 UN 909 VMS"
@@ -19164,7 +20829,7 @@ proxy-groups:
   - "\U0001F1FA\U0001F1F8 US 917 TJN"
   - "\U0001F1FA\U0001F1F8 US 918 VMS"
   - "\U0001F1FA\U0001F1F8 US 919 SSS"
-  - "\U0001F1FA\U0001F1F8 US 920 VMS"
+  - "\U0001F1FA\U0001F1F3 UN 920 VMS"
   - "\U0001F1FA\U0001F1F8 US 921 VMS"
   - "\U0001F1FA\U0001F1F8 US 922 TJN"
   - "\U0001F1E9\U0001F1EA DE 923 VMS"
@@ -19225,7 +20890,7 @@ proxy-groups:
   - "\U0001F1FA\U0001F1F8 US 978 VMS"
   - "\U0001F1EB\U0001F1F7 FR 979 VMS"
   - "\U0001F1FA\U0001F1F3 UN 980 VMS"
-  - "\U0001F1FA\U0001F1F3 UN 981 TJN"
+  - "\U0001F1FA\U0001F1F8 US 981 TJN"
   - "\U0001F1FA\U0001F1F8 US 982 SSS"
   - "\U0001F1FA\U0001F1F8 US 983 TJN"
   - "\U0001F1FA\U0001F1F8 US 984 TJN"
@@ -19247,7 +20912,7 @@ proxy-groups:
   - "\U0001F1FA\U0001F1F8 US 1000 TJN"
   - "\U0001F1FA\U0001F1F8 US 1001 VMS"
   - "\U0001F1ED\U0001F1F0 HK 1002 TJN"
-  - "\U0001F1FA\U0001F1F8 US 1003 TJN"
+  - "\U0001F1FA\U0001F1F3 UN 1003 TJN"
   - "\U0001F1FA\U0001F1F3 UN 1004 VMS"
   - "\U0001F1FA\U0001F1F8 US 1005 TJN"
   - "\U0001F1FA\U0001F1F8 US 1006 TJN"
@@ -19332,7 +20997,7 @@ proxy-groups:
   - "\U0001F1FA\U0001F1F8 US 1085 TJN"
   - "\U0001F1FA\U0001F1F8 US 1086 SSS"
   - "\U0001F1FA\U0001F1F8 US 1087 TJN"
-  - "\U0001F1FA\U0001F1F3 UN 1088 VMS"
+  - "\U0001F1FA\U0001F1F8 US 1088 VMS"
   - "\U0001F1FA\U0001F1F8 US 1089 TJN"
   - "\U0001F1FA\U0001F1F8 US 1090 TJN"
   - "\U0001F1FA\U0001F1F8 US 1091 TJN"
@@ -19340,7 +21005,7 @@ proxy-groups:
   - "\U0001F1EF\U0001F1F5 JP 1093 VMS"
   - "\U0001F1FA\U0001F1F8 US 1094 VMS"
   - "\U0001F1FA\U0001F1F8 US 1095 SSS"
-  - "\U0001F1FA\U0001F1F8 US 1096 VMS"
+  - "\U0001F1FA\U0001F1F3 UN 1096 VMS"
   - "\U0001F1FA\U0001F1F8 US 1097 TJN"
   - "\U0001F1FA\U0001F1F8 US 1098 VMS"
   - "\U0001F1FA\U0001F1F8 US 1099 TJN"
@@ -19351,7 +21016,7 @@ proxy-groups:
   - "\U0001F1FA\U0001F1F8 US 1104 SSS"
   - "\U0001F1FA\U0001F1F3 UN 1105 TJN"
   - "\U0001F1E8\U0001F1ED CH 1106 TJN"
-  - "\U0001F1FA\U0001F1F8 US 1107 TJN"
+  - "\U0001F1FA\U0001F1F3 UN 1107 TJN"
   - "\U0001F1FA\U0001F1F8 US 1108 TJN"
   - "\U0001F1FA\U0001F1F8 US 1109 SSS"
   - "\U0001F1EB\U0001F1F7 FR 1110 VMS"
@@ -19371,7 +21036,7 @@ proxy-groups:
   - "\U0001F1FA\U0001F1F8 US 1124 TJN"
   - "\U0001F1ED\U0001F1F0 HK 1125 TJN"
   - "\U0001F1FA\U0001F1F8 US 1126 SSS"
-  - "\U0001F1FA\U0001F1F8 US 1127 TJN"
+  - "\U0001F1FA\U0001F1F3 UN 1127 TJN"
   - "\U0001F1FA\U0001F1F8 US 1128 SSS"
   - "\U0001F1FA\U0001F1F8 US 1129 SSS"
   - "\U0001F1F8\U0001F1EC SG 1130 TJN"
@@ -19468,7 +21133,7 @@ proxy-groups:
   - "\U0001F1FA\U0001F1F8 US 1221 VMS"
   - "\U0001F1EF\U0001F1F5 JP 1222 VMS"
   - "\U0001F1FA\U0001F1F8 US 1223 SSS"
-  - "\U0001F1FA\U0001F1F8 US 1224 TJN"
+  - "\U0001F1FA\U0001F1F3 UN 1224 TJN"
   - "\U0001F1EB\U0001F1F7 FR 1225 SSS"
   - "\U0001F1FA\U0001F1F8 US 1226 SSS"
   - "\U0001F1E9\U0001F1EA DE 1227 SSS"
@@ -19573,7 +21238,7 @@ proxy-groups:
   - "\U0001F1FA\U0001F1F3 UN 1326 VMS"
   - "\U0001F1FA\U0001F1F8 US 1327 TJN"
   - "\U0001F1FA\U0001F1F8 US 1328 TJN"
-  - "\U0001F1FA\U0001F1F8 US 1329 VMS"
+  - "\U0001F1FA\U0001F1F3 UN 1329 VMS"
   - "\U0001F1FA\U0001F1F8 US 1330 TJN"
   - "\U0001F1FA\U0001F1F3 UN 1331 VMS"
   - "\U0001F1FA\U0001F1F8 US 1332 TJN"
@@ -19589,7 +21254,7 @@ proxy-groups:
   - "\U0001F1FA\U0001F1F8 US 1342 VMS"
   - "\U0001F1FA\U0001F1F8 US 1343 TJN"
   - "\U0001F1FA\U0001F1F8 US 1344 TJN"
-  - "\U0001F1FA\U0001F1F3 UN 1345 VMS"
+  - "\U0001F1FA\U0001F1F8 US 1345 VMS"
   - "\U0001F1FA\U0001F1F8 US 1346 SSS"
   - "\U0001F1FA\U0001F1F8 US 1347 SSS"
   - "\U0001F1FA\U0001F1F8 US 1348 SSS"
@@ -19611,19 +21276,19 @@ proxy-groups:
   - "\U0001F1FA\U0001F1F8 US 1364 TJN"
   - "\U0001F1FA\U0001F1F8 US 1365 VMS"
   - "\U0001F1FA\U0001F1F8 US 1366 SSS"
-  - "\U0001F1FA\U0001F1F3 UN 1367 TJN"
+  - "\U0001F1FA\U0001F1F8 US 1367 TJN"
   - "\U0001F1FA\U0001F1F8 US 1368 TJN"
   - "\U0001F1FA\U0001F1F8 US 1369 TJN"
   - "\U0001F1FA\U0001F1F8 US 1370 SSS"
   - "\U0001F1E6\U0001F1FA AU 1371 SSS"
   - "\U0001F1F3\U0001F1F1 NL 1372 SSS"
-  - "\U0001F1FA\U0001F1F3 UN 1373 TJN"
+  - "\U0001F1FA\U0001F1F8 US 1373 TJN"
   - "\U0001F1FA\U0001F1F3 UN 1374 TJN"
   - "\U0001F1FA\U0001F1F8 US 1375 SSS"
   - "\U0001F1FA\U0001F1F8 US 1376 TJN"
   - "\U0001F1FA\U0001F1F8 US 1377 TJN"
   - "\U0001F1FA\U0001F1F8 US 1378 TJN"
-  - "\U0001F1FA\U0001F1F8 US 1379 VMS"
+  - "\U0001F1FA\U0001F1F3 UN 1379 VMS"
   - "\U0001F1FA\U0001F1F8 US 1380 SSS"
   - "\U0001F1FA\U0001F1F8 US 1381 SSS"
   - "\U0001F1FA\U0001F1F8 US 1382 TJN"
@@ -19639,7 +21304,7 @@ proxy-groups:
   - "\U0001F1FA\U0001F1F8 US 1392 SSS"
   - "\U0001F1FA\U0001F1F8 US 1393 TJN"
   - "\U0001F1E6\U0001F1FA AU 1394 SSS"
-  - "\U0001F1FA\U0001F1F3 UN 1395 TJN"
+  - "\U0001F1FA\U0001F1F8 US 1395 TJN"
   - "\U0001F1FA\U0001F1F8 US 1396 TJN"
   - "\U0001F1FA\U0001F1F8 US 1397 VMS"
   - "\U0001F1FA\U0001F1F8 US 1398 TJN"
@@ -19669,7 +21334,7 @@ proxy-groups:
   - "\U0001F1FA\U0001F1F8 US 1422 SSS"
   - "\U0001F1FA\U0001F1F8 US 1423 SSS"
   - "\U0001F1FA\U0001F1F8 US 1424 SSS"
-  - "\U0001F1FA\U0001F1F8 US 1425 TJN"
+  - "\U0001F1FA\U0001F1F3 UN 1425 TJN"
   - "\U0001F1FA\U0001F1F8 US 1426 SSS"
   - "\U0001F1EE\U0001F1F9 IT 1427 TJN"
   - "\U0001F1EB\U0001F1F7 FR 1428 SSS"
@@ -19794,7 +21459,7 @@ proxy-groups:
   - "\U0001F1FA\U0001F1F8 US 1547 VMS"
   - "\U0001F1FA\U0001F1F8 US 1548 VMS"
   - "\U0001F1FA\U0001F1F8 US 1549 TJN"
-  - "\U0001F1FA\U0001F1F3 UN 1550 TJN"
+  - "\U0001F1FA\U0001F1F8 US 1550 TJN"
   - "\U0001F1FA\U0001F1F8 US 1551 VMS"
   - "\U0001F1FA\U0001F1F3 UN 1552 VMS"
   - "\U0001F1FA\U0001F1F8 US 1553 SSS"
@@ -19806,7 +21471,7 @@ proxy-groups:
   - "\U0001F1FA\U0001F1F8 US 1559 VMS"
   - "\U0001F1FA\U0001F1F8 US 1560 TJN"
   - "\U0001F1FA\U0001F1F8 US 1561 SSS"
-  - "\U0001F1FA\U0001F1F3 UN 1562 TJN"
+  - "\U0001F1FA\U0001F1F8 US 1562 TJN"
   - "\U0001F1FA\U0001F1F8 US 1563 VMS"
   - "\U0001F1FA\U0001F1F8 US 1564 TJN"
   - "\U0001F1FA\U0001F1F8 US 1565 VMS"
@@ -19821,7 +21486,7 @@ proxy-groups:
   - "\U0001F1FA\U0001F1F8 US 1574 SSS"
   - "\U0001F1FA\U0001F1F8 US 1575 TJN"
   - "\U0001F1EC\U0001F1E7 GB 1576 SSS"
-  - "\U0001F1FA\U0001F1F8 US 1577 VMS"
+  - "\U0001F1FA\U0001F1F3 UN 1577 VMS"
   - "\U0001F1FA\U0001F1F8 US 1578 SSS"
   - "\U0001F1FA\U0001F1F8 US 1579 TJN"
   - "\U0001F1FA\U0001F1F8 US 1580 TJN"
@@ -19835,7 +21500,7 @@ proxy-groups:
   - "\U0001F1FA\U0001F1F8 US 1588 TJN"
   - "\U0001F1F8\U0001F1EC SG 1589 VMS"
   - "\U0001F1FA\U0001F1F8 US 1590 TJN"
-  - "\U0001F1FA\U0001F1F8 US 1591 TJN"
+  - "\U0001F1FA\U0001F1F3 UN 1591 TJN"
   - "\U0001F1FA\U0001F1F8 US 1592 SSS"
   - "\U0001F1FA\U0001F1F8 US 1593 TJN"
   - "\U0001F1FA\U0001F1F8 US 1594 TJN"
@@ -19847,7 +21512,7 @@ proxy-groups:
   - "\U0001F1FA\U0001F1F8 US 1600 TJN"
   - "\U0001F1FA\U0001F1F8 US 1601 SSS"
   - "\U0001F1FA\U0001F1F8 US 1602 TJN"
-  - "\U0001F1FA\U0001F1F8 US 1603 VMS"
+  - "\U0001F1FA\U0001F1F3 UN 1603 VMS"
   - "\U0001F1FA\U0001F1F8 US 1604 SSS"
   - "\U0001F1FA\U0001F1F8 US 1605 TJN"
   - "\U0001F1FA\U0001F1F8 US 1606 TJN"
@@ -19881,6 +21546,130 @@ proxy-groups:
   - "\U0001F1FA\U0001F1F3 UN 1634 VMS"
   - "\U0001F1FA\U0001F1F8 US 1635 TJN"
   - "\U0001F1EB\U0001F1F7 FR 1636 SSS"
-  - "\U0001F1FA\U0001F1F3 UN 1637 TJN"
+  - "\U0001F1FA\U0001F1F8 US 1637 TJN"
+  - "\U0001F1FB\U0001F1F3 VN 1638 VMS"
+  - "\U0001F1FB\U0001F1F3 VN 1639 VMS"
+  - "\U0001F1FB\U0001F1F3 VN 1640 TJN"
+  - "\U0001F1FB\U0001F1F3 VN 1641 TJN"
+  - "\U0001F1F8\U0001F1EC SG 1642 TJN"
+  - "\U0001F1F8\U0001F1EC SG 1643 VMS"
+  - "\U0001F1EE\U0001F1F3 IN 1644 VMS"
+  - "\U0001F1FA\U0001F1F8 US 1645 VMS"
+  - "\U0001F1FB\U0001F1F3 VN 1646 VMS"
+  - "\U0001F1FB\U0001F1F3 VN 1647 VMS"
+  - "\U0001F1FB\U0001F1F3 VN 1648 VMS"
+  - "\U0001F1FB\U0001F1F3 VN 1649 VMS"
+  - "\U0001F1FB\U0001F1F3 VN 1650 VMS"
+  - "\U0001F1FB\U0001F1F3 VN 1651 VMS"
+  - "\U0001F1FB\U0001F1F3 VN 1652 VMS"
+  - "\U0001F1FB\U0001F1F3 VN 1653 VMS"
+  - "\U0001F1F8\U0001F1EC SG 1654 VMS"
+  - "\U0001F1F8\U0001F1EC SG 1655 VMS"
+  - "\U0001F1F8\U0001F1EC SG 1656 VMS"
+  - "\U0001F1F8\U0001F1EC SG 1657 VMS"
+  - "\U0001F1F8\U0001F1EC SG 1658 VMS"
+  - "\U0001F1F8\U0001F1EC SG 1659 VMS"
+  - "\U0001F1F8\U0001F1EC SG 1660 VMS"
+  - "\U0001F1F8\U0001F1EC SG 1661 VMS"
+  - "\U0001F1F8\U0001F1EC SG 1662 VMS"
+  - "\U0001F1F8\U0001F1EC SG 1663 VMS"
+  - "\U0001F1FA\U0001F1F8 US 1664 VMS"
+  - "\U0001F1FA\U0001F1F8 US 1665 VMS"
+  - "\U0001F1FB\U0001F1F3 VN 1666 VMS"
+  - "\U0001F1FB\U0001F1F3 VN 1667 VMS"
+  - "\U0001F1FB\U0001F1F3 VN 1668 VMS"
+  - "\U0001F1FB\U0001F1F3 VN 1669 VMS"
+  - "\U0001F1FB\U0001F1F3 VN 1670 VMS"
+  - "\U0001F1FB\U0001F1F3 VN 1671 VMS"
+  - "\U0001F1FB\U0001F1F3 VN 1672 VMS"
+  - "\U0001F1FB\U0001F1F3 VN 1673 TJN"
+  - "\U0001F1F8\U0001F1EC SG 1674 VMS"
+  - "\U0001F1F8\U0001F1EC SG 1675 TJN"
+  - "\U0001F1FA\U0001F1F3 UN 1676 VMS"
+  - "\U0001F1FA\U0001F1F3 UN 1677 TJN"
+  - "\U0001F1FB\U0001F1F3 VN 1678 TJN"
+  - "\U0001F1FB\U0001F1F3 VN 1679 VMS"
+  - "\U0001F1FB\U0001F1F3 VN 1680 TJN"
+  - "\U0001F1FA\U0001F1F3 UN 1681 VMS"
+  - "\U0001F1FA\U0001F1F3 UN 1682 TJN"
+  - "\U0001F1FA\U0001F1F3 UN 1683 VMS"
+  - "\U0001F1FA\U0001F1F3 UN 1684 TJN"
+  - "\U0001F1FA\U0001F1F3 UN 1685 VMS"
+  - "\U0001F1FA\U0001F1F3 UN 1686 TJN"
+  - "\U0001F1FA\U0001F1F3 UN 1687 VMS"
+  - "\U0001F1FA\U0001F1F3 UN 1688 TJN"
+  - "\U0001F1FB\U0001F1F3 VN 1689 VMS"
+  - "\U0001F1FB\U0001F1F3 VN 1690 VMS"
+  - "\U0001F1FB\U0001F1F3 VN 1691 VMS"
+  - "\U0001F1FB\U0001F1F3 VN 1692 TJN"
+  - "\U0001F1FB\U0001F1F3 VN 1693 TJN"
+  - "\U0001F1FB\U0001F1F3 VN 1694 TJN"
+  - "\U0001F1EF\U0001F1F5 JP 1695 VMS"
+  - "\U0001F1EF\U0001F1F5 JP 1696 TJN"
+  - "\U0001F1FA\U0001F1F3 UN 1697 TJN"
+  - "\U0001F1FA\U0001F1F3 UN 1698 TJN"
+  - "\U0001F1FB\U0001F1F3 VN 1699 VMS"
+  - "\U0001F1FB\U0001F1F3 VN 1700 TJN"
+  - "\U0001F1F8\U0001F1EC SG 1701 VMS"
+  - "\U0001F1F8\U0001F1EC SG 1702 TJN"
+  - "\U0001F1FB\U0001F1F3 VN 1703 TJN"
+  - "\U0001F1FB\U0001F1F3 VN 1704 TJN"
+  - "\U0001F1E8\U0001F1F3 CN 1705 VMS"
+  - "\U0001F1FB\U0001F1F3 VN 1706 VMS"
+  - "\U0001F1FB\U0001F1F3 VN 1707 VMS"
+  - "\U0001F1FB\U0001F1F3 VN 1708 VMS"
+  - "\U0001F1FB\U0001F1F3 VN 1709 VMS"
+  - "\U0001F1FB\U0001F1F3 VN 1710 VMS"
+  - "\U0001F1FB\U0001F1F3 VN 1711 VMS"
+  - "\U0001F1FA\U0001F1F8 US 1712 VMS"
+  - "\U0001F1FB\U0001F1F3 VN 1713 VMS"
+  - "\U0001F1FB\U0001F1F3 VN 1714 VMS"
+  - "\U0001F1FB\U0001F1F3 VN 1715 VMS"
+  - "\U0001F1FB\U0001F1F3 VN 1716 TJN"
+  - "\U0001F1FA\U0001F1F3 UN 1717 VMS"
+  - "\U0001F1FA\U0001F1F3 UN 1718 VMS"
+  - "\U0001F1FB\U0001F1F3 VN 1719 TJN"
+  - "\U0001F1F8\U0001F1EC SG 1720 VMS"
+  - "\U0001F1F8\U0001F1EC SG 1721 VMS"
+  - "\U0001F1FA\U0001F1F8 US 1722 VMS"
+  - "\U0001F1FA\U0001F1F8 US 1723 VMS"
+  - "\U0001F1FA\U0001F1F8 US 1724 VMS"
+  - "\U0001F1F0\U0001F1F7 KR 1725 TJN"
+  - "\U0001F1FA\U0001F1F3 UN 1726 VMS"
+  - "\U0001F1FA\U0001F1F3 UN 1727 VMS"
+  - "\U0001F1FA\U0001F1F8 US 1728 VMS"
+  - "\U0001F1FA\U0001F1F8 US 1729 VMS"
+  - "\U0001F1FA\U0001F1F3 UN 1730 VMS"
+  - "\U0001F1FA\U0001F1F3 UN 1731 VMS"
+  - "\U0001F1FA\U0001F1F3 UN 1732 VMS"
+  - "\U0001F1FA\U0001F1F3 UN 1733 VMS"
+  - "\U0001F1FA\U0001F1F3 UN 1734 VMS"
+  - "\U0001F1F8\U0001F1EC SG 1735 VMS"
+  - "\U0001F1FA\U0001F1F8 US 1736 VMS"
+  - "\U0001F1F8\U0001F1EC SG 1737 VMS"
+  - "\U0001F1ED\U0001F1F0 HK 1738 VMS"
+  - "\U0001F1FA\U0001F1F8 US 1739 VMS"
+  - "\U0001F1F8\U0001F1EC SG 1740 VMS"
+  - "\U0001F1FA\U0001F1F3 UN 1741 VMS"
+  - "\U0001F1FA\U0001F1F3 UN 1742 TJN"
+  - "\U0001F1FA\U0001F1F8 US 1743 TJN"
+  - "\U0001F1FB\U0001F1F3 VN 1744 VMS"
+  - "\U0001F1FA\U0001F1F3 UN 1745 VMS"
+  - "\U0001F1FA\U0001F1F3 UN 1746 VMS"
+  - "\U0001F1FA\U0001F1F3 UN 1747 TJN"
+  - "\U0001F1FA\U0001F1F3 UN 1748 TJN"
+  - "\U0001F1FA\U0001F1F3 UN 1749 TJN"
+  - "\U0001F1FA\U0001F1F3 UN 1750 TJN"
+  - "\U0001F1FB\U0001F1F3 VN 1751 TJN"
+  - "\U0001F1FB\U0001F1F3 VN 1752 TJN"
+  - "\U0001F1F8\U0001F1EC SG 1753 TJN"
+  - "\U0001F1F8\U0001F1EC SG 1754 VMS"
+  - "\U0001F1F8\U0001F1EC SG 1755 TJN"
+  - "\U0001F1FB\U0001F1F3 VN 1756 VMS"
+  - "\U0001F1FB\U0001F1F3 VN 1757 VMS"
+  - "\U0001F1FB\U0001F1F3 VN 1758 TJN"
+  - "\U0001F1FB\U0001F1F3 VN 1759 TJN"
+  - "\U0001F1FB\U0001F1F3 VN 1760 VMS"
+  - "\U0001F1FB\U0001F1F3 VN 1761 TJN"
 rules:
 - "MATCH,\U0001F310 Proxy"
