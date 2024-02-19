@@ -6104,7 +6104,7 @@ proxies:
   cipher: chacha20-ietf-poly1305
   password: f44cb5a7-4b5b-45cc-8aa1-97f8227b5616
   udp: true
-- name: "\U0001F1FA\U0001F1F3 UN 563 VMS"
+- name: "\U0001F1E9\U0001F1EA DE 563 VMS"
   server: hackteam.link
   port: 2083
   type: vmess
@@ -9201,7 +9201,7 @@ proxies:
     headers:
       Host: ca6.tehme100.fun
   udp: true
-- name: "\U0001F1FA\U0001F1F3 UN 906 TJN"
+- name: "\U0001F1FA\U0001F1F8 US 906 TJN"
   server: aws-hk-1.f1cflinea.com
   port: 443
   type: trojan
@@ -9338,7 +9338,7 @@ proxies:
   cipher: aes-256-gcm
   password: RexnBgU7EV5ADxG
   udp: true
-- name: "\U0001F1FA\U0001F1F8 US 920 VMS"
+- name: "\U0001F1FA\U0001F1F3 UN 920 VMS"
   server: moon.chanell.mci.v-x4ssd.space
   port: 8080
   type: vmess
@@ -9877,7 +9877,7 @@ proxies:
   cipher: aes-256-gcm
   password: Y6R9pAtvxxzmGC
   udp: true
-- name: "\U0001F1EF\U0001F1F5 JP 975 TJN"
+- name: "\U0001F1ED\U0001F1F0 HK 975 TJN"
   server: ar.mjt000.com
   port: 443
   type: trojan
@@ -9951,7 +9951,7 @@ proxies:
     headers:
       Host: in1.jiedian.stream
   udp: true
-- name: "\U0001F1FA\U0001F1F8 US 981 TJN"
+- name: "\U0001F1FA\U0001F1F3 UN 981 TJN"
   server: aws-sg-1.f1cflineb.com
   port: 443
   type: trojan
@@ -10171,7 +10171,7 @@ proxies:
   ws-opts:
     path: /vmess
   udp: true
-- name: "\U0001F1EF\U0001F1F5 JP 1002 TJN"
+- name: "\U0001F1ED\U0001F1F0 HK 1002 TJN"
   server: us01.trojanyyds.xyz
   port: 443
   type: trojan
@@ -10179,7 +10179,7 @@ proxies:
   sni: us01.trojanyyds.xyz
   skip-cert-verify: true
   udp: true
-- name: "\U0001F1FA\U0001F1F3 UN 1003 TJN"
+- name: "\U0001F1FA\U0001F1F8 US 1003 TJN"
   server: cf.network383.online
   port: 2096
   type: trojan
@@ -11051,7 +11051,7 @@ proxies:
     headers:
       Host: 6us3.pqjc.buzz
   udp: true
-- name: "\U0001F1FA\U0001F1F3 UN 1088 VMS"
+- name: "\U0001F1FA\U0001F1F8 US 1088 VMS"
   server: sbl4.shabijichang.com
   port: 80
   type: vmess
@@ -11144,7 +11144,7 @@ proxies:
   cipher: aes-256-gcm
   password: faBAoD54k87UJG7
   udp: true
-- name: "\U0001F1FA\U0001F1F8 US 1096 VMS"
+- name: "\U0001F1FA\U0001F1F3 UN 1096 VMS"
   server: moon.chanell.mci.v-x4ssd.space
   port: 8080
   type: vmess
@@ -11265,7 +11265,7 @@ proxies:
   sni: aws-ch-zurich-1.f1rocketnode.com
   skip-cert-verify: true
   udp: true
-- name: "\U0001F1FA\U0001F1F8 US 1107 TJN"
+- name: "\U0001F1FA\U0001F1F3 UN 1107 TJN"
   server: aws-ar-buenosaires-1.f1cflinea.com
   port: 443
   type: trojan
@@ -11458,7 +11458,7 @@ proxies:
     headers:
       Host: 6us3.pqjc.buzz
   udp: true
-- name: "\U0001F1EF\U0001F1F5 JP 1125 TJN"
+- name: "\U0001F1ED\U0001F1F0 HK 1125 TJN"
   server: ru01.trojanyyds.xyz
   port: 443
   type: trojan
@@ -11473,7 +11473,7 @@ proxies:
   cipher: aes-256-gcm
   password: FoOiGlkAA9yPEGP
   udp: true
-- name: "\U0001F1FA\U0001F1F8 US 1127 TJN"
+- name: "\U0001F1FA\U0001F1F3 UN 1127 TJN"
   server: aws-jp-tokyo-1.f1cflinea.com
   port: 443
   type: trojan
@@ -11800,7 +11800,7 @@ proxies:
   cipher: aes-256-gcm
   password: FoOiGlkAA9yPEGP
   udp: true
-- name: "\U0001F1FA\U0001F1F8 US 1160 TJN"
+- name: "\U0001F1FA\U0001F1F3 UN 1160 TJN"
   server: aws-uae-1.f1cflineb.com
   port: 443
   type: trojan
@@ -12359,7 +12359,7 @@ proxies:
   cipher: aes-256-gcm
   password: cdBIDV42DCwnfIN
   udp: true
-- name: "\U0001F1FA\U0001F1F3 UN 1221 VMS"
+- name: "\U0001F1FA\U0001F1F8 US 1221 VMS"
   server: ming2.kiwireich.com
   port: 443
   type: vmess
@@ -12630,7 +12630,7 @@ proxies:
   tls: false
   skip-cert-verify: true
   udp: true
-- name: "\U0001F1FA\U0001F1F8 US 1250 VMS"
+- name: "\U0001F1FA\U0001F1F3 UN 1250 VMS"
   server: 1208.ssfree.ru
   port: 443
   type: vmess
@@ -12645,7 +12645,7 @@ proxies:
     headers:
       Host: 1208.ssfree.ru
   udp: true
-- name: "\U0001F1FA\U0001F1F3 UN 1251 VMS"
+- name: "\U0001F1FA\U0001F1F8 US 1251 VMS"
   server: sbl2.shabijichang.com
   port: 80
   type: vmess
@@ -12932,7 +12932,7 @@ proxies:
   sni: aws-hk-1.f1rocketnode.com
   skip-cert-verify: true
   udp: true
-- name: "\U0001F1FA\U0001F1F3 UN 1277 TJN"
+- name: "\U0001F1FA\U0001F1F8 US 1277 TJN"
   server: aws-ar-buenosaires-1.f1cflineb.com
   port: 443
   type: trojan
@@ -13650,7 +13650,7 @@ proxies:
     headers:
       Host: 6us3.pqjc.buzz
   udp: true
-- name: "\U0001F1FA\U0001F1F8 US 1345 VMS"
+- name: "\U0001F1FA\U0001F1F3 UN 1345 VMS"
   server: cn.azhz.eu.org
   port: 2096
   type: vmess
@@ -13859,7 +13859,7 @@ proxies:
   cipher: aes-256-gcm
   password: RexnBgU7EV5ADxG
   udp: true
-- name: "\U0001F1FA\U0001F1F3 UN 1367 TJN"
+- name: "\U0001F1FA\U0001F1F8 US 1367 TJN"
   server: cf.network383.online
   port: 2096
   type: trojan
@@ -13932,7 +13932,7 @@ proxies:
     headers:
       Host: ams-trojan-ws.carfin.tech
   udp: true
-- name: "\U0001F1FA\U0001F1F8 US 1374 TJN"
+- name: "\U0001F1FA\U0001F1F3 UN 1374 TJN"
   server: aws-in-mumbai-1.f1cflinea.com
   port: 443
   type: trojan
@@ -14017,7 +14017,7 @@ proxies:
   password: wkmY1R4EcP
   skip-cert-verify: true
   udp: true
-- name: "\U0001F1FA\U0001F1F3 UN 1383 TJN"
+- name: "\U0001F1FA\U0001F1F8 US 1383 TJN"
   server: aws-fr-paris-1.f1cflineb.com
   port: 443
   type: trojan
@@ -14131,7 +14131,7 @@ proxies:
   cipher: chacha20-ietf-poly1305
   password: ba3d636a-eeb9-4a6e-9755-c7eac5228c81
   udp: true
-- name: "\U0001F1FA\U0001F1F3 UN 1395 TJN"
+- name: "\U0001F1FA\U0001F1F8 US 1395 TJN"
   server: aws-ge-frankfurt-1.f1cflinea.com
   port: 443
   type: trojan
@@ -14438,7 +14438,7 @@ proxies:
   cipher: chacha20-ietf-poly1305
   password: G!yBwPWH3Vao
   udp: true
-- name: "\U0001F1FA\U0001F1F3 UN 1425 TJN"
+- name: "\U0001F1FA\U0001F1F8 US 1425 TJN"
   server: cf.network383.online
   port: 2096
   type: trojan
@@ -14844,7 +14844,7 @@ proxies:
     headers:
       Host: 6us3.pqjc.buzz
   udp: true
-- name: "\U0001F1FA\U0001F1F8 US 1465 TJN"
+- name: "\U0001F1FA\U0001F1F3 UN 1465 TJN"
   server: aws-id-jakarta-1.f1cflineb.com
   port: 443
   type: trojan
@@ -16032,7 +16032,7 @@ proxies:
     headers:
       Host: 6us3.pqjc.buzz
   udp: true
-- name: "\U0001F1FA\U0001F1F8 US 1583 TJN"
+- name: "\U0001F1FA\U0001F1F3 UN 1583 TJN"
   server: aws-es-madrid-1.f1cflineb.com
   port: 443
   type: trojan
@@ -16054,7 +16054,7 @@ proxies:
   cipher: aes-256-gcm
   password: g5MeD6Ft3CWlJId
   udp: true
-- name: "\U0001F1FA\U0001F1F8 US 1586 VMS"
+- name: "\U0001F1FA\U0001F1F3 UN 1586 VMS"
   server: www.wto.org
   port: 443
   type: vmess
@@ -16107,7 +16107,7 @@ proxies:
     headers:
       Host: 6us3.pqjc.buzz
   udp: true
-- name: "\U0001F1FA\U0001F1F3 UN 1591 TJN"
+- name: "\U0001F1FA\U0001F1F8 US 1591 TJN"
   server: cf.network383.online
   port: 8443
   type: trojan
@@ -16155,7 +16155,7 @@ proxies:
     headers:
       Host: 6us3.pqjc.buzz
   udp: true
-- name: "\U0001F1FA\U0001F1F8 US 1596 VMS"
+- name: "\U0001F1FA\U0001F1F3 UN 1596 VMS"
   server: mm3.shabijichang.com
   port: 80
   type: vmess
@@ -16208,7 +16208,7 @@ proxies:
     headers:
       Host: 152.67.218.38
   udp: true
-- name: "\U0001F1FA\U0001F1F3 UN 1600 TJN"
+- name: "\U0001F1FA\U0001F1F8 US 1600 TJN"
   server: aws-it-milan-1.f1cflineb.com
   port: 443
   type: trojan
@@ -16389,7 +16389,824 @@ proxies:
   tls: false
   skip-cert-verify: true
   udp: true
-- name: "\U0001F1F8\U0001F1EC SG 1618 VMS"
+- name: "\U0001F1FA\U0001F1F3 UN 1618 VMS"
+  type: vmess
+  server: 104.21.228.44
+  port: 80
+  cipher: auto
+  uuid: 7022982f-da4c-48c9-c660-b2315abdcf7e
+  alterId: 0
+  tls: false
+  skip-cert-verify: true
+  network: ws
+  ws-opts:
+    path: /?ed=2048
+    headers:
+      host: a.prapt5.ir
+- name: "\U0001F1FA\U0001F1F3 UN 1619 VMS"
+  type: vmess
+  server: 104.21.225.132
+  port: 80
+  cipher: auto
+  uuid: 7022982f-da4c-48c9-c660-b2315abdcf7e
+  alterId: 0
+  tls: false
+  skip-cert-verify: true
+  network: ws
+  ws-opts:
+    path: /
+    headers:
+      host: a.prapt5.ir
+- name: "\U0001F1FA\U0001F1F3 UN 1620 VMS"
+  type: vmess
+  server: 104.21.229.48
+  port: 80
+  cipher: auto
+  uuid: 7022982f-da4c-48c9-c660-b2315abdcf7e
+  alterId: 0
+  tls: false
+  skip-cert-verify: true
+  network: ws
+  ws-opts:
+    path: /?ed=2048
+    headers:
+      host: a.prapt5.ir
+- name: "\U0001F1FA\U0001F1F3 UN 1621 VMS"
+  type: vmess
+  server: 104.21.239.76
+  port: 80
+  cipher: auto
+  uuid: 7022982f-da4c-48c9-c660-b2315abdcf7e
+  alterId: 0
+  tls: false
+  skip-cert-verify: true
+  network: ws
+  ws-opts:
+    path: /?ed=2048
+    headers:
+      host: a.prapt5.ir
+- name: "\U0001F1FA\U0001F1F3 UN 1622 VMS"
+  type: vmess
+  server: 104.21.226.10
+  port: 80
+  cipher: auto
+  uuid: 7022982f-da4c-48c9-c660-b2315abdcf7e
+  alterId: 0
+  tls: false
+  skip-cert-verify: true
+  network: ws
+  ws-opts:
+    path: /?ed=2048
+    headers:
+      host: a.prapt5.ir
+- name: "\U0001F1FA\U0001F1F3 UN 1623 VMS"
+  type: vmess
+  server: 104.21.227.38
+  port: 80
+  cipher: auto
+  uuid: 7022982f-da4c-48c9-c660-b2315abdcf7e
+  alterId: 0
+  tls: false
+  skip-cert-verify: true
+  network: ws
+  ws-opts:
+    path: /?ed=2048
+    headers:
+      host: a.prapt5.ir
+- name: "\U0001F1FA\U0001F1F3 UN 1624 VMS"
+  type: vmess
+  server: 104.21.238.73
+  port: 80
+  cipher: auto
+  uuid: 7022982f-da4c-48c9-c660-b2315abdcf7e
+  alterId: 0
+  tls: false
+  skip-cert-verify: true
+  network: ws
+  ws-opts:
+    path: /?ed=2048
+    headers:
+      host: a.prapt5.ir
+- name: "\U0001F1FA\U0001F1F8 US 1625 VMS"
+  type: vmess
+  server: 104.24.208.37
+  port: 80
+  cipher: auto
+  uuid: 7022982f-da4c-48c9-c660-b2315abdcf7e
+  alterId: 0
+  tls: false
+  skip-cert-verify: true
+  network: ws
+  ws-opts:
+    path: /
+    headers:
+      host: my1.tooters.ir
+- name: "\U0001F1FA\U0001F1F3 UN 1626 VMS"
+  type: vmess
+  server: 104.21.225.174
+  port: 80
+  cipher: auto
+  uuid: 7022982f-da4c-48c9-c660-b2315abdcf7e
+  alterId: 0
+  tls: false
+  skip-cert-verify: true
+  network: ws
+  ws-opts:
+    path: /
+    headers:
+      host: a.prapt5.ir
+- name: "\U0001F1FA\U0001F1F3 UN 1627 VMS"
+  type: vmess
+  server: 104.21.235.56
+  port: 80
+  cipher: auto
+  uuid: 7022982f-da4c-48c9-c660-b2315abdcf7e
+  alterId: 0
+  tls: false
+  skip-cert-verify: true
+  network: ws
+  ws-opts:
+    path: /?ed=2048
+    headers:
+      host: a.prapt5.ir
+- name: "\U0001F1FA\U0001F1F3 UN 1628 VMS"
+  type: vmess
+  server: 104.21.226.33
+  port: 80
+  cipher: auto
+  uuid: 7022982f-da4c-48c9-c660-b2315abdcf7e
+  alterId: 0
+  tls: false
+  skip-cert-verify: true
+  network: ws
+  ws-opts:
+    path: /?ed=2048
+    headers:
+      host: a.prapt5.ir
+- name: "\U0001F1FA\U0001F1F3 UN 1629 VMS"
+  type: vmess
+  server: 104.21.236.80
+  port: 80
+  cipher: auto
+  uuid: 7022982f-da4c-48c9-c660-b2315abdcf7e
+  alterId: 0
+  tls: false
+  skip-cert-verify: true
+  network: ws
+  ws-opts:
+    path: /?ed=2048
+    headers:
+      host: a.prapt5.ir
+- name: "\U0001F1FA\U0001F1F3 UN 1630 VMS"
+  type: vmess
+  server: 104.21.237.88
+  port: 80
+  cipher: auto
+  uuid: 7022982f-da4c-48c9-c660-b2315abdcf7e
+  alterId: 0
+  tls: false
+  skip-cert-verify: true
+  network: ws
+  ws-opts:
+    path: /?ed=2048
+    headers:
+      host: a.prapt5.ir
+- name: "\U0001F1FA\U0001F1F3 UN 1631 VMS"
+  type: vmess
+  server: 104.21.225.47
+  port: 80
+  cipher: auto
+  uuid: 7022982f-da4c-48c9-c660-b2315abdcf7e
+  alterId: 0
+  tls: false
+  skip-cert-verify: true
+  network: ws
+  ws-opts:
+    path: /
+    headers:
+      host: a.prapt5.ir
+- name: "\U0001F1FA\U0001F1F3 UN 1632 VMS"
+  type: vmess
+  server: 104.21.233.66
+  port: 80
+  cipher: auto
+  uuid: 7022982f-da4c-48c9-c660-b2315abdcf7e
+  alterId: 0
+  tls: false
+  skip-cert-verify: true
+  network: ws
+  ws-opts:
+    path: /
+    headers:
+      host: a.prapt5.ir
+- name: "\U0001F1FA\U0001F1F3 UN 1633 VMS"
+  type: vmess
+  server: 104.21.235.79
+  port: 80
+  cipher: auto
+  uuid: 7022982f-da4c-48c9-c660-b2315abdcf7e
+  alterId: 0
+  tls: false
+  skip-cert-verify: true
+  network: ws
+  ws-opts:
+    path: /?ed=2048
+    headers:
+      host: a.prapt5.ir
+- name: "\U0001F1FA\U0001F1F3 UN 1634 VMS"
+  type: vmess
+  server: 104.21.227.16
+  port: 80
+  cipher: auto
+  uuid: 7022982f-da4c-48c9-c660-b2315abdcf7e
+  alterId: 0
+  tls: false
+  skip-cert-verify: true
+  network: ws
+  ws-opts:
+    path: /?ed=2048
+    headers:
+      host: a.prapt5.ir
+- name: "\U0001F1FA\U0001F1F3 UN 1635 VMS"
+  type: vmess
+  server: 104.21.235.78
+  port: 80
+  cipher: auto
+  uuid: 7022982f-da4c-48c9-c660-b2315abdcf7e
+  alterId: 0
+  tls: false
+  skip-cert-verify: true
+  network: ws
+  ws-opts:
+    path: /?ed=2048
+    headers:
+      host: a.prapt5.ir
+- name: "\U0001F1FA\U0001F1F3 UN 1636 VMS"
+  type: vmess
+  server: 104.20.231.30
+  port: 80
+  cipher: auto
+  uuid: 7022982f-da4c-48c9-c660-b2315abdcf7e
+  alterId: 0
+  tls: false
+  skip-cert-verify: true
+  network: ws
+  ws-opts:
+    path: /
+    headers:
+      host: my1.tooters.ir
+- name: "\U0001F1FA\U0001F1F3 UN 1637 VMS"
+  type: vmess
+  server: 104.21.238.93
+  port: 80
+  cipher: auto
+  uuid: 7022982f-da4c-48c9-c660-b2315abdcf7e
+  alterId: 0
+  tls: false
+  skip-cert-verify: true
+  network: ws
+  ws-opts:
+    path: /?ed=2048
+    headers:
+      host: a.prapt5.ir
+- name: "\U0001F1FA\U0001F1F3 UN 1638 VMS"
+  type: vmess
+  server: 104.21.238.72
+  port: 80
+  cipher: auto
+  uuid: 7022982f-da4c-48c9-c660-b2315abdcf7e
+  alterId: 0
+  tls: false
+  skip-cert-verify: true
+  network: ws
+  ws-opts:
+    path: /?ed=2048
+    headers:
+      host: a.prapt5.ir
+- name: "\U0001F1FA\U0001F1F3 UN 1639 VMS"
+  type: vmess
+  server: 104.21.229.46
+  port: 80
+  cipher: auto
+  uuid: 7022982f-da4c-48c9-c660-b2315abdcf7e
+  alterId: 0
+  tls: false
+  skip-cert-verify: true
+  network: ws
+  ws-opts:
+    path: /?ed=2048
+    headers:
+      host: a.prapt5.ir
+- name: "\U0001F1FA\U0001F1F3 UN 1640 VMS"
+  type: vmess
+  server: 104.21.234.54
+  port: 80
+  cipher: auto
+  uuid: 7022982f-da4c-48c9-c660-b2315abdcf7e
+  alterId: 0
+  tls: false
+  skip-cert-verify: true
+  network: ws
+  ws-opts:
+    path: /?ed=2048
+    headers:
+      host: a.prapt5.ir
+- name: "\U0001F1FA\U0001F1F3 UN 1641 VMS"
+  type: vmess
+  server: 104.21.236.84
+  port: 80
+  cipher: auto
+  uuid: 7022982f-da4c-48c9-c660-b2315abdcf7e
+  alterId: 0
+  tls: false
+  skip-cert-verify: true
+  network: ws
+  ws-opts:
+    path: /?ed=2048
+    headers:
+      host: a.prapt5.ir
+- name: "\U0001F1FA\U0001F1F3 UN 1642 VMS"
+  type: vmess
+  server: 104.21.227.35
+  port: 80
+  cipher: auto
+  uuid: 7022982f-da4c-48c9-c660-b2315abdcf7e
+  alterId: 0
+  tls: false
+  skip-cert-verify: true
+  network: ws
+  ws-opts:
+    path: /?ed=2048
+    headers:
+      host: a.prapt5.ir
+- name: "\U0001F1FA\U0001F1F3 UN 1643 VMS"
+  type: vmess
+  server: 104.21.235.57
+  port: 80
+  cipher: auto
+  uuid: 7022982f-da4c-48c9-c660-b2315abdcf7e
+  alterId: 0
+  tls: false
+  skip-cert-verify: true
+  network: ws
+  ws-opts:
+    path: /?ed=2048
+    headers:
+      host: a.prapt5.ir
+- name: "\U0001F1FA\U0001F1F3 UN 1644 VMS"
+  type: vmess
+  server: 104.21.224.24
+  port: 80
+  cipher: auto
+  uuid: 7022982f-da4c-48c9-c660-b2315abdcf7e
+  alterId: 0
+  tls: false
+  skip-cert-verify: true
+  network: ws
+  ws-opts:
+    path: /?ed=2048
+    headers:
+      host: a.prapt5.ir
+- name: "\U0001F1FA\U0001F1F3 UN 1645 VMS"
+  type: vmess
+  server: 104.21.228.40
+  port: 80
+  cipher: auto
+  uuid: 7022982f-da4c-48c9-c660-b2315abdcf7e
+  alterId: 0
+  tls: false
+  skip-cert-verify: true
+  network: ws
+  ws-opts:
+    path: /?ed=2048
+    headers:
+      host: a.prapt5.ir
+- name: "\U0001F1FA\U0001F1F3 UN 1646 VMS"
+  type: vmess
+  server: 104.21.225.62
+  port: 80
+  cipher: auto
+  uuid: 7022982f-da4c-48c9-c660-b2315abdcf7e
+  alterId: 0
+  tls: false
+  skip-cert-verify: true
+  network: ws
+  ws-opts:
+    path: /
+    headers:
+      host: a.prapt5.ir
+- name: "\U0001F1FA\U0001F1F3 UN 1647 VMS"
+  type: vmess
+  server: 104.21.225.100
+  port: 80
+  cipher: auto
+  uuid: 7022982f-da4c-48c9-c660-b2315abdcf7e
+  alterId: 0
+  tls: false
+  skip-cert-verify: true
+  network: ws
+  ws-opts:
+    path: /
+    headers:
+      host: a.prapt5.ir
+- name: "\U0001F1FA\U0001F1F3 UN 1648 VMS"
+  type: vmess
+  server: 104.21.232.41
+  port: 80
+  cipher: auto
+  uuid: 7022982f-da4c-48c9-c660-b2315abdcf7e
+  alterId: 0
+  tls: false
+  skip-cert-verify: true
+  network: ws
+  ws-opts:
+    path: /?ed=2048
+    headers:
+      host: a.prapt5.ir
+- name: "\U0001F1FA\U0001F1F3 UN 1649 VMS"
+  type: vmess
+  server: 104.21.225.27
+  port: 80
+  cipher: auto
+  uuid: 7022982f-da4c-48c9-c660-b2315abdcf7e
+  alterId: 0
+  tls: false
+  skip-cert-verify: true
+  network: ws
+  ws-opts:
+    path: /?ed=2048
+    headers:
+      host: a.prapt5.ir
+- name: "\U0001F1F9\U0001F1FC TW 1650 VMS"
+  type: vmess
+  server: 36.232.170.53
+  port: 14431
+  cipher: auto
+  uuid: b534a780-d521-402d-9a68-aea33e47a5de
+  alterId: 0
+  tls: false
+  skip-cert-verify: true
+  network: tcp
+- name: "\U0001F1FA\U0001F1F3 UN 1651 VMS"
+  type: vmess
+  server: 104.21.232.61
+  port: 80
+  cipher: auto
+  uuid: 7022982f-da4c-48c9-c660-b2315abdcf7e
+  alterId: 0
+  tls: false
+  skip-cert-verify: true
+  network: ws
+  ws-opts:
+    path: /?ed=2048
+    headers:
+      host: a.prapt5.ir
+- name: "\U0001F1FA\U0001F1F3 UN 1652 VMS"
+  type: vmess
+  server: 104.21.225.26
+  port: 80
+  cipher: auto
+  uuid: 7022982f-da4c-48c9-c660-b2315abdcf7e
+  alterId: 0
+  tls: false
+  skip-cert-verify: true
+  network: ws
+  ws-opts:
+    path: /?ed=2048
+    headers:
+      host: a.prapt5.ir
+- name: "\U0001F1FA\U0001F1F3 UN 1653 VMS"
+  type: vmess
+  server: 104.21.236.81
+  port: 80
+  cipher: auto
+  uuid: 7022982f-da4c-48c9-c660-b2315abdcf7e
+  alterId: 0
+  tls: false
+  skip-cert-verify: true
+  network: ws
+  ws-opts:
+    path: /?ed=2048
+    headers:
+      host: a.prapt5.ir
+- name: "\U0001F1FA\U0001F1F3 UN 1654 VMS"
+  type: vmess
+  server: 104.21.226.32
+  port: 80
+  cipher: auto
+  uuid: 7022982f-da4c-48c9-c660-b2315abdcf7e
+  alterId: 0
+  tls: false
+  skip-cert-verify: true
+  network: ws
+  ws-opts:
+    path: /
+    headers:
+      host: a.prapt5.ir
+- name: "\U0001F1FA\U0001F1F3 UN 1655 VMS"
+  type: vmess
+  server: 104.21.225.29
+  port: 80
+  cipher: auto
+  uuid: 7022982f-da4c-48c9-c660-b2315abdcf7e
+  alterId: 0
+  tls: false
+  skip-cert-verify: true
+  network: ws
+  ws-opts:
+    path: /?ed=2048
+    headers:
+      host: a.prapt5.ir
+- name: "\U0001F1FA\U0001F1F3 UN 1656 VMS"
+  type: vmess
+  server: 104.16.77.74
+  port: 80
+  cipher: auto
+  uuid: 7022982f-da4c-48c9-c660-b2315abdcf7e
+  alterId: 0
+  tls: false
+  skip-cert-verify: true
+  network: ws
+  ws-opts:
+    path: /?ed=2048
+    headers:
+      host: my1.tooters.ir
+- name: "\U0001F1E9\U0001F1EA DE 1657 TJN"
+  type: trojan
+  server: 5.104.108.120
+  port: 443
+  udp: true
+  password: 45a8d20d-9a78-4be4-a74a-ab3b9e84e34e
+  sni: 20-24-33-134.nhost.00cdn.com
+  skip-cert-verify: true
+  network: tcp
+- name: "\U0001F1FA\U0001F1F3 UN 1658 VMS"
+  type: vmess
+  server: 104.21.230.33
+  port: 80
+  cipher: auto
+  uuid: 7022982f-da4c-48c9-c660-b2315abdcf7e
+  alterId: 0
+  tls: false
+  skip-cert-verify: true
+  network: ws
+  ws-opts:
+    path: /?ed=2048
+    headers:
+      host: a.prapt5.ir
+- name: "\U0001F1FA\U0001F1F3 UN 1659 VMS"
+  type: vmess
+  server: 104.21.225.217
+  port: 80
+  cipher: auto
+  uuid: 7022982f-da4c-48c9-c660-b2315abdcf7e
+  alterId: 0
+  tls: false
+  skip-cert-verify: true
+  network: ws
+  ws-opts:
+    path: /
+    headers:
+      host: a.prapt5.ir
+- name: "\U0001F1FA\U0001F1F3 UN 1660 VMS"
+  type: vmess
+  server: 104.21.233.67
+  port: 80
+  cipher: auto
+  uuid: 7022982f-da4c-48c9-c660-b2315abdcf7e
+  alterId: 0
+  tls: false
+  skip-cert-verify: true
+  network: ws
+  ws-opts:
+    path: /?ed=2048
+    headers:
+      host: a.prapt5.ir
+- name: "\U0001F1FA\U0001F1F3 UN 1661 VMS"
+  type: vmess
+  server: 104.21.230.53
+  port: 80
+  cipher: auto
+  uuid: 7022982f-da4c-48c9-c660-b2315abdcf7e
+  alterId: 0
+  tls: false
+  skip-cert-verify: true
+  network: ws
+  ws-opts:
+    path: /?ed=2048
+    headers:
+      host: a.prapt5.ir
+- name: "\U0001F1FA\U0001F1F3 UN 1662 VMS"
+  type: vmess
+  server: 104.21.225.11
+  port: 80
+  cipher: auto
+  uuid: 7022982f-da4c-48c9-c660-b2315abdcf7e
+  alterId: 0
+  tls: false
+  skip-cert-verify: true
+  network: ws
+  ws-opts:
+    path: /
+    headers:
+      host: a.prapt5.ir
+- name: "\U0001F1FA\U0001F1F3 UN 1663 VMS"
+  type: vmess
+  server: 104.21.225.134
+  port: 80
+  cipher: auto
+  uuid: 7022982f-da4c-48c9-c660-b2315abdcf7e
+  alterId: 0
+  tls: false
+  skip-cert-verify: true
+  network: ws
+  ws-opts:
+    path: /
+    headers:
+      host: a.prapt5.ir
+- name: "\U0001F1FA\U0001F1F3 UN 1664 VMS"
+  type: vmess
+  server: 104.21.229.45
+  port: 80
+  cipher: auto
+  uuid: 7022982f-da4c-48c9-c660-b2315abdcf7e
+  alterId: 0
+  tls: false
+  skip-cert-verify: true
+  network: ws
+  ws-opts:
+    path: /?ed=2048
+    headers:
+      host: a.prapt5.ir
+- name: "\U0001F1FA\U0001F1F3 UN 1665 VMS"
+  type: vmess
+  server: 104.21.225.22
+  port: 80
+  cipher: auto
+  uuid: 7022982f-da4c-48c9-c660-b2315abdcf7e
+  alterId: 0
+  tls: false
+  skip-cert-verify: true
+  network: ws
+  ws-opts:
+    path: /
+    headers:
+      host: a.prapt5.ir
+- name: "\U0001F1FA\U0001F1F3 UN 1666 VMS"
+  type: vmess
+  server: 104.21.225.170
+  port: 80
+  cipher: auto
+  uuid: 7022982f-da4c-48c9-c660-b2315abdcf7e
+  alterId: 0
+  tls: false
+  skip-cert-verify: true
+  network: ws
+  ws-opts:
+    path: /
+    headers:
+      host: a.prapt5.ir
+- name: "\U0001F1FA\U0001F1F3 UN 1667 VMS"
+  type: vmess
+  server: 104.21.224.0
+  port: 80
+  cipher: auto
+  uuid: 7022982f-da4c-48c9-c660-b2315abdcf7e
+  alterId: 0
+  tls: false
+  skip-cert-verify: true
+  network: ws
+  ws-opts:
+    path: /?ed=2048
+    headers:
+      host: a.prapt5.ir
+- name: "\U0001F1FA\U0001F1F3 UN 1668 VMS"
+  type: vmess
+  server: 104.21.224.1
+  port: 80
+  cipher: auto
+  uuid: 7022982f-da4c-48c9-c660-b2315abdcf7e
+  alterId: 0
+  tls: false
+  skip-cert-verify: true
+  network: ws
+  ws-opts:
+    path: /?ed=2048
+    headers:
+      host: a.prapt5.ir
+- name: "\U0001F1FA\U0001F1F3 UN 1669 VMS"
+  type: vmess
+  server: 104.21.224.2
+  port: 80
+  cipher: auto
+  uuid: 7022982f-da4c-48c9-c660-b2315abdcf7e
+  alterId: 0
+  tls: false
+  skip-cert-verify: true
+  network: ws
+  ws-opts:
+    path: /?ed=2048
+    headers:
+      host: a.prapt5.ir
+- name: "\U0001F1FA\U0001F1F3 UN 1670 VMS"
+  type: vmess
+  server: 104.21.224.3
+  port: 80
+  cipher: auto
+  uuid: 7022982f-da4c-48c9-c660-b2315abdcf7e
+  alterId: 0
+  tls: false
+  skip-cert-verify: true
+  network: ws
+  ws-opts:
+    path: /?ed=2048
+    headers:
+      host: a.prapt5.ir
+- name: "\U0001F1FA\U0001F1F3 UN 1671 VMS"
+  type: vmess
+  server: 104.21.224.4
+  port: 80
+  cipher: auto
+  uuid: 7022982f-da4c-48c9-c660-b2315abdcf7e
+  alterId: 0
+  tls: false
+  skip-cert-verify: true
+  network: ws
+  ws-opts:
+    path: /?ed=2048
+    headers:
+      host: a.prapt5.ir
+- name: "\U0001F1FA\U0001F1F3 UN 1672 VMS"
+  type: vmess
+  server: 104.21.225.5
+  port: 80
+  cipher: auto
+  uuid: 7022982f-da4c-48c9-c660-b2315abdcf7e
+  alterId: 0
+  tls: false
+  skip-cert-verify: true
+  network: ws
+  ws-opts:
+    path: /?ed=2048
+    headers:
+      host: a.prapt5.ir
+- name: "\U0001F1FA\U0001F1F3 UN 1673 VMS"
+  type: vmess
+  server: 104.21.225.6
+  port: 80
+  cipher: auto
+  uuid: 7022982f-da4c-48c9-c660-b2315abdcf7e
+  alterId: 0
+  tls: false
+  skip-cert-verify: true
+  network: ws
+  ws-opts:
+    path: /?ed=2048
+    headers:
+      host: a.prapt5.ir
+- name: "\U0001F1FA\U0001F1F3 UN 1674 VMS"
+  type: vmess
+  server: 104.21.225.7
+  port: 80
+  cipher: auto
+  uuid: 7022982f-da4c-48c9-c660-b2315abdcf7e
+  alterId: 0
+  tls: false
+  skip-cert-verify: true
+  network: ws
+  ws-opts:
+    path: /?ed=2048
+    headers:
+      host: a.prapt5.ir
+- name: "\U0001F1FA\U0001F1F3 UN 1675 VMS"
+  type: vmess
+  server: 104.21.225.8
+  port: 80
+  cipher: auto
+  uuid: 7022982f-da4c-48c9-c660-b2315abdcf7e
+  alterId: 0
+  tls: false
+  skip-cert-verify: true
+  network: ws
+  ws-opts:
+    path: /?ed=2048
+    headers:
+      host: a.prapt5.ir
+- name: "\U0001F1FA\U0001F1F3 UN 1676 VMS"
+  type: vmess
+  server: 104.21.225.9
+  port: 80
+  cipher: auto
+  uuid: 7022982f-da4c-48c9-c660-b2315abdcf7e
+  alterId: 0
+  tls: false
+  skip-cert-verify: true
+  network: ws
+  ws-opts:
+    path: /?ed=2048
+    headers:
+      host: a.prapt5.ir
+- name: "\U0001F1F8\U0001F1EC SG 1677 VMS"
   type: vmess
   server: 8.222.215.228
   port: 80
@@ -16404,7 +17221,7 @@ proxies:
     path: /
     headers:
       host: my1.tooters.ir
-- name: "\U0001F1EF\U0001F1F5 JP 1619 VMS"
+- name: "\U0001F1EF\U0001F1F5 JP 1678 VMS"
   type: vmess
   server: 141.147.178.135
   port: 80
@@ -16419,7 +17236,7 @@ proxies:
     path: /
     headers:
       host: my1.tooters.ir
-- name: "\U0001F1F8\U0001F1EC SG 1620 VMS"
+- name: "\U0001F1F8\U0001F1EC SG 1679 VMS"
   type: vmess
   server: 8.222.249.190
   port: 80
@@ -16434,7 +17251,7 @@ proxies:
     path: /
     headers:
       host: my1.tooters.ir
-- name: "\U0001F1EF\U0001F1F5 JP 1621 VMS"
+- name: "\U0001F1EF\U0001F1F5 JP 1680 VMS"
   type: vmess
   server: 141.147.181.148
   port: 80
@@ -16449,7 +17266,7 @@ proxies:
     path: /
     headers:
       host: my1.tooters.ir
-- name: "\U0001F1F8\U0001F1EC SG 1622 VMS"
+- name: "\U0001F1F8\U0001F1EC SG 1681 VMS"
   type: vmess
   server: 8.222.237.131
   port: 80
@@ -16464,7 +17281,7 @@ proxies:
     path: /
     headers:
       host: my1.tooters.ir
-- name: "\U0001F1F8\U0001F1EC SG 1623 VMS"
+- name: "\U0001F1F8\U0001F1EC SG 1682 VMS"
   type: vmess
   server: 8.222.159.252
   port: 80
@@ -16479,7 +17296,7 @@ proxies:
     path: /
     headers:
       host: my1.tooters.ir
-- name: "\U0001F1F8\U0001F1EC SG 1624 VMS"
+- name: "\U0001F1F8\U0001F1EC SG 1683 VMS"
   type: vmess
   server: 8.222.167.147
   port: 80
@@ -16494,7 +17311,7 @@ proxies:
     path: /
     headers:
       host: my1.tooters.ir
-- name: "\U0001F1F8\U0001F1EC SG 1625 VMS"
+- name: "\U0001F1F8\U0001F1EC SG 1684 VMS"
   type: vmess
   server: 8.222.150.197
   port: 80
@@ -16509,7 +17326,7 @@ proxies:
     path: /
     headers:
       host: my1.tooters.ir
-- name: "\U0001F1F8\U0001F1EC SG 1626 VMS"
+- name: "\U0001F1F8\U0001F1EC SG 1685 VMS"
   type: vmess
   server: 8.222.174.108
   port: 80
@@ -16524,823 +17341,6 @@ proxies:
     path: /
     headers:
       host: my1.tooters.ir
-- name: "\U0001F1FA\U0001F1F3 UN 1627 VMS"
-  type: vmess
-  server: 104.21.228.44
-  port: 80
-  cipher: auto
-  uuid: 7022982f-da4c-48c9-c660-b2315abdcf7e
-  alterId: 0
-  tls: false
-  skip-cert-verify: true
-  network: ws
-  ws-opts:
-    path: /?ed=2048
-    headers:
-      host: a.prapt5.ir
-- name: "\U0001F1FA\U0001F1F3 UN 1628 VMS"
-  type: vmess
-  server: 104.21.225.132
-  port: 80
-  cipher: auto
-  uuid: 7022982f-da4c-48c9-c660-b2315abdcf7e
-  alterId: 0
-  tls: false
-  skip-cert-verify: true
-  network: ws
-  ws-opts:
-    path: /
-    headers:
-      host: a.prapt5.ir
-- name: "\U0001F1FA\U0001F1F3 UN 1629 VMS"
-  type: vmess
-  server: 104.21.229.48
-  port: 80
-  cipher: auto
-  uuid: 7022982f-da4c-48c9-c660-b2315abdcf7e
-  alterId: 0
-  tls: false
-  skip-cert-verify: true
-  network: ws
-  ws-opts:
-    path: /?ed=2048
-    headers:
-      host: a.prapt5.ir
-- name: "\U0001F1FA\U0001F1F3 UN 1630 VMS"
-  type: vmess
-  server: 104.21.239.76
-  port: 80
-  cipher: auto
-  uuid: 7022982f-da4c-48c9-c660-b2315abdcf7e
-  alterId: 0
-  tls: false
-  skip-cert-verify: true
-  network: ws
-  ws-opts:
-    path: /?ed=2048
-    headers:
-      host: a.prapt5.ir
-- name: "\U0001F1FA\U0001F1F3 UN 1631 VMS"
-  type: vmess
-  server: 104.21.226.10
-  port: 80
-  cipher: auto
-  uuid: 7022982f-da4c-48c9-c660-b2315abdcf7e
-  alterId: 0
-  tls: false
-  skip-cert-verify: true
-  network: ws
-  ws-opts:
-    path: /?ed=2048
-    headers:
-      host: a.prapt5.ir
-- name: "\U0001F1FA\U0001F1F3 UN 1632 VMS"
-  type: vmess
-  server: 104.21.227.38
-  port: 80
-  cipher: auto
-  uuid: 7022982f-da4c-48c9-c660-b2315abdcf7e
-  alterId: 0
-  tls: false
-  skip-cert-verify: true
-  network: ws
-  ws-opts:
-    path: /?ed=2048
-    headers:
-      host: a.prapt5.ir
-- name: "\U0001F1FA\U0001F1F3 UN 1633 VMS"
-  type: vmess
-  server: 104.21.238.73
-  port: 80
-  cipher: auto
-  uuid: 7022982f-da4c-48c9-c660-b2315abdcf7e
-  alterId: 0
-  tls: false
-  skip-cert-verify: true
-  network: ws
-  ws-opts:
-    path: /?ed=2048
-    headers:
-      host: a.prapt5.ir
-- name: "\U0001F1FA\U0001F1F8 US 1634 VMS"
-  type: vmess
-  server: 104.24.208.37
-  port: 80
-  cipher: auto
-  uuid: 7022982f-da4c-48c9-c660-b2315abdcf7e
-  alterId: 0
-  tls: false
-  skip-cert-verify: true
-  network: ws
-  ws-opts:
-    path: /
-    headers:
-      host: my1.tooters.ir
-- name: "\U0001F1FA\U0001F1F3 UN 1635 VMS"
-  type: vmess
-  server: 104.21.225.174
-  port: 80
-  cipher: auto
-  uuid: 7022982f-da4c-48c9-c660-b2315abdcf7e
-  alterId: 0
-  tls: false
-  skip-cert-verify: true
-  network: ws
-  ws-opts:
-    path: /
-    headers:
-      host: a.prapt5.ir
-- name: "\U0001F1FA\U0001F1F3 UN 1636 VMS"
-  type: vmess
-  server: 104.21.235.56
-  port: 80
-  cipher: auto
-  uuid: 7022982f-da4c-48c9-c660-b2315abdcf7e
-  alterId: 0
-  tls: false
-  skip-cert-verify: true
-  network: ws
-  ws-opts:
-    path: /?ed=2048
-    headers:
-      host: a.prapt5.ir
-- name: "\U0001F1FA\U0001F1F3 UN 1637 VMS"
-  type: vmess
-  server: 104.21.226.33
-  port: 80
-  cipher: auto
-  uuid: 7022982f-da4c-48c9-c660-b2315abdcf7e
-  alterId: 0
-  tls: false
-  skip-cert-verify: true
-  network: ws
-  ws-opts:
-    path: /?ed=2048
-    headers:
-      host: a.prapt5.ir
-- name: "\U0001F1FA\U0001F1F3 UN 1638 VMS"
-  type: vmess
-  server: 104.21.236.80
-  port: 80
-  cipher: auto
-  uuid: 7022982f-da4c-48c9-c660-b2315abdcf7e
-  alterId: 0
-  tls: false
-  skip-cert-verify: true
-  network: ws
-  ws-opts:
-    path: /?ed=2048
-    headers:
-      host: a.prapt5.ir
-- name: "\U0001F1FA\U0001F1F3 UN 1639 VMS"
-  type: vmess
-  server: 104.21.237.88
-  port: 80
-  cipher: auto
-  uuid: 7022982f-da4c-48c9-c660-b2315abdcf7e
-  alterId: 0
-  tls: false
-  skip-cert-verify: true
-  network: ws
-  ws-opts:
-    path: /?ed=2048
-    headers:
-      host: a.prapt5.ir
-- name: "\U0001F1FA\U0001F1F3 UN 1640 VMS"
-  type: vmess
-  server: 104.21.225.47
-  port: 80
-  cipher: auto
-  uuid: 7022982f-da4c-48c9-c660-b2315abdcf7e
-  alterId: 0
-  tls: false
-  skip-cert-verify: true
-  network: ws
-  ws-opts:
-    path: /
-    headers:
-      host: a.prapt5.ir
-- name: "\U0001F1FA\U0001F1F3 UN 1641 VMS"
-  type: vmess
-  server: 104.21.233.66
-  port: 80
-  cipher: auto
-  uuid: 7022982f-da4c-48c9-c660-b2315abdcf7e
-  alterId: 0
-  tls: false
-  skip-cert-verify: true
-  network: ws
-  ws-opts:
-    path: /
-    headers:
-      host: a.prapt5.ir
-- name: "\U0001F1FA\U0001F1F3 UN 1642 VMS"
-  type: vmess
-  server: 104.21.235.79
-  port: 80
-  cipher: auto
-  uuid: 7022982f-da4c-48c9-c660-b2315abdcf7e
-  alterId: 0
-  tls: false
-  skip-cert-verify: true
-  network: ws
-  ws-opts:
-    path: /?ed=2048
-    headers:
-      host: a.prapt5.ir
-- name: "\U0001F1FA\U0001F1F3 UN 1643 VMS"
-  type: vmess
-  server: 104.21.227.16
-  port: 80
-  cipher: auto
-  uuid: 7022982f-da4c-48c9-c660-b2315abdcf7e
-  alterId: 0
-  tls: false
-  skip-cert-verify: true
-  network: ws
-  ws-opts:
-    path: /?ed=2048
-    headers:
-      host: a.prapt5.ir
-- name: "\U0001F1FA\U0001F1F3 UN 1644 VMS"
-  type: vmess
-  server: 104.21.235.78
-  port: 80
-  cipher: auto
-  uuid: 7022982f-da4c-48c9-c660-b2315abdcf7e
-  alterId: 0
-  tls: false
-  skip-cert-verify: true
-  network: ws
-  ws-opts:
-    path: /?ed=2048
-    headers:
-      host: a.prapt5.ir
-- name: "\U0001F1FA\U0001F1F3 UN 1645 VMS"
-  type: vmess
-  server: 104.20.231.30
-  port: 80
-  cipher: auto
-  uuid: 7022982f-da4c-48c9-c660-b2315abdcf7e
-  alterId: 0
-  tls: false
-  skip-cert-verify: true
-  network: ws
-  ws-opts:
-    path: /
-    headers:
-      host: my1.tooters.ir
-- name: "\U0001F1FA\U0001F1F3 UN 1646 VMS"
-  type: vmess
-  server: 104.21.238.93
-  port: 80
-  cipher: auto
-  uuid: 7022982f-da4c-48c9-c660-b2315abdcf7e
-  alterId: 0
-  tls: false
-  skip-cert-verify: true
-  network: ws
-  ws-opts:
-    path: /?ed=2048
-    headers:
-      host: a.prapt5.ir
-- name: "\U0001F1FA\U0001F1F3 UN 1647 VMS"
-  type: vmess
-  server: 104.21.238.72
-  port: 80
-  cipher: auto
-  uuid: 7022982f-da4c-48c9-c660-b2315abdcf7e
-  alterId: 0
-  tls: false
-  skip-cert-verify: true
-  network: ws
-  ws-opts:
-    path: /?ed=2048
-    headers:
-      host: a.prapt5.ir
-- name: "\U0001F1FA\U0001F1F3 UN 1648 VMS"
-  type: vmess
-  server: 104.21.229.46
-  port: 80
-  cipher: auto
-  uuid: 7022982f-da4c-48c9-c660-b2315abdcf7e
-  alterId: 0
-  tls: false
-  skip-cert-verify: true
-  network: ws
-  ws-opts:
-    path: /?ed=2048
-    headers:
-      host: a.prapt5.ir
-- name: "\U0001F1FA\U0001F1F3 UN 1649 VMS"
-  type: vmess
-  server: 104.21.234.54
-  port: 80
-  cipher: auto
-  uuid: 7022982f-da4c-48c9-c660-b2315abdcf7e
-  alterId: 0
-  tls: false
-  skip-cert-verify: true
-  network: ws
-  ws-opts:
-    path: /?ed=2048
-    headers:
-      host: a.prapt5.ir
-- name: "\U0001F1FA\U0001F1F3 UN 1650 VMS"
-  type: vmess
-  server: 104.21.236.84
-  port: 80
-  cipher: auto
-  uuid: 7022982f-da4c-48c9-c660-b2315abdcf7e
-  alterId: 0
-  tls: false
-  skip-cert-verify: true
-  network: ws
-  ws-opts:
-    path: /?ed=2048
-    headers:
-      host: a.prapt5.ir
-- name: "\U0001F1FA\U0001F1F3 UN 1651 VMS"
-  type: vmess
-  server: 104.21.227.35
-  port: 80
-  cipher: auto
-  uuid: 7022982f-da4c-48c9-c660-b2315abdcf7e
-  alterId: 0
-  tls: false
-  skip-cert-verify: true
-  network: ws
-  ws-opts:
-    path: /?ed=2048
-    headers:
-      host: a.prapt5.ir
-- name: "\U0001F1FA\U0001F1F3 UN 1652 VMS"
-  type: vmess
-  server: 104.21.235.57
-  port: 80
-  cipher: auto
-  uuid: 7022982f-da4c-48c9-c660-b2315abdcf7e
-  alterId: 0
-  tls: false
-  skip-cert-verify: true
-  network: ws
-  ws-opts:
-    path: /?ed=2048
-    headers:
-      host: a.prapt5.ir
-- name: "\U0001F1FA\U0001F1F3 UN 1653 VMS"
-  type: vmess
-  server: 104.21.224.24
-  port: 80
-  cipher: auto
-  uuid: 7022982f-da4c-48c9-c660-b2315abdcf7e
-  alterId: 0
-  tls: false
-  skip-cert-verify: true
-  network: ws
-  ws-opts:
-    path: /?ed=2048
-    headers:
-      host: a.prapt5.ir
-- name: "\U0001F1FA\U0001F1F3 UN 1654 VMS"
-  type: vmess
-  server: 104.21.228.40
-  port: 80
-  cipher: auto
-  uuid: 7022982f-da4c-48c9-c660-b2315abdcf7e
-  alterId: 0
-  tls: false
-  skip-cert-verify: true
-  network: ws
-  ws-opts:
-    path: /?ed=2048
-    headers:
-      host: a.prapt5.ir
-- name: "\U0001F1FA\U0001F1F3 UN 1655 VMS"
-  type: vmess
-  server: 104.21.225.62
-  port: 80
-  cipher: auto
-  uuid: 7022982f-da4c-48c9-c660-b2315abdcf7e
-  alterId: 0
-  tls: false
-  skip-cert-verify: true
-  network: ws
-  ws-opts:
-    path: /
-    headers:
-      host: a.prapt5.ir
-- name: "\U0001F1FA\U0001F1F3 UN 1656 VMS"
-  type: vmess
-  server: 104.21.225.100
-  port: 80
-  cipher: auto
-  uuid: 7022982f-da4c-48c9-c660-b2315abdcf7e
-  alterId: 0
-  tls: false
-  skip-cert-verify: true
-  network: ws
-  ws-opts:
-    path: /
-    headers:
-      host: a.prapt5.ir
-- name: "\U0001F1FA\U0001F1F3 UN 1657 VMS"
-  type: vmess
-  server: 104.21.232.41
-  port: 80
-  cipher: auto
-  uuid: 7022982f-da4c-48c9-c660-b2315abdcf7e
-  alterId: 0
-  tls: false
-  skip-cert-verify: true
-  network: ws
-  ws-opts:
-    path: /?ed=2048
-    headers:
-      host: a.prapt5.ir
-- name: "\U0001F1FA\U0001F1F3 UN 1658 VMS"
-  type: vmess
-  server: 104.21.225.27
-  port: 80
-  cipher: auto
-  uuid: 7022982f-da4c-48c9-c660-b2315abdcf7e
-  alterId: 0
-  tls: false
-  skip-cert-verify: true
-  network: ws
-  ws-opts:
-    path: /?ed=2048
-    headers:
-      host: a.prapt5.ir
-- name: "\U0001F1F9\U0001F1FC TW 1659 VMS"
-  type: vmess
-  server: 36.232.170.53
-  port: 14431
-  cipher: auto
-  uuid: b534a780-d521-402d-9a68-aea33e47a5de
-  alterId: 0
-  tls: false
-  skip-cert-verify: true
-  network: tcp
-- name: "\U0001F1FA\U0001F1F3 UN 1660 VMS"
-  type: vmess
-  server: 104.21.232.61
-  port: 80
-  cipher: auto
-  uuid: 7022982f-da4c-48c9-c660-b2315abdcf7e
-  alterId: 0
-  tls: false
-  skip-cert-verify: true
-  network: ws
-  ws-opts:
-    path: /?ed=2048
-    headers:
-      host: a.prapt5.ir
-- name: "\U0001F1FA\U0001F1F3 UN 1661 VMS"
-  type: vmess
-  server: 104.21.225.26
-  port: 80
-  cipher: auto
-  uuid: 7022982f-da4c-48c9-c660-b2315abdcf7e
-  alterId: 0
-  tls: false
-  skip-cert-verify: true
-  network: ws
-  ws-opts:
-    path: /?ed=2048
-    headers:
-      host: a.prapt5.ir
-- name: "\U0001F1FA\U0001F1F3 UN 1662 VMS"
-  type: vmess
-  server: 104.21.236.81
-  port: 80
-  cipher: auto
-  uuid: 7022982f-da4c-48c9-c660-b2315abdcf7e
-  alterId: 0
-  tls: false
-  skip-cert-verify: true
-  network: ws
-  ws-opts:
-    path: /?ed=2048
-    headers:
-      host: a.prapt5.ir
-- name: "\U0001F1FA\U0001F1F3 UN 1663 VMS"
-  type: vmess
-  server: 104.21.226.32
-  port: 80
-  cipher: auto
-  uuid: 7022982f-da4c-48c9-c660-b2315abdcf7e
-  alterId: 0
-  tls: false
-  skip-cert-verify: true
-  network: ws
-  ws-opts:
-    path: /
-    headers:
-      host: a.prapt5.ir
-- name: "\U0001F1FA\U0001F1F3 UN 1664 VMS"
-  type: vmess
-  server: 104.21.225.29
-  port: 80
-  cipher: auto
-  uuid: 7022982f-da4c-48c9-c660-b2315abdcf7e
-  alterId: 0
-  tls: false
-  skip-cert-verify: true
-  network: ws
-  ws-opts:
-    path: /?ed=2048
-    headers:
-      host: a.prapt5.ir
-- name: "\U0001F1FA\U0001F1F3 UN 1665 VMS"
-  type: vmess
-  server: 104.16.77.74
-  port: 80
-  cipher: auto
-  uuid: 7022982f-da4c-48c9-c660-b2315abdcf7e
-  alterId: 0
-  tls: false
-  skip-cert-verify: true
-  network: ws
-  ws-opts:
-    path: /?ed=2048
-    headers:
-      host: my1.tooters.ir
-- name: "\U0001F1E9\U0001F1EA DE 1666 TJN"
-  type: trojan
-  server: 5.104.108.120
-  port: 443
-  udp: true
-  password: 45a8d20d-9a78-4be4-a74a-ab3b9e84e34e
-  sni: 20-24-33-134.nhost.00cdn.com
-  skip-cert-verify: true
-  network: tcp
-- name: "\U0001F1FA\U0001F1F3 UN 1667 VMS"
-  type: vmess
-  server: 104.21.230.33
-  port: 80
-  cipher: auto
-  uuid: 7022982f-da4c-48c9-c660-b2315abdcf7e
-  alterId: 0
-  tls: false
-  skip-cert-verify: true
-  network: ws
-  ws-opts:
-    path: /?ed=2048
-    headers:
-      host: a.prapt5.ir
-- name: "\U0001F1FA\U0001F1F3 UN 1668 VMS"
-  type: vmess
-  server: 104.21.225.217
-  port: 80
-  cipher: auto
-  uuid: 7022982f-da4c-48c9-c660-b2315abdcf7e
-  alterId: 0
-  tls: false
-  skip-cert-verify: true
-  network: ws
-  ws-opts:
-    path: /
-    headers:
-      host: a.prapt5.ir
-- name: "\U0001F1FA\U0001F1F3 UN 1669 VMS"
-  type: vmess
-  server: 104.21.233.67
-  port: 80
-  cipher: auto
-  uuid: 7022982f-da4c-48c9-c660-b2315abdcf7e
-  alterId: 0
-  tls: false
-  skip-cert-verify: true
-  network: ws
-  ws-opts:
-    path: /?ed=2048
-    headers:
-      host: a.prapt5.ir
-- name: "\U0001F1FA\U0001F1F3 UN 1670 VMS"
-  type: vmess
-  server: 104.21.230.53
-  port: 80
-  cipher: auto
-  uuid: 7022982f-da4c-48c9-c660-b2315abdcf7e
-  alterId: 0
-  tls: false
-  skip-cert-verify: true
-  network: ws
-  ws-opts:
-    path: /?ed=2048
-    headers:
-      host: a.prapt5.ir
-- name: "\U0001F1FA\U0001F1F3 UN 1671 VMS"
-  type: vmess
-  server: 104.21.225.11
-  port: 80
-  cipher: auto
-  uuid: 7022982f-da4c-48c9-c660-b2315abdcf7e
-  alterId: 0
-  tls: false
-  skip-cert-verify: true
-  network: ws
-  ws-opts:
-    path: /
-    headers:
-      host: a.prapt5.ir
-- name: "\U0001F1FA\U0001F1F3 UN 1672 VMS"
-  type: vmess
-  server: 104.21.225.134
-  port: 80
-  cipher: auto
-  uuid: 7022982f-da4c-48c9-c660-b2315abdcf7e
-  alterId: 0
-  tls: false
-  skip-cert-verify: true
-  network: ws
-  ws-opts:
-    path: /
-    headers:
-      host: a.prapt5.ir
-- name: "\U0001F1FA\U0001F1F3 UN 1673 VMS"
-  type: vmess
-  server: 104.21.229.45
-  port: 80
-  cipher: auto
-  uuid: 7022982f-da4c-48c9-c660-b2315abdcf7e
-  alterId: 0
-  tls: false
-  skip-cert-verify: true
-  network: ws
-  ws-opts:
-    path: /?ed=2048
-    headers:
-      host: a.prapt5.ir
-- name: "\U0001F1FA\U0001F1F3 UN 1674 VMS"
-  type: vmess
-  server: 104.21.225.22
-  port: 80
-  cipher: auto
-  uuid: 7022982f-da4c-48c9-c660-b2315abdcf7e
-  alterId: 0
-  tls: false
-  skip-cert-verify: true
-  network: ws
-  ws-opts:
-    path: /
-    headers:
-      host: a.prapt5.ir
-- name: "\U0001F1FA\U0001F1F3 UN 1675 VMS"
-  type: vmess
-  server: 104.21.225.170
-  port: 80
-  cipher: auto
-  uuid: 7022982f-da4c-48c9-c660-b2315abdcf7e
-  alterId: 0
-  tls: false
-  skip-cert-verify: true
-  network: ws
-  ws-opts:
-    path: /
-    headers:
-      host: a.prapt5.ir
-- name: "\U0001F1FA\U0001F1F3 UN 1676 VMS"
-  type: vmess
-  server: 104.21.224.0
-  port: 80
-  cipher: auto
-  uuid: 7022982f-da4c-48c9-c660-b2315abdcf7e
-  alterId: 0
-  tls: false
-  skip-cert-verify: true
-  network: ws
-  ws-opts:
-    path: /?ed=2048
-    headers:
-      host: a.prapt5.ir
-- name: "\U0001F1FA\U0001F1F3 UN 1677 VMS"
-  type: vmess
-  server: 104.21.224.1
-  port: 80
-  cipher: auto
-  uuid: 7022982f-da4c-48c9-c660-b2315abdcf7e
-  alterId: 0
-  tls: false
-  skip-cert-verify: true
-  network: ws
-  ws-opts:
-    path: /?ed=2048
-    headers:
-      host: a.prapt5.ir
-- name: "\U0001F1FA\U0001F1F3 UN 1678 VMS"
-  type: vmess
-  server: 104.21.224.2
-  port: 80
-  cipher: auto
-  uuid: 7022982f-da4c-48c9-c660-b2315abdcf7e
-  alterId: 0
-  tls: false
-  skip-cert-verify: true
-  network: ws
-  ws-opts:
-    path: /?ed=2048
-    headers:
-      host: a.prapt5.ir
-- name: "\U0001F1FA\U0001F1F3 UN 1679 VMS"
-  type: vmess
-  server: 104.21.224.3
-  port: 80
-  cipher: auto
-  uuid: 7022982f-da4c-48c9-c660-b2315abdcf7e
-  alterId: 0
-  tls: false
-  skip-cert-verify: true
-  network: ws
-  ws-opts:
-    path: /?ed=2048
-    headers:
-      host: a.prapt5.ir
-- name: "\U0001F1FA\U0001F1F3 UN 1680 VMS"
-  type: vmess
-  server: 104.21.224.4
-  port: 80
-  cipher: auto
-  uuid: 7022982f-da4c-48c9-c660-b2315abdcf7e
-  alterId: 0
-  tls: false
-  skip-cert-verify: true
-  network: ws
-  ws-opts:
-    path: /?ed=2048
-    headers:
-      host: a.prapt5.ir
-- name: "\U0001F1FA\U0001F1F3 UN 1681 VMS"
-  type: vmess
-  server: 104.21.225.5
-  port: 80
-  cipher: auto
-  uuid: 7022982f-da4c-48c9-c660-b2315abdcf7e
-  alterId: 0
-  tls: false
-  skip-cert-verify: true
-  network: ws
-  ws-opts:
-    path: /?ed=2048
-    headers:
-      host: a.prapt5.ir
-- name: "\U0001F1FA\U0001F1F3 UN 1682 VMS"
-  type: vmess
-  server: 104.21.225.6
-  port: 80
-  cipher: auto
-  uuid: 7022982f-da4c-48c9-c660-b2315abdcf7e
-  alterId: 0
-  tls: false
-  skip-cert-verify: true
-  network: ws
-  ws-opts:
-    path: /?ed=2048
-    headers:
-      host: a.prapt5.ir
-- name: "\U0001F1FA\U0001F1F3 UN 1683 VMS"
-  type: vmess
-  server: 104.21.225.7
-  port: 80
-  cipher: auto
-  uuid: 7022982f-da4c-48c9-c660-b2315abdcf7e
-  alterId: 0
-  tls: false
-  skip-cert-verify: true
-  network: ws
-  ws-opts:
-    path: /?ed=2048
-    headers:
-      host: a.prapt5.ir
-- name: "\U0001F1FA\U0001F1F3 UN 1684 VMS"
-  type: vmess
-  server: 104.21.225.8
-  port: 80
-  cipher: auto
-  uuid: 7022982f-da4c-48c9-c660-b2315abdcf7e
-  alterId: 0
-  tls: false
-  skip-cert-verify: true
-  network: ws
-  ws-opts:
-    path: /?ed=2048
-    headers:
-      host: a.prapt5.ir
-- name: "\U0001F1FA\U0001F1F3 UN 1685 VMS"
-  type: vmess
-  server: 104.21.225.9
-  port: 80
-  cipher: auto
-  uuid: 7022982f-da4c-48c9-c660-b2315abdcf7e
-  alterId: 0
-  tls: false
-  skip-cert-verify: true
-  network: ws
-  ws-opts:
-    path: /?ed=2048
-    headers:
-      host: a.prapt5.ir
 - name: "\U0001F1EF\U0001F1F5 JP 1686 VMS"
   type: vmess
   server: 141.147.178.135
@@ -17730,7 +17730,7 @@ proxies:
       host: my1.tooters.ir
 - name: "\U0001F1FA\U0001F1F3 UN 1713 VMS"
   type: vmess
-  server: 104.21.231.58
+  server: 104.21.224.0
   port: 80
   cipher: auto
   uuid: 7022982f-da4c-48c9-c660-b2315abdcf7e
@@ -17744,7 +17744,7 @@ proxies:
       host: a.prapt5.ir
 - name: "\U0001F1FA\U0001F1F3 UN 1714 VMS"
   type: vmess
-  server: 104.21.232.43
+  server: 104.21.224.1
   port: 80
   cipher: auto
   uuid: 7022982f-da4c-48c9-c660-b2315abdcf7e
@@ -17758,7 +17758,7 @@ proxies:
       host: a.prapt5.ir
 - name: "\U0001F1FA\U0001F1F3 UN 1715 VMS"
   type: vmess
-  server: 104.21.233.45
+  server: 104.21.224.2
   port: 80
   cipher: auto
   uuid: 7022982f-da4c-48c9-c660-b2315abdcf7e
@@ -17772,7 +17772,7 @@ proxies:
       host: a.prapt5.ir
 - name: "\U0001F1FA\U0001F1F3 UN 1716 VMS"
   type: vmess
-  server: 104.21.225.7
+  server: 104.21.224.3
   port: 80
   cipher: auto
   uuid: 7022982f-da4c-48c9-c660-b2315abdcf7e
@@ -17786,7 +17786,7 @@ proxies:
       host: a.prapt5.ir
 - name: "\U0001F1FA\U0001F1F3 UN 1717 VMS"
   type: vmess
-  server: 104.21.236.60
+  server: 104.21.224.4
   port: 80
   cipher: auto
   uuid: 7022982f-da4c-48c9-c660-b2315abdcf7e
@@ -17800,7 +17800,7 @@ proxies:
       host: a.prapt5.ir
 - name: "\U0001F1FA\U0001F1F3 UN 1718 VMS"
   type: vmess
-  server: 104.21.227.19
+  server: 104.21.225.5
   port: 80
   cipher: auto
   uuid: 7022982f-da4c-48c9-c660-b2315abdcf7e
@@ -17814,7 +17814,7 @@ proxies:
       host: a.prapt5.ir
 - name: "\U0001F1FA\U0001F1F3 UN 1719 VMS"
   type: vmess
-  server: 104.21.225.5
+  server: 104.21.225.6
   port: 80
   cipher: auto
   uuid: 7022982f-da4c-48c9-c660-b2315abdcf7e
@@ -17828,7 +17828,7 @@ proxies:
       host: a.prapt5.ir
 - name: "\U0001F1FA\U0001F1F3 UN 1720 VMS"
   type: vmess
-  server: 104.21.226.11
+  server: 104.21.225.7
   port: 80
   cipher: auto
   uuid: 7022982f-da4c-48c9-c660-b2315abdcf7e
@@ -17842,7 +17842,7 @@ proxies:
       host: a.prapt5.ir
 - name: "\U0001F1FA\U0001F1F3 UN 1721 VMS"
   type: vmess
-  server: 104.21.233.47
+  server: 104.21.225.8
   port: 80
   cipher: auto
   uuid: 7022982f-da4c-48c9-c660-b2315abdcf7e
@@ -17856,7 +17856,7 @@ proxies:
       host: a.prapt5.ir
 - name: "\U0001F1FA\U0001F1F3 UN 1722 VMS"
   type: vmess
-  server: 104.21.228.21
+  server: 104.21.225.9
   port: 80
   cipher: auto
   uuid: 7022982f-da4c-48c9-c660-b2315abdcf7e
@@ -17870,7 +17870,7 @@ proxies:
       host: a.prapt5.ir
 - name: "\U0001F1FA\U0001F1F3 UN 1723 VMS"
   type: vmess
-  server: 104.21.231.38
+  server: 104.21.226.10
   port: 80
   cipher: auto
   uuid: 7022982f-da4c-48c9-c660-b2315abdcf7e
@@ -17884,7 +17884,7 @@ proxies:
       host: a.prapt5.ir
 - name: "\U0001F1FA\U0001F1F3 UN 1724 VMS"
   type: vmess
-  server: 104.21.232.42
+  server: 104.21.226.11
   port: 80
   cipher: auto
   uuid: 7022982f-da4c-48c9-c660-b2315abdcf7e
@@ -17898,7 +17898,7 @@ proxies:
       host: a.prapt5.ir
 - name: "\U0001F1FA\U0001F1F3 UN 1725 VMS"
   type: vmess
-  server: 104.21.235.58
+  server: 104.21.226.12
   port: 80
   cipher: auto
   uuid: 7022982f-da4c-48c9-c660-b2315abdcf7e
@@ -17912,7 +17912,7 @@ proxies:
       host: a.prapt5.ir
 - name: "\U0001F1FA\U0001F1F3 UN 1726 VMS"
   type: vmess
-  server: 104.21.234.71
+  server: 104.21.226.13
   port: 80
   cipher: auto
   uuid: 7022982f-da4c-48c9-c660-b2315abdcf7e
@@ -17926,7 +17926,7 @@ proxies:
       host: a.prapt5.ir
 - name: "\U0001F1FA\U0001F1F3 UN 1727 VMS"
   type: vmess
-  server: 104.21.236.61
+  server: 104.21.226.14
   port: 80
   cipher: auto
   uuid: 7022982f-da4c-48c9-c660-b2315abdcf7e
@@ -17940,7 +17940,7 @@ proxies:
       host: a.prapt5.ir
 - name: "\U0001F1FA\U0001F1F3 UN 1728 VMS"
   type: vmess
-  server: 104.21.231.59
+  server: 104.21.227.15
   port: 80
   cipher: auto
   uuid: 7022982f-da4c-48c9-c660-b2315abdcf7e
@@ -17954,7 +17954,7 @@ proxies:
       host: a.prapt5.ir
 - name: "\U0001F1FA\U0001F1F3 UN 1729 VMS"
   type: vmess
-  server: 104.21.238.73
+  server: 104.21.227.16
   port: 80
   cipher: auto
   uuid: 7022982f-da4c-48c9-c660-b2315abdcf7e
@@ -17968,7 +17968,7 @@ proxies:
       host: a.prapt5.ir
 - name: "\U0001F1FA\U0001F1F3 UN 1730 VMS"
   type: vmess
-  server: 104.21.239.76
+  server: 104.21.227.17
   port: 80
   cipher: auto
   uuid: 7022982f-da4c-48c9-c660-b2315abdcf7e
@@ -17982,7 +17982,7 @@ proxies:
       host: a.prapt5.ir
 - name: "\U0001F1FA\U0001F1F3 UN 1731 VMS"
   type: vmess
-  server: 104.21.234.73
+  server: 104.21.227.18
   port: 80
   cipher: auto
   uuid: 7022982f-da4c-48c9-c660-b2315abdcf7e
@@ -17996,7 +17996,7 @@ proxies:
       host: a.prapt5.ir
 - name: "\U0001F1FA\U0001F1F3 UN 1732 VMS"
   type: vmess
-  server: 104.21.227.35
+  server: 104.21.227.19
   port: 80
   cipher: auto
   uuid: 7022982f-da4c-48c9-c660-b2315abdcf7e
@@ -18010,7 +18010,7 @@ proxies:
       host: a.prapt5.ir
 - name: "\U0001F1FA\U0001F1F3 UN 1733 VMS"
   type: vmess
-  server: 104.21.230.31
+  server: 104.21.228.20
   port: 80
   cipher: auto
   uuid: 7022982f-da4c-48c9-c660-b2315abdcf7e
@@ -18024,7 +18024,7 @@ proxies:
       host: a.prapt5.ir
 - name: "\U0001F1FA\U0001F1F3 UN 1734 VMS"
   type: vmess
-  server: 104.21.230.50
+  server: 104.21.228.21
   port: 80
   cipher: auto
   uuid: 7022982f-da4c-48c9-c660-b2315abdcf7e
@@ -18038,7 +18038,7 @@ proxies:
       host: a.prapt5.ir
 - name: "\U0001F1FA\U0001F1F3 UN 1735 VMS"
   type: vmess
-  server: 104.21.229.49
+  server: 104.21.228.22
   port: 80
   cipher: auto
   uuid: 7022982f-da4c-48c9-c660-b2315abdcf7e
@@ -18052,7 +18052,7 @@ proxies:
       host: a.prapt5.ir
 - name: "\U0001F1FA\U0001F1F3 UN 1736 VMS"
   type: vmess
-  server: 104.21.237.68
+  server: 104.21.228.23
   port: 80
   cipher: auto
   uuid: 7022982f-da4c-48c9-c660-b2315abdcf7e
@@ -18066,7 +18066,7 @@ proxies:
       host: a.prapt5.ir
 - name: "\U0001F1FA\U0001F1F3 UN 1737 VMS"
   type: vmess
-  server: 104.21.227.39
+  server: 104.21.228.24
   port: 80
   cipher: auto
   uuid: 7022982f-da4c-48c9-c660-b2315abdcf7e
@@ -18080,7 +18080,7 @@ proxies:
       host: a.prapt5.ir
 - name: "\U0001F1FA\U0001F1F3 UN 1738 VMS"
   type: vmess
-  server: 104.21.234.74
+  server: 104.21.229.25
   port: 80
   cipher: auto
   uuid: 7022982f-da4c-48c9-c660-b2315abdcf7e
@@ -18094,7 +18094,7 @@ proxies:
       host: a.prapt5.ir
 - name: "\U0001F1FA\U0001F1F3 UN 1739 VMS"
   type: vmess
-  server: 104.21.231.37
+  server: 104.21.229.26
   port: 80
   cipher: auto
   uuid: 7022982f-da4c-48c9-c660-b2315abdcf7e
@@ -18108,7 +18108,7 @@ proxies:
       host: a.prapt5.ir
 - name: "\U0001F1FA\U0001F1F3 UN 1740 VMS"
   type: vmess
-  server: 104.21.232.60
+  server: 104.21.229.27
   port: 80
   cipher: auto
   uuid: 7022982f-da4c-48c9-c660-b2315abdcf7e
@@ -18122,7 +18122,7 @@ proxies:
       host: a.prapt5.ir
 - name: "\U0001F1FA\U0001F1F3 UN 1741 VMS"
   type: vmess
-  server: 104.21.238.91
+  server: 104.21.229.28
   port: 80
   cipher: auto
   uuid: 7022982f-da4c-48c9-c660-b2315abdcf7e
@@ -18136,7 +18136,7 @@ proxies:
       host: a.prapt5.ir
 - name: "\U0001F1FA\U0001F1F3 UN 1742 VMS"
   type: vmess
-  server: 104.21.228.40
+  server: 104.21.229.29
   port: 80
   cipher: auto
   uuid: 7022982f-da4c-48c9-c660-b2315abdcf7e
@@ -18150,7 +18150,7 @@ proxies:
       host: a.prapt5.ir
 - name: "\U0001F1FA\U0001F1F3 UN 1743 VMS"
   type: vmess
-  server: 104.21.230.32
+  server: 104.21.230.30
   port: 80
   cipher: auto
   uuid: 7022982f-da4c-48c9-c660-b2315abdcf7e
@@ -18164,7 +18164,7 @@ proxies:
       host: a.prapt5.ir
 - name: "\U0001F1FA\U0001F1F3 UN 1744 VMS"
   type: vmess
-  server: 104.21.235.76
+  server: 104.21.230.31
   port: 80
   cipher: auto
   uuid: 7022982f-da4c-48c9-c660-b2315abdcf7e
@@ -18178,7 +18178,7 @@ proxies:
       host: a.prapt5.ir
 - name: "\U0001F1FA\U0001F1F3 UN 1745 VMS"
   type: vmess
-  server: 104.21.224.2
+  server: 104.21.230.32
   port: 80
   cipher: auto
   uuid: 7022982f-da4c-48c9-c660-b2315abdcf7e
@@ -18192,7 +18192,7 @@ proxies:
       host: a.prapt5.ir
 - name: "\U0001F1FA\U0001F1F3 UN 1746 VMS"
   type: vmess
-  server: 104.21.235.75
+  server: 104.21.230.33
   port: 80
   cipher: auto
   uuid: 7022982f-da4c-48c9-c660-b2315abdcf7e
@@ -18206,7 +18206,7 @@ proxies:
       host: a.prapt5.ir
 - name: "\U0001F1FA\U0001F1F3 UN 1747 VMS"
   type: vmess
-  server: 104.21.232.64
+  server: 104.21.230.34
   port: 80
   cipher: auto
   uuid: 7022982f-da4c-48c9-c660-b2315abdcf7e
@@ -18220,7 +18220,7 @@ proxies:
       host: a.prapt5.ir
 - name: "\U0001F1FA\U0001F1F3 UN 1748 VMS"
   type: vmess
-  server: 104.21.234.72
+  server: 104.21.231.35
   port: 80
   cipher: auto
   uuid: 7022982f-da4c-48c9-c660-b2315abdcf7e
@@ -18234,7 +18234,7 @@ proxies:
       host: a.prapt5.ir
 - name: "\U0001F1FA\U0001F1F3 UN 1749 VMS"
   type: vmess
-  server: 104.21.230.34
+  server: 104.21.231.36
   port: 80
   cipher: auto
   uuid: 7022982f-da4c-48c9-c660-b2315abdcf7e
@@ -18248,7 +18248,7 @@ proxies:
       host: a.prapt5.ir
 - name: "\U0001F1FA\U0001F1F3 UN 1750 VMS"
   type: vmess
-  server: 104.21.231.36
+  server: 104.21.231.37
   port: 80
   cipher: auto
   uuid: 7022982f-da4c-48c9-c660-b2315abdcf7e
@@ -18262,7 +18262,7 @@ proxies:
       host: a.prapt5.ir
 - name: "\U0001F1FA\U0001F1F3 UN 1751 VMS"
   type: vmess
-  server: 104.21.238.70
+  server: 104.21.231.38
   port: 80
   cipher: auto
   uuid: 7022982f-da4c-48c9-c660-b2315abdcf7e
@@ -18276,7 +18276,7 @@ proxies:
       host: a.prapt5.ir
 - name: "\U0001F1FA\U0001F1F3 UN 1752 VMS"
   type: vmess
-  server: 104.21.228.43
+  server: 104.21.231.39
   port: 80
   cipher: auto
   uuid: 7022982f-da4c-48c9-c660-b2315abdcf7e
@@ -18290,7 +18290,7 @@ proxies:
       host: a.prapt5.ir
 - name: "\U0001F1FA\U0001F1F3 UN 1753 VMS"
   type: vmess
-  server: 104.21.231.56
+  server: 104.21.232.40
   port: 80
   cipher: auto
   uuid: 7022982f-da4c-48c9-c660-b2315abdcf7e
@@ -18304,7 +18304,7 @@ proxies:
       host: a.prapt5.ir
 - name: "\U0001F1FA\U0001F1F3 UN 1754 VMS"
   type: vmess
-  server: 104.21.225.6
+  server: 104.21.232.41
   port: 80
   cipher: auto
   uuid: 7022982f-da4c-48c9-c660-b2315abdcf7e
@@ -18318,7 +18318,7 @@ proxies:
       host: a.prapt5.ir
 - name: "\U0001F1FA\U0001F1F3 UN 1755 VMS"
   type: vmess
-  server: 104.21.237.89
+  server: 104.21.232.42
   port: 80
   cipher: auto
   uuid: 7022982f-da4c-48c9-c660-b2315abdcf7e
@@ -18332,7 +18332,7 @@ proxies:
       host: a.prapt5.ir
 - name: "\U0001F1FA\U0001F1F3 UN 1756 VMS"
   type: vmess
-  server: 104.21.236.81
+  server: 104.21.232.43
   port: 80
   cipher: auto
   uuid: 7022982f-da4c-48c9-c660-b2315abdcf7e
@@ -18346,7 +18346,7 @@ proxies:
       host: a.prapt5.ir
 - name: "\U0001F1FA\U0001F1F3 UN 1757 VMS"
   type: vmess
-  server: 104.21.236.84
+  server: 104.21.232.44
   port: 80
   cipher: auto
   uuid: 7022982f-da4c-48c9-c660-b2315abdcf7e
@@ -18360,7 +18360,7 @@ proxies:
       host: a.prapt5.ir
 - name: "\U0001F1FA\U0001F1F3 UN 1758 VMS"
   type: vmess
-  server: 104.21.233.65
+  server: 104.21.233.45
   port: 80
   cipher: auto
   uuid: 7022982f-da4c-48c9-c660-b2315abdcf7e
@@ -18374,7 +18374,7 @@ proxies:
       host: a.prapt5.ir
 - name: "\U0001F1FA\U0001F1F3 UN 1759 VMS"
   type: vmess
-  server: 104.21.224.23
+  server: 104.21.233.46
   port: 80
   cipher: auto
   uuid: 7022982f-da4c-48c9-c660-b2315abdcf7e
@@ -18388,7 +18388,7 @@ proxies:
       host: a.prapt5.ir
 - name: "\U0001F1FA\U0001F1F3 UN 1760 VMS"
   type: vmess
-  server: 104.21.226.12
+  server: 104.21.233.47
   port: 80
   cipher: auto
   uuid: 7022982f-da4c-48c9-c660-b2315abdcf7e
@@ -18402,7 +18402,7 @@ proxies:
       host: a.prapt5.ir
 - name: "\U0001F1FA\U0001F1F3 UN 1761 VMS"
   type: vmess
-  server: 104.21.232.62
+  server: 104.21.233.48
   port: 80
   cipher: auto
   uuid: 7022982f-da4c-48c9-c660-b2315abdcf7e
@@ -18416,7 +18416,7 @@ proxies:
       host: a.prapt5.ir
 - name: "\U0001F1FA\U0001F1F3 UN 1762 VMS"
   type: vmess
-  server: 104.21.239.78
+  server: 104.21.233.49
   port: 80
   cipher: auto
   uuid: 7022982f-da4c-48c9-c660-b2315abdcf7e
@@ -18430,7 +18430,7 @@ proxies:
       host: a.prapt5.ir
 - name: "\U0001F1FA\U0001F1F3 UN 1763 VMS"
   type: vmess
-  server: 104.21.232.44
+  server: 104.21.234.50
   port: 80
   cipher: auto
   uuid: 7022982f-da4c-48c9-c660-b2315abdcf7e
@@ -18444,7 +18444,7 @@ proxies:
       host: a.prapt5.ir
 - name: "\U0001F1FA\U0001F1F3 UN 1764 VMS"
   type: vmess
-  server: 104.21.231.55
+  server: 104.21.234.51
   port: 80
   cipher: auto
   uuid: 7022982f-da4c-48c9-c660-b2315abdcf7e
@@ -18458,7 +18458,7 @@ proxies:
       host: a.prapt5.ir
 - name: "\U0001F1FA\U0001F1F3 UN 1765 VMS"
   type: vmess
-  server: 104.21.236.62
+  server: 104.21.234.52
   port: 80
   cipher: auto
   uuid: 7022982f-da4c-48c9-c660-b2315abdcf7e
@@ -18472,7 +18472,7 @@ proxies:
       host: a.prapt5.ir
 - name: "\U0001F1FA\U0001F1F3 UN 1766 VMS"
   type: vmess
-  server: 104.21.224.4
+  server: 104.21.234.53
   port: 80
   cipher: auto
   uuid: 7022982f-da4c-48c9-c660-b2315abdcf7e
@@ -18486,7 +18486,7 @@ proxies:
       host: a.prapt5.ir
 - name: "\U0001F1FA\U0001F1F3 UN 1767 VMS"
   type: vmess
-  server: 104.21.237.65
+  server: 104.21.234.54
   port: 80
   cipher: auto
   uuid: 7022982f-da4c-48c9-c660-b2315abdcf7e
@@ -18500,7 +18500,7 @@ proxies:
       host: a.prapt5.ir
 - name: "\U0001F1FA\U0001F1F3 UN 1768 VMS"
   type: vmess
-  server: 104.21.235.57
+  server: 104.21.235.55
   port: 80
   cipher: auto
   uuid: 7022982f-da4c-48c9-c660-b2315abdcf7e
@@ -18514,7 +18514,7 @@ proxies:
       host: a.prapt5.ir
 - name: "\U0001F1FA\U0001F1F3 UN 1769 VMS"
   type: vmess
-  server: 104.21.225.28
+  server: 104.21.235.56
   port: 80
   cipher: auto
   uuid: 7022982f-da4c-48c9-c660-b2315abdcf7e
@@ -18528,7 +18528,7 @@ proxies:
       host: a.prapt5.ir
 - name: "\U0001F1FA\U0001F1F3 UN 1770 VMS"
   type: vmess
-  server: 104.21.233.67
+  server: 104.21.235.57
   port: 80
   cipher: auto
   uuid: 7022982f-da4c-48c9-c660-b2315abdcf7e
@@ -18542,7 +18542,7 @@ proxies:
       host: a.prapt5.ir
 - name: "\U0001F1FA\U0001F1F3 UN 1771 VMS"
   type: vmess
-  server: 104.21.226.10
+  server: 104.21.235.58
   port: 80
   cipher: auto
   uuid: 7022982f-da4c-48c9-c660-b2315abdcf7e
@@ -18556,7 +18556,7 @@ proxies:
       host: a.prapt5.ir
 - name: "\U0001F1FA\U0001F1F3 UN 1772 VMS"
   type: vmess
-  server: 104.21.228.42
+  server: 104.21.235.59
   port: 80
   cipher: auto
   uuid: 7022982f-da4c-48c9-c660-b2315abdcf7e
@@ -18570,7 +18570,7 @@ proxies:
       host: a.prapt5.ir
 - name: "\U0001F1FA\U0001F1F3 UN 1773 VMS"
   type: vmess
-  server: 104.21.228.20
+  server: 104.21.236.60
   port: 80
   cipher: auto
   uuid: 7022982f-da4c-48c9-c660-b2315abdcf7e
@@ -18584,7 +18584,7 @@ proxies:
       host: a.prapt5.ir
 - name: "\U0001F1FA\U0001F1F3 UN 1774 VMS"
   type: vmess
-  server: 104.21.224.24
+  server: 104.21.236.61
   port: 80
   cipher: auto
   uuid: 7022982f-da4c-48c9-c660-b2315abdcf7e
@@ -18598,7 +18598,7 @@ proxies:
       host: a.prapt5.ir
 - name: "\U0001F1FA\U0001F1F3 UN 1775 VMS"
   type: vmess
-  server: 104.21.226.30
+  server: 104.21.236.62
   port: 80
   cipher: auto
   uuid: 7022982f-da4c-48c9-c660-b2315abdcf7e
@@ -18612,7 +18612,7 @@ proxies:
       host: a.prapt5.ir
 - name: "\U0001F1FA\U0001F1F3 UN 1776 VMS"
   type: vmess
-  server: 104.21.228.41
+  server: 104.21.236.63
   port: 80
   cipher: auto
   uuid: 7022982f-da4c-48c9-c660-b2315abdcf7e
@@ -18626,7 +18626,7 @@ proxies:
       host: a.prapt5.ir
 - name: "\U0001F1FA\U0001F1F3 UN 1777 VMS"
   type: vmess
-  server: 104.21.227.17
+  server: 104.21.236.64
   port: 80
   cipher: auto
   uuid: 7022982f-da4c-48c9-c660-b2315abdcf7e
@@ -18640,7 +18640,7 @@ proxies:
       host: a.prapt5.ir
 - name: "\U0001F1FA\U0001F1F3 UN 1778 VMS"
   type: vmess
-  server: 104.21.224.3
+  server: 104.21.237.65
   port: 80
   cipher: auto
   uuid: 7022982f-da4c-48c9-c660-b2315abdcf7e
@@ -18654,7 +18654,7 @@ proxies:
       host: a.prapt5.ir
 - name: "\U0001F1FA\U0001F1F3 UN 1779 VMS"
   type: vmess
-  server: 104.21.224.22
+  server: 104.21.237.66
   port: 80
   cipher: auto
   uuid: 7022982f-da4c-48c9-c660-b2315abdcf7e
@@ -18668,7 +18668,7 @@ proxies:
       host: a.prapt5.ir
 - name: "\U0001F1FA\U0001F1F3 UN 1780 VMS"
   type: vmess
-  server: 104.21.227.38
+  server: 104.21.237.67
   port: 80
   cipher: auto
   uuid: 7022982f-da4c-48c9-c660-b2315abdcf7e
@@ -18682,7 +18682,7 @@ proxies:
       host: a.prapt5.ir
 - name: "\U0001F1FA\U0001F1F3 UN 1781 VMS"
   type: vmess
-  server: 104.21.232.40
+  server: 104.21.237.68
   port: 80
   cipher: auto
   uuid: 7022982f-da4c-48c9-c660-b2315abdcf7e
@@ -18696,7 +18696,7 @@ proxies:
       host: a.prapt5.ir
 - name: "\U0001F1FA\U0001F1F3 UN 1782 VMS"
   type: vmess
-  server: 104.21.238.74
+  server: 104.21.237.69
   port: 80
   cipher: auto
   uuid: 7022982f-da4c-48c9-c660-b2315abdcf7e
@@ -18710,7 +18710,7 @@ proxies:
       host: a.prapt5.ir
 - name: "\U0001F1FA\U0001F1F3 UN 1783 VMS"
   type: vmess
-  server: 104.21.227.37
+  server: 104.21.238.70
   port: 80
   cipher: auto
   uuid: 7022982f-da4c-48c9-c660-b2315abdcf7e
@@ -18724,7 +18724,7 @@ proxies:
       host: a.prapt5.ir
 - name: "\U0001F1FA\U0001F1F3 UN 1784 VMS"
   type: vmess
-  server: 104.21.230.33
+  server: 104.21.238.71
   port: 80
   cipher: auto
   uuid: 7022982f-da4c-48c9-c660-b2315abdcf7e
@@ -18738,7 +18738,7 @@ proxies:
       host: a.prapt5.ir
 - name: "\U0001F1FA\U0001F1F3 UN 1785 VMS"
   type: vmess
-  server: 104.21.238.71
+  server: 104.21.238.72
   port: 80
   cipher: auto
   uuid: 7022982f-da4c-48c9-c660-b2315abdcf7e
@@ -18752,7 +18752,7 @@ proxies:
       host: a.prapt5.ir
 - name: "\U0001F1FA\U0001F1F3 UN 1786 VMS"
   type: vmess
-  server: 104.21.238.72
+  server: 104.21.238.73
   port: 80
   cipher: auto
   uuid: 7022982f-da4c-48c9-c660-b2315abdcf7e
@@ -18766,7 +18766,7 @@ proxies:
       host: a.prapt5.ir
 - name: "\U0001F1FA\U0001F1F3 UN 1787 VMS"
   type: vmess
-  server: 104.21.229.48
+  server: 104.21.238.74
   port: 80
   cipher: auto
   uuid: 7022982f-da4c-48c9-c660-b2315abdcf7e
@@ -18780,7 +18780,7 @@ proxies:
       host: a.prapt5.ir
 - name: "\U0001F1FA\U0001F1F3 UN 1788 VMS"
   type: vmess
-  server: 104.21.236.83
+  server: 104.21.239.75
   port: 80
   cipher: auto
   uuid: 7022982f-da4c-48c9-c660-b2315abdcf7e
@@ -18794,7 +18794,7 @@ proxies:
       host: a.prapt5.ir
 - name: "\U0001F1FA\U0001F1F3 UN 1789 VMS"
   type: vmess
-  server: 104.21.228.23
+  server: 104.21.239.76
   port: 80
   cipher: auto
   uuid: 7022982f-da4c-48c9-c660-b2315abdcf7e
@@ -18808,7 +18808,7 @@ proxies:
       host: a.prapt5.ir
 - name: "\U0001F1FA\U0001F1F3 UN 1790 VMS"
   type: vmess
-  server: 104.21.228.44
+  server: 104.21.239.77
   port: 80
   cipher: auto
   uuid: 7022982f-da4c-48c9-c660-b2315abdcf7e
@@ -18822,7 +18822,7 @@ proxies:
       host: a.prapt5.ir
 - name: "\U0001F1FA\U0001F1F3 UN 1791 VMS"
   type: vmess
-  server: 104.21.224.20
+  server: 104.21.239.78
   port: 80
   cipher: auto
   uuid: 7022982f-da4c-48c9-c660-b2315abdcf7e
@@ -18836,7 +18836,7 @@ proxies:
       host: a.prapt5.ir
 - name: "\U0001F1FA\U0001F1F3 UN 1792 VMS"
   type: vmess
-  server: 104.21.236.63
+  server: 104.21.239.79
   port: 80
   cipher: auto
   uuid: 7022982f-da4c-48c9-c660-b2315abdcf7e
@@ -18850,7 +18850,7 @@ proxies:
       host: a.prapt5.ir
 - name: "\U0001F1FA\U0001F1F3 UN 1793 VMS"
   type: vmess
-  server: 104.21.238.94
+  server: 104.21.224.20
   port: 80
   cipher: auto
   uuid: 7022982f-da4c-48c9-c660-b2315abdcf7e
@@ -18864,7 +18864,7 @@ proxies:
       host: a.prapt5.ir
 - name: "\U0001F1FA\U0001F1F3 UN 1794 VMS"
   type: vmess
-  server: 104.21.227.16
+  server: 104.21.224.21
   port: 80
   cipher: auto
   uuid: 7022982f-da4c-48c9-c660-b2315abdcf7e
@@ -18878,7 +18878,7 @@ proxies:
       host: a.prapt5.ir
 - name: "\U0001F1FA\U0001F1F3 UN 1795 VMS"
   type: vmess
-  server: 104.21.232.41
+  server: 104.21.224.22
   port: 80
   cipher: auto
   uuid: 7022982f-da4c-48c9-c660-b2315abdcf7e
@@ -18892,7 +18892,7 @@ proxies:
       host: a.prapt5.ir
 - name: "\U0001F1FA\U0001F1F3 UN 1796 VMS"
   type: vmess
-  server: 104.21.227.15
+  server: 104.21.224.23
   port: 80
   cipher: auto
   uuid: 7022982f-da4c-48c9-c660-b2315abdcf7e
@@ -18906,7 +18906,7 @@ proxies:
       host: a.prapt5.ir
 - name: "\U0001F1FA\U0001F1F3 UN 1797 VMS"
   type: vmess
-  server: 104.21.225.29
+  server: 104.21.224.24
   port: 80
   cipher: auto
   uuid: 7022982f-da4c-48c9-c660-b2315abdcf7e
@@ -18920,7 +18920,7 @@ proxies:
       host: a.prapt5.ir
 - name: "\U0001F1FA\U0001F1F3 UN 1798 VMS"
   type: vmess
-  server: 104.21.228.22
+  server: 104.21.225.25
   port: 80
   cipher: auto
   uuid: 7022982f-da4c-48c9-c660-b2315abdcf7e
@@ -18934,7 +18934,7 @@ proxies:
       host: a.prapt5.ir
 - name: "\U0001F1FA\U0001F1F3 UN 1799 VMS"
   type: vmess
-  server: 104.21.229.25
+  server: 104.21.225.26
   port: 80
   cipher: auto
   uuid: 7022982f-da4c-48c9-c660-b2315abdcf7e
@@ -18948,7 +18948,7 @@ proxies:
       host: a.prapt5.ir
 - name: "\U0001F1FA\U0001F1F3 UN 1800 VMS"
   type: vmess
-  server: 104.21.229.27
+  server: 104.21.225.27
   port: 80
   cipher: auto
   uuid: 7022982f-da4c-48c9-c660-b2315abdcf7e
@@ -18962,7 +18962,7 @@ proxies:
       host: a.prapt5.ir
 - name: "\U0001F1FA\U0001F1F3 UN 1801 VMS"
   type: vmess
-  server: 104.21.231.39
+  server: 104.21.225.28
   port: 80
   cipher: auto
   uuid: 7022982f-da4c-48c9-c660-b2315abdcf7e
@@ -18976,7 +18976,7 @@ proxies:
       host: a.prapt5.ir
 - name: "\U0001F1FA\U0001F1F3 UN 1802 VMS"
   type: vmess
-  server: 104.21.238.93
+  server: 104.21.225.29
   port: 80
   cipher: auto
   uuid: 7022982f-da4c-48c9-c660-b2315abdcf7e
@@ -18990,7 +18990,7 @@ proxies:
       host: a.prapt5.ir
 - name: "\U0001F1FA\U0001F1F3 UN 1803 VMS"
   type: vmess
-  server: 104.21.225.8
+  server: 104.21.226.30
   port: 80
   cipher: auto
   uuid: 7022982f-da4c-48c9-c660-b2315abdcf7e
@@ -19004,7 +19004,7 @@ proxies:
       host: a.prapt5.ir
 - name: "\U0001F1FA\U0001F1F3 UN 1804 VMS"
   type: vmess
-  server: 104.21.234.51
+  server: 104.21.226.31
   port: 80
   cipher: auto
   uuid: 7022982f-da4c-48c9-c660-b2315abdcf7e
@@ -19018,7 +19018,7 @@ proxies:
       host: a.prapt5.ir
 - name: "\U0001F1FA\U0001F1F3 UN 1805 VMS"
   type: vmess
-  server: 104.21.234.54
+  server: 104.21.226.32
   port: 80
   cipher: auto
   uuid: 7022982f-da4c-48c9-c660-b2315abdcf7e
@@ -19032,7 +19032,7 @@ proxies:
       host: a.prapt5.ir
 - name: "\U0001F1FA\U0001F1F3 UN 1806 VMS"
   type: vmess
-  server: 104.21.233.68
+  server: 104.21.226.33
   port: 80
   cipher: auto
   uuid: 7022982f-da4c-48c9-c660-b2315abdcf7e
@@ -19046,7 +19046,7 @@ proxies:
       host: a.prapt5.ir
 - name: "\U0001F1FA\U0001F1F3 UN 1807 VMS"
   type: vmess
-  server: 104.21.238.90
+  server: 104.21.226.34
   port: 80
   cipher: auto
   uuid: 7022982f-da4c-48c9-c660-b2315abdcf7e
@@ -19060,7 +19060,7 @@ proxies:
       host: a.prapt5.ir
 - name: "\U0001F1FA\U0001F1F3 UN 1808 VMS"
   type: vmess
-  server: 104.21.230.30
+  server: 104.21.227.35
   port: 80
   cipher: auto
   uuid: 7022982f-da4c-48c9-c660-b2315abdcf7e
@@ -19074,7 +19074,7 @@ proxies:
       host: a.prapt5.ir
 - name: "\U0001F1FA\U0001F1F3 UN 1809 VMS"
   type: vmess
-  server: 104.21.233.48
+  server: 104.21.227.36
   port: 80
   cipher: auto
   uuid: 7022982f-da4c-48c9-c660-b2315abdcf7e
@@ -19088,7 +19088,7 @@ proxies:
       host: a.prapt5.ir
 - name: "\U0001F1FA\U0001F1F3 UN 1810 VMS"
   type: vmess
-  server: 104.21.238.92
+  server: 104.21.227.37
   port: 80
   cipher: auto
   uuid: 7022982f-da4c-48c9-c660-b2315abdcf7e
@@ -19102,7 +19102,7 @@ proxies:
       host: a.prapt5.ir
 - name: "\U0001F1FA\U0001F1F3 UN 1811 VMS"
   type: vmess
-  server: 104.21.226.14
+  server: 104.21.227.38
   port: 80
   cipher: auto
   uuid: 7022982f-da4c-48c9-c660-b2315abdcf7e
@@ -19116,7 +19116,7 @@ proxies:
       host: a.prapt5.ir
 - name: "\U0001F1FA\U0001F1F3 UN 1812 VMS"
   type: vmess
-  server: 104.21.239.75
+  server: 104.21.227.39
   port: 80
   cipher: auto
   uuid: 7022982f-da4c-48c9-c660-b2315abdcf7e
@@ -19130,7 +19130,7 @@ proxies:
       host: a.prapt5.ir
 - name: "\U0001F1FA\U0001F1F3 UN 1813 VMS"
   type: vmess
-  server: 104.21.225.9
+  server: 104.21.228.40
   port: 80
   cipher: auto
   uuid: 7022982f-da4c-48c9-c660-b2315abdcf7e
@@ -19144,7 +19144,7 @@ proxies:
       host: a.prapt5.ir
 - name: "\U0001F1FA\U0001F1F3 UN 1814 VMS"
   type: vmess
-  server: 104.21.239.77
+  server: 104.21.228.41
   port: 80
   cipher: auto
   uuid: 7022982f-da4c-48c9-c660-b2315abdcf7e
@@ -19158,7 +19158,7 @@ proxies:
       host: a.prapt5.ir
 - name: "\U0001F1FA\U0001F1F3 UN 1815 VMS"
   type: vmess
-  server: 104.21.239.98
+  server: 104.21.228.42
   port: 80
   cipher: auto
   uuid: 7022982f-da4c-48c9-c660-b2315abdcf7e
@@ -19172,7 +19172,7 @@ proxies:
       host: a.prapt5.ir
 - name: "\U0001F1FA\U0001F1F3 UN 1816 VMS"
   type: vmess
-  server: 104.21.239.95
+  server: 104.21.228.43
   port: 80
   cipher: auto
   uuid: 7022982f-da4c-48c9-c660-b2315abdcf7e
@@ -19186,7 +19186,7 @@ proxies:
       host: a.prapt5.ir
 - name: "\U0001F1FA\U0001F1F3 UN 1817 VMS"
   type: vmess
-  server: 104.21.236.64
+  server: 104.21.228.44
   port: 80
   cipher: auto
   uuid: 7022982f-da4c-48c9-c660-b2315abdcf7e
@@ -19200,7 +19200,7 @@ proxies:
       host: a.prapt5.ir
 - name: "\U0001F1FA\U0001F1F3 UN 1818 VMS"
   type: vmess
-  server: 104.21.237.69
+  server: 104.21.229.45
   port: 80
   cipher: auto
   uuid: 7022982f-da4c-48c9-c660-b2315abdcf7e
@@ -19214,7 +19214,7 @@ proxies:
       host: a.prapt5.ir
 - name: "\U0001F1FA\U0001F1F3 UN 1819 VMS"
   type: vmess
-  server: 104.21.237.87
+  server: 104.21.229.46
   port: 80
   cipher: auto
   uuid: 7022982f-da4c-48c9-c660-b2315abdcf7e
@@ -19228,7 +19228,7 @@ proxies:
       host: a.prapt5.ir
 - name: "\U0001F1FA\U0001F1F3 UN 1820 VMS"
   type: vmess
-  server: 104.21.235.55
+  server: 104.21.229.47
   port: 80
   cipher: auto
   uuid: 7022982f-da4c-48c9-c660-b2315abdcf7e
@@ -19242,7 +19242,7 @@ proxies:
       host: a.prapt5.ir
 - name: "\U0001F1FA\U0001F1F3 UN 1821 VMS"
   type: vmess
-  server: 104.21.233.66
+  server: 104.21.229.48
   port: 80
   cipher: auto
   uuid: 7022982f-da4c-48c9-c660-b2315abdcf7e
@@ -19256,7 +19256,7 @@ proxies:
       host: a.prapt5.ir
 - name: "\U0001F1FA\U0001F1F3 UN 1822 VMS"
   type: vmess
-  server: 104.21.224.0
+  server: 104.21.229.49
   port: 80
   cipher: auto
   uuid: 7022982f-da4c-48c9-c660-b2315abdcf7e
@@ -19270,7 +19270,7 @@ proxies:
       host: a.prapt5.ir
 - name: "\U0001F1FA\U0001F1F3 UN 1823 VMS"
   type: vmess
-  server: 104.21.235.78
+  server: 104.21.230.50
   port: 80
   cipher: auto
   uuid: 7022982f-da4c-48c9-c660-b2315abdcf7e
@@ -19284,7 +19284,7 @@ proxies:
       host: a.prapt5.ir
 - name: "\U0001F1FA\U0001F1F3 UN 1824 VMS"
   type: vmess
-  server: 104.21.235.79
+  server: 104.21.230.51
   port: 80
   cipher: auto
   uuid: 7022982f-da4c-48c9-c660-b2315abdcf7e
@@ -19298,7 +19298,7 @@ proxies:
       host: a.prapt5.ir
 - name: "\U0001F1FA\U0001F1F3 UN 1825 VMS"
   type: vmess
-  server: 104.21.235.77
+  server: 104.21.230.52
   port: 80
   cipher: auto
   uuid: 7022982f-da4c-48c9-c660-b2315abdcf7e
@@ -19312,7 +19312,7 @@ proxies:
       host: a.prapt5.ir
 - name: "\U0001F1FA\U0001F1F3 UN 1826 VMS"
   type: vmess
-  server: 104.21.237.85
+  server: 104.21.230.53
   port: 80
   cipher: auto
   uuid: 7022982f-da4c-48c9-c660-b2315abdcf7e
@@ -19326,7 +19326,7 @@ proxies:
       host: a.prapt5.ir
 - name: "\U0001F1FA\U0001F1F3 UN 1827 VMS"
   type: vmess
-  server: 104.21.230.52
+  server: 104.21.230.54
   port: 80
   cipher: auto
   uuid: 7022982f-da4c-48c9-c660-b2315abdcf7e
@@ -19340,7 +19340,7 @@ proxies:
       host: a.prapt5.ir
 - name: "\U0001F1FA\U0001F1F3 UN 1828 VMS"
   type: vmess
-  server: 104.21.225.26
+  server: 104.21.231.55
   port: 80
   cipher: auto
   uuid: 7022982f-da4c-48c9-c660-b2315abdcf7e
@@ -19354,7 +19354,7 @@ proxies:
       host: a.prapt5.ir
 - name: "\U0001F1FA\U0001F1F3 UN 1829 VMS"
   type: vmess
-  server: 104.21.226.31
+  server: 104.21.231.56
   port: 80
   cipher: auto
   uuid: 7022982f-da4c-48c9-c660-b2315abdcf7e
@@ -19368,7 +19368,7 @@ proxies:
       host: a.prapt5.ir
 - name: "\U0001F1FA\U0001F1F3 UN 1830 VMS"
   type: vmess
-  server: 104.21.226.34
+  server: 104.21.231.57
   port: 80
   cipher: auto
   uuid: 7022982f-da4c-48c9-c660-b2315abdcf7e
@@ -19382,7 +19382,7 @@ proxies:
       host: a.prapt5.ir
 - name: "\U0001F1FA\U0001F1F3 UN 1831 VMS"
   type: vmess
-  server: 104.21.229.45
+  server: 104.21.231.58
   port: 80
   cipher: auto
   uuid: 7022982f-da4c-48c9-c660-b2315abdcf7e
@@ -19396,7 +19396,7 @@ proxies:
       host: a.prapt5.ir
 - name: "\U0001F1FA\U0001F1F3 UN 1832 VMS"
   type: vmess
-  server: 104.21.229.47
+  server: 104.21.231.59
   port: 80
   cipher: auto
   uuid: 7022982f-da4c-48c9-c660-b2315abdcf7e
@@ -19410,7 +19410,7 @@ proxies:
       host: a.prapt5.ir
 - name: "\U0001F1FA\U0001F1F3 UN 1833 VMS"
   type: vmess
-  server: 104.21.233.49
+  server: 104.21.232.60
   port: 80
   cipher: auto
   uuid: 7022982f-da4c-48c9-c660-b2315abdcf7e
@@ -19424,7 +19424,7 @@ proxies:
       host: a.prapt5.ir
 - name: "\U0001F1FA\U0001F1F3 UN 1834 VMS"
   type: vmess
-  server: 104.21.226.32
+  server: 104.21.232.61
   port: 80
   cipher: auto
   uuid: 7022982f-da4c-48c9-c660-b2315abdcf7e
@@ -19438,7 +19438,7 @@ proxies:
       host: a.prapt5.ir
 - name: "\U0001F1FA\U0001F1F3 UN 1835 VMS"
   type: vmess
-  server: 104.21.231.57
+  server: 104.21.232.62
   port: 80
   cipher: auto
   uuid: 7022982f-da4c-48c9-c660-b2315abdcf7e
@@ -19452,7 +19452,7 @@ proxies:
       host: a.prapt5.ir
 - name: "\U0001F1FA\U0001F1F3 UN 1836 VMS"
   type: vmess
-  server: 104.21.237.86
+  server: 104.21.232.63
   port: 80
   cipher: auto
   uuid: 7022982f-da4c-48c9-c660-b2315abdcf7e
@@ -19466,7 +19466,7 @@ proxies:
       host: a.prapt5.ir
 - name: "\U0001F1FA\U0001F1F3 UN 1837 VMS"
   type: vmess
-  server: 104.21.225.27
+  server: 104.21.232.64
   port: 80
   cipher: auto
   uuid: 7022982f-da4c-48c9-c660-b2315abdcf7e
@@ -19480,7 +19480,7 @@ proxies:
       host: a.prapt5.ir
 - name: "\U0001F1FA\U0001F1F3 UN 1838 VMS"
   type: vmess
-  server: 104.21.227.36
+  server: 104.21.233.65
   port: 80
   cipher: auto
   uuid: 7022982f-da4c-48c9-c660-b2315abdcf7e
@@ -19494,7 +19494,7 @@ proxies:
       host: a.prapt5.ir
 - name: "\U0001F1FA\U0001F1F3 UN 1839 VMS"
   type: vmess
-  server: 104.21.230.54
+  server: 104.21.233.66
   port: 80
   cipher: auto
   uuid: 7022982f-da4c-48c9-c660-b2315abdcf7e
@@ -19508,7 +19508,7 @@ proxies:
       host: a.prapt5.ir
 - name: "\U0001F1FA\U0001F1F3 UN 1840 VMS"
   type: vmess
-  server: 104.21.236.82
+  server: 104.21.233.67
   port: 80
   cipher: auto
   uuid: 7022982f-da4c-48c9-c660-b2315abdcf7e
@@ -19522,7 +19522,7 @@ proxies:
       host: a.prapt5.ir
 - name: "\U0001F1FA\U0001F1F3 UN 1841 VMS"
   type: vmess
-  server: 104.21.234.50
+  server: 104.21.233.68
   port: 80
   cipher: auto
   uuid: 7022982f-da4c-48c9-c660-b2315abdcf7e
@@ -19550,7 +19550,7 @@ proxies:
       host: a.prapt5.ir
 - name: "\U0001F1FA\U0001F1F3 UN 1843 VMS"
   type: vmess
-  server: 104.21.234.53
+  server: 104.21.234.70
   port: 80
   cipher: auto
   uuid: 7022982f-da4c-48c9-c660-b2315abdcf7e
@@ -19564,7 +19564,7 @@ proxies:
       host: a.prapt5.ir
 - name: "\U0001F1FA\U0001F1F3 UN 1844 VMS"
   type: vmess
-  server: 104.21.230.53
+  server: 104.21.234.71
   port: 80
   cipher: auto
   uuid: 7022982f-da4c-48c9-c660-b2315abdcf7e
@@ -19578,7 +19578,7 @@ proxies:
       host: a.prapt5.ir
 - name: "\U0001F1FA\U0001F1F3 UN 1845 VMS"
   type: vmess
-  server: 104.21.232.61
+  server: 104.21.234.72
   port: 80
   cipher: auto
   uuid: 7022982f-da4c-48c9-c660-b2315abdcf7e
@@ -19592,7 +19592,7 @@ proxies:
       host: a.prapt5.ir
 - name: "\U0001F1FA\U0001F1F3 UN 1846 VMS"
   type: vmess
-  server: 104.21.239.99
+  server: 104.21.234.73
   port: 80
   cipher: auto
   uuid: 7022982f-da4c-48c9-c660-b2315abdcf7e
@@ -19606,7 +19606,7 @@ proxies:
       host: a.prapt5.ir
 - name: "\U0001F1FA\U0001F1F3 UN 1847 VMS"
   type: vmess
-  server: 104.21.224.21
+  server: 104.21.234.74
   port: 80
   cipher: auto
   uuid: 7022982f-da4c-48c9-c660-b2315abdcf7e
@@ -19620,7 +19620,7 @@ proxies:
       host: a.prapt5.ir
 - name: "\U0001F1FA\U0001F1F3 UN 1848 VMS"
   type: vmess
-  server: 104.21.239.96
+  server: 104.21.235.75
   port: 80
   cipher: auto
   uuid: 7022982f-da4c-48c9-c660-b2315abdcf7e
@@ -19634,7 +19634,7 @@ proxies:
       host: a.prapt5.ir
 - name: "\U0001F1FA\U0001F1F3 UN 1849 VMS"
   type: vmess
-  server: 104.21.239.97
+  server: 104.21.235.76
   port: 80
   cipher: auto
   uuid: 7022982f-da4c-48c9-c660-b2315abdcf7e
@@ -19648,7 +19648,7 @@ proxies:
       host: a.prapt5.ir
 - name: "\U0001F1FA\U0001F1F3 UN 1850 VMS"
   type: vmess
-  server: 104.21.235.56
+  server: 104.21.235.77
   port: 80
   cipher: auto
   uuid: 7022982f-da4c-48c9-c660-b2315abdcf7e
@@ -19662,7 +19662,7 @@ proxies:
       host: a.prapt5.ir
 - name: "\U0001F1FA\U0001F1F3 UN 1851 VMS"
   type: vmess
-  server: 104.21.225.25
+  server: 104.21.235.78
   port: 80
   cipher: auto
   uuid: 7022982f-da4c-48c9-c660-b2315abdcf7e
@@ -19676,7 +19676,7 @@ proxies:
       host: a.prapt5.ir
 - name: "\U0001F1FA\U0001F1F3 UN 1852 VMS"
   type: vmess
-  server: 104.21.232.63
+  server: 104.21.235.79
   port: 80
   cipher: auto
   uuid: 7022982f-da4c-48c9-c660-b2315abdcf7e
@@ -19690,7 +19690,7 @@ proxies:
       host: a.prapt5.ir
 - name: "\U0001F1FA\U0001F1F3 UN 1853 VMS"
   type: vmess
-  server: 104.21.233.46
+  server: 104.21.236.80
   port: 80
   cipher: auto
   uuid: 7022982f-da4c-48c9-c660-b2315abdcf7e
@@ -19704,7 +19704,7 @@ proxies:
       host: a.prapt5.ir
 - name: "\U0001F1FA\U0001F1F3 UN 1854 VMS"
   type: vmess
-  server: 104.21.235.59
+  server: 104.21.236.81
   port: 80
   cipher: auto
   uuid: 7022982f-da4c-48c9-c660-b2315abdcf7e
@@ -19718,7 +19718,7 @@ proxies:
       host: a.prapt5.ir
 - name: "\U0001F1FA\U0001F1F3 UN 1855 VMS"
   type: vmess
-  server: 104.21.237.66
+  server: 104.21.236.82
   port: 80
   cipher: auto
   uuid: 7022982f-da4c-48c9-c660-b2315abdcf7e
@@ -19732,7 +19732,7 @@ proxies:
       host: a.prapt5.ir
 - name: "\U0001F1FA\U0001F1F3 UN 1856 VMS"
   type: vmess
-  server: 104.21.239.79
+  server: 104.21.236.83
   port: 80
   cipher: auto
   uuid: 7022982f-da4c-48c9-c660-b2315abdcf7e
@@ -19746,7 +19746,7 @@ proxies:
       host: a.prapt5.ir
 - name: "\U0001F1FA\U0001F1F3 UN 1857 VMS"
   type: vmess
-  server: 104.21.229.46
+  server: 104.21.236.84
   port: 80
   cipher: auto
   uuid: 7022982f-da4c-48c9-c660-b2315abdcf7e
@@ -19760,7 +19760,7 @@ proxies:
       host: a.prapt5.ir
 - name: "\U0001F1FA\U0001F1F3 UN 1858 VMS"
   type: vmess
-  server: 104.21.227.18
+  server: 104.21.237.85
   port: 80
   cipher: auto
   uuid: 7022982f-da4c-48c9-c660-b2315abdcf7e
@@ -19774,7 +19774,7 @@ proxies:
       host: a.prapt5.ir
 - name: "\U0001F1FA\U0001F1F3 UN 1859 VMS"
   type: vmess
-  server: 104.21.234.52
+  server: 104.21.237.86
   port: 80
   cipher: auto
   uuid: 7022982f-da4c-48c9-c660-b2315abdcf7e
@@ -19788,7 +19788,7 @@ proxies:
       host: a.prapt5.ir
 - name: "\U0001F1FA\U0001F1F3 UN 1860 VMS"
   type: vmess
-  server: 104.21.237.88
+  server: 104.21.237.87
   port: 80
   cipher: auto
   uuid: 7022982f-da4c-48c9-c660-b2315abdcf7e
@@ -19802,7 +19802,7 @@ proxies:
       host: a.prapt5.ir
 - name: "\U0001F1FA\U0001F1F3 UN 1861 VMS"
   type: vmess
-  server: 104.21.237.67
+  server: 104.21.237.88
   port: 80
   cipher: auto
   uuid: 7022982f-da4c-48c9-c660-b2315abdcf7e
@@ -19816,7 +19816,7 @@ proxies:
       host: a.prapt5.ir
 - name: "\U0001F1FA\U0001F1F3 UN 1862 VMS"
   type: vmess
-  server: 104.21.228.24
+  server: 104.21.237.89
   port: 80
   cipher: auto
   uuid: 7022982f-da4c-48c9-c660-b2315abdcf7e
@@ -19830,7 +19830,7 @@ proxies:
       host: a.prapt5.ir
 - name: "\U0001F1FA\U0001F1F3 UN 1863 VMS"
   type: vmess
-  server: 104.21.231.35
+  server: 104.21.238.90
   port: 80
   cipher: auto
   uuid: 7022982f-da4c-48c9-c660-b2315abdcf7e
@@ -19844,7 +19844,7 @@ proxies:
       host: a.prapt5.ir
 - name: "\U0001F1FA\U0001F1F3 UN 1864 VMS"
   type: vmess
-  server: 104.21.230.51
+  server: 104.21.238.91
   port: 80
   cipher: auto
   uuid: 7022982f-da4c-48c9-c660-b2315abdcf7e
@@ -19858,7 +19858,7 @@ proxies:
       host: a.prapt5.ir
 - name: "\U0001F1FA\U0001F1F3 UN 1865 VMS"
   type: vmess
-  server: 104.21.224.1
+  server: 104.21.238.92
   port: 80
   cipher: auto
   uuid: 7022982f-da4c-48c9-c660-b2315abdcf7e
@@ -19872,7 +19872,7 @@ proxies:
       host: a.prapt5.ir
 - name: "\U0001F1FA\U0001F1F3 UN 1866 VMS"
   type: vmess
-  server: 104.21.229.26
+  server: 104.21.238.93
   port: 80
   cipher: auto
   uuid: 7022982f-da4c-48c9-c660-b2315abdcf7e
@@ -19886,7 +19886,7 @@ proxies:
       host: a.prapt5.ir
 - name: "\U0001F1FA\U0001F1F3 UN 1867 VMS"
   type: vmess
-  server: 104.21.229.28
+  server: 104.21.238.94
   port: 80
   cipher: auto
   uuid: 7022982f-da4c-48c9-c660-b2315abdcf7e
@@ -19900,7 +19900,7 @@ proxies:
       host: a.prapt5.ir
 - name: "\U0001F1FA\U0001F1F3 UN 1868 VMS"
   type: vmess
-  server: 104.21.236.80
+  server: 104.21.239.95
   port: 80
   cipher: auto
   uuid: 7022982f-da4c-48c9-c660-b2315abdcf7e
@@ -19914,7 +19914,7 @@ proxies:
       host: a.prapt5.ir
 - name: "\U0001F1FA\U0001F1F3 UN 1869 VMS"
   type: vmess
-  server: 104.21.229.29
+  server: 104.21.239.96
   port: 80
   cipher: auto
   uuid: 7022982f-da4c-48c9-c660-b2315abdcf7e
@@ -19928,7 +19928,7 @@ proxies:
       host: a.prapt5.ir
 - name: "\U0001F1FA\U0001F1F3 UN 1870 VMS"
   type: vmess
-  server: 104.21.226.33
+  server: 104.21.239.97
   port: 80
   cipher: auto
   uuid: 7022982f-da4c-48c9-c660-b2315abdcf7e
@@ -19942,7 +19942,7 @@ proxies:
       host: a.prapt5.ir
 - name: "\U0001F1FA\U0001F1F3 UN 1871 VMS"
   type: vmess
-  server: 104.21.226.13
+  server: 104.21.239.98
   port: 80
   cipher: auto
   uuid: 7022982f-da4c-48c9-c660-b2315abdcf7e
@@ -19956,7 +19956,7 @@ proxies:
       host: a.prapt5.ir
 - name: "\U0001F1FA\U0001F1F3 UN 1872 VMS"
   type: vmess
-  server: 104.21.234.70
+  server: 104.21.239.99
   port: 80
   cipher: auto
   uuid: 7022982f-da4c-48c9-c660-b2315abdcf7e
@@ -19970,7 +19970,7 @@ proxies:
       host: a.prapt5.ir
 - name: "\U0001F1FA\U0001F1F3 UN 1873 VMS"
   type: vmess
-  server: 104.21.224.0
+  server: 104.21.226.10
   port: 80
   cipher: auto
   uuid: 7022982f-da4c-48c9-c660-b2315abdcf7e
@@ -19984,7 +19984,7 @@ proxies:
       host: a.prapt5.ir
 - name: "\U0001F1FA\U0001F1F3 UN 1874 VMS"
   type: vmess
-  server: 104.21.224.1
+  server: 104.21.226.11
   port: 80
   cipher: auto
   uuid: 7022982f-da4c-48c9-c660-b2315abdcf7e
@@ -19998,7 +19998,7 @@ proxies:
       host: a.prapt5.ir
 - name: "\U0001F1FA\U0001F1F3 UN 1875 VMS"
   type: vmess
-  server: 104.21.224.2
+  server: 104.21.226.12
   port: 80
   cipher: auto
   uuid: 7022982f-da4c-48c9-c660-b2315abdcf7e
@@ -20012,7 +20012,7 @@ proxies:
       host: a.prapt5.ir
 - name: "\U0001F1FA\U0001F1F3 UN 1876 VMS"
   type: vmess
-  server: 104.21.224.3
+  server: 104.21.226.13
   port: 80
   cipher: auto
   uuid: 7022982f-da4c-48c9-c660-b2315abdcf7e
@@ -20026,7 +20026,7 @@ proxies:
       host: a.prapt5.ir
 - name: "\U0001F1FA\U0001F1F3 UN 1877 VMS"
   type: vmess
-  server: 104.21.224.4
+  server: 104.21.226.14
   port: 80
   cipher: auto
   uuid: 7022982f-da4c-48c9-c660-b2315abdcf7e
@@ -20040,7 +20040,7 @@ proxies:
       host: a.prapt5.ir
 - name: "\U0001F1FA\U0001F1F3 UN 1878 VMS"
   type: vmess
-  server: 104.21.225.5
+  server: 104.21.227.15
   port: 80
   cipher: auto
   uuid: 7022982f-da4c-48c9-c660-b2315abdcf7e
@@ -20054,7 +20054,7 @@ proxies:
       host: a.prapt5.ir
 - name: "\U0001F1FA\U0001F1F3 UN 1879 VMS"
   type: vmess
-  server: 104.21.225.6
+  server: 104.21.227.16
   port: 80
   cipher: auto
   uuid: 7022982f-da4c-48c9-c660-b2315abdcf7e
@@ -20068,7 +20068,7 @@ proxies:
       host: a.prapt5.ir
 - name: "\U0001F1FA\U0001F1F3 UN 1880 VMS"
   type: vmess
-  server: 104.21.225.7
+  server: 104.21.227.17
   port: 80
   cipher: auto
   uuid: 7022982f-da4c-48c9-c660-b2315abdcf7e
@@ -20082,7 +20082,7 @@ proxies:
       host: a.prapt5.ir
 - name: "\U0001F1FA\U0001F1F3 UN 1881 VMS"
   type: vmess
-  server: 104.21.225.8
+  server: 104.21.227.18
   port: 80
   cipher: auto
   uuid: 7022982f-da4c-48c9-c660-b2315abdcf7e
@@ -20096,7 +20096,7 @@ proxies:
       host: a.prapt5.ir
 - name: "\U0001F1FA\U0001F1F3 UN 1882 VMS"
   type: vmess
-  server: 104.21.225.9
+  server: 104.21.227.19
   port: 80
   cipher: auto
   uuid: 7022982f-da4c-48c9-c660-b2315abdcf7e
@@ -20110,7 +20110,7 @@ proxies:
       host: a.prapt5.ir
 - name: "\U0001F1FA\U0001F1F3 UN 1883 VMS"
   type: vmess
-  server: 104.21.226.10
+  server: 104.21.228.20
   port: 80
   cipher: auto
   uuid: 7022982f-da4c-48c9-c660-b2315abdcf7e
@@ -20124,7 +20124,7 @@ proxies:
       host: a.prapt5.ir
 - name: "\U0001F1FA\U0001F1F3 UN 1884 VMS"
   type: vmess
-  server: 104.21.226.11
+  server: 104.21.228.21
   port: 80
   cipher: auto
   uuid: 7022982f-da4c-48c9-c660-b2315abdcf7e
@@ -20138,7 +20138,7 @@ proxies:
       host: a.prapt5.ir
 - name: "\U0001F1FA\U0001F1F3 UN 1885 VMS"
   type: vmess
-  server: 104.21.226.12
+  server: 104.21.228.22
   port: 80
   cipher: auto
   uuid: 7022982f-da4c-48c9-c660-b2315abdcf7e
@@ -20152,7 +20152,7 @@ proxies:
       host: a.prapt5.ir
 - name: "\U0001F1FA\U0001F1F3 UN 1886 VMS"
   type: vmess
-  server: 104.21.226.13
+  server: 104.21.228.23
   port: 80
   cipher: auto
   uuid: 7022982f-da4c-48c9-c660-b2315abdcf7e
@@ -20166,7 +20166,7 @@ proxies:
       host: a.prapt5.ir
 - name: "\U0001F1FA\U0001F1F3 UN 1887 VMS"
   type: vmess
-  server: 104.21.226.14
+  server: 104.21.228.24
   port: 80
   cipher: auto
   uuid: 7022982f-da4c-48c9-c660-b2315abdcf7e
@@ -20180,7 +20180,7 @@ proxies:
       host: a.prapt5.ir
 - name: "\U0001F1FA\U0001F1F3 UN 1888 VMS"
   type: vmess
-  server: 104.21.227.15
+  server: 104.21.229.25
   port: 80
   cipher: auto
   uuid: 7022982f-da4c-48c9-c660-b2315abdcf7e
@@ -20194,7 +20194,7 @@ proxies:
       host: a.prapt5.ir
 - name: "\U0001F1FA\U0001F1F3 UN 1889 VMS"
   type: vmess
-  server: 104.21.227.16
+  server: 104.21.229.26
   port: 80
   cipher: auto
   uuid: 7022982f-da4c-48c9-c660-b2315abdcf7e
@@ -20208,7 +20208,7 @@ proxies:
       host: a.prapt5.ir
 - name: "\U0001F1FA\U0001F1F3 UN 1890 VMS"
   type: vmess
-  server: 104.21.227.17
+  server: 104.21.229.27
   port: 80
   cipher: auto
   uuid: 7022982f-da4c-48c9-c660-b2315abdcf7e
@@ -20222,7 +20222,7 @@ proxies:
       host: a.prapt5.ir
 - name: "\U0001F1FA\U0001F1F3 UN 1891 VMS"
   type: vmess
-  server: 104.21.227.18
+  server: 104.21.229.28
   port: 80
   cipher: auto
   uuid: 7022982f-da4c-48c9-c660-b2315abdcf7e
@@ -20236,7 +20236,7 @@ proxies:
       host: a.prapt5.ir
 - name: "\U0001F1FA\U0001F1F3 UN 1892 VMS"
   type: vmess
-  server: 104.21.227.19
+  server: 104.21.229.29
   port: 80
   cipher: auto
   uuid: 7022982f-da4c-48c9-c660-b2315abdcf7e
@@ -20250,7 +20250,7 @@ proxies:
       host: a.prapt5.ir
 - name: "\U0001F1FA\U0001F1F3 UN 1893 VMS"
   type: vmess
-  server: 104.21.228.20
+  server: 104.21.230.30
   port: 80
   cipher: auto
   uuid: 7022982f-da4c-48c9-c660-b2315abdcf7e
@@ -20264,7 +20264,7 @@ proxies:
       host: a.prapt5.ir
 - name: "\U0001F1FA\U0001F1F3 UN 1894 VMS"
   type: vmess
-  server: 104.21.228.21
+  server: 104.21.230.31
   port: 80
   cipher: auto
   uuid: 7022982f-da4c-48c9-c660-b2315abdcf7e
@@ -20278,7 +20278,7 @@ proxies:
       host: a.prapt5.ir
 - name: "\U0001F1FA\U0001F1F3 UN 1895 VMS"
   type: vmess
-  server: 104.21.228.22
+  server: 104.21.230.32
   port: 80
   cipher: auto
   uuid: 7022982f-da4c-48c9-c660-b2315abdcf7e
@@ -20292,7 +20292,7 @@ proxies:
       host: a.prapt5.ir
 - name: "\U0001F1FA\U0001F1F3 UN 1896 VMS"
   type: vmess
-  server: 104.21.228.23
+  server: 104.21.230.33
   port: 80
   cipher: auto
   uuid: 7022982f-da4c-48c9-c660-b2315abdcf7e
@@ -20306,7 +20306,7 @@ proxies:
       host: a.prapt5.ir
 - name: "\U0001F1FA\U0001F1F3 UN 1897 VMS"
   type: vmess
-  server: 104.21.228.24
+  server: 104.21.230.34
   port: 80
   cipher: auto
   uuid: 7022982f-da4c-48c9-c660-b2315abdcf7e
@@ -20320,7 +20320,7 @@ proxies:
       host: a.prapt5.ir
 - name: "\U0001F1FA\U0001F1F3 UN 1898 VMS"
   type: vmess
-  server: 104.21.229.25
+  server: 104.21.231.35
   port: 80
   cipher: auto
   uuid: 7022982f-da4c-48c9-c660-b2315abdcf7e
@@ -20334,7 +20334,7 @@ proxies:
       host: a.prapt5.ir
 - name: "\U0001F1FA\U0001F1F3 UN 1899 VMS"
   type: vmess
-  server: 104.21.229.26
+  server: 104.21.231.36
   port: 80
   cipher: auto
   uuid: 7022982f-da4c-48c9-c660-b2315abdcf7e
@@ -20348,7 +20348,7 @@ proxies:
       host: a.prapt5.ir
 - name: "\U0001F1FA\U0001F1F3 UN 1900 VMS"
   type: vmess
-  server: 104.21.229.27
+  server: 104.21.231.37
   port: 80
   cipher: auto
   uuid: 7022982f-da4c-48c9-c660-b2315abdcf7e
@@ -20362,7 +20362,7 @@ proxies:
       host: a.prapt5.ir
 - name: "\U0001F1FA\U0001F1F3 UN 1901 VMS"
   type: vmess
-  server: 104.21.229.28
+  server: 104.21.231.38
   port: 80
   cipher: auto
   uuid: 7022982f-da4c-48c9-c660-b2315abdcf7e
@@ -20376,7 +20376,7 @@ proxies:
       host: a.prapt5.ir
 - name: "\U0001F1FA\U0001F1F3 UN 1902 VMS"
   type: vmess
-  server: 104.21.229.29
+  server: 104.21.231.39
   port: 80
   cipher: auto
   uuid: 7022982f-da4c-48c9-c660-b2315abdcf7e
@@ -20390,7 +20390,7 @@ proxies:
       host: a.prapt5.ir
 - name: "\U0001F1FA\U0001F1F3 UN 1903 VMS"
   type: vmess
-  server: 104.21.230.30
+  server: 104.21.232.40
   port: 80
   cipher: auto
   uuid: 7022982f-da4c-48c9-c660-b2315abdcf7e
@@ -20404,7 +20404,7 @@ proxies:
       host: a.prapt5.ir
 - name: "\U0001F1FA\U0001F1F3 UN 1904 VMS"
   type: vmess
-  server: 104.21.230.31
+  server: 104.21.232.41
   port: 80
   cipher: auto
   uuid: 7022982f-da4c-48c9-c660-b2315abdcf7e
@@ -20418,7 +20418,7 @@ proxies:
       host: a.prapt5.ir
 - name: "\U0001F1FA\U0001F1F3 UN 1905 VMS"
   type: vmess
-  server: 104.21.230.32
+  server: 104.21.232.42
   port: 80
   cipher: auto
   uuid: 7022982f-da4c-48c9-c660-b2315abdcf7e
@@ -20432,7 +20432,7 @@ proxies:
       host: a.prapt5.ir
 - name: "\U0001F1FA\U0001F1F3 UN 1906 VMS"
   type: vmess
-  server: 104.21.230.33
+  server: 104.21.232.43
   port: 80
   cipher: auto
   uuid: 7022982f-da4c-48c9-c660-b2315abdcf7e
@@ -20446,7 +20446,7 @@ proxies:
       host: a.prapt5.ir
 - name: "\U0001F1FA\U0001F1F3 UN 1907 VMS"
   type: vmess
-  server: 104.21.230.34
+  server: 104.21.232.44
   port: 80
   cipher: auto
   uuid: 7022982f-da4c-48c9-c660-b2315abdcf7e
@@ -20460,7 +20460,7 @@ proxies:
       host: a.prapt5.ir
 - name: "\U0001F1FA\U0001F1F3 UN 1908 VMS"
   type: vmess
-  server: 104.21.231.35
+  server: 104.21.233.45
   port: 80
   cipher: auto
   uuid: 7022982f-da4c-48c9-c660-b2315abdcf7e
@@ -20474,7 +20474,7 @@ proxies:
       host: a.prapt5.ir
 - name: "\U0001F1FA\U0001F1F3 UN 1909 VMS"
   type: vmess
-  server: 104.21.231.36
+  server: 104.21.233.46
   port: 80
   cipher: auto
   uuid: 7022982f-da4c-48c9-c660-b2315abdcf7e
@@ -20488,7 +20488,7 @@ proxies:
       host: a.prapt5.ir
 - name: "\U0001F1FA\U0001F1F3 UN 1910 VMS"
   type: vmess
-  server: 104.21.231.37
+  server: 104.21.233.47
   port: 80
   cipher: auto
   uuid: 7022982f-da4c-48c9-c660-b2315abdcf7e
@@ -20502,7 +20502,7 @@ proxies:
       host: a.prapt5.ir
 - name: "\U0001F1FA\U0001F1F3 UN 1911 VMS"
   type: vmess
-  server: 104.21.231.38
+  server: 104.21.233.48
   port: 80
   cipher: auto
   uuid: 7022982f-da4c-48c9-c660-b2315abdcf7e
@@ -20516,7 +20516,7 @@ proxies:
       host: a.prapt5.ir
 - name: "\U0001F1FA\U0001F1F3 UN 1912 VMS"
   type: vmess
-  server: 104.21.231.39
+  server: 104.21.233.49
   port: 80
   cipher: auto
   uuid: 7022982f-da4c-48c9-c660-b2315abdcf7e
@@ -20530,7 +20530,7 @@ proxies:
       host: a.prapt5.ir
 - name: "\U0001F1FA\U0001F1F3 UN 1913 VMS"
   type: vmess
-  server: 104.21.232.40
+  server: 104.21.234.50
   port: 80
   cipher: auto
   uuid: 7022982f-da4c-48c9-c660-b2315abdcf7e
@@ -20544,7 +20544,7 @@ proxies:
       host: a.prapt5.ir
 - name: "\U0001F1FA\U0001F1F3 UN 1914 VMS"
   type: vmess
-  server: 104.21.232.41
+  server: 104.21.234.51
   port: 80
   cipher: auto
   uuid: 7022982f-da4c-48c9-c660-b2315abdcf7e
@@ -20558,7 +20558,7 @@ proxies:
       host: a.prapt5.ir
 - name: "\U0001F1FA\U0001F1F3 UN 1915 VMS"
   type: vmess
-  server: 104.21.232.42
+  server: 104.21.234.52
   port: 80
   cipher: auto
   uuid: 7022982f-da4c-48c9-c660-b2315abdcf7e
@@ -20572,7 +20572,7 @@ proxies:
       host: a.prapt5.ir
 - name: "\U0001F1FA\U0001F1F3 UN 1916 VMS"
   type: vmess
-  server: 104.21.232.43
+  server: 104.21.234.53
   port: 80
   cipher: auto
   uuid: 7022982f-da4c-48c9-c660-b2315abdcf7e
@@ -20586,7 +20586,7 @@ proxies:
       host: a.prapt5.ir
 - name: "\U0001F1FA\U0001F1F3 UN 1917 VMS"
   type: vmess
-  server: 104.21.232.44
+  server: 104.21.234.54
   port: 80
   cipher: auto
   uuid: 7022982f-da4c-48c9-c660-b2315abdcf7e
@@ -20600,7 +20600,7 @@ proxies:
       host: a.prapt5.ir
 - name: "\U0001F1FA\U0001F1F3 UN 1918 VMS"
   type: vmess
-  server: 104.21.233.45
+  server: 104.21.235.55
   port: 80
   cipher: auto
   uuid: 7022982f-da4c-48c9-c660-b2315abdcf7e
@@ -20614,7 +20614,7 @@ proxies:
       host: a.prapt5.ir
 - name: "\U0001F1FA\U0001F1F3 UN 1919 VMS"
   type: vmess
-  server: 104.21.233.46
+  server: 104.21.235.56
   port: 80
   cipher: auto
   uuid: 7022982f-da4c-48c9-c660-b2315abdcf7e
@@ -20628,7 +20628,7 @@ proxies:
       host: a.prapt5.ir
 - name: "\U0001F1FA\U0001F1F3 UN 1920 VMS"
   type: vmess
-  server: 104.21.233.47
+  server: 104.21.235.57
   port: 80
   cipher: auto
   uuid: 7022982f-da4c-48c9-c660-b2315abdcf7e
@@ -20642,7 +20642,7 @@ proxies:
       host: a.prapt5.ir
 - name: "\U0001F1FA\U0001F1F3 UN 1921 VMS"
   type: vmess
-  server: 104.21.233.48
+  server: 104.21.235.58
   port: 80
   cipher: auto
   uuid: 7022982f-da4c-48c9-c660-b2315abdcf7e
@@ -20656,7 +20656,7 @@ proxies:
       host: a.prapt5.ir
 - name: "\U0001F1FA\U0001F1F3 UN 1922 VMS"
   type: vmess
-  server: 104.21.233.49
+  server: 104.21.235.59
   port: 80
   cipher: auto
   uuid: 7022982f-da4c-48c9-c660-b2315abdcf7e
@@ -20670,7 +20670,7 @@ proxies:
       host: a.prapt5.ir
 - name: "\U0001F1FA\U0001F1F3 UN 1923 VMS"
   type: vmess
-  server: 104.21.234.50
+  server: 104.21.236.60
   port: 80
   cipher: auto
   uuid: 7022982f-da4c-48c9-c660-b2315abdcf7e
@@ -20684,7 +20684,7 @@ proxies:
       host: a.prapt5.ir
 - name: "\U0001F1FA\U0001F1F3 UN 1924 VMS"
   type: vmess
-  server: 104.21.234.51
+  server: 104.21.236.61
   port: 80
   cipher: auto
   uuid: 7022982f-da4c-48c9-c660-b2315abdcf7e
@@ -20698,7 +20698,7 @@ proxies:
       host: a.prapt5.ir
 - name: "\U0001F1FA\U0001F1F3 UN 1925 VMS"
   type: vmess
-  server: 104.21.234.52
+  server: 104.21.236.62
   port: 80
   cipher: auto
   uuid: 7022982f-da4c-48c9-c660-b2315abdcf7e
@@ -20712,7 +20712,7 @@ proxies:
       host: a.prapt5.ir
 - name: "\U0001F1FA\U0001F1F3 UN 1926 VMS"
   type: vmess
-  server: 104.21.234.53
+  server: 104.21.236.63
   port: 80
   cipher: auto
   uuid: 7022982f-da4c-48c9-c660-b2315abdcf7e
@@ -20726,7 +20726,7 @@ proxies:
       host: a.prapt5.ir
 - name: "\U0001F1FA\U0001F1F3 UN 1927 VMS"
   type: vmess
-  server: 104.21.234.54
+  server: 104.21.236.64
   port: 80
   cipher: auto
   uuid: 7022982f-da4c-48c9-c660-b2315abdcf7e
@@ -20740,7 +20740,7 @@ proxies:
       host: a.prapt5.ir
 - name: "\U0001F1FA\U0001F1F3 UN 1928 VMS"
   type: vmess
-  server: 104.21.235.55
+  server: 104.21.237.65
   port: 80
   cipher: auto
   uuid: 7022982f-da4c-48c9-c660-b2315abdcf7e
@@ -20754,7 +20754,7 @@ proxies:
       host: a.prapt5.ir
 - name: "\U0001F1FA\U0001F1F3 UN 1929 VMS"
   type: vmess
-  server: 104.21.235.56
+  server: 104.21.237.66
   port: 80
   cipher: auto
   uuid: 7022982f-da4c-48c9-c660-b2315abdcf7e
@@ -20768,7 +20768,7 @@ proxies:
       host: a.prapt5.ir
 - name: "\U0001F1FA\U0001F1F3 UN 1930 VMS"
   type: vmess
-  server: 104.21.235.57
+  server: 104.21.237.67
   port: 80
   cipher: auto
   uuid: 7022982f-da4c-48c9-c660-b2315abdcf7e
@@ -20782,7 +20782,7 @@ proxies:
       host: a.prapt5.ir
 - name: "\U0001F1FA\U0001F1F3 UN 1931 VMS"
   type: vmess
-  server: 104.21.235.58
+  server: 104.21.237.68
   port: 80
   cipher: auto
   uuid: 7022982f-da4c-48c9-c660-b2315abdcf7e
@@ -20796,7 +20796,7 @@ proxies:
       host: a.prapt5.ir
 - name: "\U0001F1FA\U0001F1F3 UN 1932 VMS"
   type: vmess
-  server: 104.21.235.59
+  server: 104.21.237.69
   port: 80
   cipher: auto
   uuid: 7022982f-da4c-48c9-c660-b2315abdcf7e
@@ -20810,7 +20810,7 @@ proxies:
       host: a.prapt5.ir
 - name: "\U0001F1FA\U0001F1F3 UN 1933 VMS"
   type: vmess
-  server: 104.21.236.60
+  server: 104.21.238.70
   port: 80
   cipher: auto
   uuid: 7022982f-da4c-48c9-c660-b2315abdcf7e
@@ -20824,7 +20824,7 @@ proxies:
       host: a.prapt5.ir
 - name: "\U0001F1FA\U0001F1F3 UN 1934 VMS"
   type: vmess
-  server: 104.21.236.61
+  server: 104.21.238.71
   port: 80
   cipher: auto
   uuid: 7022982f-da4c-48c9-c660-b2315abdcf7e
@@ -20838,7 +20838,7 @@ proxies:
       host: a.prapt5.ir
 - name: "\U0001F1FA\U0001F1F3 UN 1935 VMS"
   type: vmess
-  server: 104.21.236.62
+  server: 104.21.238.72
   port: 80
   cipher: auto
   uuid: 7022982f-da4c-48c9-c660-b2315abdcf7e
@@ -20852,7 +20852,7 @@ proxies:
       host: a.prapt5.ir
 - name: "\U0001F1FA\U0001F1F3 UN 1936 VMS"
   type: vmess
-  server: 104.21.236.63
+  server: 104.21.238.73
   port: 80
   cipher: auto
   uuid: 7022982f-da4c-48c9-c660-b2315abdcf7e
@@ -20866,7 +20866,7 @@ proxies:
       host: a.prapt5.ir
 - name: "\U0001F1FA\U0001F1F3 UN 1937 VMS"
   type: vmess
-  server: 104.21.236.64
+  server: 104.21.238.74
   port: 80
   cipher: auto
   uuid: 7022982f-da4c-48c9-c660-b2315abdcf7e
@@ -20880,7 +20880,7 @@ proxies:
       host: a.prapt5.ir
 - name: "\U0001F1FA\U0001F1F3 UN 1938 VMS"
   type: vmess
-  server: 104.21.237.65
+  server: 104.21.239.75
   port: 80
   cipher: auto
   uuid: 7022982f-da4c-48c9-c660-b2315abdcf7e
@@ -20894,7 +20894,7 @@ proxies:
       host: a.prapt5.ir
 - name: "\U0001F1FA\U0001F1F3 UN 1939 VMS"
   type: vmess
-  server: 104.21.237.66
+  server: 104.21.239.76
   port: 80
   cipher: auto
   uuid: 7022982f-da4c-48c9-c660-b2315abdcf7e
@@ -20908,7 +20908,7 @@ proxies:
       host: a.prapt5.ir
 - name: "\U0001F1FA\U0001F1F3 UN 1940 VMS"
   type: vmess
-  server: 104.21.237.67
+  server: 104.21.239.77
   port: 80
   cipher: auto
   uuid: 7022982f-da4c-48c9-c660-b2315abdcf7e
@@ -20922,7 +20922,7 @@ proxies:
       host: a.prapt5.ir
 - name: "\U0001F1FA\U0001F1F3 UN 1941 VMS"
   type: vmess
-  server: 104.21.237.68
+  server: 104.21.239.78
   port: 80
   cipher: auto
   uuid: 7022982f-da4c-48c9-c660-b2315abdcf7e
@@ -20936,7 +20936,7 @@ proxies:
       host: a.prapt5.ir
 - name: "\U0001F1FA\U0001F1F3 UN 1942 VMS"
   type: vmess
-  server: 104.21.237.69
+  server: 104.21.239.79
   port: 80
   cipher: auto
   uuid: 7022982f-da4c-48c9-c660-b2315abdcf7e
@@ -20950,7 +20950,7 @@ proxies:
       host: a.prapt5.ir
 - name: "\U0001F1FA\U0001F1F3 UN 1943 VMS"
   type: vmess
-  server: 104.21.238.70
+  server: 104.21.224.20
   port: 80
   cipher: auto
   uuid: 7022982f-da4c-48c9-c660-b2315abdcf7e
@@ -20964,7 +20964,7 @@ proxies:
       host: a.prapt5.ir
 - name: "\U0001F1FA\U0001F1F3 UN 1944 VMS"
   type: vmess
-  server: 104.21.238.71
+  server: 104.21.224.21
   port: 80
   cipher: auto
   uuid: 7022982f-da4c-48c9-c660-b2315abdcf7e
@@ -20978,7 +20978,7 @@ proxies:
       host: a.prapt5.ir
 - name: "\U0001F1FA\U0001F1F3 UN 1945 VMS"
   type: vmess
-  server: 104.21.238.72
+  server: 104.21.224.22
   port: 80
   cipher: auto
   uuid: 7022982f-da4c-48c9-c660-b2315abdcf7e
@@ -20992,7 +20992,7 @@ proxies:
       host: a.prapt5.ir
 - name: "\U0001F1FA\U0001F1F3 UN 1946 VMS"
   type: vmess
-  server: 104.21.238.73
+  server: 104.21.224.23
   port: 80
   cipher: auto
   uuid: 7022982f-da4c-48c9-c660-b2315abdcf7e
@@ -21006,7 +21006,7 @@ proxies:
       host: a.prapt5.ir
 - name: "\U0001F1FA\U0001F1F3 UN 1947 VMS"
   type: vmess
-  server: 104.21.238.74
+  server: 104.21.224.24
   port: 80
   cipher: auto
   uuid: 7022982f-da4c-48c9-c660-b2315abdcf7e
@@ -21020,7 +21020,7 @@ proxies:
       host: a.prapt5.ir
 - name: "\U0001F1FA\U0001F1F3 UN 1948 VMS"
   type: vmess
-  server: 104.21.239.75
+  server: 104.21.225.25
   port: 80
   cipher: auto
   uuid: 7022982f-da4c-48c9-c660-b2315abdcf7e
@@ -21034,7 +21034,7 @@ proxies:
       host: a.prapt5.ir
 - name: "\U0001F1FA\U0001F1F3 UN 1949 VMS"
   type: vmess
-  server: 104.21.239.76
+  server: 104.21.225.26
   port: 80
   cipher: auto
   uuid: 7022982f-da4c-48c9-c660-b2315abdcf7e
@@ -21048,7 +21048,7 @@ proxies:
       host: a.prapt5.ir
 - name: "\U0001F1FA\U0001F1F3 UN 1950 VMS"
   type: vmess
-  server: 104.21.239.77
+  server: 104.21.225.27
   port: 80
   cipher: auto
   uuid: 7022982f-da4c-48c9-c660-b2315abdcf7e
@@ -21062,7 +21062,7 @@ proxies:
       host: a.prapt5.ir
 - name: "\U0001F1FA\U0001F1F3 UN 1951 VMS"
   type: vmess
-  server: 104.21.239.78
+  server: 104.21.225.28
   port: 80
   cipher: auto
   uuid: 7022982f-da4c-48c9-c660-b2315abdcf7e
@@ -21076,7 +21076,7 @@ proxies:
       host: a.prapt5.ir
 - name: "\U0001F1FA\U0001F1F3 UN 1952 VMS"
   type: vmess
-  server: 104.21.239.79
+  server: 104.21.225.29
   port: 80
   cipher: auto
   uuid: 7022982f-da4c-48c9-c660-b2315abdcf7e
@@ -21090,7 +21090,7 @@ proxies:
       host: a.prapt5.ir
 - name: "\U0001F1FA\U0001F1F3 UN 1953 VMS"
   type: vmess
-  server: 104.21.224.20
+  server: 104.21.226.30
   port: 80
   cipher: auto
   uuid: 7022982f-da4c-48c9-c660-b2315abdcf7e
@@ -21104,7 +21104,7 @@ proxies:
       host: a.prapt5.ir
 - name: "\U0001F1FA\U0001F1F3 UN 1954 VMS"
   type: vmess
-  server: 104.21.224.21
+  server: 104.21.226.31
   port: 80
   cipher: auto
   uuid: 7022982f-da4c-48c9-c660-b2315abdcf7e
@@ -21118,7 +21118,7 @@ proxies:
       host: a.prapt5.ir
 - name: "\U0001F1FA\U0001F1F3 UN 1955 VMS"
   type: vmess
-  server: 104.21.224.22
+  server: 104.21.226.32
   port: 80
   cipher: auto
   uuid: 7022982f-da4c-48c9-c660-b2315abdcf7e
@@ -21132,7 +21132,7 @@ proxies:
       host: a.prapt5.ir
 - name: "\U0001F1FA\U0001F1F3 UN 1956 VMS"
   type: vmess
-  server: 104.21.224.23
+  server: 104.21.226.33
   port: 80
   cipher: auto
   uuid: 7022982f-da4c-48c9-c660-b2315abdcf7e
@@ -21146,7 +21146,7 @@ proxies:
       host: a.prapt5.ir
 - name: "\U0001F1FA\U0001F1F3 UN 1957 VMS"
   type: vmess
-  server: 104.21.224.24
+  server: 104.21.226.34
   port: 80
   cipher: auto
   uuid: 7022982f-da4c-48c9-c660-b2315abdcf7e
@@ -21160,7 +21160,7 @@ proxies:
       host: a.prapt5.ir
 - name: "\U0001F1FA\U0001F1F3 UN 1958 VMS"
   type: vmess
-  server: 104.21.225.25
+  server: 104.21.227.35
   port: 80
   cipher: auto
   uuid: 7022982f-da4c-48c9-c660-b2315abdcf7e
@@ -21174,7 +21174,7 @@ proxies:
       host: a.prapt5.ir
 - name: "\U0001F1FA\U0001F1F3 UN 1959 VMS"
   type: vmess
-  server: 104.21.225.26
+  server: 104.21.227.36
   port: 80
   cipher: auto
   uuid: 7022982f-da4c-48c9-c660-b2315abdcf7e
@@ -21188,7 +21188,7 @@ proxies:
       host: a.prapt5.ir
 - name: "\U0001F1FA\U0001F1F3 UN 1960 VMS"
   type: vmess
-  server: 104.21.225.27
+  server: 104.21.227.37
   port: 80
   cipher: auto
   uuid: 7022982f-da4c-48c9-c660-b2315abdcf7e
@@ -21202,7 +21202,7 @@ proxies:
       host: a.prapt5.ir
 - name: "\U0001F1FA\U0001F1F3 UN 1961 VMS"
   type: vmess
-  server: 104.21.225.28
+  server: 104.21.227.38
   port: 80
   cipher: auto
   uuid: 7022982f-da4c-48c9-c660-b2315abdcf7e
@@ -21216,7 +21216,7 @@ proxies:
       host: a.prapt5.ir
 - name: "\U0001F1FA\U0001F1F3 UN 1962 VMS"
   type: vmess
-  server: 104.21.225.29
+  server: 104.21.227.39
   port: 80
   cipher: auto
   uuid: 7022982f-da4c-48c9-c660-b2315abdcf7e
@@ -21230,7 +21230,7 @@ proxies:
       host: a.prapt5.ir
 - name: "\U0001F1FA\U0001F1F3 UN 1963 VMS"
   type: vmess
-  server: 104.21.226.30
+  server: 104.21.228.40
   port: 80
   cipher: auto
   uuid: 7022982f-da4c-48c9-c660-b2315abdcf7e
@@ -21244,7 +21244,7 @@ proxies:
       host: a.prapt5.ir
 - name: "\U0001F1FA\U0001F1F3 UN 1964 VMS"
   type: vmess
-  server: 104.21.226.31
+  server: 104.21.228.41
   port: 80
   cipher: auto
   uuid: 7022982f-da4c-48c9-c660-b2315abdcf7e
@@ -21258,7 +21258,7 @@ proxies:
       host: a.prapt5.ir
 - name: "\U0001F1FA\U0001F1F3 UN 1965 VMS"
   type: vmess
-  server: 104.21.226.32
+  server: 104.21.228.42
   port: 80
   cipher: auto
   uuid: 7022982f-da4c-48c9-c660-b2315abdcf7e
@@ -21272,7 +21272,7 @@ proxies:
       host: a.prapt5.ir
 - name: "\U0001F1FA\U0001F1F3 UN 1966 VMS"
   type: vmess
-  server: 104.21.226.33
+  server: 104.21.228.43
   port: 80
   cipher: auto
   uuid: 7022982f-da4c-48c9-c660-b2315abdcf7e
@@ -21286,7 +21286,7 @@ proxies:
       host: a.prapt5.ir
 - name: "\U0001F1FA\U0001F1F3 UN 1967 VMS"
   type: vmess
-  server: 104.21.226.34
+  server: 104.21.228.44
   port: 80
   cipher: auto
   uuid: 7022982f-da4c-48c9-c660-b2315abdcf7e
@@ -21300,7 +21300,7 @@ proxies:
       host: a.prapt5.ir
 - name: "\U0001F1FA\U0001F1F3 UN 1968 VMS"
   type: vmess
-  server: 104.21.227.35
+  server: 104.21.229.45
   port: 80
   cipher: auto
   uuid: 7022982f-da4c-48c9-c660-b2315abdcf7e
@@ -21314,7 +21314,7 @@ proxies:
       host: a.prapt5.ir
 - name: "\U0001F1FA\U0001F1F3 UN 1969 VMS"
   type: vmess
-  server: 104.21.227.36
+  server: 104.21.229.46
   port: 80
   cipher: auto
   uuid: 7022982f-da4c-48c9-c660-b2315abdcf7e
@@ -21328,7 +21328,7 @@ proxies:
       host: a.prapt5.ir
 - name: "\U0001F1FA\U0001F1F3 UN 1970 VMS"
   type: vmess
-  server: 104.21.227.37
+  server: 104.21.229.47
   port: 80
   cipher: auto
   uuid: 7022982f-da4c-48c9-c660-b2315abdcf7e
@@ -21342,7 +21342,7 @@ proxies:
       host: a.prapt5.ir
 - name: "\U0001F1FA\U0001F1F3 UN 1971 VMS"
   type: vmess
-  server: 104.21.227.38
+  server: 104.21.229.48
   port: 80
   cipher: auto
   uuid: 7022982f-da4c-48c9-c660-b2315abdcf7e
@@ -21356,7 +21356,7 @@ proxies:
       host: a.prapt5.ir
 - name: "\U0001F1FA\U0001F1F3 UN 1972 VMS"
   type: vmess
-  server: 104.21.227.39
+  server: 104.21.229.49
   port: 80
   cipher: auto
   uuid: 7022982f-da4c-48c9-c660-b2315abdcf7e
@@ -21370,7 +21370,7 @@ proxies:
       host: a.prapt5.ir
 - name: "\U0001F1FA\U0001F1F3 UN 1973 VMS"
   type: vmess
-  server: 104.21.228.40
+  server: 104.21.230.50
   port: 80
   cipher: auto
   uuid: 7022982f-da4c-48c9-c660-b2315abdcf7e
@@ -21384,7 +21384,7 @@ proxies:
       host: a.prapt5.ir
 - name: "\U0001F1FA\U0001F1F3 UN 1974 VMS"
   type: vmess
-  server: 104.21.228.41
+  server: 104.21.230.51
   port: 80
   cipher: auto
   uuid: 7022982f-da4c-48c9-c660-b2315abdcf7e
@@ -21398,7 +21398,7 @@ proxies:
       host: a.prapt5.ir
 - name: "\U0001F1FA\U0001F1F3 UN 1975 VMS"
   type: vmess
-  server: 104.21.228.42
+  server: 104.21.230.52
   port: 80
   cipher: auto
   uuid: 7022982f-da4c-48c9-c660-b2315abdcf7e
@@ -21412,7 +21412,7 @@ proxies:
       host: a.prapt5.ir
 - name: "\U0001F1FA\U0001F1F3 UN 1976 VMS"
   type: vmess
-  server: 104.21.228.43
+  server: 104.21.230.53
   port: 80
   cipher: auto
   uuid: 7022982f-da4c-48c9-c660-b2315abdcf7e
@@ -21426,7 +21426,7 @@ proxies:
       host: a.prapt5.ir
 - name: "\U0001F1FA\U0001F1F3 UN 1977 VMS"
   type: vmess
-  server: 104.21.228.44
+  server: 104.21.230.54
   port: 80
   cipher: auto
   uuid: 7022982f-da4c-48c9-c660-b2315abdcf7e
@@ -21440,7 +21440,7 @@ proxies:
       host: a.prapt5.ir
 - name: "\U0001F1FA\U0001F1F3 UN 1978 VMS"
   type: vmess
-  server: 104.21.229.45
+  server: 104.21.231.55
   port: 80
   cipher: auto
   uuid: 7022982f-da4c-48c9-c660-b2315abdcf7e
@@ -21454,7 +21454,7 @@ proxies:
       host: a.prapt5.ir
 - name: "\U0001F1FA\U0001F1F3 UN 1979 VMS"
   type: vmess
-  server: 104.21.229.46
+  server: 104.21.231.56
   port: 80
   cipher: auto
   uuid: 7022982f-da4c-48c9-c660-b2315abdcf7e
@@ -21468,7 +21468,7 @@ proxies:
       host: a.prapt5.ir
 - name: "\U0001F1FA\U0001F1F3 UN 1980 VMS"
   type: vmess
-  server: 104.21.229.47
+  server: 104.21.231.57
   port: 80
   cipher: auto
   uuid: 7022982f-da4c-48c9-c660-b2315abdcf7e
@@ -21482,7 +21482,7 @@ proxies:
       host: a.prapt5.ir
 - name: "\U0001F1FA\U0001F1F3 UN 1981 VMS"
   type: vmess
-  server: 104.21.229.48
+  server: 104.21.231.58
   port: 80
   cipher: auto
   uuid: 7022982f-da4c-48c9-c660-b2315abdcf7e
@@ -21496,7 +21496,7 @@ proxies:
       host: a.prapt5.ir
 - name: "\U0001F1FA\U0001F1F3 UN 1982 VMS"
   type: vmess
-  server: 104.21.229.49
+  server: 104.21.231.59
   port: 80
   cipher: auto
   uuid: 7022982f-da4c-48c9-c660-b2315abdcf7e
@@ -21510,7 +21510,7 @@ proxies:
       host: a.prapt5.ir
 - name: "\U0001F1FA\U0001F1F3 UN 1983 VMS"
   type: vmess
-  server: 104.21.230.50
+  server: 104.21.232.60
   port: 80
   cipher: auto
   uuid: 7022982f-da4c-48c9-c660-b2315abdcf7e
@@ -21524,7 +21524,7 @@ proxies:
       host: a.prapt5.ir
 - name: "\U0001F1FA\U0001F1F3 UN 1984 VMS"
   type: vmess
-  server: 104.21.230.51
+  server: 104.21.232.61
   port: 80
   cipher: auto
   uuid: 7022982f-da4c-48c9-c660-b2315abdcf7e
@@ -21538,7 +21538,7 @@ proxies:
       host: a.prapt5.ir
 - name: "\U0001F1FA\U0001F1F3 UN 1985 VMS"
   type: vmess
-  server: 104.21.230.52
+  server: 104.21.232.62
   port: 80
   cipher: auto
   uuid: 7022982f-da4c-48c9-c660-b2315abdcf7e
@@ -21552,7 +21552,7 @@ proxies:
       host: a.prapt5.ir
 - name: "\U0001F1FA\U0001F1F3 UN 1986 VMS"
   type: vmess
-  server: 104.21.230.53
+  server: 104.21.232.63
   port: 80
   cipher: auto
   uuid: 7022982f-da4c-48c9-c660-b2315abdcf7e
@@ -21566,7 +21566,7 @@ proxies:
       host: a.prapt5.ir
 - name: "\U0001F1FA\U0001F1F3 UN 1987 VMS"
   type: vmess
-  server: 104.21.230.54
+  server: 104.21.232.64
   port: 80
   cipher: auto
   uuid: 7022982f-da4c-48c9-c660-b2315abdcf7e
@@ -21580,7 +21580,7 @@ proxies:
       host: a.prapt5.ir
 - name: "\U0001F1FA\U0001F1F3 UN 1988 VMS"
   type: vmess
-  server: 104.21.231.55
+  server: 104.21.233.65
   port: 80
   cipher: auto
   uuid: 7022982f-da4c-48c9-c660-b2315abdcf7e
@@ -21594,7 +21594,7 @@ proxies:
       host: a.prapt5.ir
 - name: "\U0001F1FA\U0001F1F3 UN 1989 VMS"
   type: vmess
-  server: 104.21.231.56
+  server: 104.21.233.66
   port: 80
   cipher: auto
   uuid: 7022982f-da4c-48c9-c660-b2315abdcf7e
@@ -21608,7 +21608,7 @@ proxies:
       host: a.prapt5.ir
 - name: "\U0001F1FA\U0001F1F3 UN 1990 VMS"
   type: vmess
-  server: 104.21.231.57
+  server: 104.21.233.67
   port: 80
   cipher: auto
   uuid: 7022982f-da4c-48c9-c660-b2315abdcf7e
@@ -21622,7 +21622,7 @@ proxies:
       host: a.prapt5.ir
 - name: "\U0001F1FA\U0001F1F3 UN 1991 VMS"
   type: vmess
-  server: 104.21.231.58
+  server: 104.21.233.68
   port: 80
   cipher: auto
   uuid: 7022982f-da4c-48c9-c660-b2315abdcf7e
@@ -21636,7 +21636,7 @@ proxies:
       host: a.prapt5.ir
 - name: "\U0001F1FA\U0001F1F3 UN 1992 VMS"
   type: vmess
-  server: 104.21.231.59
+  server: 104.21.233.69
   port: 80
   cipher: auto
   uuid: 7022982f-da4c-48c9-c660-b2315abdcf7e
@@ -21650,7 +21650,7 @@ proxies:
       host: a.prapt5.ir
 - name: "\U0001F1FA\U0001F1F3 UN 1993 VMS"
   type: vmess
-  server: 104.21.232.60
+  server: 104.21.234.70
   port: 80
   cipher: auto
   uuid: 7022982f-da4c-48c9-c660-b2315abdcf7e
@@ -21664,7 +21664,7 @@ proxies:
       host: a.prapt5.ir
 - name: "\U0001F1FA\U0001F1F3 UN 1994 VMS"
   type: vmess
-  server: 104.21.232.61
+  server: 104.21.234.71
   port: 80
   cipher: auto
   uuid: 7022982f-da4c-48c9-c660-b2315abdcf7e
@@ -21678,7 +21678,7 @@ proxies:
       host: a.prapt5.ir
 - name: "\U0001F1FA\U0001F1F3 UN 1995 VMS"
   type: vmess
-  server: 104.21.232.62
+  server: 104.21.234.72
   port: 80
   cipher: auto
   uuid: 7022982f-da4c-48c9-c660-b2315abdcf7e
@@ -21692,7 +21692,7 @@ proxies:
       host: a.prapt5.ir
 - name: "\U0001F1FA\U0001F1F3 UN 1996 VMS"
   type: vmess
-  server: 104.21.232.63
+  server: 104.21.234.73
   port: 80
   cipher: auto
   uuid: 7022982f-da4c-48c9-c660-b2315abdcf7e
@@ -21706,7 +21706,7 @@ proxies:
       host: a.prapt5.ir
 - name: "\U0001F1FA\U0001F1F3 UN 1997 VMS"
   type: vmess
-  server: 104.21.232.64
+  server: 104.21.234.74
   port: 80
   cipher: auto
   uuid: 7022982f-da4c-48c9-c660-b2315abdcf7e
@@ -21720,7 +21720,7 @@ proxies:
       host: a.prapt5.ir
 - name: "\U0001F1FA\U0001F1F3 UN 1998 VMS"
   type: vmess
-  server: 104.21.233.65
+  server: 104.21.235.75
   port: 80
   cipher: auto
   uuid: 7022982f-da4c-48c9-c660-b2315abdcf7e
@@ -21734,7 +21734,7 @@ proxies:
       host: a.prapt5.ir
 - name: "\U0001F1FA\U0001F1F3 UN 1999 VMS"
   type: vmess
-  server: 104.21.233.66
+  server: 104.21.235.76
   port: 80
   cipher: auto
   uuid: 7022982f-da4c-48c9-c660-b2315abdcf7e
@@ -21748,7 +21748,7 @@ proxies:
       host: a.prapt5.ir
 - name: "\U0001F1FA\U0001F1F3 UN 2000 VMS"
   type: vmess
-  server: 104.21.233.67
+  server: 104.21.235.77
   port: 80
   cipher: auto
   uuid: 7022982f-da4c-48c9-c660-b2315abdcf7e
@@ -21762,7 +21762,7 @@ proxies:
       host: a.prapt5.ir
 - name: "\U0001F1FA\U0001F1F3 UN 2001 VMS"
   type: vmess
-  server: 104.21.233.68
+  server: 104.21.235.78
   port: 80
   cipher: auto
   uuid: 7022982f-da4c-48c9-c660-b2315abdcf7e
@@ -21776,7 +21776,7 @@ proxies:
       host: a.prapt5.ir
 - name: "\U0001F1FA\U0001F1F3 UN 2002 VMS"
   type: vmess
-  server: 104.21.233.69
+  server: 104.21.235.79
   port: 80
   cipher: auto
   uuid: 7022982f-da4c-48c9-c660-b2315abdcf7e
@@ -21790,7 +21790,7 @@ proxies:
       host: a.prapt5.ir
 - name: "\U0001F1FA\U0001F1F3 UN 2003 VMS"
   type: vmess
-  server: 104.21.234.70
+  server: 104.21.236.80
   port: 80
   cipher: auto
   uuid: 7022982f-da4c-48c9-c660-b2315abdcf7e
@@ -21804,7 +21804,7 @@ proxies:
       host: a.prapt5.ir
 - name: "\U0001F1FA\U0001F1F3 UN 2004 VMS"
   type: vmess
-  server: 104.21.234.71
+  server: 104.21.236.81
   port: 80
   cipher: auto
   uuid: 7022982f-da4c-48c9-c660-b2315abdcf7e
@@ -21818,7 +21818,7 @@ proxies:
       host: a.prapt5.ir
 - name: "\U0001F1FA\U0001F1F3 UN 2005 VMS"
   type: vmess
-  server: 104.21.234.72
+  server: 104.21.236.82
   port: 80
   cipher: auto
   uuid: 7022982f-da4c-48c9-c660-b2315abdcf7e
@@ -21832,7 +21832,7 @@ proxies:
       host: a.prapt5.ir
 - name: "\U0001F1FA\U0001F1F3 UN 2006 VMS"
   type: vmess
-  server: 104.21.234.73
+  server: 104.21.236.83
   port: 80
   cipher: auto
   uuid: 7022982f-da4c-48c9-c660-b2315abdcf7e
@@ -21846,7 +21846,7 @@ proxies:
       host: a.prapt5.ir
 - name: "\U0001F1FA\U0001F1F3 UN 2007 VMS"
   type: vmess
-  server: 104.21.234.74
+  server: 104.21.236.84
   port: 80
   cipher: auto
   uuid: 7022982f-da4c-48c9-c660-b2315abdcf7e
@@ -21860,7 +21860,7 @@ proxies:
       host: a.prapt5.ir
 - name: "\U0001F1FA\U0001F1F3 UN 2008 VMS"
   type: vmess
-  server: 104.21.235.75
+  server: 104.21.237.85
   port: 80
   cipher: auto
   uuid: 7022982f-da4c-48c9-c660-b2315abdcf7e
@@ -21874,7 +21874,7 @@ proxies:
       host: a.prapt5.ir
 - name: "\U0001F1FA\U0001F1F3 UN 2009 VMS"
   type: vmess
-  server: 104.21.235.76
+  server: 104.21.237.86
   port: 80
   cipher: auto
   uuid: 7022982f-da4c-48c9-c660-b2315abdcf7e
@@ -21888,7 +21888,7 @@ proxies:
       host: a.prapt5.ir
 - name: "\U0001F1FA\U0001F1F3 UN 2010 VMS"
   type: vmess
-  server: 104.21.235.77
+  server: 104.21.237.87
   port: 80
   cipher: auto
   uuid: 7022982f-da4c-48c9-c660-b2315abdcf7e
@@ -21902,7 +21902,7 @@ proxies:
       host: a.prapt5.ir
 - name: "\U0001F1FA\U0001F1F3 UN 2011 VMS"
   type: vmess
-  server: 104.21.235.78
+  server: 104.21.237.88
   port: 80
   cipher: auto
   uuid: 7022982f-da4c-48c9-c660-b2315abdcf7e
@@ -21916,7 +21916,7 @@ proxies:
       host: a.prapt5.ir
 - name: "\U0001F1FA\U0001F1F3 UN 2012 VMS"
   type: vmess
-  server: 104.21.235.79
+  server: 104.21.237.89
   port: 80
   cipher: auto
   uuid: 7022982f-da4c-48c9-c660-b2315abdcf7e
@@ -21930,7 +21930,7 @@ proxies:
       host: a.prapt5.ir
 - name: "\U0001F1FA\U0001F1F3 UN 2013 VMS"
   type: vmess
-  server: 104.21.236.80
+  server: 104.21.238.90
   port: 80
   cipher: auto
   uuid: 7022982f-da4c-48c9-c660-b2315abdcf7e
@@ -21944,7 +21944,7 @@ proxies:
       host: a.prapt5.ir
 - name: "\U0001F1FA\U0001F1F3 UN 2014 VMS"
   type: vmess
-  server: 104.21.236.81
+  server: 104.21.238.91
   port: 80
   cipher: auto
   uuid: 7022982f-da4c-48c9-c660-b2315abdcf7e
@@ -21958,7 +21958,7 @@ proxies:
       host: a.prapt5.ir
 - name: "\U0001F1FA\U0001F1F3 UN 2015 VMS"
   type: vmess
-  server: 104.21.236.82
+  server: 104.21.238.92
   port: 80
   cipher: auto
   uuid: 7022982f-da4c-48c9-c660-b2315abdcf7e
@@ -21972,7 +21972,7 @@ proxies:
       host: a.prapt5.ir
 - name: "\U0001F1FA\U0001F1F3 UN 2016 VMS"
   type: vmess
-  server: 104.21.236.83
+  server: 104.21.238.93
   port: 80
   cipher: auto
   uuid: 7022982f-da4c-48c9-c660-b2315abdcf7e
@@ -21986,7 +21986,7 @@ proxies:
       host: a.prapt5.ir
 - name: "\U0001F1FA\U0001F1F3 UN 2017 VMS"
   type: vmess
-  server: 104.21.236.84
+  server: 104.21.238.94
   port: 80
   cipher: auto
   uuid: 7022982f-da4c-48c9-c660-b2315abdcf7e
@@ -22000,7 +22000,7 @@ proxies:
       host: a.prapt5.ir
 - name: "\U0001F1FA\U0001F1F3 UN 2018 VMS"
   type: vmess
-  server: 104.21.237.85
+  server: 104.21.239.95
   port: 80
   cipher: auto
   uuid: 7022982f-da4c-48c9-c660-b2315abdcf7e
@@ -22014,7 +22014,7 @@ proxies:
       host: a.prapt5.ir
 - name: "\U0001F1FA\U0001F1F3 UN 2019 VMS"
   type: vmess
-  server: 104.21.237.86
+  server: 104.21.239.96
   port: 80
   cipher: auto
   uuid: 7022982f-da4c-48c9-c660-b2315abdcf7e
@@ -22028,7 +22028,7 @@ proxies:
       host: a.prapt5.ir
 - name: "\U0001F1FA\U0001F1F3 UN 2020 VMS"
   type: vmess
-  server: 104.21.237.87
+  server: 104.21.239.97
   port: 80
   cipher: auto
   uuid: 7022982f-da4c-48c9-c660-b2315abdcf7e
@@ -22042,7 +22042,7 @@ proxies:
       host: a.prapt5.ir
 - name: "\U0001F1FA\U0001F1F3 UN 2021 VMS"
   type: vmess
-  server: 104.21.237.88
+  server: 104.21.239.98
   port: 80
   cipher: auto
   uuid: 7022982f-da4c-48c9-c660-b2315abdcf7e
@@ -22056,7 +22056,7 @@ proxies:
       host: a.prapt5.ir
 - name: "\U0001F1FA\U0001F1F3 UN 2022 VMS"
   type: vmess
-  server: 104.21.237.89
+  server: 104.21.239.99
   port: 80
   cipher: auto
   uuid: 7022982f-da4c-48c9-c660-b2315abdcf7e
@@ -22070,7 +22070,7 @@ proxies:
       host: a.prapt5.ir
 - name: "\U0001F1FA\U0001F1F3 UN 2023 VMS"
   type: vmess
-  server: 104.21.238.90
+  server: 104.21.231.58
   port: 80
   cipher: auto
   uuid: 7022982f-da4c-48c9-c660-b2315abdcf7e
@@ -22084,7 +22084,7 @@ proxies:
       host: a.prapt5.ir
 - name: "\U0001F1FA\U0001F1F3 UN 2024 VMS"
   type: vmess
-  server: 104.21.238.91
+  server: 104.21.232.43
   port: 80
   cipher: auto
   uuid: 7022982f-da4c-48c9-c660-b2315abdcf7e
@@ -22098,7 +22098,7 @@ proxies:
       host: a.prapt5.ir
 - name: "\U0001F1FA\U0001F1F3 UN 2025 VMS"
   type: vmess
-  server: 104.21.238.92
+  server: 104.21.233.45
   port: 80
   cipher: auto
   uuid: 7022982f-da4c-48c9-c660-b2315abdcf7e
@@ -22112,7 +22112,7 @@ proxies:
       host: a.prapt5.ir
 - name: "\U0001F1FA\U0001F1F3 UN 2026 VMS"
   type: vmess
-  server: 104.21.238.93
+  server: 104.21.225.7
   port: 80
   cipher: auto
   uuid: 7022982f-da4c-48c9-c660-b2315abdcf7e
@@ -22126,7 +22126,7 @@ proxies:
       host: a.prapt5.ir
 - name: "\U0001F1FA\U0001F1F3 UN 2027 VMS"
   type: vmess
-  server: 104.21.238.94
+  server: 104.21.236.60
   port: 80
   cipher: auto
   uuid: 7022982f-da4c-48c9-c660-b2315abdcf7e
@@ -22140,7 +22140,7 @@ proxies:
       host: a.prapt5.ir
 - name: "\U0001F1FA\U0001F1F3 UN 2028 VMS"
   type: vmess
-  server: 104.21.239.95
+  server: 104.21.227.19
   port: 80
   cipher: auto
   uuid: 7022982f-da4c-48c9-c660-b2315abdcf7e
@@ -22154,7 +22154,7 @@ proxies:
       host: a.prapt5.ir
 - name: "\U0001F1FA\U0001F1F3 UN 2029 VMS"
   type: vmess
-  server: 104.21.239.96
+  server: 104.21.225.5
   port: 80
   cipher: auto
   uuid: 7022982f-da4c-48c9-c660-b2315abdcf7e
@@ -22168,7 +22168,7 @@ proxies:
       host: a.prapt5.ir
 - name: "\U0001F1FA\U0001F1F3 UN 2030 VMS"
   type: vmess
-  server: 104.21.239.97
+  server: 104.21.226.11
   port: 80
   cipher: auto
   uuid: 7022982f-da4c-48c9-c660-b2315abdcf7e
@@ -22182,7 +22182,7 @@ proxies:
       host: a.prapt5.ir
 - name: "\U0001F1FA\U0001F1F3 UN 2031 VMS"
   type: vmess
-  server: 104.21.239.98
+  server: 104.21.233.47
   port: 80
   cipher: auto
   uuid: 7022982f-da4c-48c9-c660-b2315abdcf7e
@@ -22196,7 +22196,7 @@ proxies:
       host: a.prapt5.ir
 - name: "\U0001F1FA\U0001F1F3 UN 2032 VMS"
   type: vmess
-  server: 104.21.239.99
+  server: 104.21.228.21
   port: 80
   cipher: auto
   uuid: 7022982f-da4c-48c9-c660-b2315abdcf7e
@@ -22210,7 +22210,7 @@ proxies:
       host: a.prapt5.ir
 - name: "\U0001F1FA\U0001F1F3 UN 2033 VMS"
   type: vmess
-  server: 104.21.226.10
+  server: 104.21.231.38
   port: 80
   cipher: auto
   uuid: 7022982f-da4c-48c9-c660-b2315abdcf7e
@@ -22224,7 +22224,7 @@ proxies:
       host: a.prapt5.ir
 - name: "\U0001F1FA\U0001F1F3 UN 2034 VMS"
   type: vmess
-  server: 104.21.226.11
+  server: 104.21.232.42
   port: 80
   cipher: auto
   uuid: 7022982f-da4c-48c9-c660-b2315abdcf7e
@@ -22238,7 +22238,7 @@ proxies:
       host: a.prapt5.ir
 - name: "\U0001F1FA\U0001F1F3 UN 2035 VMS"
   type: vmess
-  server: 104.21.226.12
+  server: 104.21.235.58
   port: 80
   cipher: auto
   uuid: 7022982f-da4c-48c9-c660-b2315abdcf7e
@@ -22252,7 +22252,7 @@ proxies:
       host: a.prapt5.ir
 - name: "\U0001F1FA\U0001F1F3 UN 2036 VMS"
   type: vmess
-  server: 104.21.226.13
+  server: 104.21.234.71
   port: 80
   cipher: auto
   uuid: 7022982f-da4c-48c9-c660-b2315abdcf7e
@@ -22266,7 +22266,7 @@ proxies:
       host: a.prapt5.ir
 - name: "\U0001F1FA\U0001F1F3 UN 2037 VMS"
   type: vmess
-  server: 104.21.226.14
+  server: 104.21.236.61
   port: 80
   cipher: auto
   uuid: 7022982f-da4c-48c9-c660-b2315abdcf7e
@@ -22280,7 +22280,7 @@ proxies:
       host: a.prapt5.ir
 - name: "\U0001F1FA\U0001F1F3 UN 2038 VMS"
   type: vmess
-  server: 104.21.227.15
+  server: 104.21.231.59
   port: 80
   cipher: auto
   uuid: 7022982f-da4c-48c9-c660-b2315abdcf7e
@@ -22294,7 +22294,7 @@ proxies:
       host: a.prapt5.ir
 - name: "\U0001F1FA\U0001F1F3 UN 2039 VMS"
   type: vmess
-  server: 104.21.227.16
+  server: 104.21.238.73
   port: 80
   cipher: auto
   uuid: 7022982f-da4c-48c9-c660-b2315abdcf7e
@@ -22308,7 +22308,7 @@ proxies:
       host: a.prapt5.ir
 - name: "\U0001F1FA\U0001F1F3 UN 2040 VMS"
   type: vmess
-  server: 104.21.227.17
+  server: 104.21.239.76
   port: 80
   cipher: auto
   uuid: 7022982f-da4c-48c9-c660-b2315abdcf7e
@@ -22322,7 +22322,7 @@ proxies:
       host: a.prapt5.ir
 - name: "\U0001F1FA\U0001F1F3 UN 2041 VMS"
   type: vmess
-  server: 104.21.227.18
+  server: 104.21.234.73
   port: 80
   cipher: auto
   uuid: 7022982f-da4c-48c9-c660-b2315abdcf7e
@@ -22336,7 +22336,7 @@ proxies:
       host: a.prapt5.ir
 - name: "\U0001F1FA\U0001F1F3 UN 2042 VMS"
   type: vmess
-  server: 104.21.227.19
+  server: 104.21.227.35
   port: 80
   cipher: auto
   uuid: 7022982f-da4c-48c9-c660-b2315abdcf7e
@@ -22350,7 +22350,7 @@ proxies:
       host: a.prapt5.ir
 - name: "\U0001F1FA\U0001F1F3 UN 2043 VMS"
   type: vmess
-  server: 104.21.228.20
+  server: 104.21.230.31
   port: 80
   cipher: auto
   uuid: 7022982f-da4c-48c9-c660-b2315abdcf7e
@@ -22364,7 +22364,7 @@ proxies:
       host: a.prapt5.ir
 - name: "\U0001F1FA\U0001F1F3 UN 2044 VMS"
   type: vmess
-  server: 104.21.228.21
+  server: 104.21.230.50
   port: 80
   cipher: auto
   uuid: 7022982f-da4c-48c9-c660-b2315abdcf7e
@@ -22378,7 +22378,7 @@ proxies:
       host: a.prapt5.ir
 - name: "\U0001F1FA\U0001F1F3 UN 2045 VMS"
   type: vmess
-  server: 104.21.228.22
+  server: 104.21.229.49
   port: 80
   cipher: auto
   uuid: 7022982f-da4c-48c9-c660-b2315abdcf7e
@@ -22392,7 +22392,7 @@ proxies:
       host: a.prapt5.ir
 - name: "\U0001F1FA\U0001F1F3 UN 2046 VMS"
   type: vmess
-  server: 104.21.228.23
+  server: 104.21.237.68
   port: 80
   cipher: auto
   uuid: 7022982f-da4c-48c9-c660-b2315abdcf7e
@@ -22406,7 +22406,7 @@ proxies:
       host: a.prapt5.ir
 - name: "\U0001F1FA\U0001F1F3 UN 2047 VMS"
   type: vmess
-  server: 104.21.228.24
+  server: 104.21.227.39
   port: 80
   cipher: auto
   uuid: 7022982f-da4c-48c9-c660-b2315abdcf7e
@@ -22420,7 +22420,7 @@ proxies:
       host: a.prapt5.ir
 - name: "\U0001F1FA\U0001F1F3 UN 2048 VMS"
   type: vmess
-  server: 104.21.229.25
+  server: 104.21.234.74
   port: 80
   cipher: auto
   uuid: 7022982f-da4c-48c9-c660-b2315abdcf7e
@@ -22434,7 +22434,7 @@ proxies:
       host: a.prapt5.ir
 - name: "\U0001F1FA\U0001F1F3 UN 2049 VMS"
   type: vmess
-  server: 104.21.229.26
+  server: 104.21.231.37
   port: 80
   cipher: auto
   uuid: 7022982f-da4c-48c9-c660-b2315abdcf7e
@@ -22448,7 +22448,7 @@ proxies:
       host: a.prapt5.ir
 - name: "\U0001F1FA\U0001F1F3 UN 2050 VMS"
   type: vmess
-  server: 104.21.229.27
+  server: 104.21.232.60
   port: 80
   cipher: auto
   uuid: 7022982f-da4c-48c9-c660-b2315abdcf7e
@@ -22462,7 +22462,7 @@ proxies:
       host: a.prapt5.ir
 - name: "\U0001F1FA\U0001F1F3 UN 2051 VMS"
   type: vmess
-  server: 104.21.229.28
+  server: 104.21.238.91
   port: 80
   cipher: auto
   uuid: 7022982f-da4c-48c9-c660-b2315abdcf7e
@@ -22476,7 +22476,7 @@ proxies:
       host: a.prapt5.ir
 - name: "\U0001F1FA\U0001F1F3 UN 2052 VMS"
   type: vmess
-  server: 104.21.229.29
+  server: 104.21.228.40
   port: 80
   cipher: auto
   uuid: 7022982f-da4c-48c9-c660-b2315abdcf7e
@@ -22490,7 +22490,7 @@ proxies:
       host: a.prapt5.ir
 - name: "\U0001F1FA\U0001F1F3 UN 2053 VMS"
   type: vmess
-  server: 104.21.230.30
+  server: 104.21.230.32
   port: 80
   cipher: auto
   uuid: 7022982f-da4c-48c9-c660-b2315abdcf7e
@@ -22504,7 +22504,7 @@ proxies:
       host: a.prapt5.ir
 - name: "\U0001F1FA\U0001F1F3 UN 2054 VMS"
   type: vmess
-  server: 104.21.230.31
+  server: 104.21.235.76
   port: 80
   cipher: auto
   uuid: 7022982f-da4c-48c9-c660-b2315abdcf7e
@@ -22518,7 +22518,7 @@ proxies:
       host: a.prapt5.ir
 - name: "\U0001F1FA\U0001F1F3 UN 2055 VMS"
   type: vmess
-  server: 104.21.230.32
+  server: 104.21.224.2
   port: 80
   cipher: auto
   uuid: 7022982f-da4c-48c9-c660-b2315abdcf7e
@@ -22532,7 +22532,7 @@ proxies:
       host: a.prapt5.ir
 - name: "\U0001F1FA\U0001F1F3 UN 2056 VMS"
   type: vmess
-  server: 104.21.230.33
+  server: 104.21.235.75
   port: 80
   cipher: auto
   uuid: 7022982f-da4c-48c9-c660-b2315abdcf7e
@@ -22546,7 +22546,7 @@ proxies:
       host: a.prapt5.ir
 - name: "\U0001F1FA\U0001F1F3 UN 2057 VMS"
   type: vmess
-  server: 104.21.230.34
+  server: 104.21.232.64
   port: 80
   cipher: auto
   uuid: 7022982f-da4c-48c9-c660-b2315abdcf7e
@@ -22560,7 +22560,7 @@ proxies:
       host: a.prapt5.ir
 - name: "\U0001F1FA\U0001F1F3 UN 2058 VMS"
   type: vmess
-  server: 104.21.231.35
+  server: 104.21.234.72
   port: 80
   cipher: auto
   uuid: 7022982f-da4c-48c9-c660-b2315abdcf7e
@@ -22574,7 +22574,7 @@ proxies:
       host: a.prapt5.ir
 - name: "\U0001F1FA\U0001F1F3 UN 2059 VMS"
   type: vmess
-  server: 104.21.231.36
+  server: 104.21.230.34
   port: 80
   cipher: auto
   uuid: 7022982f-da4c-48c9-c660-b2315abdcf7e
@@ -22588,7 +22588,7 @@ proxies:
       host: a.prapt5.ir
 - name: "\U0001F1FA\U0001F1F3 UN 2060 VMS"
   type: vmess
-  server: 104.21.231.37
+  server: 104.21.231.36
   port: 80
   cipher: auto
   uuid: 7022982f-da4c-48c9-c660-b2315abdcf7e
@@ -22602,7 +22602,7 @@ proxies:
       host: a.prapt5.ir
 - name: "\U0001F1FA\U0001F1F3 UN 2061 VMS"
   type: vmess
-  server: 104.21.231.38
+  server: 104.21.238.70
   port: 80
   cipher: auto
   uuid: 7022982f-da4c-48c9-c660-b2315abdcf7e
@@ -22616,7 +22616,7 @@ proxies:
       host: a.prapt5.ir
 - name: "\U0001F1FA\U0001F1F3 UN 2062 VMS"
   type: vmess
-  server: 104.21.231.39
+  server: 104.21.228.43
   port: 80
   cipher: auto
   uuid: 7022982f-da4c-48c9-c660-b2315abdcf7e
@@ -22630,7 +22630,7 @@ proxies:
       host: a.prapt5.ir
 - name: "\U0001F1FA\U0001F1F3 UN 2063 VMS"
   type: vmess
-  server: 104.21.232.40
+  server: 104.21.231.56
   port: 80
   cipher: auto
   uuid: 7022982f-da4c-48c9-c660-b2315abdcf7e
@@ -22644,7 +22644,7 @@ proxies:
       host: a.prapt5.ir
 - name: "\U0001F1FA\U0001F1F3 UN 2064 VMS"
   type: vmess
-  server: 104.21.232.41
+  server: 104.21.225.6
   port: 80
   cipher: auto
   uuid: 7022982f-da4c-48c9-c660-b2315abdcf7e
@@ -22658,7 +22658,7 @@ proxies:
       host: a.prapt5.ir
 - name: "\U0001F1FA\U0001F1F3 UN 2065 VMS"
   type: vmess
-  server: 104.21.232.42
+  server: 104.21.237.89
   port: 80
   cipher: auto
   uuid: 7022982f-da4c-48c9-c660-b2315abdcf7e
@@ -22672,7 +22672,7 @@ proxies:
       host: a.prapt5.ir
 - name: "\U0001F1FA\U0001F1F3 UN 2066 VMS"
   type: vmess
-  server: 104.21.232.43
+  server: 104.21.236.81
   port: 80
   cipher: auto
   uuid: 7022982f-da4c-48c9-c660-b2315abdcf7e
@@ -22686,7 +22686,7 @@ proxies:
       host: a.prapt5.ir
 - name: "\U0001F1FA\U0001F1F3 UN 2067 VMS"
   type: vmess
-  server: 104.21.232.44
+  server: 104.21.236.84
   port: 80
   cipher: auto
   uuid: 7022982f-da4c-48c9-c660-b2315abdcf7e
@@ -22700,7 +22700,7 @@ proxies:
       host: a.prapt5.ir
 - name: "\U0001F1FA\U0001F1F3 UN 2068 VMS"
   type: vmess
-  server: 104.21.233.45
+  server: 104.21.233.65
   port: 80
   cipher: auto
   uuid: 7022982f-da4c-48c9-c660-b2315abdcf7e
@@ -22714,7 +22714,7 @@ proxies:
       host: a.prapt5.ir
 - name: "\U0001F1FA\U0001F1F3 UN 2069 VMS"
   type: vmess
-  server: 104.21.233.46
+  server: 104.21.224.23
   port: 80
   cipher: auto
   uuid: 7022982f-da4c-48c9-c660-b2315abdcf7e
@@ -22728,7 +22728,7 @@ proxies:
       host: a.prapt5.ir
 - name: "\U0001F1FA\U0001F1F3 UN 2070 VMS"
   type: vmess
-  server: 104.21.233.47
+  server: 104.21.226.12
   port: 80
   cipher: auto
   uuid: 7022982f-da4c-48c9-c660-b2315abdcf7e
@@ -22742,7 +22742,7 @@ proxies:
       host: a.prapt5.ir
 - name: "\U0001F1FA\U0001F1F3 UN 2071 VMS"
   type: vmess
-  server: 104.21.233.48
+  server: 104.21.232.62
   port: 80
   cipher: auto
   uuid: 7022982f-da4c-48c9-c660-b2315abdcf7e
@@ -22756,7 +22756,7 @@ proxies:
       host: a.prapt5.ir
 - name: "\U0001F1FA\U0001F1F3 UN 2072 VMS"
   type: vmess
-  server: 104.21.233.49
+  server: 104.21.239.78
   port: 80
   cipher: auto
   uuid: 7022982f-da4c-48c9-c660-b2315abdcf7e
@@ -22770,7 +22770,7 @@ proxies:
       host: a.prapt5.ir
 - name: "\U0001F1FA\U0001F1F3 UN 2073 VMS"
   type: vmess
-  server: 104.21.234.50
+  server: 104.21.232.44
   port: 80
   cipher: auto
   uuid: 7022982f-da4c-48c9-c660-b2315abdcf7e
@@ -22784,7 +22784,7 @@ proxies:
       host: a.prapt5.ir
 - name: "\U0001F1FA\U0001F1F3 UN 2074 VMS"
   type: vmess
-  server: 104.21.234.51
+  server: 104.21.231.55
   port: 80
   cipher: auto
   uuid: 7022982f-da4c-48c9-c660-b2315abdcf7e
@@ -22798,7 +22798,7 @@ proxies:
       host: a.prapt5.ir
 - name: "\U0001F1FA\U0001F1F3 UN 2075 VMS"
   type: vmess
-  server: 104.21.234.52
+  server: 104.21.236.62
   port: 80
   cipher: auto
   uuid: 7022982f-da4c-48c9-c660-b2315abdcf7e
@@ -22812,7 +22812,7 @@ proxies:
       host: a.prapt5.ir
 - name: "\U0001F1FA\U0001F1F3 UN 2076 VMS"
   type: vmess
-  server: 104.21.234.53
+  server: 104.21.224.4
   port: 80
   cipher: auto
   uuid: 7022982f-da4c-48c9-c660-b2315abdcf7e
@@ -22826,7 +22826,7 @@ proxies:
       host: a.prapt5.ir
 - name: "\U0001F1FA\U0001F1F3 UN 2077 VMS"
   type: vmess
-  server: 104.21.234.54
+  server: 104.21.237.65
   port: 80
   cipher: auto
   uuid: 7022982f-da4c-48c9-c660-b2315abdcf7e
@@ -22840,7 +22840,7 @@ proxies:
       host: a.prapt5.ir
 - name: "\U0001F1FA\U0001F1F3 UN 2078 VMS"
   type: vmess
-  server: 104.21.235.55
+  server: 104.21.235.57
   port: 80
   cipher: auto
   uuid: 7022982f-da4c-48c9-c660-b2315abdcf7e
@@ -22854,7 +22854,7 @@ proxies:
       host: a.prapt5.ir
 - name: "\U0001F1FA\U0001F1F3 UN 2079 VMS"
   type: vmess
-  server: 104.21.235.56
+  server: 104.21.225.28
   port: 80
   cipher: auto
   uuid: 7022982f-da4c-48c9-c660-b2315abdcf7e
@@ -22868,7 +22868,7 @@ proxies:
       host: a.prapt5.ir
 - name: "\U0001F1FA\U0001F1F3 UN 2080 VMS"
   type: vmess
-  server: 104.21.235.57
+  server: 104.21.233.67
   port: 80
   cipher: auto
   uuid: 7022982f-da4c-48c9-c660-b2315abdcf7e
@@ -22882,7 +22882,7 @@ proxies:
       host: a.prapt5.ir
 - name: "\U0001F1FA\U0001F1F3 UN 2081 VMS"
   type: vmess
-  server: 104.21.235.58
+  server: 104.21.226.10
   port: 80
   cipher: auto
   uuid: 7022982f-da4c-48c9-c660-b2315abdcf7e
@@ -22896,7 +22896,7 @@ proxies:
       host: a.prapt5.ir
 - name: "\U0001F1FA\U0001F1F3 UN 2082 VMS"
   type: vmess
-  server: 104.21.235.59
+  server: 104.21.228.42
   port: 80
   cipher: auto
   uuid: 7022982f-da4c-48c9-c660-b2315abdcf7e
@@ -22910,7 +22910,7 @@ proxies:
       host: a.prapt5.ir
 - name: "\U0001F1FA\U0001F1F3 UN 2083 VMS"
   type: vmess
-  server: 104.21.236.60
+  server: 104.21.228.20
   port: 80
   cipher: auto
   uuid: 7022982f-da4c-48c9-c660-b2315abdcf7e
@@ -22924,7 +22924,7 @@ proxies:
       host: a.prapt5.ir
 - name: "\U0001F1FA\U0001F1F3 UN 2084 VMS"
   type: vmess
-  server: 104.21.236.61
+  server: 104.21.224.24
   port: 80
   cipher: auto
   uuid: 7022982f-da4c-48c9-c660-b2315abdcf7e
@@ -22938,7 +22938,7 @@ proxies:
       host: a.prapt5.ir
 - name: "\U0001F1FA\U0001F1F3 UN 2085 VMS"
   type: vmess
-  server: 104.21.236.62
+  server: 104.21.226.30
   port: 80
   cipher: auto
   uuid: 7022982f-da4c-48c9-c660-b2315abdcf7e
@@ -22952,7 +22952,7 @@ proxies:
       host: a.prapt5.ir
 - name: "\U0001F1FA\U0001F1F3 UN 2086 VMS"
   type: vmess
-  server: 104.21.236.63
+  server: 104.21.228.41
   port: 80
   cipher: auto
   uuid: 7022982f-da4c-48c9-c660-b2315abdcf7e
@@ -22966,7 +22966,7 @@ proxies:
       host: a.prapt5.ir
 - name: "\U0001F1FA\U0001F1F3 UN 2087 VMS"
   type: vmess
-  server: 104.21.236.64
+  server: 104.21.227.17
   port: 80
   cipher: auto
   uuid: 7022982f-da4c-48c9-c660-b2315abdcf7e
@@ -22980,7 +22980,7 @@ proxies:
       host: a.prapt5.ir
 - name: "\U0001F1FA\U0001F1F3 UN 2088 VMS"
   type: vmess
-  server: 104.21.237.65
+  server: 104.21.224.3
   port: 80
   cipher: auto
   uuid: 7022982f-da4c-48c9-c660-b2315abdcf7e
@@ -22994,7 +22994,7 @@ proxies:
       host: a.prapt5.ir
 - name: "\U0001F1FA\U0001F1F3 UN 2089 VMS"
   type: vmess
-  server: 104.21.237.66
+  server: 104.21.224.22
   port: 80
   cipher: auto
   uuid: 7022982f-da4c-48c9-c660-b2315abdcf7e
@@ -23008,7 +23008,7 @@ proxies:
       host: a.prapt5.ir
 - name: "\U0001F1FA\U0001F1F3 UN 2090 VMS"
   type: vmess
-  server: 104.21.237.67
+  server: 104.21.227.38
   port: 80
   cipher: auto
   uuid: 7022982f-da4c-48c9-c660-b2315abdcf7e
@@ -23022,7 +23022,7 @@ proxies:
       host: a.prapt5.ir
 - name: "\U0001F1FA\U0001F1F3 UN 2091 VMS"
   type: vmess
-  server: 104.21.237.68
+  server: 104.21.232.40
   port: 80
   cipher: auto
   uuid: 7022982f-da4c-48c9-c660-b2315abdcf7e
@@ -23036,7 +23036,7 @@ proxies:
       host: a.prapt5.ir
 - name: "\U0001F1FA\U0001F1F3 UN 2092 VMS"
   type: vmess
-  server: 104.21.237.69
+  server: 104.21.238.74
   port: 80
   cipher: auto
   uuid: 7022982f-da4c-48c9-c660-b2315abdcf7e
@@ -23050,7 +23050,7 @@ proxies:
       host: a.prapt5.ir
 - name: "\U0001F1FA\U0001F1F3 UN 2093 VMS"
   type: vmess
-  server: 104.21.238.70
+  server: 104.21.227.37
   port: 80
   cipher: auto
   uuid: 7022982f-da4c-48c9-c660-b2315abdcf7e
@@ -23064,7 +23064,7 @@ proxies:
       host: a.prapt5.ir
 - name: "\U0001F1FA\U0001F1F3 UN 2094 VMS"
   type: vmess
-  server: 104.21.238.71
+  server: 104.21.230.33
   port: 80
   cipher: auto
   uuid: 7022982f-da4c-48c9-c660-b2315abdcf7e
@@ -23078,7 +23078,7 @@ proxies:
       host: a.prapt5.ir
 - name: "\U0001F1FA\U0001F1F3 UN 2095 VMS"
   type: vmess
-  server: 104.21.238.72
+  server: 104.21.238.71
   port: 80
   cipher: auto
   uuid: 7022982f-da4c-48c9-c660-b2315abdcf7e
@@ -23092,7 +23092,7 @@ proxies:
       host: a.prapt5.ir
 - name: "\U0001F1FA\U0001F1F3 UN 2096 VMS"
   type: vmess
-  server: 104.21.238.73
+  server: 104.21.238.72
   port: 80
   cipher: auto
   uuid: 7022982f-da4c-48c9-c660-b2315abdcf7e
@@ -23106,7 +23106,7 @@ proxies:
       host: a.prapt5.ir
 - name: "\U0001F1FA\U0001F1F3 UN 2097 VMS"
   type: vmess
-  server: 104.21.238.74
+  server: 104.21.229.48
   port: 80
   cipher: auto
   uuid: 7022982f-da4c-48c9-c660-b2315abdcf7e
@@ -23120,7 +23120,7 @@ proxies:
       host: a.prapt5.ir
 - name: "\U0001F1FA\U0001F1F3 UN 2098 VMS"
   type: vmess
-  server: 104.21.239.75
+  server: 104.21.236.83
   port: 80
   cipher: auto
   uuid: 7022982f-da4c-48c9-c660-b2315abdcf7e
@@ -23134,7 +23134,7 @@ proxies:
       host: a.prapt5.ir
 - name: "\U0001F1FA\U0001F1F3 UN 2099 VMS"
   type: vmess
-  server: 104.21.239.76
+  server: 104.21.228.23
   port: 80
   cipher: auto
   uuid: 7022982f-da4c-48c9-c660-b2315abdcf7e
@@ -23148,7 +23148,7 @@ proxies:
       host: a.prapt5.ir
 - name: "\U0001F1FA\U0001F1F3 UN 2100 VMS"
   type: vmess
-  server: 104.21.239.77
+  server: 104.21.228.44
   port: 80
   cipher: auto
   uuid: 7022982f-da4c-48c9-c660-b2315abdcf7e
@@ -23162,7 +23162,7 @@ proxies:
       host: a.prapt5.ir
 - name: "\U0001F1FA\U0001F1F3 UN 2101 VMS"
   type: vmess
-  server: 104.21.239.78
+  server: 104.21.224.20
   port: 80
   cipher: auto
   uuid: 7022982f-da4c-48c9-c660-b2315abdcf7e
@@ -23176,7 +23176,7 @@ proxies:
       host: a.prapt5.ir
 - name: "\U0001F1FA\U0001F1F3 UN 2102 VMS"
   type: vmess
-  server: 104.21.239.79
+  server: 104.21.236.63
   port: 80
   cipher: auto
   uuid: 7022982f-da4c-48c9-c660-b2315abdcf7e
@@ -23190,7 +23190,7 @@ proxies:
       host: a.prapt5.ir
 - name: "\U0001F1FA\U0001F1F3 UN 2103 VMS"
   type: vmess
-  server: 104.21.224.20
+  server: 104.21.238.94
   port: 80
   cipher: auto
   uuid: 7022982f-da4c-48c9-c660-b2315abdcf7e
@@ -23204,7 +23204,7 @@ proxies:
       host: a.prapt5.ir
 - name: "\U0001F1FA\U0001F1F3 UN 2104 VMS"
   type: vmess
-  server: 104.21.224.21
+  server: 104.21.227.16
   port: 80
   cipher: auto
   uuid: 7022982f-da4c-48c9-c660-b2315abdcf7e
@@ -23218,7 +23218,7 @@ proxies:
       host: a.prapt5.ir
 - name: "\U0001F1FA\U0001F1F3 UN 2105 VMS"
   type: vmess
-  server: 104.21.224.22
+  server: 104.21.232.41
   port: 80
   cipher: auto
   uuid: 7022982f-da4c-48c9-c660-b2315abdcf7e
@@ -23232,7 +23232,7 @@ proxies:
       host: a.prapt5.ir
 - name: "\U0001F1FA\U0001F1F3 UN 2106 VMS"
   type: vmess
-  server: 104.21.224.23
+  server: 104.21.227.15
   port: 80
   cipher: auto
   uuid: 7022982f-da4c-48c9-c660-b2315abdcf7e
@@ -23246,7 +23246,7 @@ proxies:
       host: a.prapt5.ir
 - name: "\U0001F1FA\U0001F1F3 UN 2107 VMS"
   type: vmess
-  server: 104.21.224.24
+  server: 104.21.225.29
   port: 80
   cipher: auto
   uuid: 7022982f-da4c-48c9-c660-b2315abdcf7e
@@ -23260,7 +23260,7 @@ proxies:
       host: a.prapt5.ir
 - name: "\U0001F1FA\U0001F1F3 UN 2108 VMS"
   type: vmess
-  server: 104.21.225.25
+  server: 104.21.228.22
   port: 80
   cipher: auto
   uuid: 7022982f-da4c-48c9-c660-b2315abdcf7e
@@ -23274,7 +23274,7 @@ proxies:
       host: a.prapt5.ir
 - name: "\U0001F1FA\U0001F1F3 UN 2109 VMS"
   type: vmess
-  server: 104.21.225.26
+  server: 104.21.229.25
   port: 80
   cipher: auto
   uuid: 7022982f-da4c-48c9-c660-b2315abdcf7e
@@ -23288,7 +23288,7 @@ proxies:
       host: a.prapt5.ir
 - name: "\U0001F1FA\U0001F1F3 UN 2110 VMS"
   type: vmess
-  server: 104.21.225.27
+  server: 104.21.229.27
   port: 80
   cipher: auto
   uuid: 7022982f-da4c-48c9-c660-b2315abdcf7e
@@ -23302,7 +23302,7 @@ proxies:
       host: a.prapt5.ir
 - name: "\U0001F1FA\U0001F1F3 UN 2111 VMS"
   type: vmess
-  server: 104.21.225.28
+  server: 104.21.231.39
   port: 80
   cipher: auto
   uuid: 7022982f-da4c-48c9-c660-b2315abdcf7e
@@ -23316,7 +23316,7 @@ proxies:
       host: a.prapt5.ir
 - name: "\U0001F1FA\U0001F1F3 UN 2112 VMS"
   type: vmess
-  server: 104.21.225.29
+  server: 104.21.238.93
   port: 80
   cipher: auto
   uuid: 7022982f-da4c-48c9-c660-b2315abdcf7e
@@ -23330,7 +23330,7 @@ proxies:
       host: a.prapt5.ir
 - name: "\U0001F1FA\U0001F1F3 UN 2113 VMS"
   type: vmess
-  server: 104.21.226.30
+  server: 104.21.225.8
   port: 80
   cipher: auto
   uuid: 7022982f-da4c-48c9-c660-b2315abdcf7e
@@ -23344,7 +23344,7 @@ proxies:
       host: a.prapt5.ir
 - name: "\U0001F1FA\U0001F1F3 UN 2114 VMS"
   type: vmess
-  server: 104.21.226.31
+  server: 104.21.234.51
   port: 80
   cipher: auto
   uuid: 7022982f-da4c-48c9-c660-b2315abdcf7e
@@ -23358,7 +23358,7 @@ proxies:
       host: a.prapt5.ir
 - name: "\U0001F1FA\U0001F1F3 UN 2115 VMS"
   type: vmess
-  server: 104.21.226.32
+  server: 104.21.234.54
   port: 80
   cipher: auto
   uuid: 7022982f-da4c-48c9-c660-b2315abdcf7e
@@ -23372,7 +23372,7 @@ proxies:
       host: a.prapt5.ir
 - name: "\U0001F1FA\U0001F1F3 UN 2116 VMS"
   type: vmess
-  server: 104.21.226.33
+  server: 104.21.233.68
   port: 80
   cipher: auto
   uuid: 7022982f-da4c-48c9-c660-b2315abdcf7e
@@ -23386,7 +23386,7 @@ proxies:
       host: a.prapt5.ir
 - name: "\U0001F1FA\U0001F1F3 UN 2117 VMS"
   type: vmess
-  server: 104.21.226.34
+  server: 104.21.238.90
   port: 80
   cipher: auto
   uuid: 7022982f-da4c-48c9-c660-b2315abdcf7e
@@ -23400,7 +23400,7 @@ proxies:
       host: a.prapt5.ir
 - name: "\U0001F1FA\U0001F1F3 UN 2118 VMS"
   type: vmess
-  server: 104.21.227.35
+  server: 104.21.230.30
   port: 80
   cipher: auto
   uuid: 7022982f-da4c-48c9-c660-b2315abdcf7e
@@ -23414,7 +23414,7 @@ proxies:
       host: a.prapt5.ir
 - name: "\U0001F1FA\U0001F1F3 UN 2119 VMS"
   type: vmess
-  server: 104.21.227.36
+  server: 104.21.233.48
   port: 80
   cipher: auto
   uuid: 7022982f-da4c-48c9-c660-b2315abdcf7e
@@ -23428,7 +23428,7 @@ proxies:
       host: a.prapt5.ir
 - name: "\U0001F1FA\U0001F1F3 UN 2120 VMS"
   type: vmess
-  server: 104.21.227.37
+  server: 104.21.238.92
   port: 80
   cipher: auto
   uuid: 7022982f-da4c-48c9-c660-b2315abdcf7e
@@ -23442,7 +23442,7 @@ proxies:
       host: a.prapt5.ir
 - name: "\U0001F1FA\U0001F1F3 UN 2121 VMS"
   type: vmess
-  server: 104.21.227.38
+  server: 104.21.226.14
   port: 80
   cipher: auto
   uuid: 7022982f-da4c-48c9-c660-b2315abdcf7e
@@ -23456,7 +23456,7 @@ proxies:
       host: a.prapt5.ir
 - name: "\U0001F1FA\U0001F1F3 UN 2122 VMS"
   type: vmess
-  server: 104.21.227.39
+  server: 104.21.239.75
   port: 80
   cipher: auto
   uuid: 7022982f-da4c-48c9-c660-b2315abdcf7e
@@ -23470,7 +23470,7 @@ proxies:
       host: a.prapt5.ir
 - name: "\U0001F1FA\U0001F1F3 UN 2123 VMS"
   type: vmess
-  server: 104.21.228.40
+  server: 104.21.225.9
   port: 80
   cipher: auto
   uuid: 7022982f-da4c-48c9-c660-b2315abdcf7e
@@ -23484,7 +23484,7 @@ proxies:
       host: a.prapt5.ir
 - name: "\U0001F1FA\U0001F1F3 UN 2124 VMS"
   type: vmess
-  server: 104.21.228.41
+  server: 104.21.239.77
   port: 80
   cipher: auto
   uuid: 7022982f-da4c-48c9-c660-b2315abdcf7e
@@ -23498,7 +23498,7 @@ proxies:
       host: a.prapt5.ir
 - name: "\U0001F1FA\U0001F1F3 UN 2125 VMS"
   type: vmess
-  server: 104.21.228.42
+  server: 104.21.239.98
   port: 80
   cipher: auto
   uuid: 7022982f-da4c-48c9-c660-b2315abdcf7e
@@ -23512,7 +23512,7 @@ proxies:
       host: a.prapt5.ir
 - name: "\U0001F1FA\U0001F1F3 UN 2126 VMS"
   type: vmess
-  server: 104.21.228.43
+  server: 104.21.239.95
   port: 80
   cipher: auto
   uuid: 7022982f-da4c-48c9-c660-b2315abdcf7e
@@ -23526,7 +23526,7 @@ proxies:
       host: a.prapt5.ir
 - name: "\U0001F1FA\U0001F1F3 UN 2127 VMS"
   type: vmess
-  server: 104.21.228.44
+  server: 104.21.236.64
   port: 80
   cipher: auto
   uuid: 7022982f-da4c-48c9-c660-b2315abdcf7e
@@ -23540,7 +23540,7 @@ proxies:
       host: a.prapt5.ir
 - name: "\U0001F1FA\U0001F1F3 UN 2128 VMS"
   type: vmess
-  server: 104.21.229.45
+  server: 104.21.237.69
   port: 80
   cipher: auto
   uuid: 7022982f-da4c-48c9-c660-b2315abdcf7e
@@ -23554,7 +23554,7 @@ proxies:
       host: a.prapt5.ir
 - name: "\U0001F1FA\U0001F1F3 UN 2129 VMS"
   type: vmess
-  server: 104.21.229.46
+  server: 104.21.237.87
   port: 80
   cipher: auto
   uuid: 7022982f-da4c-48c9-c660-b2315abdcf7e
@@ -23568,7 +23568,7 @@ proxies:
       host: a.prapt5.ir
 - name: "\U0001F1FA\U0001F1F3 UN 2130 VMS"
   type: vmess
-  server: 104.21.229.47
+  server: 104.21.235.55
   port: 80
   cipher: auto
   uuid: 7022982f-da4c-48c9-c660-b2315abdcf7e
@@ -23582,7 +23582,7 @@ proxies:
       host: a.prapt5.ir
 - name: "\U0001F1FA\U0001F1F3 UN 2131 VMS"
   type: vmess
-  server: 104.21.229.48
+  server: 104.21.233.66
   port: 80
   cipher: auto
   uuid: 7022982f-da4c-48c9-c660-b2315abdcf7e
@@ -23596,7 +23596,7 @@ proxies:
       host: a.prapt5.ir
 - name: "\U0001F1FA\U0001F1F3 UN 2132 VMS"
   type: vmess
-  server: 104.21.229.49
+  server: 104.21.224.0
   port: 80
   cipher: auto
   uuid: 7022982f-da4c-48c9-c660-b2315abdcf7e
@@ -23610,7 +23610,7 @@ proxies:
       host: a.prapt5.ir
 - name: "\U0001F1FA\U0001F1F3 UN 2133 VMS"
   type: vmess
-  server: 104.21.230.50
+  server: 104.21.235.78
   port: 80
   cipher: auto
   uuid: 7022982f-da4c-48c9-c660-b2315abdcf7e
@@ -23624,7 +23624,7 @@ proxies:
       host: a.prapt5.ir
 - name: "\U0001F1FA\U0001F1F3 UN 2134 VMS"
   type: vmess
-  server: 104.21.230.51
+  server: 104.21.235.79
   port: 80
   cipher: auto
   uuid: 7022982f-da4c-48c9-c660-b2315abdcf7e
@@ -23638,7 +23638,7 @@ proxies:
       host: a.prapt5.ir
 - name: "\U0001F1FA\U0001F1F3 UN 2135 VMS"
   type: vmess
-  server: 104.21.230.52
+  server: 104.21.235.77
   port: 80
   cipher: auto
   uuid: 7022982f-da4c-48c9-c660-b2315abdcf7e
@@ -23652,7 +23652,7 @@ proxies:
       host: a.prapt5.ir
 - name: "\U0001F1FA\U0001F1F3 UN 2136 VMS"
   type: vmess
-  server: 104.21.230.53
+  server: 104.21.237.85
   port: 80
   cipher: auto
   uuid: 7022982f-da4c-48c9-c660-b2315abdcf7e
@@ -23666,7 +23666,7 @@ proxies:
       host: a.prapt5.ir
 - name: "\U0001F1FA\U0001F1F3 UN 2137 VMS"
   type: vmess
-  server: 104.21.230.54
+  server: 104.21.230.52
   port: 80
   cipher: auto
   uuid: 7022982f-da4c-48c9-c660-b2315abdcf7e
@@ -23680,7 +23680,7 @@ proxies:
       host: a.prapt5.ir
 - name: "\U0001F1FA\U0001F1F3 UN 2138 VMS"
   type: vmess
-  server: 104.21.231.55
+  server: 104.21.225.26
   port: 80
   cipher: auto
   uuid: 7022982f-da4c-48c9-c660-b2315abdcf7e
@@ -23694,7 +23694,7 @@ proxies:
       host: a.prapt5.ir
 - name: "\U0001F1FA\U0001F1F3 UN 2139 VMS"
   type: vmess
-  server: 104.21.231.56
+  server: 104.21.226.31
   port: 80
   cipher: auto
   uuid: 7022982f-da4c-48c9-c660-b2315abdcf7e
@@ -23708,7 +23708,7 @@ proxies:
       host: a.prapt5.ir
 - name: "\U0001F1FA\U0001F1F3 UN 2140 VMS"
   type: vmess
-  server: 104.21.231.57
+  server: 104.21.226.34
   port: 80
   cipher: auto
   uuid: 7022982f-da4c-48c9-c660-b2315abdcf7e
@@ -23722,7 +23722,7 @@ proxies:
       host: a.prapt5.ir
 - name: "\U0001F1FA\U0001F1F3 UN 2141 VMS"
   type: vmess
-  server: 104.21.231.58
+  server: 104.21.229.45
   port: 80
   cipher: auto
   uuid: 7022982f-da4c-48c9-c660-b2315abdcf7e
@@ -23736,7 +23736,7 @@ proxies:
       host: a.prapt5.ir
 - name: "\U0001F1FA\U0001F1F3 UN 2142 VMS"
   type: vmess
-  server: 104.21.231.59
+  server: 104.21.229.47
   port: 80
   cipher: auto
   uuid: 7022982f-da4c-48c9-c660-b2315abdcf7e
@@ -23750,7 +23750,7 @@ proxies:
       host: a.prapt5.ir
 - name: "\U0001F1FA\U0001F1F3 UN 2143 VMS"
   type: vmess
-  server: 104.21.232.60
+  server: 104.21.233.49
   port: 80
   cipher: auto
   uuid: 7022982f-da4c-48c9-c660-b2315abdcf7e
@@ -23764,7 +23764,7 @@ proxies:
       host: a.prapt5.ir
 - name: "\U0001F1FA\U0001F1F3 UN 2144 VMS"
   type: vmess
-  server: 104.21.232.61
+  server: 104.21.226.32
   port: 80
   cipher: auto
   uuid: 7022982f-da4c-48c9-c660-b2315abdcf7e
@@ -23778,7 +23778,7 @@ proxies:
       host: a.prapt5.ir
 - name: "\U0001F1FA\U0001F1F3 UN 2145 VMS"
   type: vmess
-  server: 104.21.232.62
+  server: 104.21.231.57
   port: 80
   cipher: auto
   uuid: 7022982f-da4c-48c9-c660-b2315abdcf7e
@@ -23792,7 +23792,7 @@ proxies:
       host: a.prapt5.ir
 - name: "\U0001F1FA\U0001F1F3 UN 2146 VMS"
   type: vmess
-  server: 104.21.232.63
+  server: 104.21.237.86
   port: 80
   cipher: auto
   uuid: 7022982f-da4c-48c9-c660-b2315abdcf7e
@@ -23806,7 +23806,7 @@ proxies:
       host: a.prapt5.ir
 - name: "\U0001F1FA\U0001F1F3 UN 2147 VMS"
   type: vmess
-  server: 104.21.232.64
+  server: 104.21.225.27
   port: 80
   cipher: auto
   uuid: 7022982f-da4c-48c9-c660-b2315abdcf7e
@@ -23820,7 +23820,7 @@ proxies:
       host: a.prapt5.ir
 - name: "\U0001F1FA\U0001F1F3 UN 2148 VMS"
   type: vmess
-  server: 104.21.233.65
+  server: 104.21.227.36
   port: 80
   cipher: auto
   uuid: 7022982f-da4c-48c9-c660-b2315abdcf7e
@@ -23834,7 +23834,7 @@ proxies:
       host: a.prapt5.ir
 - name: "\U0001F1FA\U0001F1F3 UN 2149 VMS"
   type: vmess
-  server: 104.21.233.66
+  server: 104.21.230.54
   port: 80
   cipher: auto
   uuid: 7022982f-da4c-48c9-c660-b2315abdcf7e
@@ -23848,7 +23848,7 @@ proxies:
       host: a.prapt5.ir
 - name: "\U0001F1FA\U0001F1F3 UN 2150 VMS"
   type: vmess
-  server: 104.21.233.67
+  server: 104.21.236.82
   port: 80
   cipher: auto
   uuid: 7022982f-da4c-48c9-c660-b2315abdcf7e
@@ -23862,7 +23862,7 @@ proxies:
       host: a.prapt5.ir
 - name: "\U0001F1FA\U0001F1F3 UN 2151 VMS"
   type: vmess
-  server: 104.21.233.68
+  server: 104.21.234.50
   port: 80
   cipher: auto
   uuid: 7022982f-da4c-48c9-c660-b2315abdcf7e
@@ -23890,7 +23890,7 @@ proxies:
       host: a.prapt5.ir
 - name: "\U0001F1FA\U0001F1F3 UN 2153 VMS"
   type: vmess
-  server: 104.21.234.70
+  server: 104.21.234.53
   port: 80
   cipher: auto
   uuid: 7022982f-da4c-48c9-c660-b2315abdcf7e
@@ -23904,7 +23904,7 @@ proxies:
       host: a.prapt5.ir
 - name: "\U0001F1FA\U0001F1F3 UN 2154 VMS"
   type: vmess
-  server: 104.21.234.71
+  server: 104.21.230.53
   port: 80
   cipher: auto
   uuid: 7022982f-da4c-48c9-c660-b2315abdcf7e
@@ -23918,7 +23918,7 @@ proxies:
       host: a.prapt5.ir
 - name: "\U0001F1FA\U0001F1F3 UN 2155 VMS"
   type: vmess
-  server: 104.21.234.72
+  server: 104.21.232.61
   port: 80
   cipher: auto
   uuid: 7022982f-da4c-48c9-c660-b2315abdcf7e
@@ -23932,7 +23932,7 @@ proxies:
       host: a.prapt5.ir
 - name: "\U0001F1FA\U0001F1F3 UN 2156 VMS"
   type: vmess
-  server: 104.21.234.73
+  server: 104.21.239.99
   port: 80
   cipher: auto
   uuid: 7022982f-da4c-48c9-c660-b2315abdcf7e
@@ -23946,7 +23946,7 @@ proxies:
       host: a.prapt5.ir
 - name: "\U0001F1FA\U0001F1F3 UN 2157 VMS"
   type: vmess
-  server: 104.21.234.74
+  server: 104.21.224.21
   port: 80
   cipher: auto
   uuid: 7022982f-da4c-48c9-c660-b2315abdcf7e
@@ -23960,7 +23960,7 @@ proxies:
       host: a.prapt5.ir
 - name: "\U0001F1FA\U0001F1F3 UN 2158 VMS"
   type: vmess
-  server: 104.21.235.75
+  server: 104.21.239.96
   port: 80
   cipher: auto
   uuid: 7022982f-da4c-48c9-c660-b2315abdcf7e
@@ -23974,7 +23974,7 @@ proxies:
       host: a.prapt5.ir
 - name: "\U0001F1FA\U0001F1F3 UN 2159 VMS"
   type: vmess
-  server: 104.21.235.76
+  server: 104.21.239.97
   port: 80
   cipher: auto
   uuid: 7022982f-da4c-48c9-c660-b2315abdcf7e
@@ -23988,7 +23988,7 @@ proxies:
       host: a.prapt5.ir
 - name: "\U0001F1FA\U0001F1F3 UN 2160 VMS"
   type: vmess
-  server: 104.21.235.77
+  server: 104.21.235.56
   port: 80
   cipher: auto
   uuid: 7022982f-da4c-48c9-c660-b2315abdcf7e
@@ -24002,7 +24002,7 @@ proxies:
       host: a.prapt5.ir
 - name: "\U0001F1FA\U0001F1F3 UN 2161 VMS"
   type: vmess
-  server: 104.21.235.78
+  server: 104.21.225.25
   port: 80
   cipher: auto
   uuid: 7022982f-da4c-48c9-c660-b2315abdcf7e
@@ -24016,7 +24016,7 @@ proxies:
       host: a.prapt5.ir
 - name: "\U0001F1FA\U0001F1F3 UN 2162 VMS"
   type: vmess
-  server: 104.21.235.79
+  server: 104.21.232.63
   port: 80
   cipher: auto
   uuid: 7022982f-da4c-48c9-c660-b2315abdcf7e
@@ -24030,7 +24030,7 @@ proxies:
       host: a.prapt5.ir
 - name: "\U0001F1FA\U0001F1F3 UN 2163 VMS"
   type: vmess
-  server: 104.21.236.80
+  server: 104.21.233.46
   port: 80
   cipher: auto
   uuid: 7022982f-da4c-48c9-c660-b2315abdcf7e
@@ -24044,7 +24044,7 @@ proxies:
       host: a.prapt5.ir
 - name: "\U0001F1FA\U0001F1F3 UN 2164 VMS"
   type: vmess
-  server: 104.21.236.81
+  server: 104.21.235.59
   port: 80
   cipher: auto
   uuid: 7022982f-da4c-48c9-c660-b2315abdcf7e
@@ -24058,7 +24058,7 @@ proxies:
       host: a.prapt5.ir
 - name: "\U0001F1FA\U0001F1F3 UN 2165 VMS"
   type: vmess
-  server: 104.21.236.82
+  server: 104.21.237.66
   port: 80
   cipher: auto
   uuid: 7022982f-da4c-48c9-c660-b2315abdcf7e
@@ -24072,7 +24072,7 @@ proxies:
       host: a.prapt5.ir
 - name: "\U0001F1FA\U0001F1F3 UN 2166 VMS"
   type: vmess
-  server: 104.21.236.83
+  server: 104.21.239.79
   port: 80
   cipher: auto
   uuid: 7022982f-da4c-48c9-c660-b2315abdcf7e
@@ -24086,7 +24086,7 @@ proxies:
       host: a.prapt5.ir
 - name: "\U0001F1FA\U0001F1F3 UN 2167 VMS"
   type: vmess
-  server: 104.21.236.84
+  server: 104.21.229.46
   port: 80
   cipher: auto
   uuid: 7022982f-da4c-48c9-c660-b2315abdcf7e
@@ -24100,7 +24100,7 @@ proxies:
       host: a.prapt5.ir
 - name: "\U0001F1FA\U0001F1F3 UN 2168 VMS"
   type: vmess
-  server: 104.21.237.85
+  server: 104.21.227.18
   port: 80
   cipher: auto
   uuid: 7022982f-da4c-48c9-c660-b2315abdcf7e
@@ -24114,7 +24114,7 @@ proxies:
       host: a.prapt5.ir
 - name: "\U0001F1FA\U0001F1F3 UN 2169 VMS"
   type: vmess
-  server: 104.21.237.86
+  server: 104.21.234.52
   port: 80
   cipher: auto
   uuid: 7022982f-da4c-48c9-c660-b2315abdcf7e
@@ -24128,7 +24128,7 @@ proxies:
       host: a.prapt5.ir
 - name: "\U0001F1FA\U0001F1F3 UN 2170 VMS"
   type: vmess
-  server: 104.21.237.87
+  server: 104.21.237.88
   port: 80
   cipher: auto
   uuid: 7022982f-da4c-48c9-c660-b2315abdcf7e
@@ -24142,7 +24142,7 @@ proxies:
       host: a.prapt5.ir
 - name: "\U0001F1FA\U0001F1F3 UN 2171 VMS"
   type: vmess
-  server: 104.21.237.88
+  server: 104.21.237.67
   port: 80
   cipher: auto
   uuid: 7022982f-da4c-48c9-c660-b2315abdcf7e
@@ -24156,7 +24156,7 @@ proxies:
       host: a.prapt5.ir
 - name: "\U0001F1FA\U0001F1F3 UN 2172 VMS"
   type: vmess
-  server: 104.21.237.89
+  server: 104.21.228.24
   port: 80
   cipher: auto
   uuid: 7022982f-da4c-48c9-c660-b2315abdcf7e
@@ -24170,7 +24170,7 @@ proxies:
       host: a.prapt5.ir
 - name: "\U0001F1FA\U0001F1F3 UN 2173 VMS"
   type: vmess
-  server: 104.21.238.90
+  server: 104.21.231.35
   port: 80
   cipher: auto
   uuid: 7022982f-da4c-48c9-c660-b2315abdcf7e
@@ -24184,7 +24184,7 @@ proxies:
       host: a.prapt5.ir
 - name: "\U0001F1FA\U0001F1F3 UN 2174 VMS"
   type: vmess
-  server: 104.21.238.91
+  server: 104.21.230.51
   port: 80
   cipher: auto
   uuid: 7022982f-da4c-48c9-c660-b2315abdcf7e
@@ -24198,7 +24198,7 @@ proxies:
       host: a.prapt5.ir
 - name: "\U0001F1FA\U0001F1F3 UN 2175 VMS"
   type: vmess
-  server: 104.21.238.92
+  server: 104.21.224.1
   port: 80
   cipher: auto
   uuid: 7022982f-da4c-48c9-c660-b2315abdcf7e
@@ -24212,7 +24212,7 @@ proxies:
       host: a.prapt5.ir
 - name: "\U0001F1FA\U0001F1F3 UN 2176 VMS"
   type: vmess
-  server: 104.21.238.93
+  server: 104.21.229.26
   port: 80
   cipher: auto
   uuid: 7022982f-da4c-48c9-c660-b2315abdcf7e
@@ -24226,7 +24226,7 @@ proxies:
       host: a.prapt5.ir
 - name: "\U0001F1FA\U0001F1F3 UN 2177 VMS"
   type: vmess
-  server: 104.21.238.94
+  server: 104.21.229.28
   port: 80
   cipher: auto
   uuid: 7022982f-da4c-48c9-c660-b2315abdcf7e
@@ -24240,7 +24240,7 @@ proxies:
       host: a.prapt5.ir
 - name: "\U0001F1FA\U0001F1F3 UN 2178 VMS"
   type: vmess
-  server: 104.21.239.95
+  server: 104.21.236.80
   port: 80
   cipher: auto
   uuid: 7022982f-da4c-48c9-c660-b2315abdcf7e
@@ -24254,7 +24254,7 @@ proxies:
       host: a.prapt5.ir
 - name: "\U0001F1FA\U0001F1F3 UN 2179 VMS"
   type: vmess
-  server: 104.21.239.96
+  server: 104.21.229.29
   port: 80
   cipher: auto
   uuid: 7022982f-da4c-48c9-c660-b2315abdcf7e
@@ -24268,7 +24268,7 @@ proxies:
       host: a.prapt5.ir
 - name: "\U0001F1FA\U0001F1F3 UN 2180 VMS"
   type: vmess
-  server: 104.21.239.97
+  server: 104.21.226.33
   port: 80
   cipher: auto
   uuid: 7022982f-da4c-48c9-c660-b2315abdcf7e
@@ -24282,7 +24282,7 @@ proxies:
       host: a.prapt5.ir
 - name: "\U0001F1FA\U0001F1F3 UN 2181 VMS"
   type: vmess
-  server: 104.21.239.98
+  server: 104.21.226.13
   port: 80
   cipher: auto
   uuid: 7022982f-da4c-48c9-c660-b2315abdcf7e
@@ -24296,7 +24296,7 @@ proxies:
       host: a.prapt5.ir
 - name: "\U0001F1FA\U0001F1F3 UN 2182 VMS"
   type: vmess
-  server: 104.21.239.99
+  server: 104.21.234.70
   port: 80
   cipher: auto
   uuid: 7022982f-da4c-48c9-c660-b2315abdcf7e
@@ -26715,7 +26715,7 @@ proxies:
   cipher: aes-256-gcm
   password: Y6R9pAtvxxzmGC
   udp: true
-- name: "\U0001F1FA\U0001F1F8 US 2344 VMS"
+- name: "\U0001F1FA\U0001F1F3 UN 2344 VMS"
   server: ming2.kiwireich.com
   port: 443
   type: vmess
@@ -26869,7 +26869,7 @@ proxies:
     headers:
       Host: ca6.tehme100.fun
   udp: true
-- name: "\U0001F1FA\U0001F1F3 UN 2355 VMS"
+- name: "\U0001F1FA\U0001F1F8 US 2355 VMS"
   server: kellie.makeup
   port: 443
   type: vmess
@@ -27047,7 +27047,7 @@ proxies:
     headers:
       Host: fi1.xv2ray.net
   udp: true
-- name: "\U0001F1FA\U0001F1F8 US 2367 VMS"
+- name: "\U0001F1FA\U0001F1F3 UN 2367 VMS"
   server: nina.bond
   port: 443
   type: vmess
@@ -27167,7 +27167,7 @@ proxies:
     headers:
       Host: ca6.tehme100.fun
   udp: true
-- name: "\U0001F1FA\U0001F1F8 US 2375 VMS"
+- name: "\U0001F1FA\U0001F1F3 UN 2375 VMS"
   server: 18arcims.ir
   port: 80
   type: vmess
@@ -27352,7 +27352,7 @@ proxies:
     headers:
       Host: obdii.cfd
   udp: true
-- name: "\U0001F1FA\U0001F1F8 US 2388 VMS"
+- name: "\U0001F1FA\U0001F1F3 UN 2388 VMS"
   server: adenc35.fixedlfoat.top
   port: 443
   type: vmess
@@ -27541,7 +27541,7 @@ proxies:
     headers:
       Host: internet.life.com.by
   udp: true
-- name: "\U0001F1FA\U0001F1F3 UN 2402 VMS"
+- name: "\U0001F1FA\U0001F1F8 US 2402 VMS"
   server: linde06.indiavideo.sbs
   port: 443
   type: vmess
@@ -27567,7 +27567,7 @@ proxies:
   tls: false
   skip-cert-verify: true
   udp: true
-- name: "\U0001F1FA\U0001F1F8 US 2404 VMS"
+- name: "\U0001F1FA\U0001F1F3 UN 2404 VMS"
   server: obdii.cfd
   port: 443
   type: vmess
@@ -27599,7 +27599,7 @@ proxies:
     headers:
       Host: adenc35.fixedlfoat.top
   udp: true
-- name: "\U0001F1FA\U0001F1F3 UN 2406 VMS"
+- name: "\U0001F1FA\U0001F1F8 US 2406 VMS"
   server: obdii.cfd
   port: 443
   type: vmess
@@ -27877,7 +27877,7 @@ proxies:
     headers:
       Host: ming2.kiwireich.com
   udp: true
-- name: "\U0001F1FA\U0001F1F8 US 2426 VMS"
+- name: "\U0001F1FA\U0001F1F3 UN 2426 VMS"
   server: hms24.ivideos.sbs
   port: 443
   type: vmess
@@ -27893,7 +27893,7 @@ proxies:
     headers:
       Host: ivideos.sbs
   udp: true
-- name: "\U0001F1FA\U0001F1F3 UN 2427 VMS"
+- name: "\U0001F1FA\U0001F1F8 US 2427 VMS"
   server: v2ray.ibgfw.top
   port: 2053
   type: vmess
@@ -27908,7 +27908,7 @@ proxies:
     headers:
       Host: v2ray.ibgfw.top
   udp: true
-- name: "\U0001F1FA\U0001F1F3 UN 2428 VMS"
+- name: "\U0001F1FA\U0001F1F8 US 2428 VMS"
   server: v2ray.ibgfw.top
   port: 2053
   type: vmess
@@ -27923,7 +27923,7 @@ proxies:
     headers:
       Host: v2ray.ibgfw.top
   udp: true
-- name: "\U0001F1FA\U0001F1F3 UN 2429 VMS"
+- name: "\U0001F1FA\U0001F1F8 US 2429 VMS"
   server: linde06.indiavideo.sbs
   port: 443
   type: vmess
@@ -27939,7 +27939,7 @@ proxies:
     headers:
       Host: linde06.indiavideo.sbs
   udp: true
-- name: "\U0001F1FA\U0001F1F3 UN 2430 VMS"
+- name: "\U0001F1FA\U0001F1F8 US 2430 VMS"
   server: afrhms16v.bestxray.buzz
   port: 443
   type: vmess
@@ -27954,7 +27954,7 @@ proxies:
     headers:
       Host: afrhms16v.bestxray.buzz
   udp: true
-- name: "\U0001F1FA\U0001F1F3 UN 2431 VMS"
+- name: "\U0001F1FA\U0001F1F8 US 2431 VMS"
   server: afrhms16v.bestxray.buzz
   port: 443
   type: vmess
@@ -30601,7 +30601,7 @@ proxies:
     headers:
       Host: hdfy4s2d1.foriran.trade
   udp: true
-- name: "\U0001F1FA\U0001F1F8 US 2735 VMS"
+- name: "\U0001F1FA\U0001F1F3 UN 2735 VMS"
   server: ming2.kiwireich.com
   port: 443
   type: vmess
@@ -32051,7 +32051,7 @@ proxy-groups:
   - "\U0001F1EB\U0001F1F7 FR 560 SSS"
   - "\U0001F1EB\U0001F1F7 FR 561 SSS"
   - "\U0001F1E9\U0001F1EA DE 562 SSS"
-  - "\U0001F1FA\U0001F1F3 UN 563 VMS"
+  - "\U0001F1E9\U0001F1EA DE 563 VMS"
   - "\U0001F1EB\U0001F1F7 FR 564 SSS"
   - "\U0001F1EB\U0001F1F7 FR 565 SSS"
   - "\U0001F1E8\U0001F1FF CZ 566 VMS"
@@ -32394,7 +32394,7 @@ proxy-groups:
   - "\U0001F1FA\U0001F1F8 US 903 SSS"
   - "\U0001F1FA\U0001F1F8 US 904 SSS"
   - "\U0001F1FA\U0001F1F8 US 905 VMS"
-  - "\U0001F1FA\U0001F1F3 UN 906 TJN"
+  - "\U0001F1FA\U0001F1F8 US 906 TJN"
   - "\U0001F1FA\U0001F1F8 US 907 TJN"
   - "\U0001F1FA\U0001F1F8 US 908 TJN"
   - "\U0001F1FA\U0001F1F3 UN 909 VMS"
@@ -32408,7 +32408,7 @@ proxy-groups:
   - "\U0001F1FA\U0001F1F8 US 917 TJN"
   - "\U0001F1FA\U0001F1F8 US 918 VMS"
   - "\U0001F1FA\U0001F1F8 US 919 SSS"
-  - "\U0001F1FA\U0001F1F8 US 920 VMS"
+  - "\U0001F1FA\U0001F1F3 UN 920 VMS"
   - "\U0001F1FA\U0001F1F8 US 921 VMS"
   - "\U0001F1FA\U0001F1F8 US 922 TJN"
   - "\U0001F1E9\U0001F1EA DE 923 VMS"
@@ -32463,13 +32463,13 @@ proxy-groups:
   - "\U0001F1FA\U0001F1F8 US 972 SSS"
   - "\U0001F1FA\U0001F1F3 UN 973 TJN"
   - "\U0001F1FA\U0001F1F8 US 974 SSS"
-  - "\U0001F1EF\U0001F1F5 JP 975 TJN"
+  - "\U0001F1ED\U0001F1F0 HK 975 TJN"
   - "\U0001F1FA\U0001F1F8 US 976 TJN"
   - "\U0001F1FA\U0001F1F8 US 977 TJN"
   - "\U0001F1FA\U0001F1F8 US 978 VMS"
   - "\U0001F1EB\U0001F1F7 FR 979 VMS"
   - "\U0001F1FA\U0001F1F3 UN 980 VMS"
-  - "\U0001F1FA\U0001F1F8 US 981 TJN"
+  - "\U0001F1FA\U0001F1F3 UN 981 TJN"
   - "\U0001F1FA\U0001F1F8 US 982 SSS"
   - "\U0001F1FA\U0001F1F8 US 983 TJN"
   - "\U0001F1FA\U0001F1F8 US 984 TJN"
@@ -32490,8 +32490,8 @@ proxy-groups:
   - "\U0001F1FA\U0001F1F8 US 999 TJN"
   - "\U0001F1ED\U0001F1F0 HK 1000 TJN"
   - "\U0001F1FA\U0001F1F8 US 1001 VMS"
-  - "\U0001F1EF\U0001F1F5 JP 1002 TJN"
-  - "\U0001F1FA\U0001F1F3 UN 1003 TJN"
+  - "\U0001F1ED\U0001F1F0 HK 1002 TJN"
+  - "\U0001F1FA\U0001F1F8 US 1003 TJN"
   - "\U0001F1FA\U0001F1F3 UN 1004 VMS"
   - "\U0001F1ED\U0001F1F0 HK 1005 TJN"
   - "\U0001F1FA\U0001F1F8 US 1006 TJN"
@@ -32576,7 +32576,7 @@ proxy-groups:
   - "\U0001F1FA\U0001F1F8 US 1085 TJN"
   - "\U0001F1FA\U0001F1F8 US 1086 SSS"
   - "\U0001F1FA\U0001F1F8 US 1087 TJN"
-  - "\U0001F1FA\U0001F1F3 UN 1088 VMS"
+  - "\U0001F1FA\U0001F1F8 US 1088 VMS"
   - "\U0001F1FA\U0001F1F8 US 1089 TJN"
   - "\U0001F1FA\U0001F1F8 US 1090 TJN"
   - "\U0001F1FA\U0001F1F8 US 1091 TJN"
@@ -32584,7 +32584,7 @@ proxy-groups:
   - "\U0001F1EF\U0001F1F5 JP 1093 VMS"
   - "\U0001F1FA\U0001F1F8 US 1094 VMS"
   - "\U0001F1FA\U0001F1F8 US 1095 SSS"
-  - "\U0001F1FA\U0001F1F8 US 1096 VMS"
+  - "\U0001F1FA\U0001F1F3 UN 1096 VMS"
   - "\U0001F1FA\U0001F1F8 US 1097 TJN"
   - "\U0001F1FA\U0001F1F8 US 1098 VMS"
   - "\U0001F1FA\U0001F1F8 US 1099 TJN"
@@ -32595,7 +32595,7 @@ proxy-groups:
   - "\U0001F1FA\U0001F1F8 US 1104 SSS"
   - "\U0001F1FA\U0001F1F8 US 1105 TJN"
   - "\U0001F1E8\U0001F1ED CH 1106 TJN"
-  - "\U0001F1FA\U0001F1F8 US 1107 TJN"
+  - "\U0001F1FA\U0001F1F3 UN 1107 TJN"
   - "\U0001F1FA\U0001F1F8 US 1108 TJN"
   - "\U0001F1FA\U0001F1F8 US 1109 SSS"
   - "\U0001F1EB\U0001F1F7 FR 1110 VMS"
@@ -32613,9 +32613,9 @@ proxy-groups:
   - "\U0001F1FA\U0001F1F8 US 1122 TJN"
   - "\U0001F1FA\U0001F1F8 US 1123 TJN"
   - "\U0001F1FA\U0001F1F8 US 1124 TJN"
-  - "\U0001F1EF\U0001F1F5 JP 1125 TJN"
+  - "\U0001F1ED\U0001F1F0 HK 1125 TJN"
   - "\U0001F1FA\U0001F1F8 US 1126 SSS"
-  - "\U0001F1FA\U0001F1F8 US 1127 TJN"
+  - "\U0001F1FA\U0001F1F3 UN 1127 TJN"
   - "\U0001F1FA\U0001F1F8 US 1128 SSS"
   - "\U0001F1FA\U0001F1F8 US 1129 SSS"
   - "\U0001F1EF\U0001F1F5 JP 1130 TJN"
@@ -32648,7 +32648,7 @@ proxy-groups:
   - "\U0001F1FA\U0001F1F3 UN 1157 SSS"
   - "\U0001F1FA\U0001F1F8 US 1158 TJN"
   - "\U0001F1F3\U0001F1F1 NL 1159 SSS"
-  - "\U0001F1FA\U0001F1F8 US 1160 TJN"
+  - "\U0001F1FA\U0001F1F3 UN 1160 TJN"
   - "\U0001F1FA\U0001F1F8 US 1161 SSS"
   - "\U0001F1FA\U0001F1F8 US 1162 SSS"
   - "\U0001F1FA\U0001F1F8 US 1163 SSS"
@@ -32709,7 +32709,7 @@ proxy-groups:
   - "\U0001F1FA\U0001F1F8 US 1218 SSS"
   - "\U0001F1FA\U0001F1F8 US 1219 SSS"
   - "\U0001F1FA\U0001F1F8 US 1220 SSS"
-  - "\U0001F1FA\U0001F1F3 UN 1221 VMS"
+  - "\U0001F1FA\U0001F1F8 US 1221 VMS"
   - "\U0001F1EF\U0001F1F5 JP 1222 VMS"
   - "\U0001F1FA\U0001F1F8 US 1223 SSS"
   - "\U0001F1FA\U0001F1F8 US 1224 TJN"
@@ -32738,8 +32738,8 @@ proxy-groups:
   - "\U0001F1FA\U0001F1F8 US 1247 VMS"
   - "\U0001F1FA\U0001F1F8 US 1248 SSS"
   - "\U0001F1EB\U0001F1EE FI 1249 VMS"
-  - "\U0001F1FA\U0001F1F8 US 1250 VMS"
-  - "\U0001F1FA\U0001F1F3 UN 1251 VMS"
+  - "\U0001F1FA\U0001F1F3 UN 1250 VMS"
+  - "\U0001F1FA\U0001F1F8 US 1251 VMS"
   - "\U0001F1EF\U0001F1F5 JP 1252 TJN"
   - "\U0001F1FA\U0001F1F8 US 1253 SSS"
   - "\U0001F1FA\U0001F1F8 US 1254 VMS"
@@ -32765,7 +32765,7 @@ proxy-groups:
   - "\U0001F1ED\U0001F1F0 HK 1274 SSS"
   - "\U0001F1FA\U0001F1F8 US 1275 SSS"
   - "\U0001F1ED\U0001F1F0 HK 1276 TJN"
-  - "\U0001F1FA\U0001F1F3 UN 1277 TJN"
+  - "\U0001F1FA\U0001F1F8 US 1277 TJN"
   - "\U0001F1FA\U0001F1F8 US 1278 SSS"
   - "\U0001F1FA\U0001F1F8 US 1279 TJN"
   - "\U0001F1FA\U0001F1F8 US 1280 TJN"
@@ -32833,7 +32833,7 @@ proxy-groups:
   - "\U0001F1FA\U0001F1F8 US 1342 VMS"
   - "\U0001F1FA\U0001F1F8 US 1343 TJN"
   - "\U0001F1FA\U0001F1F8 US 1344 TJN"
-  - "\U0001F1FA\U0001F1F8 US 1345 VMS"
+  - "\U0001F1FA\U0001F1F3 UN 1345 VMS"
   - "\U0001F1FA\U0001F1F8 US 1346 SSS"
   - "\U0001F1FA\U0001F1F8 US 1347 SSS"
   - "\U0001F1FA\U0001F1F8 US 1348 SSS"
@@ -32855,14 +32855,14 @@ proxy-groups:
   - "\U0001F1FA\U0001F1F8 US 1364 TJN"
   - "\U0001F1FA\U0001F1F8 US 1365 VMS"
   - "\U0001F1FA\U0001F1F8 US 1366 SSS"
-  - "\U0001F1FA\U0001F1F3 UN 1367 TJN"
+  - "\U0001F1FA\U0001F1F8 US 1367 TJN"
   - "\U0001F1FA\U0001F1F8 US 1368 TJN"
   - "\U0001F1FA\U0001F1F8 US 1369 TJN"
   - "\U0001F1FA\U0001F1F8 US 1370 SSS"
   - "\U0001F1E6\U0001F1FA AU 1371 SSS"
   - "\U0001F1F3\U0001F1F1 NL 1372 SSS"
   - "\U0001F1FA\U0001F1F3 UN 1373 TJN"
-  - "\U0001F1FA\U0001F1F8 US 1374 TJN"
+  - "\U0001F1FA\U0001F1F3 UN 1374 TJN"
   - "\U0001F1FA\U0001F1F8 US 1375 SSS"
   - "\U0001F1FA\U0001F1F8 US 1376 TJN"
   - "\U0001F1FA\U0001F1F8 US 1377 TJN"
@@ -32871,7 +32871,7 @@ proxy-groups:
   - "\U0001F1FA\U0001F1F8 US 1380 SSS"
   - "\U0001F1FA\U0001F1F8 US 1381 SSS"
   - "\U0001F1FA\U0001F1F3 UN 1382 TJN"
-  - "\U0001F1FA\U0001F1F3 UN 1383 TJN"
+  - "\U0001F1FA\U0001F1F8 US 1383 TJN"
   - "\U0001F1FA\U0001F1F8 US 1384 SSS"
   - "\U0001F1FA\U0001F1F8 US 1385 VMS"
   - "\U0001F1FA\U0001F1F8 US 1386 TJN"
@@ -32883,7 +32883,7 @@ proxy-groups:
   - "\U0001F1FA\U0001F1F8 US 1392 SSS"
   - "\U0001F1FA\U0001F1F8 US 1393 TJN"
   - "\U0001F1E6\U0001F1FA AU 1394 SSS"
-  - "\U0001F1FA\U0001F1F3 UN 1395 TJN"
+  - "\U0001F1FA\U0001F1F8 US 1395 TJN"
   - "\U0001F1FA\U0001F1F8 US 1396 TJN"
   - "\U0001F1FA\U0001F1F8 US 1397 VMS"
   - "\U0001F1FA\U0001F1F8 US 1398 TJN"
@@ -32913,7 +32913,7 @@ proxy-groups:
   - "\U0001F1FA\U0001F1F8 US 1422 SSS"
   - "\U0001F1FA\U0001F1F8 US 1423 SSS"
   - "\U0001F1FA\U0001F1F8 US 1424 SSS"
-  - "\U0001F1FA\U0001F1F3 UN 1425 TJN"
+  - "\U0001F1FA\U0001F1F8 US 1425 TJN"
   - "\U0001F1FA\U0001F1F8 US 1426 SSS"
   - "\U0001F1EE\U0001F1F9 IT 1427 TJN"
   - "\U0001F1EB\U0001F1F7 FR 1428 SSS"
@@ -32953,7 +32953,7 @@ proxy-groups:
   - "\U0001F1FA\U0001F1F8 US 1462 VMS"
   - "\U0001F1FA\U0001F1F8 US 1463 TJN"
   - "\U0001F1FA\U0001F1F8 US 1464 TJN"
-  - "\U0001F1FA\U0001F1F8 US 1465 TJN"
+  - "\U0001F1FA\U0001F1F3 UN 1465 TJN"
   - "\U0001F1FA\U0001F1F8 US 1466 VMS"
   - "\U0001F1FA\U0001F1F8 US 1467 VMS"
   - "\U0001F1FA\U0001F1F8 US 1468 TJN"
@@ -33071,24 +33071,24 @@ proxy-groups:
   - "\U0001F1FA\U0001F1F8 US 1580 TJN"
   - "\U0001F1FA\U0001F1F8 US 1581 VMS"
   - "\U0001F1FA\U0001F1F8 US 1582 TJN"
-  - "\U0001F1FA\U0001F1F8 US 1583 TJN"
+  - "\U0001F1FA\U0001F1F3 UN 1583 TJN"
   - "\U0001F1FA\U0001F1F8 US 1584 SSS"
   - "\U0001F1FA\U0001F1F8 US 1585 SSS"
-  - "\U0001F1FA\U0001F1F8 US 1586 VMS"
+  - "\U0001F1FA\U0001F1F3 UN 1586 VMS"
   - "\U0001F1FA\U0001F1F8 US 1587 SSS"
   - "\U0001F1ED\U0001F1F0 HK 1588 TJN"
   - "\U0001F1F8\U0001F1EC SG 1589 VMS"
   - "\U0001F1FA\U0001F1F8 US 1590 TJN"
-  - "\U0001F1FA\U0001F1F3 UN 1591 TJN"
+  - "\U0001F1FA\U0001F1F8 US 1591 TJN"
   - "\U0001F1FA\U0001F1F8 US 1592 SSS"
   - "\U0001F1FA\U0001F1F8 US 1593 TJN"
   - "\U0001F1FA\U0001F1F8 US 1594 TJN"
   - "\U0001F1FA\U0001F1F8 US 1595 TJN"
-  - "\U0001F1FA\U0001F1F8 US 1596 VMS"
+  - "\U0001F1FA\U0001F1F3 UN 1596 VMS"
   - "\U0001F1E9\U0001F1EA DE 1597 TJN"
   - "\U0001F1FA\U0001F1F3 UN 1598 VMS"
   - "\U0001F1F0\U0001F1F7 KR 1599 VMS"
-  - "\U0001F1FA\U0001F1F3 UN 1600 TJN"
+  - "\U0001F1FA\U0001F1F8 US 1600 TJN"
   - "\U0001F1FA\U0001F1F8 US 1601 SSS"
   - "\U0001F1FA\U0001F1F8 US 1602 TJN"
   - "\U0001F1FA\U0001F1F3 UN 1603 VMS"
@@ -33106,15 +33106,15 @@ proxy-groups:
   - "\U0001F1FA\U0001F1F8 US 1615 TJN"
   - "\U0001F1FA\U0001F1F8 US 1616 SSS"
   - "\U0001F1E8\U0001F1E6 CA 1617 VMS"
-  - "\U0001F1F8\U0001F1EC SG 1618 VMS"
-  - "\U0001F1EF\U0001F1F5 JP 1619 VMS"
-  - "\U0001F1F8\U0001F1EC SG 1620 VMS"
-  - "\U0001F1EF\U0001F1F5 JP 1621 VMS"
-  - "\U0001F1F8\U0001F1EC SG 1622 VMS"
-  - "\U0001F1F8\U0001F1EC SG 1623 VMS"
-  - "\U0001F1F8\U0001F1EC SG 1624 VMS"
-  - "\U0001F1F8\U0001F1EC SG 1625 VMS"
-  - "\U0001F1F8\U0001F1EC SG 1626 VMS"
+  - "\U0001F1FA\U0001F1F3 UN 1618 VMS"
+  - "\U0001F1FA\U0001F1F3 UN 1619 VMS"
+  - "\U0001F1FA\U0001F1F3 UN 1620 VMS"
+  - "\U0001F1FA\U0001F1F3 UN 1621 VMS"
+  - "\U0001F1FA\U0001F1F3 UN 1622 VMS"
+  - "\U0001F1FA\U0001F1F3 UN 1623 VMS"
+  - "\U0001F1FA\U0001F1F3 UN 1624 VMS"
+  - "\U0001F1FA\U0001F1F8 US 1625 VMS"
+  - "\U0001F1FA\U0001F1F3 UN 1626 VMS"
   - "\U0001F1FA\U0001F1F3 UN 1627 VMS"
   - "\U0001F1FA\U0001F1F3 UN 1628 VMS"
   - "\U0001F1FA\U0001F1F3 UN 1629 VMS"
@@ -33122,7 +33122,7 @@ proxy-groups:
   - "\U0001F1FA\U0001F1F3 UN 1631 VMS"
   - "\U0001F1FA\U0001F1F3 UN 1632 VMS"
   - "\U0001F1FA\U0001F1F3 UN 1633 VMS"
-  - "\U0001F1FA\U0001F1F8 US 1634 VMS"
+  - "\U0001F1FA\U0001F1F3 UN 1634 VMS"
   - "\U0001F1FA\U0001F1F3 UN 1635 VMS"
   - "\U0001F1FA\U0001F1F3 UN 1636 VMS"
   - "\U0001F1FA\U0001F1F3 UN 1637 VMS"
@@ -33138,23 +33138,23 @@ proxy-groups:
   - "\U0001F1FA\U0001F1F3 UN 1647 VMS"
   - "\U0001F1FA\U0001F1F3 UN 1648 VMS"
   - "\U0001F1FA\U0001F1F3 UN 1649 VMS"
-  - "\U0001F1FA\U0001F1F3 UN 1650 VMS"
+  - "\U0001F1F9\U0001F1FC TW 1650 VMS"
   - "\U0001F1FA\U0001F1F3 UN 1651 VMS"
   - "\U0001F1FA\U0001F1F3 UN 1652 VMS"
   - "\U0001F1FA\U0001F1F3 UN 1653 VMS"
   - "\U0001F1FA\U0001F1F3 UN 1654 VMS"
   - "\U0001F1FA\U0001F1F3 UN 1655 VMS"
   - "\U0001F1FA\U0001F1F3 UN 1656 VMS"
-  - "\U0001F1FA\U0001F1F3 UN 1657 VMS"
+  - "\U0001F1E9\U0001F1EA DE 1657 TJN"
   - "\U0001F1FA\U0001F1F3 UN 1658 VMS"
-  - "\U0001F1F9\U0001F1FC TW 1659 VMS"
+  - "\U0001F1FA\U0001F1F3 UN 1659 VMS"
   - "\U0001F1FA\U0001F1F3 UN 1660 VMS"
   - "\U0001F1FA\U0001F1F3 UN 1661 VMS"
   - "\U0001F1FA\U0001F1F3 UN 1662 VMS"
   - "\U0001F1FA\U0001F1F3 UN 1663 VMS"
   - "\U0001F1FA\U0001F1F3 UN 1664 VMS"
   - "\U0001F1FA\U0001F1F3 UN 1665 VMS"
-  - "\U0001F1E9\U0001F1EA DE 1666 TJN"
+  - "\U0001F1FA\U0001F1F3 UN 1666 VMS"
   - "\U0001F1FA\U0001F1F3 UN 1667 VMS"
   - "\U0001F1FA\U0001F1F3 UN 1668 VMS"
   - "\U0001F1FA\U0001F1F3 UN 1669 VMS"
@@ -33165,15 +33165,15 @@ proxy-groups:
   - "\U0001F1FA\U0001F1F3 UN 1674 VMS"
   - "\U0001F1FA\U0001F1F3 UN 1675 VMS"
   - "\U0001F1FA\U0001F1F3 UN 1676 VMS"
-  - "\U0001F1FA\U0001F1F3 UN 1677 VMS"
-  - "\U0001F1FA\U0001F1F3 UN 1678 VMS"
-  - "\U0001F1FA\U0001F1F3 UN 1679 VMS"
-  - "\U0001F1FA\U0001F1F3 UN 1680 VMS"
-  - "\U0001F1FA\U0001F1F3 UN 1681 VMS"
-  - "\U0001F1FA\U0001F1F3 UN 1682 VMS"
-  - "\U0001F1FA\U0001F1F3 UN 1683 VMS"
-  - "\U0001F1FA\U0001F1F3 UN 1684 VMS"
-  - "\U0001F1FA\U0001F1F3 UN 1685 VMS"
+  - "\U0001F1F8\U0001F1EC SG 1677 VMS"
+  - "\U0001F1EF\U0001F1F5 JP 1678 VMS"
+  - "\U0001F1F8\U0001F1EC SG 1679 VMS"
+  - "\U0001F1EF\U0001F1F5 JP 1680 VMS"
+  - "\U0001F1F8\U0001F1EC SG 1681 VMS"
+  - "\U0001F1F8\U0001F1EC SG 1682 VMS"
+  - "\U0001F1F8\U0001F1EC SG 1683 VMS"
+  - "\U0001F1F8\U0001F1EC SG 1684 VMS"
+  - "\U0001F1F8\U0001F1EC SG 1685 VMS"
   - "\U0001F1EF\U0001F1F5 JP 1686 VMS"
   - "\U0001F1EF\U0001F1F5 JP 1687 VMS"
   - "\U0001F1F8\U0001F1EC SG 1688 VMS"
@@ -33832,7 +33832,7 @@ proxy-groups:
   - "\U0001F1FA\U0001F1F3 UN 2341 VMS"
   - "\U0001F1FA\U0001F1F3 UN 2342 VMS"
   - "\U0001F1EB\U0001F1F7 FR 2343 SSS"
-  - "\U0001F1FA\U0001F1F8 US 2344 VMS"
+  - "\U0001F1FA\U0001F1F3 UN 2344 VMS"
   - "\U0001F1E8\U0001F1E6 CA 2345 VMS"
   - "\U0001F1F5\U0001F1ED PH 2346 VMS"
   - "\U0001F1F3\U0001F1F1 NL 2347 VMS"
@@ -33843,7 +33843,7 @@ proxy-groups:
   - "\U0001F1FA\U0001F1F3 UN 2352 VMS"
   - "\U0001F1FA\U0001F1F3 UN 2353 VMS"
   - "\U0001F1FA\U0001F1F8 US 2354 VMS"
-  - "\U0001F1FA\U0001F1F3 UN 2355 VMS"
+  - "\U0001F1FA\U0001F1F8 US 2355 VMS"
   - "\U0001F1FA\U0001F1F8 US 2356 VMS"
   - "\U0001F1FA\U0001F1F8 US 2357 VMS"
   - "\U0001F1FA\U0001F1F8 US 2358 VMS"
@@ -33855,7 +33855,7 @@ proxy-groups:
   - "\U0001F1FA\U0001F1F8 US 2364 VMS"
   - "\U0001F1FA\U0001F1F8 US 2365 VMS"
   - "\U0001F1FA\U0001F1F3 UN 2366 VMS"
-  - "\U0001F1FA\U0001F1F8 US 2367 VMS"
+  - "\U0001F1FA\U0001F1F3 UN 2367 VMS"
   - "\U0001F1FA\U0001F1F8 US 2368 VMS"
   - "\U0001F1FA\U0001F1F8 US 2369 VMS"
   - "\U0001F1FA\U0001F1F8 US 2370 VMS"
@@ -33863,7 +33863,7 @@ proxy-groups:
   - "\U0001F1FA\U0001F1F3 UN 2372 VMS"
   - "\U0001F1FA\U0001F1F3 UN 2373 VMS"
   - "\U0001F1FA\U0001F1F8 US 2374 VMS"
-  - "\U0001F1FA\U0001F1F8 US 2375 VMS"
+  - "\U0001F1FA\U0001F1F3 UN 2375 VMS"
   - "\U0001F1E8\U0001F1E6 CA 2376 VMS"
   - "\U0001F1FA\U0001F1F3 UN 2377 VMS"
   - "\U0001F1FA\U0001F1F3 UN 2378 VMS"
@@ -33876,7 +33876,7 @@ proxy-groups:
   - "\U0001F1FA\U0001F1F8 US 2385 VMS"
   - "\U0001F1FA\U0001F1F8 US 2386 VMS"
   - "\U0001F1FA\U0001F1F3 UN 2387 VMS"
-  - "\U0001F1FA\U0001F1F8 US 2388 VMS"
+  - "\U0001F1FA\U0001F1F3 UN 2388 VMS"
   - "\U0001F1FA\U0001F1F8 US 2389 VMS"
   - "\U0001F1FA\U0001F1F8 US 2390 VMS"
   - "\U0001F1FA\U0001F1F8 US 2391 VMS"
@@ -33890,11 +33890,11 @@ proxy-groups:
   - "\U0001F1E9\U0001F1EA DE 2399 VMS"
   - "\U0001F1F7\U0001F1FA RU 2400 VMS"
   - "\U0001F1F7\U0001F1FA RU 2401 VMS"
-  - "\U0001F1FA\U0001F1F3 UN 2402 VMS"
+  - "\U0001F1FA\U0001F1F8 US 2402 VMS"
   - "\U0001F1EC\U0001F1E7 GB 2403 VMS"
-  - "\U0001F1FA\U0001F1F8 US 2404 VMS"
+  - "\U0001F1FA\U0001F1F3 UN 2404 VMS"
   - "\U0001F1FA\U0001F1F3 UN 2405 VMS"
-  - "\U0001F1FA\U0001F1F3 UN 2406 VMS"
+  - "\U0001F1FA\U0001F1F8 US 2406 VMS"
   - "\U0001F1EC\U0001F1E7 GB 2407 VMS"
   - "\U0001F1ED\U0001F1F0 HK 2408 VMS"
   - "\U0001F1ED\U0001F1F0 HK 2409 VMS"
@@ -33914,12 +33914,12 @@ proxy-groups:
   - "\U0001F1FA\U0001F1F3 UN 2423 VMS"
   - "\U0001F1F3\U0001F1F1 NL 2424 VMS"
   - "\U0001F1FA\U0001F1F3 UN 2425 VMS"
-  - "\U0001F1FA\U0001F1F8 US 2426 VMS"
-  - "\U0001F1FA\U0001F1F3 UN 2427 VMS"
-  - "\U0001F1FA\U0001F1F3 UN 2428 VMS"
-  - "\U0001F1FA\U0001F1F3 UN 2429 VMS"
-  - "\U0001F1FA\U0001F1F3 UN 2430 VMS"
-  - "\U0001F1FA\U0001F1F3 UN 2431 VMS"
+  - "\U0001F1FA\U0001F1F3 UN 2426 VMS"
+  - "\U0001F1FA\U0001F1F8 US 2427 VMS"
+  - "\U0001F1FA\U0001F1F8 US 2428 VMS"
+  - "\U0001F1FA\U0001F1F8 US 2429 VMS"
+  - "\U0001F1FA\U0001F1F8 US 2430 VMS"
+  - "\U0001F1FA\U0001F1F8 US 2431 VMS"
   - "\U0001F1F5\U0001F1ED PH 2432 VMS"
   - "\U0001F1F5\U0001F1ED PH 2433 VMS"
   - "\U0001F1F5\U0001F1ED PH 2434 VMS"
@@ -34223,7 +34223,7 @@ proxy-groups:
   - "\U0001F1F3\U0001F1F1 NL 2732 TJN"
   - "\U0001F1F3\U0001F1F1 NL 2733 TJN"
   - "\U0001F1F3\U0001F1F1 NL 2734 VMS"
-  - "\U0001F1FA\U0001F1F8 US 2735 VMS"
+  - "\U0001F1FA\U0001F1F3 UN 2735 VMS"
   - "\U0001F1F7\U0001F1FA RU 2736 SSS"
   - "\U0001F1EB\U0001F1F7 FR 2737 SSS"
   - "\U0001F1F5\U0001F1F1 PL 2738 SSS"
@@ -34916,7 +34916,7 @@ proxy-groups:
   - "\U0001F1EB\U0001F1F7 FR 560 SSS"
   - "\U0001F1EB\U0001F1F7 FR 561 SSS"
   - "\U0001F1E9\U0001F1EA DE 562 SSS"
-  - "\U0001F1FA\U0001F1F3 UN 563 VMS"
+  - "\U0001F1E9\U0001F1EA DE 563 VMS"
   - "\U0001F1EB\U0001F1F7 FR 564 SSS"
   - "\U0001F1EB\U0001F1F7 FR 565 SSS"
   - "\U0001F1E8\U0001F1FF CZ 566 VMS"
@@ -35259,7 +35259,7 @@ proxy-groups:
   - "\U0001F1FA\U0001F1F8 US 903 SSS"
   - "\U0001F1FA\U0001F1F8 US 904 SSS"
   - "\U0001F1FA\U0001F1F8 US 905 VMS"
-  - "\U0001F1FA\U0001F1F3 UN 906 TJN"
+  - "\U0001F1FA\U0001F1F8 US 906 TJN"
   - "\U0001F1FA\U0001F1F8 US 907 TJN"
   - "\U0001F1FA\U0001F1F8 US 908 TJN"
   - "\U0001F1FA\U0001F1F3 UN 909 VMS"
@@ -35273,7 +35273,7 @@ proxy-groups:
   - "\U0001F1FA\U0001F1F8 US 917 TJN"
   - "\U0001F1FA\U0001F1F8 US 918 VMS"
   - "\U0001F1FA\U0001F1F8 US 919 SSS"
-  - "\U0001F1FA\U0001F1F8 US 920 VMS"
+  - "\U0001F1FA\U0001F1F3 UN 920 VMS"
   - "\U0001F1FA\U0001F1F8 US 921 VMS"
   - "\U0001F1FA\U0001F1F8 US 922 TJN"
   - "\U0001F1E9\U0001F1EA DE 923 VMS"
@@ -35328,13 +35328,13 @@ proxy-groups:
   - "\U0001F1FA\U0001F1F8 US 972 SSS"
   - "\U0001F1FA\U0001F1F3 UN 973 TJN"
   - "\U0001F1FA\U0001F1F8 US 974 SSS"
-  - "\U0001F1EF\U0001F1F5 JP 975 TJN"
+  - "\U0001F1ED\U0001F1F0 HK 975 TJN"
   - "\U0001F1FA\U0001F1F8 US 976 TJN"
   - "\U0001F1FA\U0001F1F8 US 977 TJN"
   - "\U0001F1FA\U0001F1F8 US 978 VMS"
   - "\U0001F1EB\U0001F1F7 FR 979 VMS"
   - "\U0001F1FA\U0001F1F3 UN 980 VMS"
-  - "\U0001F1FA\U0001F1F8 US 981 TJN"
+  - "\U0001F1FA\U0001F1F3 UN 981 TJN"
   - "\U0001F1FA\U0001F1F8 US 982 SSS"
   - "\U0001F1FA\U0001F1F8 US 983 TJN"
   - "\U0001F1FA\U0001F1F8 US 984 TJN"
@@ -35355,8 +35355,8 @@ proxy-groups:
   - "\U0001F1FA\U0001F1F8 US 999 TJN"
   - "\U0001F1ED\U0001F1F0 HK 1000 TJN"
   - "\U0001F1FA\U0001F1F8 US 1001 VMS"
-  - "\U0001F1EF\U0001F1F5 JP 1002 TJN"
-  - "\U0001F1FA\U0001F1F3 UN 1003 TJN"
+  - "\U0001F1ED\U0001F1F0 HK 1002 TJN"
+  - "\U0001F1FA\U0001F1F8 US 1003 TJN"
   - "\U0001F1FA\U0001F1F3 UN 1004 VMS"
   - "\U0001F1ED\U0001F1F0 HK 1005 TJN"
   - "\U0001F1FA\U0001F1F8 US 1006 TJN"
@@ -35441,7 +35441,7 @@ proxy-groups:
   - "\U0001F1FA\U0001F1F8 US 1085 TJN"
   - "\U0001F1FA\U0001F1F8 US 1086 SSS"
   - "\U0001F1FA\U0001F1F8 US 1087 TJN"
-  - "\U0001F1FA\U0001F1F3 UN 1088 VMS"
+  - "\U0001F1FA\U0001F1F8 US 1088 VMS"
   - "\U0001F1FA\U0001F1F8 US 1089 TJN"
   - "\U0001F1FA\U0001F1F8 US 1090 TJN"
   - "\U0001F1FA\U0001F1F8 US 1091 TJN"
@@ -35449,7 +35449,7 @@ proxy-groups:
   - "\U0001F1EF\U0001F1F5 JP 1093 VMS"
   - "\U0001F1FA\U0001F1F8 US 1094 VMS"
   - "\U0001F1FA\U0001F1F8 US 1095 SSS"
-  - "\U0001F1FA\U0001F1F8 US 1096 VMS"
+  - "\U0001F1FA\U0001F1F3 UN 1096 VMS"
   - "\U0001F1FA\U0001F1F8 US 1097 TJN"
   - "\U0001F1FA\U0001F1F8 US 1098 VMS"
   - "\U0001F1FA\U0001F1F8 US 1099 TJN"
@@ -35460,7 +35460,7 @@ proxy-groups:
   - "\U0001F1FA\U0001F1F8 US 1104 SSS"
   - "\U0001F1FA\U0001F1F8 US 1105 TJN"
   - "\U0001F1E8\U0001F1ED CH 1106 TJN"
-  - "\U0001F1FA\U0001F1F8 US 1107 TJN"
+  - "\U0001F1FA\U0001F1F3 UN 1107 TJN"
   - "\U0001F1FA\U0001F1F8 US 1108 TJN"
   - "\U0001F1FA\U0001F1F8 US 1109 SSS"
   - "\U0001F1EB\U0001F1F7 FR 1110 VMS"
@@ -35478,9 +35478,9 @@ proxy-groups:
   - "\U0001F1FA\U0001F1F8 US 1122 TJN"
   - "\U0001F1FA\U0001F1F8 US 1123 TJN"
   - "\U0001F1FA\U0001F1F8 US 1124 TJN"
-  - "\U0001F1EF\U0001F1F5 JP 1125 TJN"
+  - "\U0001F1ED\U0001F1F0 HK 1125 TJN"
   - "\U0001F1FA\U0001F1F8 US 1126 SSS"
-  - "\U0001F1FA\U0001F1F8 US 1127 TJN"
+  - "\U0001F1FA\U0001F1F3 UN 1127 TJN"
   - "\U0001F1FA\U0001F1F8 US 1128 SSS"
   - "\U0001F1FA\U0001F1F8 US 1129 SSS"
   - "\U0001F1EF\U0001F1F5 JP 1130 TJN"
@@ -35513,7 +35513,7 @@ proxy-groups:
   - "\U0001F1FA\U0001F1F3 UN 1157 SSS"
   - "\U0001F1FA\U0001F1F8 US 1158 TJN"
   - "\U0001F1F3\U0001F1F1 NL 1159 SSS"
-  - "\U0001F1FA\U0001F1F8 US 1160 TJN"
+  - "\U0001F1FA\U0001F1F3 UN 1160 TJN"
   - "\U0001F1FA\U0001F1F8 US 1161 SSS"
   - "\U0001F1FA\U0001F1F8 US 1162 SSS"
   - "\U0001F1FA\U0001F1F8 US 1163 SSS"
@@ -35574,7 +35574,7 @@ proxy-groups:
   - "\U0001F1FA\U0001F1F8 US 1218 SSS"
   - "\U0001F1FA\U0001F1F8 US 1219 SSS"
   - "\U0001F1FA\U0001F1F8 US 1220 SSS"
-  - "\U0001F1FA\U0001F1F3 UN 1221 VMS"
+  - "\U0001F1FA\U0001F1F8 US 1221 VMS"
   - "\U0001F1EF\U0001F1F5 JP 1222 VMS"
   - "\U0001F1FA\U0001F1F8 US 1223 SSS"
   - "\U0001F1FA\U0001F1F8 US 1224 TJN"
@@ -35603,8 +35603,8 @@ proxy-groups:
   - "\U0001F1FA\U0001F1F8 US 1247 VMS"
   - "\U0001F1FA\U0001F1F8 US 1248 SSS"
   - "\U0001F1EB\U0001F1EE FI 1249 VMS"
-  - "\U0001F1FA\U0001F1F8 US 1250 VMS"
-  - "\U0001F1FA\U0001F1F3 UN 1251 VMS"
+  - "\U0001F1FA\U0001F1F3 UN 1250 VMS"
+  - "\U0001F1FA\U0001F1F8 US 1251 VMS"
   - "\U0001F1EF\U0001F1F5 JP 1252 TJN"
   - "\U0001F1FA\U0001F1F8 US 1253 SSS"
   - "\U0001F1FA\U0001F1F8 US 1254 VMS"
@@ -35630,7 +35630,7 @@ proxy-groups:
   - "\U0001F1ED\U0001F1F0 HK 1274 SSS"
   - "\U0001F1FA\U0001F1F8 US 1275 SSS"
   - "\U0001F1ED\U0001F1F0 HK 1276 TJN"
-  - "\U0001F1FA\U0001F1F3 UN 1277 TJN"
+  - "\U0001F1FA\U0001F1F8 US 1277 TJN"
   - "\U0001F1FA\U0001F1F8 US 1278 SSS"
   - "\U0001F1FA\U0001F1F8 US 1279 TJN"
   - "\U0001F1FA\U0001F1F8 US 1280 TJN"
@@ -35698,7 +35698,7 @@ proxy-groups:
   - "\U0001F1FA\U0001F1F8 US 1342 VMS"
   - "\U0001F1FA\U0001F1F8 US 1343 TJN"
   - "\U0001F1FA\U0001F1F8 US 1344 TJN"
-  - "\U0001F1FA\U0001F1F8 US 1345 VMS"
+  - "\U0001F1FA\U0001F1F3 UN 1345 VMS"
   - "\U0001F1FA\U0001F1F8 US 1346 SSS"
   - "\U0001F1FA\U0001F1F8 US 1347 SSS"
   - "\U0001F1FA\U0001F1F8 US 1348 SSS"
@@ -35720,14 +35720,14 @@ proxy-groups:
   - "\U0001F1FA\U0001F1F8 US 1364 TJN"
   - "\U0001F1FA\U0001F1F8 US 1365 VMS"
   - "\U0001F1FA\U0001F1F8 US 1366 SSS"
-  - "\U0001F1FA\U0001F1F3 UN 1367 TJN"
+  - "\U0001F1FA\U0001F1F8 US 1367 TJN"
   - "\U0001F1FA\U0001F1F8 US 1368 TJN"
   - "\U0001F1FA\U0001F1F8 US 1369 TJN"
   - "\U0001F1FA\U0001F1F8 US 1370 SSS"
   - "\U0001F1E6\U0001F1FA AU 1371 SSS"
   - "\U0001F1F3\U0001F1F1 NL 1372 SSS"
   - "\U0001F1FA\U0001F1F3 UN 1373 TJN"
-  - "\U0001F1FA\U0001F1F8 US 1374 TJN"
+  - "\U0001F1FA\U0001F1F3 UN 1374 TJN"
   - "\U0001F1FA\U0001F1F8 US 1375 SSS"
   - "\U0001F1FA\U0001F1F8 US 1376 TJN"
   - "\U0001F1FA\U0001F1F8 US 1377 TJN"
@@ -35736,7 +35736,7 @@ proxy-groups:
   - "\U0001F1FA\U0001F1F8 US 1380 SSS"
   - "\U0001F1FA\U0001F1F8 US 1381 SSS"
   - "\U0001F1FA\U0001F1F3 UN 1382 TJN"
-  - "\U0001F1FA\U0001F1F3 UN 1383 TJN"
+  - "\U0001F1FA\U0001F1F8 US 1383 TJN"
   - "\U0001F1FA\U0001F1F8 US 1384 SSS"
   - "\U0001F1FA\U0001F1F8 US 1385 VMS"
   - "\U0001F1FA\U0001F1F8 US 1386 TJN"
@@ -35748,7 +35748,7 @@ proxy-groups:
   - "\U0001F1FA\U0001F1F8 US 1392 SSS"
   - "\U0001F1FA\U0001F1F8 US 1393 TJN"
   - "\U0001F1E6\U0001F1FA AU 1394 SSS"
-  - "\U0001F1FA\U0001F1F3 UN 1395 TJN"
+  - "\U0001F1FA\U0001F1F8 US 1395 TJN"
   - "\U0001F1FA\U0001F1F8 US 1396 TJN"
   - "\U0001F1FA\U0001F1F8 US 1397 VMS"
   - "\U0001F1FA\U0001F1F8 US 1398 TJN"
@@ -35778,7 +35778,7 @@ proxy-groups:
   - "\U0001F1FA\U0001F1F8 US 1422 SSS"
   - "\U0001F1FA\U0001F1F8 US 1423 SSS"
   - "\U0001F1FA\U0001F1F8 US 1424 SSS"
-  - "\U0001F1FA\U0001F1F3 UN 1425 TJN"
+  - "\U0001F1FA\U0001F1F8 US 1425 TJN"
   - "\U0001F1FA\U0001F1F8 US 1426 SSS"
   - "\U0001F1EE\U0001F1F9 IT 1427 TJN"
   - "\U0001F1EB\U0001F1F7 FR 1428 SSS"
@@ -35818,7 +35818,7 @@ proxy-groups:
   - "\U0001F1FA\U0001F1F8 US 1462 VMS"
   - "\U0001F1FA\U0001F1F8 US 1463 TJN"
   - "\U0001F1FA\U0001F1F8 US 1464 TJN"
-  - "\U0001F1FA\U0001F1F8 US 1465 TJN"
+  - "\U0001F1FA\U0001F1F3 UN 1465 TJN"
   - "\U0001F1FA\U0001F1F8 US 1466 VMS"
   - "\U0001F1FA\U0001F1F8 US 1467 VMS"
   - "\U0001F1FA\U0001F1F8 US 1468 TJN"
@@ -35936,24 +35936,24 @@ proxy-groups:
   - "\U0001F1FA\U0001F1F8 US 1580 TJN"
   - "\U0001F1FA\U0001F1F8 US 1581 VMS"
   - "\U0001F1FA\U0001F1F8 US 1582 TJN"
-  - "\U0001F1FA\U0001F1F8 US 1583 TJN"
+  - "\U0001F1FA\U0001F1F3 UN 1583 TJN"
   - "\U0001F1FA\U0001F1F8 US 1584 SSS"
   - "\U0001F1FA\U0001F1F8 US 1585 SSS"
-  - "\U0001F1FA\U0001F1F8 US 1586 VMS"
+  - "\U0001F1FA\U0001F1F3 UN 1586 VMS"
   - "\U0001F1FA\U0001F1F8 US 1587 SSS"
   - "\U0001F1ED\U0001F1F0 HK 1588 TJN"
   - "\U0001F1F8\U0001F1EC SG 1589 VMS"
   - "\U0001F1FA\U0001F1F8 US 1590 TJN"
-  - "\U0001F1FA\U0001F1F3 UN 1591 TJN"
+  - "\U0001F1FA\U0001F1F8 US 1591 TJN"
   - "\U0001F1FA\U0001F1F8 US 1592 SSS"
   - "\U0001F1FA\U0001F1F8 US 1593 TJN"
   - "\U0001F1FA\U0001F1F8 US 1594 TJN"
   - "\U0001F1FA\U0001F1F8 US 1595 TJN"
-  - "\U0001F1FA\U0001F1F8 US 1596 VMS"
+  - "\U0001F1FA\U0001F1F3 UN 1596 VMS"
   - "\U0001F1E9\U0001F1EA DE 1597 TJN"
   - "\U0001F1FA\U0001F1F3 UN 1598 VMS"
   - "\U0001F1F0\U0001F1F7 KR 1599 VMS"
-  - "\U0001F1FA\U0001F1F3 UN 1600 TJN"
+  - "\U0001F1FA\U0001F1F8 US 1600 TJN"
   - "\U0001F1FA\U0001F1F8 US 1601 SSS"
   - "\U0001F1FA\U0001F1F8 US 1602 TJN"
   - "\U0001F1FA\U0001F1F3 UN 1603 VMS"
@@ -35971,15 +35971,15 @@ proxy-groups:
   - "\U0001F1FA\U0001F1F8 US 1615 TJN"
   - "\U0001F1FA\U0001F1F8 US 1616 SSS"
   - "\U0001F1E8\U0001F1E6 CA 1617 VMS"
-  - "\U0001F1F8\U0001F1EC SG 1618 VMS"
-  - "\U0001F1EF\U0001F1F5 JP 1619 VMS"
-  - "\U0001F1F8\U0001F1EC SG 1620 VMS"
-  - "\U0001F1EF\U0001F1F5 JP 1621 VMS"
-  - "\U0001F1F8\U0001F1EC SG 1622 VMS"
-  - "\U0001F1F8\U0001F1EC SG 1623 VMS"
-  - "\U0001F1F8\U0001F1EC SG 1624 VMS"
-  - "\U0001F1F8\U0001F1EC SG 1625 VMS"
-  - "\U0001F1F8\U0001F1EC SG 1626 VMS"
+  - "\U0001F1FA\U0001F1F3 UN 1618 VMS"
+  - "\U0001F1FA\U0001F1F3 UN 1619 VMS"
+  - "\U0001F1FA\U0001F1F3 UN 1620 VMS"
+  - "\U0001F1FA\U0001F1F3 UN 1621 VMS"
+  - "\U0001F1FA\U0001F1F3 UN 1622 VMS"
+  - "\U0001F1FA\U0001F1F3 UN 1623 VMS"
+  - "\U0001F1FA\U0001F1F3 UN 1624 VMS"
+  - "\U0001F1FA\U0001F1F8 US 1625 VMS"
+  - "\U0001F1FA\U0001F1F3 UN 1626 VMS"
   - "\U0001F1FA\U0001F1F3 UN 1627 VMS"
   - "\U0001F1FA\U0001F1F3 UN 1628 VMS"
   - "\U0001F1FA\U0001F1F3 UN 1629 VMS"
@@ -35987,7 +35987,7 @@ proxy-groups:
   - "\U0001F1FA\U0001F1F3 UN 1631 VMS"
   - "\U0001F1FA\U0001F1F3 UN 1632 VMS"
   - "\U0001F1FA\U0001F1F3 UN 1633 VMS"
-  - "\U0001F1FA\U0001F1F8 US 1634 VMS"
+  - "\U0001F1FA\U0001F1F3 UN 1634 VMS"
   - "\U0001F1FA\U0001F1F3 UN 1635 VMS"
   - "\U0001F1FA\U0001F1F3 UN 1636 VMS"
   - "\U0001F1FA\U0001F1F3 UN 1637 VMS"
@@ -36003,23 +36003,23 @@ proxy-groups:
   - "\U0001F1FA\U0001F1F3 UN 1647 VMS"
   - "\U0001F1FA\U0001F1F3 UN 1648 VMS"
   - "\U0001F1FA\U0001F1F3 UN 1649 VMS"
-  - "\U0001F1FA\U0001F1F3 UN 1650 VMS"
+  - "\U0001F1F9\U0001F1FC TW 1650 VMS"
   - "\U0001F1FA\U0001F1F3 UN 1651 VMS"
   - "\U0001F1FA\U0001F1F3 UN 1652 VMS"
   - "\U0001F1FA\U0001F1F3 UN 1653 VMS"
   - "\U0001F1FA\U0001F1F3 UN 1654 VMS"
   - "\U0001F1FA\U0001F1F3 UN 1655 VMS"
   - "\U0001F1FA\U0001F1F3 UN 1656 VMS"
-  - "\U0001F1FA\U0001F1F3 UN 1657 VMS"
+  - "\U0001F1E9\U0001F1EA DE 1657 TJN"
   - "\U0001F1FA\U0001F1F3 UN 1658 VMS"
-  - "\U0001F1F9\U0001F1FC TW 1659 VMS"
+  - "\U0001F1FA\U0001F1F3 UN 1659 VMS"
   - "\U0001F1FA\U0001F1F3 UN 1660 VMS"
   - "\U0001F1FA\U0001F1F3 UN 1661 VMS"
   - "\U0001F1FA\U0001F1F3 UN 1662 VMS"
   - "\U0001F1FA\U0001F1F3 UN 1663 VMS"
   - "\U0001F1FA\U0001F1F3 UN 1664 VMS"
   - "\U0001F1FA\U0001F1F3 UN 1665 VMS"
-  - "\U0001F1E9\U0001F1EA DE 1666 TJN"
+  - "\U0001F1FA\U0001F1F3 UN 1666 VMS"
   - "\U0001F1FA\U0001F1F3 UN 1667 VMS"
   - "\U0001F1FA\U0001F1F3 UN 1668 VMS"
   - "\U0001F1FA\U0001F1F3 UN 1669 VMS"
@@ -36030,15 +36030,15 @@ proxy-groups:
   - "\U0001F1FA\U0001F1F3 UN 1674 VMS"
   - "\U0001F1FA\U0001F1F3 UN 1675 VMS"
   - "\U0001F1FA\U0001F1F3 UN 1676 VMS"
-  - "\U0001F1FA\U0001F1F3 UN 1677 VMS"
-  - "\U0001F1FA\U0001F1F3 UN 1678 VMS"
-  - "\U0001F1FA\U0001F1F3 UN 1679 VMS"
-  - "\U0001F1FA\U0001F1F3 UN 1680 VMS"
-  - "\U0001F1FA\U0001F1F3 UN 1681 VMS"
-  - "\U0001F1FA\U0001F1F3 UN 1682 VMS"
-  - "\U0001F1FA\U0001F1F3 UN 1683 VMS"
-  - "\U0001F1FA\U0001F1F3 UN 1684 VMS"
-  - "\U0001F1FA\U0001F1F3 UN 1685 VMS"
+  - "\U0001F1F8\U0001F1EC SG 1677 VMS"
+  - "\U0001F1EF\U0001F1F5 JP 1678 VMS"
+  - "\U0001F1F8\U0001F1EC SG 1679 VMS"
+  - "\U0001F1EF\U0001F1F5 JP 1680 VMS"
+  - "\U0001F1F8\U0001F1EC SG 1681 VMS"
+  - "\U0001F1F8\U0001F1EC SG 1682 VMS"
+  - "\U0001F1F8\U0001F1EC SG 1683 VMS"
+  - "\U0001F1F8\U0001F1EC SG 1684 VMS"
+  - "\U0001F1F8\U0001F1EC SG 1685 VMS"
   - "\U0001F1EF\U0001F1F5 JP 1686 VMS"
   - "\U0001F1EF\U0001F1F5 JP 1687 VMS"
   - "\U0001F1F8\U0001F1EC SG 1688 VMS"
@@ -36697,7 +36697,7 @@ proxy-groups:
   - "\U0001F1FA\U0001F1F3 UN 2341 VMS"
   - "\U0001F1FA\U0001F1F3 UN 2342 VMS"
   - "\U0001F1EB\U0001F1F7 FR 2343 SSS"
-  - "\U0001F1FA\U0001F1F8 US 2344 VMS"
+  - "\U0001F1FA\U0001F1F3 UN 2344 VMS"
   - "\U0001F1E8\U0001F1E6 CA 2345 VMS"
   - "\U0001F1F5\U0001F1ED PH 2346 VMS"
   - "\U0001F1F3\U0001F1F1 NL 2347 VMS"
@@ -36708,7 +36708,7 @@ proxy-groups:
   - "\U0001F1FA\U0001F1F3 UN 2352 VMS"
   - "\U0001F1FA\U0001F1F3 UN 2353 VMS"
   - "\U0001F1FA\U0001F1F8 US 2354 VMS"
-  - "\U0001F1FA\U0001F1F3 UN 2355 VMS"
+  - "\U0001F1FA\U0001F1F8 US 2355 VMS"
   - "\U0001F1FA\U0001F1F8 US 2356 VMS"
   - "\U0001F1FA\U0001F1F8 US 2357 VMS"
   - "\U0001F1FA\U0001F1F8 US 2358 VMS"
@@ -36720,7 +36720,7 @@ proxy-groups:
   - "\U0001F1FA\U0001F1F8 US 2364 VMS"
   - "\U0001F1FA\U0001F1F8 US 2365 VMS"
   - "\U0001F1FA\U0001F1F3 UN 2366 VMS"
-  - "\U0001F1FA\U0001F1F8 US 2367 VMS"
+  - "\U0001F1FA\U0001F1F3 UN 2367 VMS"
   - "\U0001F1FA\U0001F1F8 US 2368 VMS"
   - "\U0001F1FA\U0001F1F8 US 2369 VMS"
   - "\U0001F1FA\U0001F1F8 US 2370 VMS"
@@ -36728,7 +36728,7 @@ proxy-groups:
   - "\U0001F1FA\U0001F1F3 UN 2372 VMS"
   - "\U0001F1FA\U0001F1F3 UN 2373 VMS"
   - "\U0001F1FA\U0001F1F8 US 2374 VMS"
-  - "\U0001F1FA\U0001F1F8 US 2375 VMS"
+  - "\U0001F1FA\U0001F1F3 UN 2375 VMS"
   - "\U0001F1E8\U0001F1E6 CA 2376 VMS"
   - "\U0001F1FA\U0001F1F3 UN 2377 VMS"
   - "\U0001F1FA\U0001F1F3 UN 2378 VMS"
@@ -36741,7 +36741,7 @@ proxy-groups:
   - "\U0001F1FA\U0001F1F8 US 2385 VMS"
   - "\U0001F1FA\U0001F1F8 US 2386 VMS"
   - "\U0001F1FA\U0001F1F3 UN 2387 VMS"
-  - "\U0001F1FA\U0001F1F8 US 2388 VMS"
+  - "\U0001F1FA\U0001F1F3 UN 2388 VMS"
   - "\U0001F1FA\U0001F1F8 US 2389 VMS"
   - "\U0001F1FA\U0001F1F8 US 2390 VMS"
   - "\U0001F1FA\U0001F1F8 US 2391 VMS"
@@ -36755,11 +36755,11 @@ proxy-groups:
   - "\U0001F1E9\U0001F1EA DE 2399 VMS"
   - "\U0001F1F7\U0001F1FA RU 2400 VMS"
   - "\U0001F1F7\U0001F1FA RU 2401 VMS"
-  - "\U0001F1FA\U0001F1F3 UN 2402 VMS"
+  - "\U0001F1FA\U0001F1F8 US 2402 VMS"
   - "\U0001F1EC\U0001F1E7 GB 2403 VMS"
-  - "\U0001F1FA\U0001F1F8 US 2404 VMS"
+  - "\U0001F1FA\U0001F1F3 UN 2404 VMS"
   - "\U0001F1FA\U0001F1F3 UN 2405 VMS"
-  - "\U0001F1FA\U0001F1F3 UN 2406 VMS"
+  - "\U0001F1FA\U0001F1F8 US 2406 VMS"
   - "\U0001F1EC\U0001F1E7 GB 2407 VMS"
   - "\U0001F1ED\U0001F1F0 HK 2408 VMS"
   - "\U0001F1ED\U0001F1F0 HK 2409 VMS"
@@ -36779,12 +36779,12 @@ proxy-groups:
   - "\U0001F1FA\U0001F1F3 UN 2423 VMS"
   - "\U0001F1F3\U0001F1F1 NL 2424 VMS"
   - "\U0001F1FA\U0001F1F3 UN 2425 VMS"
-  - "\U0001F1FA\U0001F1F8 US 2426 VMS"
-  - "\U0001F1FA\U0001F1F3 UN 2427 VMS"
-  - "\U0001F1FA\U0001F1F3 UN 2428 VMS"
-  - "\U0001F1FA\U0001F1F3 UN 2429 VMS"
-  - "\U0001F1FA\U0001F1F3 UN 2430 VMS"
-  - "\U0001F1FA\U0001F1F3 UN 2431 VMS"
+  - "\U0001F1FA\U0001F1F3 UN 2426 VMS"
+  - "\U0001F1FA\U0001F1F8 US 2427 VMS"
+  - "\U0001F1FA\U0001F1F8 US 2428 VMS"
+  - "\U0001F1FA\U0001F1F8 US 2429 VMS"
+  - "\U0001F1FA\U0001F1F8 US 2430 VMS"
+  - "\U0001F1FA\U0001F1F8 US 2431 VMS"
   - "\U0001F1F5\U0001F1ED PH 2432 VMS"
   - "\U0001F1F5\U0001F1ED PH 2433 VMS"
   - "\U0001F1F5\U0001F1ED PH 2434 VMS"
@@ -37088,7 +37088,7 @@ proxy-groups:
   - "\U0001F1F3\U0001F1F1 NL 2732 TJN"
   - "\U0001F1F3\U0001F1F1 NL 2733 TJN"
   - "\U0001F1F3\U0001F1F1 NL 2734 VMS"
-  - "\U0001F1FA\U0001F1F8 US 2735 VMS"
+  - "\U0001F1FA\U0001F1F3 UN 2735 VMS"
   - "\U0001F1F7\U0001F1FA RU 2736 SSS"
   - "\U0001F1EB\U0001F1F7 FR 2737 SSS"
   - "\U0001F1F5\U0001F1F1 PL 2738 SSS"
