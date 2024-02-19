@@ -3773,7 +3773,7 @@ proxies:
   tls: false
   skip-cert-verify: true
   udp: true
-- name: "\U0001F1E8\U0001F1E6 CA 329 TJN"
+- name: "\U0001F1FA\U0001F1F8 US 329 TJN"
   server: mci.filna.cloud
   port: 443
   type: trojan
@@ -6104,7 +6104,7 @@ proxies:
   cipher: chacha20-ietf-poly1305
   password: f44cb5a7-4b5b-45cc-8aa1-97f8227b5616
   udp: true
-- name: "\U0001F1E9\U0001F1EA DE 563 VMS"
+- name: "\U0001F1FA\U0001F1F3 UN 563 VMS"
   server: hackteam.link
   port: 2083
   type: vmess
@@ -8791,7 +8791,7 @@ proxies:
   sni: 206.237.5.220
   skip-cert-verify: true
   udp: true
-- name: "\U0001F1FA\U0001F1F8 US 866 TJN"
+- name: "\U0001F1FA\U0001F1F3 UN 866 TJN"
   server: aws-ge-frankfurt-1.f1cflineb.com
   port: 443
   type: trojan
@@ -9201,7 +9201,7 @@ proxies:
     headers:
       Host: ca6.tehme100.fun
   udp: true
-- name: "\U0001F1FA\U0001F1F8 US 906 TJN"
+- name: "\U0001F1FA\U0001F1F3 UN 906 TJN"
   server: aws-hk-1.f1cflinea.com
   port: 443
   type: trojan
@@ -9784,7 +9784,7 @@ proxies:
   cipher: aes-256-gcm
   password: a81ccc27-b768-4624-afc9-fd78c959a189
   udp: true
-- name: "\U0001F1FA\U0001F1F8 US 965 VMS"
+- name: "\U0001F1FA\U0001F1F3 UN 965 VMS"
   server: ld2.shabijichang.com
   port: 80
   type: vmess
@@ -10171,7 +10171,7 @@ proxies:
   ws-opts:
     path: /vmess
   udp: true
-- name: "\U0001F1ED\U0001F1F0 HK 1002 TJN"
+- name: "\U0001F1EF\U0001F1F5 JP 1002 TJN"
   server: us01.trojanyyds.xyz
   port: 443
   type: trojan
@@ -10179,7 +10179,7 @@ proxies:
   sni: us01.trojanyyds.xyz
   skip-cert-verify: true
   udp: true
-- name: "\U0001F1FA\U0001F1F8 US 1003 TJN"
+- name: "\U0001F1FA\U0001F1F3 UN 1003 TJN"
   server: cf.network383.online
   port: 2096
   type: trojan
@@ -11051,7 +11051,7 @@ proxies:
     headers:
       Host: 6us3.pqjc.buzz
   udp: true
-- name: "\U0001F1FA\U0001F1F8 US 1088 VMS"
+- name: "\U0001F1FA\U0001F1F3 UN 1088 VMS"
   server: sbl4.shabijichang.com
   port: 80
   type: vmess
@@ -11144,7 +11144,7 @@ proxies:
   cipher: aes-256-gcm
   password: faBAoD54k87UJG7
   udp: true
-- name: "\U0001F1FA\U0001F1F8 US 1096 VMS"
+- name: "\U0001F1FA\U0001F1F3 UN 1096 VMS"
   server: moon.chanell.mci.v-x4ssd.space
   port: 8080
   type: vmess
@@ -11249,7 +11249,7 @@ proxies:
   cipher: aes-256-gcm
   password: TEzjfAYq2IjtuoS
   udp: true
-- name: "\U0001F1FA\U0001F1F3 UN 1105 TJN"
+- name: "\U0001F1FA\U0001F1F8 US 1105 TJN"
   server: aws-id-jakarta-1.f1cflinea.com
   port: 443
   type: trojan
@@ -11458,7 +11458,7 @@ proxies:
     headers:
       Host: 6us3.pqjc.buzz
   udp: true
-- name: "\U0001F1ED\U0001F1F0 HK 1125 TJN"
+- name: "\U0001F1EF\U0001F1F5 JP 1125 TJN"
   server: ru01.trojanyyds.xyz
   port: 443
   type: trojan
@@ -11800,7 +11800,7 @@ proxies:
   cipher: aes-256-gcm
   password: FoOiGlkAA9yPEGP
   udp: true
-- name: "\U0001F1FA\U0001F1F8 US 1160 TJN"
+- name: "\U0001F1FA\U0001F1F3 UN 1160 TJN"
   server: aws-uae-1.f1cflineb.com
   port: 443
   type: trojan
@@ -12503,7 +12503,7 @@ proxies:
   cipher: aes-256-gcm
   password: KixLvKzwjekG00rm
   udp: true
-- name: "\U0001F1FA\U0001F1F8 US 1236 TJN"
+- name: "\U0001F1FA\U0001F1F3 UN 1236 TJN"
   server: cf.network383.online
   port: 2096
   type: trojan
@@ -13650,7 +13650,7 @@ proxies:
     headers:
       Host: 6us3.pqjc.buzz
   udp: true
-- name: "\U0001F1FA\U0001F1F8 US 1345 VMS"
+- name: "\U0001F1FA\U0001F1F3 UN 1345 VMS"
   server: cn.azhz.eu.org
   port: 2096
   type: vmess
@@ -13919,7 +13919,7 @@ proxies:
   cipher: aes-256-gcm
   password: RexnBgU7EV5ADxG
   udp: true
-- name: "\U0001F1FA\U0001F1F3 UN 1373 TJN"
+- name: "\U0001F1FA\U0001F1F8 US 1373 TJN"
   server: cf.network383.online
   port: 2096
   type: trojan
@@ -14693,7 +14693,7 @@ proxies:
   ws-opts:
     path: /ray
   udp: true
-- name: "\U0001F1FA\U0001F1F3 UN 1453 VMS"
+- name: "\U0001F1FA\U0001F1F8 US 1453 VMS"
   server: api.lp-airdrop.top
   port: 2096
   type: vmess
@@ -14844,7 +14844,7 @@ proxies:
     headers:
       Host: 6us3.pqjc.buzz
   udp: true
-- name: "\U0001F1FA\U0001F1F8 US 1465 TJN"
+- name: "\U0001F1FA\U0001F1F3 UN 1465 TJN"
   server: aws-id-jakarta-1.f1cflineb.com
   port: 443
   type: trojan
@@ -15679,7 +15679,7 @@ proxies:
     headers:
       Host: 6us3.pqjc.buzz
   udp: true
-- name: "\U0001F1FA\U0001F1F8 US 1550 TJN"
+- name: "\U0001F1FA\U0001F1F3 UN 1550 TJN"
   server: aws-ch-zurich-1.f1cflinea.com
   port: 443
   type: trojan
@@ -15958,7 +15958,7 @@ proxies:
   cipher: aes-256-cfb
   password: asdKkaskJKfnsa
   udp: true
-- name: "\U0001F1FA\U0001F1F8 US 1577 VMS"
+- name: "\U0001F1FA\U0001F1F3 UN 1577 VMS"
   server: v2ray.ibgfw.top
   port: 2053
   type: vmess
@@ -16208,7 +16208,7 @@ proxies:
     headers:
       Host: 152.67.218.38
   udp: true
-- name: "\U0001F1FA\U0001F1F8 US 1600 TJN"
+- name: "\U0001F1FA\U0001F1F3 UN 1600 TJN"
   server: aws-it-milan-1.f1cflineb.com
   port: 443
   type: trojan
@@ -19970,156 +19970,6 @@ proxies:
       host: a.prapt5.ir
 - name: "\U0001F1FA\U0001F1F3 UN 1873 VMS"
   type: vmess
-  server: 104.21.224.0
-  port: 80
-  cipher: auto
-  uuid: 7022982f-da4c-48c9-c660-b2315abdcf7e
-  alterId: 0
-  tls: false
-  skip-cert-verify: true
-  servername: ''
-  network: ws
-  ws-opts:
-    path: /?ed=2048
-    headers:
-      host: a.prapt5.ir
-- name: "\U0001F1FA\U0001F1F3 UN 1874 VMS"
-  type: vmess
-  server: 104.21.224.1
-  port: 80
-  cipher: auto
-  uuid: 7022982f-da4c-48c9-c660-b2315abdcf7e
-  alterId: 0
-  tls: false
-  skip-cert-verify: true
-  servername: ''
-  network: ws
-  ws-opts:
-    path: /?ed=2048
-    headers:
-      host: a.prapt5.ir
-- name: "\U0001F1FA\U0001F1F3 UN 1875 VMS"
-  type: vmess
-  server: 104.21.224.2
-  port: 80
-  cipher: auto
-  uuid: 7022982f-da4c-48c9-c660-b2315abdcf7e
-  alterId: 0
-  tls: false
-  skip-cert-verify: true
-  servername: ''
-  network: ws
-  ws-opts:
-    path: /?ed=2048
-    headers:
-      host: a.prapt5.ir
-- name: "\U0001F1FA\U0001F1F3 UN 1876 VMS"
-  type: vmess
-  server: 104.21.224.3
-  port: 80
-  cipher: auto
-  uuid: 7022982f-da4c-48c9-c660-b2315abdcf7e
-  alterId: 0
-  tls: false
-  skip-cert-verify: true
-  servername: ''
-  network: ws
-  ws-opts:
-    path: /?ed=2048
-    headers:
-      host: a.prapt5.ir
-- name: "\U0001F1FA\U0001F1F3 UN 1877 VMS"
-  type: vmess
-  server: 104.21.224.4
-  port: 80
-  cipher: auto
-  uuid: 7022982f-da4c-48c9-c660-b2315abdcf7e
-  alterId: 0
-  tls: false
-  skip-cert-verify: true
-  servername: ''
-  network: ws
-  ws-opts:
-    path: /?ed=2048
-    headers:
-      host: a.prapt5.ir
-- name: "\U0001F1FA\U0001F1F3 UN 1878 VMS"
-  type: vmess
-  server: 104.21.225.5
-  port: 80
-  cipher: auto
-  uuid: 7022982f-da4c-48c9-c660-b2315abdcf7e
-  alterId: 0
-  tls: false
-  skip-cert-verify: true
-  servername: ''
-  network: ws
-  ws-opts:
-    path: /?ed=2048
-    headers:
-      host: a.prapt5.ir
-- name: "\U0001F1FA\U0001F1F3 UN 1879 VMS"
-  type: vmess
-  server: 104.21.225.6
-  port: 80
-  cipher: auto
-  uuid: 7022982f-da4c-48c9-c660-b2315abdcf7e
-  alterId: 0
-  tls: false
-  skip-cert-verify: true
-  servername: ''
-  network: ws
-  ws-opts:
-    path: /?ed=2048
-    headers:
-      host: a.prapt5.ir
-- name: "\U0001F1FA\U0001F1F3 UN 1880 VMS"
-  type: vmess
-  server: 104.21.225.7
-  port: 80
-  cipher: auto
-  uuid: 7022982f-da4c-48c9-c660-b2315abdcf7e
-  alterId: 0
-  tls: false
-  skip-cert-verify: true
-  servername: ''
-  network: ws
-  ws-opts:
-    path: /?ed=2048
-    headers:
-      host: a.prapt5.ir
-- name: "\U0001F1FA\U0001F1F3 UN 1881 VMS"
-  type: vmess
-  server: 104.21.225.8
-  port: 80
-  cipher: auto
-  uuid: 7022982f-da4c-48c9-c660-b2315abdcf7e
-  alterId: 0
-  tls: false
-  skip-cert-verify: true
-  servername: ''
-  network: ws
-  ws-opts:
-    path: /?ed=2048
-    headers:
-      host: a.prapt5.ir
-- name: "\U0001F1FA\U0001F1F3 UN 1882 VMS"
-  type: vmess
-  server: 104.21.225.9
-  port: 80
-  cipher: auto
-  uuid: 7022982f-da4c-48c9-c660-b2315abdcf7e
-  alterId: 0
-  tls: false
-  skip-cert-verify: true
-  servername: ''
-  network: ws
-  ws-opts:
-    path: /?ed=2048
-    headers:
-      host: a.prapt5.ir
-- name: "\U0001F1FA\U0001F1F3 UN 1883 VMS"
-  type: vmess
   server: 104.21.226.10
   port: 80
   cipher: auto
@@ -20127,13 +19977,12 @@ proxies:
   alterId: 0
   tls: false
   skip-cert-verify: true
-  servername: ''
   network: ws
   ws-opts:
     path: /?ed=2048
     headers:
       host: a.prapt5.ir
-- name: "\U0001F1FA\U0001F1F3 UN 1884 VMS"
+- name: "\U0001F1FA\U0001F1F3 UN 1874 VMS"
   type: vmess
   server: 104.21.226.11
   port: 80
@@ -20142,13 +19991,12 @@ proxies:
   alterId: 0
   tls: false
   skip-cert-verify: true
-  servername: ''
   network: ws
   ws-opts:
     path: /?ed=2048
     headers:
       host: a.prapt5.ir
-- name: "\U0001F1FA\U0001F1F3 UN 1885 VMS"
+- name: "\U0001F1FA\U0001F1F3 UN 1875 VMS"
   type: vmess
   server: 104.21.226.12
   port: 80
@@ -20157,13 +20005,12 @@ proxies:
   alterId: 0
   tls: false
   skip-cert-verify: true
-  servername: ''
   network: ws
   ws-opts:
     path: /?ed=2048
     headers:
       host: a.prapt5.ir
-- name: "\U0001F1FA\U0001F1F3 UN 1886 VMS"
+- name: "\U0001F1FA\U0001F1F3 UN 1876 VMS"
   type: vmess
   server: 104.21.226.13
   port: 80
@@ -20172,13 +20019,12 @@ proxies:
   alterId: 0
   tls: false
   skip-cert-verify: true
-  servername: ''
   network: ws
   ws-opts:
     path: /?ed=2048
     headers:
       host: a.prapt5.ir
-- name: "\U0001F1FA\U0001F1F3 UN 1887 VMS"
+- name: "\U0001F1FA\U0001F1F3 UN 1877 VMS"
   type: vmess
   server: 104.21.226.14
   port: 80
@@ -20187,13 +20033,12 @@ proxies:
   alterId: 0
   tls: false
   skip-cert-verify: true
-  servername: ''
   network: ws
   ws-opts:
     path: /?ed=2048
     headers:
       host: a.prapt5.ir
-- name: "\U0001F1FA\U0001F1F3 UN 1888 VMS"
+- name: "\U0001F1FA\U0001F1F3 UN 1878 VMS"
   type: vmess
   server: 104.21.227.15
   port: 80
@@ -20202,13 +20047,12 @@ proxies:
   alterId: 0
   tls: false
   skip-cert-verify: true
-  servername: ''
   network: ws
   ws-opts:
     path: /?ed=2048
     headers:
       host: a.prapt5.ir
-- name: "\U0001F1FA\U0001F1F3 UN 1889 VMS"
+- name: "\U0001F1FA\U0001F1F3 UN 1879 VMS"
   type: vmess
   server: 104.21.227.16
   port: 80
@@ -20217,13 +20061,12 @@ proxies:
   alterId: 0
   tls: false
   skip-cert-verify: true
-  servername: ''
   network: ws
   ws-opts:
     path: /?ed=2048
     headers:
       host: a.prapt5.ir
-- name: "\U0001F1FA\U0001F1F3 UN 1890 VMS"
+- name: "\U0001F1FA\U0001F1F3 UN 1880 VMS"
   type: vmess
   server: 104.21.227.17
   port: 80
@@ -20232,13 +20075,12 @@ proxies:
   alterId: 0
   tls: false
   skip-cert-verify: true
-  servername: ''
   network: ws
   ws-opts:
     path: /?ed=2048
     headers:
       host: a.prapt5.ir
-- name: "\U0001F1FA\U0001F1F3 UN 1891 VMS"
+- name: "\U0001F1FA\U0001F1F3 UN 1881 VMS"
   type: vmess
   server: 104.21.227.18
   port: 80
@@ -20247,13 +20089,12 @@ proxies:
   alterId: 0
   tls: false
   skip-cert-verify: true
-  servername: ''
   network: ws
   ws-opts:
     path: /?ed=2048
     headers:
       host: a.prapt5.ir
-- name: "\U0001F1FA\U0001F1F3 UN 1892 VMS"
+- name: "\U0001F1FA\U0001F1F3 UN 1882 VMS"
   type: vmess
   server: 104.21.227.19
   port: 80
@@ -20262,13 +20103,12 @@ proxies:
   alterId: 0
   tls: false
   skip-cert-verify: true
-  servername: ''
   network: ws
   ws-opts:
     path: /?ed=2048
     headers:
       host: a.prapt5.ir
-- name: "\U0001F1FA\U0001F1F3 UN 1893 VMS"
+- name: "\U0001F1FA\U0001F1F3 UN 1883 VMS"
   type: vmess
   server: 104.21.228.20
   port: 80
@@ -20277,13 +20117,12 @@ proxies:
   alterId: 0
   tls: false
   skip-cert-verify: true
-  servername: ''
   network: ws
   ws-opts:
     path: /?ed=2048
     headers:
       host: a.prapt5.ir
-- name: "\U0001F1FA\U0001F1F3 UN 1894 VMS"
+- name: "\U0001F1FA\U0001F1F3 UN 1884 VMS"
   type: vmess
   server: 104.21.228.21
   port: 80
@@ -20292,13 +20131,12 @@ proxies:
   alterId: 0
   tls: false
   skip-cert-verify: true
-  servername: ''
   network: ws
   ws-opts:
     path: /?ed=2048
     headers:
       host: a.prapt5.ir
-- name: "\U0001F1FA\U0001F1F3 UN 1895 VMS"
+- name: "\U0001F1FA\U0001F1F3 UN 1885 VMS"
   type: vmess
   server: 104.21.228.22
   port: 80
@@ -20307,13 +20145,12 @@ proxies:
   alterId: 0
   tls: false
   skip-cert-verify: true
-  servername: ''
   network: ws
   ws-opts:
     path: /?ed=2048
     headers:
       host: a.prapt5.ir
-- name: "\U0001F1FA\U0001F1F3 UN 1896 VMS"
+- name: "\U0001F1FA\U0001F1F3 UN 1886 VMS"
   type: vmess
   server: 104.21.228.23
   port: 80
@@ -20322,13 +20159,12 @@ proxies:
   alterId: 0
   tls: false
   skip-cert-verify: true
-  servername: ''
   network: ws
   ws-opts:
     path: /?ed=2048
     headers:
       host: a.prapt5.ir
-- name: "\U0001F1FA\U0001F1F3 UN 1897 VMS"
+- name: "\U0001F1FA\U0001F1F3 UN 1887 VMS"
   type: vmess
   server: 104.21.228.24
   port: 80
@@ -20337,13 +20173,12 @@ proxies:
   alterId: 0
   tls: false
   skip-cert-verify: true
-  servername: ''
   network: ws
   ws-opts:
     path: /?ed=2048
     headers:
       host: a.prapt5.ir
-- name: "\U0001F1FA\U0001F1F3 UN 1898 VMS"
+- name: "\U0001F1FA\U0001F1F3 UN 1888 VMS"
   type: vmess
   server: 104.21.229.25
   port: 80
@@ -20352,13 +20187,12 @@ proxies:
   alterId: 0
   tls: false
   skip-cert-verify: true
-  servername: ''
   network: ws
   ws-opts:
     path: /?ed=2048
     headers:
       host: a.prapt5.ir
-- name: "\U0001F1FA\U0001F1F3 UN 1899 VMS"
+- name: "\U0001F1FA\U0001F1F3 UN 1889 VMS"
   type: vmess
   server: 104.21.229.26
   port: 80
@@ -20367,13 +20201,12 @@ proxies:
   alterId: 0
   tls: false
   skip-cert-verify: true
-  servername: ''
   network: ws
   ws-opts:
     path: /?ed=2048
     headers:
       host: a.prapt5.ir
-- name: "\U0001F1FA\U0001F1F3 UN 1900 VMS"
+- name: "\U0001F1FA\U0001F1F3 UN 1890 VMS"
   type: vmess
   server: 104.21.229.27
   port: 80
@@ -20382,13 +20215,12 @@ proxies:
   alterId: 0
   tls: false
   skip-cert-verify: true
-  servername: ''
   network: ws
   ws-opts:
     path: /?ed=2048
     headers:
       host: a.prapt5.ir
-- name: "\U0001F1FA\U0001F1F3 UN 1901 VMS"
+- name: "\U0001F1FA\U0001F1F3 UN 1891 VMS"
   type: vmess
   server: 104.21.229.28
   port: 80
@@ -20397,13 +20229,12 @@ proxies:
   alterId: 0
   tls: false
   skip-cert-verify: true
-  servername: ''
   network: ws
   ws-opts:
     path: /?ed=2048
     headers:
       host: a.prapt5.ir
-- name: "\U0001F1FA\U0001F1F3 UN 1902 VMS"
+- name: "\U0001F1FA\U0001F1F3 UN 1892 VMS"
   type: vmess
   server: 104.21.229.29
   port: 80
@@ -20412,13 +20243,12 @@ proxies:
   alterId: 0
   tls: false
   skip-cert-verify: true
-  servername: ''
   network: ws
   ws-opts:
     path: /?ed=2048
     headers:
       host: a.prapt5.ir
-- name: "\U0001F1FA\U0001F1F3 UN 1903 VMS"
+- name: "\U0001F1FA\U0001F1F3 UN 1893 VMS"
   type: vmess
   server: 104.21.230.30
   port: 80
@@ -20427,13 +20257,12 @@ proxies:
   alterId: 0
   tls: false
   skip-cert-verify: true
-  servername: ''
   network: ws
   ws-opts:
     path: /?ed=2048
     headers:
       host: a.prapt5.ir
-- name: "\U0001F1FA\U0001F1F3 UN 1904 VMS"
+- name: "\U0001F1FA\U0001F1F3 UN 1894 VMS"
   type: vmess
   server: 104.21.230.31
   port: 80
@@ -20442,13 +20271,12 @@ proxies:
   alterId: 0
   tls: false
   skip-cert-verify: true
-  servername: ''
   network: ws
   ws-opts:
     path: /?ed=2048
     headers:
       host: a.prapt5.ir
-- name: "\U0001F1FA\U0001F1F3 UN 1905 VMS"
+- name: "\U0001F1FA\U0001F1F3 UN 1895 VMS"
   type: vmess
   server: 104.21.230.32
   port: 80
@@ -20457,13 +20285,12 @@ proxies:
   alterId: 0
   tls: false
   skip-cert-verify: true
-  servername: ''
   network: ws
   ws-opts:
     path: /?ed=2048
     headers:
       host: a.prapt5.ir
-- name: "\U0001F1FA\U0001F1F3 UN 1906 VMS"
+- name: "\U0001F1FA\U0001F1F3 UN 1896 VMS"
   type: vmess
   server: 104.21.230.33
   port: 80
@@ -20472,13 +20299,12 @@ proxies:
   alterId: 0
   tls: false
   skip-cert-verify: true
-  servername: ''
   network: ws
   ws-opts:
     path: /?ed=2048
     headers:
       host: a.prapt5.ir
-- name: "\U0001F1FA\U0001F1F3 UN 1907 VMS"
+- name: "\U0001F1FA\U0001F1F3 UN 1897 VMS"
   type: vmess
   server: 104.21.230.34
   port: 80
@@ -20487,13 +20313,12 @@ proxies:
   alterId: 0
   tls: false
   skip-cert-verify: true
-  servername: ''
   network: ws
   ws-opts:
     path: /?ed=2048
     headers:
       host: a.prapt5.ir
-- name: "\U0001F1FA\U0001F1F3 UN 1908 VMS"
+- name: "\U0001F1FA\U0001F1F3 UN 1898 VMS"
   type: vmess
   server: 104.21.231.35
   port: 80
@@ -20502,13 +20327,12 @@ proxies:
   alterId: 0
   tls: false
   skip-cert-verify: true
-  servername: ''
   network: ws
   ws-opts:
     path: /?ed=2048
     headers:
       host: a.prapt5.ir
-- name: "\U0001F1FA\U0001F1F3 UN 1909 VMS"
+- name: "\U0001F1FA\U0001F1F3 UN 1899 VMS"
   type: vmess
   server: 104.21.231.36
   port: 80
@@ -20517,13 +20341,12 @@ proxies:
   alterId: 0
   tls: false
   skip-cert-verify: true
-  servername: ''
   network: ws
   ws-opts:
     path: /?ed=2048
     headers:
       host: a.prapt5.ir
-- name: "\U0001F1FA\U0001F1F3 UN 1910 VMS"
+- name: "\U0001F1FA\U0001F1F3 UN 1900 VMS"
   type: vmess
   server: 104.21.231.37
   port: 80
@@ -20532,13 +20355,12 @@ proxies:
   alterId: 0
   tls: false
   skip-cert-verify: true
-  servername: ''
   network: ws
   ws-opts:
     path: /?ed=2048
     headers:
       host: a.prapt5.ir
-- name: "\U0001F1FA\U0001F1F3 UN 1911 VMS"
+- name: "\U0001F1FA\U0001F1F3 UN 1901 VMS"
   type: vmess
   server: 104.21.231.38
   port: 80
@@ -20547,13 +20369,12 @@ proxies:
   alterId: 0
   tls: false
   skip-cert-verify: true
-  servername: ''
   network: ws
   ws-opts:
     path: /?ed=2048
     headers:
       host: a.prapt5.ir
-- name: "\U0001F1FA\U0001F1F3 UN 1912 VMS"
+- name: "\U0001F1FA\U0001F1F3 UN 1902 VMS"
   type: vmess
   server: 104.21.231.39
   port: 80
@@ -20562,13 +20383,12 @@ proxies:
   alterId: 0
   tls: false
   skip-cert-verify: true
-  servername: ''
   network: ws
   ws-opts:
     path: /?ed=2048
     headers:
       host: a.prapt5.ir
-- name: "\U0001F1FA\U0001F1F3 UN 1913 VMS"
+- name: "\U0001F1FA\U0001F1F3 UN 1903 VMS"
   type: vmess
   server: 104.21.232.40
   port: 80
@@ -20577,13 +20397,12 @@ proxies:
   alterId: 0
   tls: false
   skip-cert-verify: true
-  servername: ''
   network: ws
   ws-opts:
     path: /?ed=2048
     headers:
       host: a.prapt5.ir
-- name: "\U0001F1FA\U0001F1F3 UN 1914 VMS"
+- name: "\U0001F1FA\U0001F1F3 UN 1904 VMS"
   type: vmess
   server: 104.21.232.41
   port: 80
@@ -20592,13 +20411,12 @@ proxies:
   alterId: 0
   tls: false
   skip-cert-verify: true
-  servername: ''
   network: ws
   ws-opts:
     path: /?ed=2048
     headers:
       host: a.prapt5.ir
-- name: "\U0001F1FA\U0001F1F3 UN 1915 VMS"
+- name: "\U0001F1FA\U0001F1F3 UN 1905 VMS"
   type: vmess
   server: 104.21.232.42
   port: 80
@@ -20607,13 +20425,12 @@ proxies:
   alterId: 0
   tls: false
   skip-cert-verify: true
-  servername: ''
   network: ws
   ws-opts:
     path: /?ed=2048
     headers:
       host: a.prapt5.ir
-- name: "\U0001F1FA\U0001F1F3 UN 1916 VMS"
+- name: "\U0001F1FA\U0001F1F3 UN 1906 VMS"
   type: vmess
   server: 104.21.232.43
   port: 80
@@ -20622,13 +20439,12 @@ proxies:
   alterId: 0
   tls: false
   skip-cert-verify: true
-  servername: ''
   network: ws
   ws-opts:
     path: /?ed=2048
     headers:
       host: a.prapt5.ir
-- name: "\U0001F1FA\U0001F1F3 UN 1917 VMS"
+- name: "\U0001F1FA\U0001F1F3 UN 1907 VMS"
   type: vmess
   server: 104.21.232.44
   port: 80
@@ -20637,13 +20453,12 @@ proxies:
   alterId: 0
   tls: false
   skip-cert-verify: true
-  servername: ''
   network: ws
   ws-opts:
     path: /?ed=2048
     headers:
       host: a.prapt5.ir
-- name: "\U0001F1FA\U0001F1F3 UN 1918 VMS"
+- name: "\U0001F1FA\U0001F1F3 UN 1908 VMS"
   type: vmess
   server: 104.21.233.45
   port: 80
@@ -20652,13 +20467,12 @@ proxies:
   alterId: 0
   tls: false
   skip-cert-verify: true
-  servername: ''
   network: ws
   ws-opts:
     path: /?ed=2048
     headers:
       host: a.prapt5.ir
-- name: "\U0001F1FA\U0001F1F3 UN 1919 VMS"
+- name: "\U0001F1FA\U0001F1F3 UN 1909 VMS"
   type: vmess
   server: 104.21.233.46
   port: 80
@@ -20667,13 +20481,12 @@ proxies:
   alterId: 0
   tls: false
   skip-cert-verify: true
-  servername: ''
   network: ws
   ws-opts:
     path: /?ed=2048
     headers:
       host: a.prapt5.ir
-- name: "\U0001F1FA\U0001F1F3 UN 1920 VMS"
+- name: "\U0001F1FA\U0001F1F3 UN 1910 VMS"
   type: vmess
   server: 104.21.233.47
   port: 80
@@ -20682,13 +20495,12 @@ proxies:
   alterId: 0
   tls: false
   skip-cert-verify: true
-  servername: ''
   network: ws
   ws-opts:
     path: /?ed=2048
     headers:
       host: a.prapt5.ir
-- name: "\U0001F1FA\U0001F1F3 UN 1921 VMS"
+- name: "\U0001F1FA\U0001F1F3 UN 1911 VMS"
   type: vmess
   server: 104.21.233.48
   port: 80
@@ -20697,13 +20509,12 @@ proxies:
   alterId: 0
   tls: false
   skip-cert-verify: true
-  servername: ''
   network: ws
   ws-opts:
     path: /?ed=2048
     headers:
       host: a.prapt5.ir
-- name: "\U0001F1FA\U0001F1F3 UN 1922 VMS"
+- name: "\U0001F1FA\U0001F1F3 UN 1912 VMS"
   type: vmess
   server: 104.21.233.49
   port: 80
@@ -20712,13 +20523,12 @@ proxies:
   alterId: 0
   tls: false
   skip-cert-verify: true
-  servername: ''
   network: ws
   ws-opts:
     path: /?ed=2048
     headers:
       host: a.prapt5.ir
-- name: "\U0001F1FA\U0001F1F3 UN 1923 VMS"
+- name: "\U0001F1FA\U0001F1F3 UN 1913 VMS"
   type: vmess
   server: 104.21.234.50
   port: 80
@@ -20727,13 +20537,12 @@ proxies:
   alterId: 0
   tls: false
   skip-cert-verify: true
-  servername: ''
   network: ws
   ws-opts:
     path: /?ed=2048
     headers:
       host: a.prapt5.ir
-- name: "\U0001F1FA\U0001F1F3 UN 1924 VMS"
+- name: "\U0001F1FA\U0001F1F3 UN 1914 VMS"
   type: vmess
   server: 104.21.234.51
   port: 80
@@ -20742,13 +20551,12 @@ proxies:
   alterId: 0
   tls: false
   skip-cert-verify: true
-  servername: ''
   network: ws
   ws-opts:
     path: /?ed=2048
     headers:
       host: a.prapt5.ir
-- name: "\U0001F1FA\U0001F1F3 UN 1925 VMS"
+- name: "\U0001F1FA\U0001F1F3 UN 1915 VMS"
   type: vmess
   server: 104.21.234.52
   port: 80
@@ -20757,13 +20565,12 @@ proxies:
   alterId: 0
   tls: false
   skip-cert-verify: true
-  servername: ''
   network: ws
   ws-opts:
     path: /?ed=2048
     headers:
       host: a.prapt5.ir
-- name: "\U0001F1FA\U0001F1F3 UN 1926 VMS"
+- name: "\U0001F1FA\U0001F1F3 UN 1916 VMS"
   type: vmess
   server: 104.21.234.53
   port: 80
@@ -20772,13 +20579,12 @@ proxies:
   alterId: 0
   tls: false
   skip-cert-verify: true
-  servername: ''
   network: ws
   ws-opts:
     path: /?ed=2048
     headers:
       host: a.prapt5.ir
-- name: "\U0001F1FA\U0001F1F3 UN 1927 VMS"
+- name: "\U0001F1FA\U0001F1F3 UN 1917 VMS"
   type: vmess
   server: 104.21.234.54
   port: 80
@@ -20787,13 +20593,12 @@ proxies:
   alterId: 0
   tls: false
   skip-cert-verify: true
-  servername: ''
   network: ws
   ws-opts:
     path: /?ed=2048
     headers:
       host: a.prapt5.ir
-- name: "\U0001F1FA\U0001F1F3 UN 1928 VMS"
+- name: "\U0001F1FA\U0001F1F3 UN 1918 VMS"
   type: vmess
   server: 104.21.235.55
   port: 80
@@ -20802,13 +20607,12 @@ proxies:
   alterId: 0
   tls: false
   skip-cert-verify: true
-  servername: ''
   network: ws
   ws-opts:
     path: /?ed=2048
     headers:
       host: a.prapt5.ir
-- name: "\U0001F1FA\U0001F1F3 UN 1929 VMS"
+- name: "\U0001F1FA\U0001F1F3 UN 1919 VMS"
   type: vmess
   server: 104.21.235.56
   port: 80
@@ -20817,13 +20621,12 @@ proxies:
   alterId: 0
   tls: false
   skip-cert-verify: true
-  servername: ''
   network: ws
   ws-opts:
     path: /?ed=2048
     headers:
       host: a.prapt5.ir
-- name: "\U0001F1FA\U0001F1F3 UN 1930 VMS"
+- name: "\U0001F1FA\U0001F1F3 UN 1920 VMS"
   type: vmess
   server: 104.21.235.57
   port: 80
@@ -20832,13 +20635,12 @@ proxies:
   alterId: 0
   tls: false
   skip-cert-verify: true
-  servername: ''
   network: ws
   ws-opts:
     path: /?ed=2048
     headers:
       host: a.prapt5.ir
-- name: "\U0001F1FA\U0001F1F3 UN 1931 VMS"
+- name: "\U0001F1FA\U0001F1F3 UN 1921 VMS"
   type: vmess
   server: 104.21.235.58
   port: 80
@@ -20847,13 +20649,12 @@ proxies:
   alterId: 0
   tls: false
   skip-cert-verify: true
-  servername: ''
   network: ws
   ws-opts:
     path: /?ed=2048
     headers:
       host: a.prapt5.ir
-- name: "\U0001F1FA\U0001F1F3 UN 1932 VMS"
+- name: "\U0001F1FA\U0001F1F3 UN 1922 VMS"
   type: vmess
   server: 104.21.235.59
   port: 80
@@ -20862,13 +20663,12 @@ proxies:
   alterId: 0
   tls: false
   skip-cert-verify: true
-  servername: ''
   network: ws
   ws-opts:
     path: /?ed=2048
     headers:
       host: a.prapt5.ir
-- name: "\U0001F1FA\U0001F1F3 UN 1933 VMS"
+- name: "\U0001F1FA\U0001F1F3 UN 1923 VMS"
   type: vmess
   server: 104.21.236.60
   port: 80
@@ -20877,13 +20677,12 @@ proxies:
   alterId: 0
   tls: false
   skip-cert-verify: true
-  servername: ''
   network: ws
   ws-opts:
     path: /?ed=2048
     headers:
       host: a.prapt5.ir
-- name: "\U0001F1FA\U0001F1F3 UN 1934 VMS"
+- name: "\U0001F1FA\U0001F1F3 UN 1924 VMS"
   type: vmess
   server: 104.21.236.61
   port: 80
@@ -20892,13 +20691,12 @@ proxies:
   alterId: 0
   tls: false
   skip-cert-verify: true
-  servername: ''
   network: ws
   ws-opts:
     path: /?ed=2048
     headers:
       host: a.prapt5.ir
-- name: "\U0001F1FA\U0001F1F3 UN 1935 VMS"
+- name: "\U0001F1FA\U0001F1F3 UN 1925 VMS"
   type: vmess
   server: 104.21.236.62
   port: 80
@@ -20907,13 +20705,12 @@ proxies:
   alterId: 0
   tls: false
   skip-cert-verify: true
-  servername: ''
   network: ws
   ws-opts:
     path: /?ed=2048
     headers:
       host: a.prapt5.ir
-- name: "\U0001F1FA\U0001F1F3 UN 1936 VMS"
+- name: "\U0001F1FA\U0001F1F3 UN 1926 VMS"
   type: vmess
   server: 104.21.236.63
   port: 80
@@ -20922,13 +20719,12 @@ proxies:
   alterId: 0
   tls: false
   skip-cert-verify: true
-  servername: ''
   network: ws
   ws-opts:
     path: /?ed=2048
     headers:
       host: a.prapt5.ir
-- name: "\U0001F1FA\U0001F1F3 UN 1937 VMS"
+- name: "\U0001F1FA\U0001F1F3 UN 1927 VMS"
   type: vmess
   server: 104.21.236.64
   port: 80
@@ -20937,13 +20733,12 @@ proxies:
   alterId: 0
   tls: false
   skip-cert-verify: true
-  servername: ''
   network: ws
   ws-opts:
     path: /?ed=2048
     headers:
       host: a.prapt5.ir
-- name: "\U0001F1FA\U0001F1F3 UN 1938 VMS"
+- name: "\U0001F1FA\U0001F1F3 UN 1928 VMS"
   type: vmess
   server: 104.21.237.65
   port: 80
@@ -20952,13 +20747,12 @@ proxies:
   alterId: 0
   tls: false
   skip-cert-verify: true
-  servername: ''
   network: ws
   ws-opts:
     path: /?ed=2048
     headers:
       host: a.prapt5.ir
-- name: "\U0001F1FA\U0001F1F3 UN 1939 VMS"
+- name: "\U0001F1FA\U0001F1F3 UN 1929 VMS"
   type: vmess
   server: 104.21.237.66
   port: 80
@@ -20967,13 +20761,12 @@ proxies:
   alterId: 0
   tls: false
   skip-cert-verify: true
-  servername: ''
   network: ws
   ws-opts:
     path: /?ed=2048
     headers:
       host: a.prapt5.ir
-- name: "\U0001F1FA\U0001F1F3 UN 1940 VMS"
+- name: "\U0001F1FA\U0001F1F3 UN 1930 VMS"
   type: vmess
   server: 104.21.237.67
   port: 80
@@ -20982,13 +20775,12 @@ proxies:
   alterId: 0
   tls: false
   skip-cert-verify: true
-  servername: ''
   network: ws
   ws-opts:
     path: /?ed=2048
     headers:
       host: a.prapt5.ir
-- name: "\U0001F1FA\U0001F1F3 UN 1941 VMS"
+- name: "\U0001F1FA\U0001F1F3 UN 1931 VMS"
   type: vmess
   server: 104.21.237.68
   port: 80
@@ -20997,13 +20789,12 @@ proxies:
   alterId: 0
   tls: false
   skip-cert-verify: true
-  servername: ''
   network: ws
   ws-opts:
     path: /?ed=2048
     headers:
       host: a.prapt5.ir
-- name: "\U0001F1FA\U0001F1F3 UN 1942 VMS"
+- name: "\U0001F1FA\U0001F1F3 UN 1932 VMS"
   type: vmess
   server: 104.21.237.69
   port: 80
@@ -21012,13 +20803,12 @@ proxies:
   alterId: 0
   tls: false
   skip-cert-verify: true
-  servername: ''
   network: ws
   ws-opts:
     path: /?ed=2048
     headers:
       host: a.prapt5.ir
-- name: "\U0001F1FA\U0001F1F3 UN 1943 VMS"
+- name: "\U0001F1FA\U0001F1F3 UN 1933 VMS"
   type: vmess
   server: 104.21.238.70
   port: 80
@@ -21027,13 +20817,12 @@ proxies:
   alterId: 0
   tls: false
   skip-cert-verify: true
-  servername: ''
   network: ws
   ws-opts:
     path: /?ed=2048
     headers:
       host: a.prapt5.ir
-- name: "\U0001F1FA\U0001F1F3 UN 1944 VMS"
+- name: "\U0001F1FA\U0001F1F3 UN 1934 VMS"
   type: vmess
   server: 104.21.238.71
   port: 80
@@ -21042,13 +20831,12 @@ proxies:
   alterId: 0
   tls: false
   skip-cert-verify: true
-  servername: ''
   network: ws
   ws-opts:
     path: /?ed=2048
     headers:
       host: a.prapt5.ir
-- name: "\U0001F1FA\U0001F1F3 UN 1945 VMS"
+- name: "\U0001F1FA\U0001F1F3 UN 1935 VMS"
   type: vmess
   server: 104.21.238.72
   port: 80
@@ -21057,13 +20845,12 @@ proxies:
   alterId: 0
   tls: false
   skip-cert-verify: true
-  servername: ''
   network: ws
   ws-opts:
     path: /?ed=2048
     headers:
       host: a.prapt5.ir
-- name: "\U0001F1FA\U0001F1F3 UN 1946 VMS"
+- name: "\U0001F1FA\U0001F1F3 UN 1936 VMS"
   type: vmess
   server: 104.21.238.73
   port: 80
@@ -21072,13 +20859,12 @@ proxies:
   alterId: 0
   tls: false
   skip-cert-verify: true
-  servername: ''
   network: ws
   ws-opts:
     path: /?ed=2048
     headers:
       host: a.prapt5.ir
-- name: "\U0001F1FA\U0001F1F3 UN 1947 VMS"
+- name: "\U0001F1FA\U0001F1F3 UN 1937 VMS"
   type: vmess
   server: 104.21.238.74
   port: 80
@@ -21087,13 +20873,12 @@ proxies:
   alterId: 0
   tls: false
   skip-cert-verify: true
-  servername: ''
   network: ws
   ws-opts:
     path: /?ed=2048
     headers:
       host: a.prapt5.ir
-- name: "\U0001F1FA\U0001F1F3 UN 1948 VMS"
+- name: "\U0001F1FA\U0001F1F3 UN 1938 VMS"
   type: vmess
   server: 104.21.239.75
   port: 80
@@ -21102,13 +20887,12 @@ proxies:
   alterId: 0
   tls: false
   skip-cert-verify: true
-  servername: ''
   network: ws
   ws-opts:
     path: /?ed=2048
     headers:
       host: a.prapt5.ir
-- name: "\U0001F1FA\U0001F1F3 UN 1949 VMS"
+- name: "\U0001F1FA\U0001F1F3 UN 1939 VMS"
   type: vmess
   server: 104.21.239.76
   port: 80
@@ -21117,13 +20901,12 @@ proxies:
   alterId: 0
   tls: false
   skip-cert-verify: true
-  servername: ''
   network: ws
   ws-opts:
     path: /?ed=2048
     headers:
       host: a.prapt5.ir
-- name: "\U0001F1FA\U0001F1F3 UN 1950 VMS"
+- name: "\U0001F1FA\U0001F1F3 UN 1940 VMS"
   type: vmess
   server: 104.21.239.77
   port: 80
@@ -21132,13 +20915,12 @@ proxies:
   alterId: 0
   tls: false
   skip-cert-verify: true
-  servername: ''
   network: ws
   ws-opts:
     path: /?ed=2048
     headers:
       host: a.prapt5.ir
-- name: "\U0001F1FA\U0001F1F3 UN 1951 VMS"
+- name: "\U0001F1FA\U0001F1F3 UN 1941 VMS"
   type: vmess
   server: 104.21.239.78
   port: 80
@@ -21147,13 +20929,12 @@ proxies:
   alterId: 0
   tls: false
   skip-cert-verify: true
-  servername: ''
   network: ws
   ws-opts:
     path: /?ed=2048
     headers:
       host: a.prapt5.ir
-- name: "\U0001F1FA\U0001F1F3 UN 1952 VMS"
+- name: "\U0001F1FA\U0001F1F3 UN 1942 VMS"
   type: vmess
   server: 104.21.239.79
   port: 80
@@ -21162,13 +20943,12 @@ proxies:
   alterId: 0
   tls: false
   skip-cert-verify: true
-  servername: ''
   network: ws
   ws-opts:
     path: /?ed=2048
     headers:
       host: a.prapt5.ir
-- name: "\U0001F1FA\U0001F1F3 UN 1953 VMS"
+- name: "\U0001F1FA\U0001F1F3 UN 1943 VMS"
   type: vmess
   server: 104.21.224.20
   port: 80
@@ -21177,13 +20957,12 @@ proxies:
   alterId: 0
   tls: false
   skip-cert-verify: true
-  servername: ''
   network: ws
   ws-opts:
     path: /?ed=2048
     headers:
       host: a.prapt5.ir
-- name: "\U0001F1FA\U0001F1F3 UN 1954 VMS"
+- name: "\U0001F1FA\U0001F1F3 UN 1944 VMS"
   type: vmess
   server: 104.21.224.21
   port: 80
@@ -21192,13 +20971,12 @@ proxies:
   alterId: 0
   tls: false
   skip-cert-verify: true
-  servername: ''
   network: ws
   ws-opts:
     path: /?ed=2048
     headers:
       host: a.prapt5.ir
-- name: "\U0001F1FA\U0001F1F3 UN 1955 VMS"
+- name: "\U0001F1FA\U0001F1F3 UN 1945 VMS"
   type: vmess
   server: 104.21.224.22
   port: 80
@@ -21207,13 +20985,12 @@ proxies:
   alterId: 0
   tls: false
   skip-cert-verify: true
-  servername: ''
   network: ws
   ws-opts:
     path: /?ed=2048
     headers:
       host: a.prapt5.ir
-- name: "\U0001F1FA\U0001F1F3 UN 1956 VMS"
+- name: "\U0001F1FA\U0001F1F3 UN 1946 VMS"
   type: vmess
   server: 104.21.224.23
   port: 80
@@ -21222,13 +20999,12 @@ proxies:
   alterId: 0
   tls: false
   skip-cert-verify: true
-  servername: ''
   network: ws
   ws-opts:
     path: /?ed=2048
     headers:
       host: a.prapt5.ir
-- name: "\U0001F1FA\U0001F1F3 UN 1957 VMS"
+- name: "\U0001F1FA\U0001F1F3 UN 1947 VMS"
   type: vmess
   server: 104.21.224.24
   port: 80
@@ -21237,13 +21013,12 @@ proxies:
   alterId: 0
   tls: false
   skip-cert-verify: true
-  servername: ''
   network: ws
   ws-opts:
     path: /?ed=2048
     headers:
       host: a.prapt5.ir
-- name: "\U0001F1FA\U0001F1F3 UN 1958 VMS"
+- name: "\U0001F1FA\U0001F1F3 UN 1948 VMS"
   type: vmess
   server: 104.21.225.25
   port: 80
@@ -21252,13 +21027,12 @@ proxies:
   alterId: 0
   tls: false
   skip-cert-verify: true
-  servername: ''
   network: ws
   ws-opts:
     path: /?ed=2048
     headers:
       host: a.prapt5.ir
-- name: "\U0001F1FA\U0001F1F3 UN 1959 VMS"
+- name: "\U0001F1FA\U0001F1F3 UN 1949 VMS"
   type: vmess
   server: 104.21.225.26
   port: 80
@@ -21267,13 +21041,12 @@ proxies:
   alterId: 0
   tls: false
   skip-cert-verify: true
-  servername: ''
   network: ws
   ws-opts:
     path: /?ed=2048
     headers:
       host: a.prapt5.ir
-- name: "\U0001F1FA\U0001F1F3 UN 1960 VMS"
+- name: "\U0001F1FA\U0001F1F3 UN 1950 VMS"
   type: vmess
   server: 104.21.225.27
   port: 80
@@ -21282,13 +21055,12 @@ proxies:
   alterId: 0
   tls: false
   skip-cert-verify: true
-  servername: ''
   network: ws
   ws-opts:
     path: /?ed=2048
     headers:
       host: a.prapt5.ir
-- name: "\U0001F1FA\U0001F1F3 UN 1961 VMS"
+- name: "\U0001F1FA\U0001F1F3 UN 1951 VMS"
   type: vmess
   server: 104.21.225.28
   port: 80
@@ -21297,13 +21069,12 @@ proxies:
   alterId: 0
   tls: false
   skip-cert-verify: true
-  servername: ''
   network: ws
   ws-opts:
     path: /?ed=2048
     headers:
       host: a.prapt5.ir
-- name: "\U0001F1FA\U0001F1F3 UN 1962 VMS"
+- name: "\U0001F1FA\U0001F1F3 UN 1952 VMS"
   type: vmess
   server: 104.21.225.29
   port: 80
@@ -21312,13 +21083,12 @@ proxies:
   alterId: 0
   tls: false
   skip-cert-verify: true
-  servername: ''
   network: ws
   ws-opts:
     path: /?ed=2048
     headers:
       host: a.prapt5.ir
-- name: "\U0001F1FA\U0001F1F3 UN 1963 VMS"
+- name: "\U0001F1FA\U0001F1F3 UN 1953 VMS"
   type: vmess
   server: 104.21.226.30
   port: 80
@@ -21327,13 +21097,12 @@ proxies:
   alterId: 0
   tls: false
   skip-cert-verify: true
-  servername: ''
   network: ws
   ws-opts:
     path: /?ed=2048
     headers:
       host: a.prapt5.ir
-- name: "\U0001F1FA\U0001F1F3 UN 1964 VMS"
+- name: "\U0001F1FA\U0001F1F3 UN 1954 VMS"
   type: vmess
   server: 104.21.226.31
   port: 80
@@ -21342,13 +21111,12 @@ proxies:
   alterId: 0
   tls: false
   skip-cert-verify: true
-  servername: ''
   network: ws
   ws-opts:
     path: /?ed=2048
     headers:
       host: a.prapt5.ir
-- name: "\U0001F1FA\U0001F1F3 UN 1965 VMS"
+- name: "\U0001F1FA\U0001F1F3 UN 1955 VMS"
   type: vmess
   server: 104.21.226.32
   port: 80
@@ -21357,13 +21125,12 @@ proxies:
   alterId: 0
   tls: false
   skip-cert-verify: true
-  servername: ''
   network: ws
   ws-opts:
     path: /?ed=2048
     headers:
       host: a.prapt5.ir
-- name: "\U0001F1FA\U0001F1F3 UN 1966 VMS"
+- name: "\U0001F1FA\U0001F1F3 UN 1956 VMS"
   type: vmess
   server: 104.21.226.33
   port: 80
@@ -21372,13 +21139,12 @@ proxies:
   alterId: 0
   tls: false
   skip-cert-verify: true
-  servername: ''
   network: ws
   ws-opts:
     path: /?ed=2048
     headers:
       host: a.prapt5.ir
-- name: "\U0001F1FA\U0001F1F3 UN 1967 VMS"
+- name: "\U0001F1FA\U0001F1F3 UN 1957 VMS"
   type: vmess
   server: 104.21.226.34
   port: 80
@@ -21387,13 +21153,12 @@ proxies:
   alterId: 0
   tls: false
   skip-cert-verify: true
-  servername: ''
   network: ws
   ws-opts:
     path: /?ed=2048
     headers:
       host: a.prapt5.ir
-- name: "\U0001F1FA\U0001F1F3 UN 1968 VMS"
+- name: "\U0001F1FA\U0001F1F3 UN 1958 VMS"
   type: vmess
   server: 104.21.227.35
   port: 80
@@ -21402,13 +21167,12 @@ proxies:
   alterId: 0
   tls: false
   skip-cert-verify: true
-  servername: ''
   network: ws
   ws-opts:
     path: /?ed=2048
     headers:
       host: a.prapt5.ir
-- name: "\U0001F1FA\U0001F1F3 UN 1969 VMS"
+- name: "\U0001F1FA\U0001F1F3 UN 1959 VMS"
   type: vmess
   server: 104.21.227.36
   port: 80
@@ -21417,13 +21181,12 @@ proxies:
   alterId: 0
   tls: false
   skip-cert-verify: true
-  servername: ''
   network: ws
   ws-opts:
     path: /?ed=2048
     headers:
       host: a.prapt5.ir
-- name: "\U0001F1FA\U0001F1F3 UN 1970 VMS"
+- name: "\U0001F1FA\U0001F1F3 UN 1960 VMS"
   type: vmess
   server: 104.21.227.37
   port: 80
@@ -21432,13 +21195,12 @@ proxies:
   alterId: 0
   tls: false
   skip-cert-verify: true
-  servername: ''
   network: ws
   ws-opts:
     path: /?ed=2048
     headers:
       host: a.prapt5.ir
-- name: "\U0001F1FA\U0001F1F3 UN 1971 VMS"
+- name: "\U0001F1FA\U0001F1F3 UN 1961 VMS"
   type: vmess
   server: 104.21.227.38
   port: 80
@@ -21447,13 +21209,12 @@ proxies:
   alterId: 0
   tls: false
   skip-cert-verify: true
-  servername: ''
   network: ws
   ws-opts:
     path: /?ed=2048
     headers:
       host: a.prapt5.ir
-- name: "\U0001F1FA\U0001F1F3 UN 1972 VMS"
+- name: "\U0001F1FA\U0001F1F3 UN 1962 VMS"
   type: vmess
   server: 104.21.227.39
   port: 80
@@ -21462,13 +21223,12 @@ proxies:
   alterId: 0
   tls: false
   skip-cert-verify: true
-  servername: ''
   network: ws
   ws-opts:
     path: /?ed=2048
     headers:
       host: a.prapt5.ir
-- name: "\U0001F1FA\U0001F1F3 UN 1973 VMS"
+- name: "\U0001F1FA\U0001F1F3 UN 1963 VMS"
   type: vmess
   server: 104.21.228.40
   port: 80
@@ -21477,13 +21237,12 @@ proxies:
   alterId: 0
   tls: false
   skip-cert-verify: true
-  servername: ''
   network: ws
   ws-opts:
     path: /?ed=2048
     headers:
       host: a.prapt5.ir
-- name: "\U0001F1FA\U0001F1F3 UN 1974 VMS"
+- name: "\U0001F1FA\U0001F1F3 UN 1964 VMS"
   type: vmess
   server: 104.21.228.41
   port: 80
@@ -21492,13 +21251,12 @@ proxies:
   alterId: 0
   tls: false
   skip-cert-verify: true
-  servername: ''
   network: ws
   ws-opts:
     path: /?ed=2048
     headers:
       host: a.prapt5.ir
-- name: "\U0001F1FA\U0001F1F3 UN 1975 VMS"
+- name: "\U0001F1FA\U0001F1F3 UN 1965 VMS"
   type: vmess
   server: 104.21.228.42
   port: 80
@@ -21507,13 +21265,12 @@ proxies:
   alterId: 0
   tls: false
   skip-cert-verify: true
-  servername: ''
   network: ws
   ws-opts:
     path: /?ed=2048
     headers:
       host: a.prapt5.ir
-- name: "\U0001F1FA\U0001F1F3 UN 1976 VMS"
+- name: "\U0001F1FA\U0001F1F3 UN 1966 VMS"
   type: vmess
   server: 104.21.228.43
   port: 80
@@ -21522,13 +21279,12 @@ proxies:
   alterId: 0
   tls: false
   skip-cert-verify: true
-  servername: ''
   network: ws
   ws-opts:
     path: /?ed=2048
     headers:
       host: a.prapt5.ir
-- name: "\U0001F1FA\U0001F1F3 UN 1977 VMS"
+- name: "\U0001F1FA\U0001F1F3 UN 1967 VMS"
   type: vmess
   server: 104.21.228.44
   port: 80
@@ -21537,13 +21293,12 @@ proxies:
   alterId: 0
   tls: false
   skip-cert-verify: true
-  servername: ''
   network: ws
   ws-opts:
     path: /?ed=2048
     headers:
       host: a.prapt5.ir
-- name: "\U0001F1FA\U0001F1F3 UN 1978 VMS"
+- name: "\U0001F1FA\U0001F1F3 UN 1968 VMS"
   type: vmess
   server: 104.21.229.45
   port: 80
@@ -21552,13 +21307,12 @@ proxies:
   alterId: 0
   tls: false
   skip-cert-verify: true
-  servername: ''
   network: ws
   ws-opts:
     path: /?ed=2048
     headers:
       host: a.prapt5.ir
-- name: "\U0001F1FA\U0001F1F3 UN 1979 VMS"
+- name: "\U0001F1FA\U0001F1F3 UN 1969 VMS"
   type: vmess
   server: 104.21.229.46
   port: 80
@@ -21567,13 +21321,12 @@ proxies:
   alterId: 0
   tls: false
   skip-cert-verify: true
-  servername: ''
   network: ws
   ws-opts:
     path: /?ed=2048
     headers:
       host: a.prapt5.ir
-- name: "\U0001F1FA\U0001F1F3 UN 1980 VMS"
+- name: "\U0001F1FA\U0001F1F3 UN 1970 VMS"
   type: vmess
   server: 104.21.229.47
   port: 80
@@ -21582,13 +21335,12 @@ proxies:
   alterId: 0
   tls: false
   skip-cert-verify: true
-  servername: ''
   network: ws
   ws-opts:
     path: /?ed=2048
     headers:
       host: a.prapt5.ir
-- name: "\U0001F1FA\U0001F1F3 UN 1981 VMS"
+- name: "\U0001F1FA\U0001F1F3 UN 1971 VMS"
   type: vmess
   server: 104.21.229.48
   port: 80
@@ -21597,13 +21349,12 @@ proxies:
   alterId: 0
   tls: false
   skip-cert-verify: true
-  servername: ''
   network: ws
   ws-opts:
     path: /?ed=2048
     headers:
       host: a.prapt5.ir
-- name: "\U0001F1FA\U0001F1F3 UN 1982 VMS"
+- name: "\U0001F1FA\U0001F1F3 UN 1972 VMS"
   type: vmess
   server: 104.21.229.49
   port: 80
@@ -21612,13 +21363,12 @@ proxies:
   alterId: 0
   tls: false
   skip-cert-verify: true
-  servername: ''
   network: ws
   ws-opts:
     path: /?ed=2048
     headers:
       host: a.prapt5.ir
-- name: "\U0001F1FA\U0001F1F3 UN 1983 VMS"
+- name: "\U0001F1FA\U0001F1F3 UN 1973 VMS"
   type: vmess
   server: 104.21.230.50
   port: 80
@@ -21627,13 +21377,12 @@ proxies:
   alterId: 0
   tls: false
   skip-cert-verify: true
-  servername: ''
   network: ws
   ws-opts:
     path: /?ed=2048
     headers:
       host: a.prapt5.ir
-- name: "\U0001F1FA\U0001F1F3 UN 1984 VMS"
+- name: "\U0001F1FA\U0001F1F3 UN 1974 VMS"
   type: vmess
   server: 104.21.230.51
   port: 80
@@ -21642,13 +21391,12 @@ proxies:
   alterId: 0
   tls: false
   skip-cert-verify: true
-  servername: ''
   network: ws
   ws-opts:
     path: /?ed=2048
     headers:
       host: a.prapt5.ir
-- name: "\U0001F1FA\U0001F1F3 UN 1985 VMS"
+- name: "\U0001F1FA\U0001F1F3 UN 1975 VMS"
   type: vmess
   server: 104.21.230.52
   port: 80
@@ -21657,13 +21405,12 @@ proxies:
   alterId: 0
   tls: false
   skip-cert-verify: true
-  servername: ''
   network: ws
   ws-opts:
     path: /?ed=2048
     headers:
       host: a.prapt5.ir
-- name: "\U0001F1FA\U0001F1F3 UN 1986 VMS"
+- name: "\U0001F1FA\U0001F1F3 UN 1976 VMS"
   type: vmess
   server: 104.21.230.53
   port: 80
@@ -21672,13 +21419,12 @@ proxies:
   alterId: 0
   tls: false
   skip-cert-verify: true
-  servername: ''
   network: ws
   ws-opts:
     path: /?ed=2048
     headers:
       host: a.prapt5.ir
-- name: "\U0001F1FA\U0001F1F3 UN 1987 VMS"
+- name: "\U0001F1FA\U0001F1F3 UN 1977 VMS"
   type: vmess
   server: 104.21.230.54
   port: 80
@@ -21687,13 +21433,12 @@ proxies:
   alterId: 0
   tls: false
   skip-cert-verify: true
-  servername: ''
   network: ws
   ws-opts:
     path: /?ed=2048
     headers:
       host: a.prapt5.ir
-- name: "\U0001F1FA\U0001F1F3 UN 1988 VMS"
+- name: "\U0001F1FA\U0001F1F3 UN 1978 VMS"
   type: vmess
   server: 104.21.231.55
   port: 80
@@ -21702,13 +21447,12 @@ proxies:
   alterId: 0
   tls: false
   skip-cert-verify: true
-  servername: ''
   network: ws
   ws-opts:
     path: /?ed=2048
     headers:
       host: a.prapt5.ir
-- name: "\U0001F1FA\U0001F1F3 UN 1989 VMS"
+- name: "\U0001F1FA\U0001F1F3 UN 1979 VMS"
   type: vmess
   server: 104.21.231.56
   port: 80
@@ -21717,13 +21461,12 @@ proxies:
   alterId: 0
   tls: false
   skip-cert-verify: true
-  servername: ''
   network: ws
   ws-opts:
     path: /?ed=2048
     headers:
       host: a.prapt5.ir
-- name: "\U0001F1FA\U0001F1F3 UN 1990 VMS"
+- name: "\U0001F1FA\U0001F1F3 UN 1980 VMS"
   type: vmess
   server: 104.21.231.57
   port: 80
@@ -21732,13 +21475,12 @@ proxies:
   alterId: 0
   tls: false
   skip-cert-verify: true
-  servername: ''
   network: ws
   ws-opts:
     path: /?ed=2048
     headers:
       host: a.prapt5.ir
-- name: "\U0001F1FA\U0001F1F3 UN 1991 VMS"
+- name: "\U0001F1FA\U0001F1F3 UN 1981 VMS"
   type: vmess
   server: 104.21.231.58
   port: 80
@@ -21747,13 +21489,12 @@ proxies:
   alterId: 0
   tls: false
   skip-cert-verify: true
-  servername: ''
   network: ws
   ws-opts:
     path: /?ed=2048
     headers:
       host: a.prapt5.ir
-- name: "\U0001F1FA\U0001F1F3 UN 1992 VMS"
+- name: "\U0001F1FA\U0001F1F3 UN 1982 VMS"
   type: vmess
   server: 104.21.231.59
   port: 80
@@ -21762,13 +21503,12 @@ proxies:
   alterId: 0
   tls: false
   skip-cert-verify: true
-  servername: ''
   network: ws
   ws-opts:
     path: /?ed=2048
     headers:
       host: a.prapt5.ir
-- name: "\U0001F1FA\U0001F1F3 UN 1993 VMS"
+- name: "\U0001F1FA\U0001F1F3 UN 1983 VMS"
   type: vmess
   server: 104.21.232.60
   port: 80
@@ -21777,13 +21517,12 @@ proxies:
   alterId: 0
   tls: false
   skip-cert-verify: true
-  servername: ''
   network: ws
   ws-opts:
     path: /?ed=2048
     headers:
       host: a.prapt5.ir
-- name: "\U0001F1FA\U0001F1F3 UN 1994 VMS"
+- name: "\U0001F1FA\U0001F1F3 UN 1984 VMS"
   type: vmess
   server: 104.21.232.61
   port: 80
@@ -21792,13 +21531,12 @@ proxies:
   alterId: 0
   tls: false
   skip-cert-verify: true
-  servername: ''
   network: ws
   ws-opts:
     path: /?ed=2048
     headers:
       host: a.prapt5.ir
-- name: "\U0001F1FA\U0001F1F3 UN 1995 VMS"
+- name: "\U0001F1FA\U0001F1F3 UN 1985 VMS"
   type: vmess
   server: 104.21.232.62
   port: 80
@@ -21807,13 +21545,12 @@ proxies:
   alterId: 0
   tls: false
   skip-cert-verify: true
-  servername: ''
   network: ws
   ws-opts:
     path: /?ed=2048
     headers:
       host: a.prapt5.ir
-- name: "\U0001F1FA\U0001F1F3 UN 1996 VMS"
+- name: "\U0001F1FA\U0001F1F3 UN 1986 VMS"
   type: vmess
   server: 104.21.232.63
   port: 80
@@ -21822,13 +21559,12 @@ proxies:
   alterId: 0
   tls: false
   skip-cert-verify: true
-  servername: ''
   network: ws
   ws-opts:
     path: /?ed=2048
     headers:
       host: a.prapt5.ir
-- name: "\U0001F1FA\U0001F1F3 UN 1997 VMS"
+- name: "\U0001F1FA\U0001F1F3 UN 1987 VMS"
   type: vmess
   server: 104.21.232.64
   port: 80
@@ -21837,13 +21573,12 @@ proxies:
   alterId: 0
   tls: false
   skip-cert-verify: true
-  servername: ''
   network: ws
   ws-opts:
     path: /?ed=2048
     headers:
       host: a.prapt5.ir
-- name: "\U0001F1FA\U0001F1F3 UN 1998 VMS"
+- name: "\U0001F1FA\U0001F1F3 UN 1988 VMS"
   type: vmess
   server: 104.21.233.65
   port: 80
@@ -21852,13 +21587,12 @@ proxies:
   alterId: 0
   tls: false
   skip-cert-verify: true
-  servername: ''
   network: ws
   ws-opts:
     path: /?ed=2048
     headers:
       host: a.prapt5.ir
-- name: "\U0001F1FA\U0001F1F3 UN 1999 VMS"
+- name: "\U0001F1FA\U0001F1F3 UN 1989 VMS"
   type: vmess
   server: 104.21.233.66
   port: 80
@@ -21867,13 +21601,12 @@ proxies:
   alterId: 0
   tls: false
   skip-cert-verify: true
-  servername: ''
   network: ws
   ws-opts:
     path: /?ed=2048
     headers:
       host: a.prapt5.ir
-- name: "\U0001F1FA\U0001F1F3 UN 2000 VMS"
+- name: "\U0001F1FA\U0001F1F3 UN 1990 VMS"
   type: vmess
   server: 104.21.233.67
   port: 80
@@ -21882,13 +21615,12 @@ proxies:
   alterId: 0
   tls: false
   skip-cert-verify: true
-  servername: ''
   network: ws
   ws-opts:
     path: /?ed=2048
     headers:
       host: a.prapt5.ir
-- name: "\U0001F1FA\U0001F1F3 UN 2001 VMS"
+- name: "\U0001F1FA\U0001F1F3 UN 1991 VMS"
   type: vmess
   server: 104.21.233.68
   port: 80
@@ -21897,13 +21629,12 @@ proxies:
   alterId: 0
   tls: false
   skip-cert-verify: true
-  servername: ''
   network: ws
   ws-opts:
     path: /?ed=2048
     headers:
       host: a.prapt5.ir
-- name: "\U0001F1FA\U0001F1F3 UN 2002 VMS"
+- name: "\U0001F1FA\U0001F1F3 UN 1992 VMS"
   type: vmess
   server: 104.21.233.69
   port: 80
@@ -21912,13 +21643,12 @@ proxies:
   alterId: 0
   tls: false
   skip-cert-verify: true
-  servername: ''
   network: ws
   ws-opts:
     path: /?ed=2048
     headers:
       host: a.prapt5.ir
-- name: "\U0001F1FA\U0001F1F3 UN 2003 VMS"
+- name: "\U0001F1FA\U0001F1F3 UN 1993 VMS"
   type: vmess
   server: 104.21.234.70
   port: 80
@@ -21927,13 +21657,12 @@ proxies:
   alterId: 0
   tls: false
   skip-cert-verify: true
-  servername: ''
   network: ws
   ws-opts:
     path: /?ed=2048
     headers:
       host: a.prapt5.ir
-- name: "\U0001F1FA\U0001F1F3 UN 2004 VMS"
+- name: "\U0001F1FA\U0001F1F3 UN 1994 VMS"
   type: vmess
   server: 104.21.234.71
   port: 80
@@ -21942,13 +21671,12 @@ proxies:
   alterId: 0
   tls: false
   skip-cert-verify: true
-  servername: ''
   network: ws
   ws-opts:
     path: /?ed=2048
     headers:
       host: a.prapt5.ir
-- name: "\U0001F1FA\U0001F1F3 UN 2005 VMS"
+- name: "\U0001F1FA\U0001F1F3 UN 1995 VMS"
   type: vmess
   server: 104.21.234.72
   port: 80
@@ -21957,13 +21685,12 @@ proxies:
   alterId: 0
   tls: false
   skip-cert-verify: true
-  servername: ''
   network: ws
   ws-opts:
     path: /?ed=2048
     headers:
       host: a.prapt5.ir
-- name: "\U0001F1FA\U0001F1F3 UN 2006 VMS"
+- name: "\U0001F1FA\U0001F1F3 UN 1996 VMS"
   type: vmess
   server: 104.21.234.73
   port: 80
@@ -21972,13 +21699,12 @@ proxies:
   alterId: 0
   tls: false
   skip-cert-verify: true
-  servername: ''
   network: ws
   ws-opts:
     path: /?ed=2048
     headers:
       host: a.prapt5.ir
-- name: "\U0001F1FA\U0001F1F3 UN 2007 VMS"
+- name: "\U0001F1FA\U0001F1F3 UN 1997 VMS"
   type: vmess
   server: 104.21.234.74
   port: 80
@@ -21987,13 +21713,12 @@ proxies:
   alterId: 0
   tls: false
   skip-cert-verify: true
-  servername: ''
   network: ws
   ws-opts:
     path: /?ed=2048
     headers:
       host: a.prapt5.ir
-- name: "\U0001F1FA\U0001F1F3 UN 2008 VMS"
+- name: "\U0001F1FA\U0001F1F3 UN 1998 VMS"
   type: vmess
   server: 104.21.235.75
   port: 80
@@ -22002,13 +21727,12 @@ proxies:
   alterId: 0
   tls: false
   skip-cert-verify: true
-  servername: ''
   network: ws
   ws-opts:
     path: /?ed=2048
     headers:
       host: a.prapt5.ir
-- name: "\U0001F1FA\U0001F1F3 UN 2009 VMS"
+- name: "\U0001F1FA\U0001F1F3 UN 1999 VMS"
   type: vmess
   server: 104.21.235.76
   port: 80
@@ -22017,13 +21741,12 @@ proxies:
   alterId: 0
   tls: false
   skip-cert-verify: true
-  servername: ''
   network: ws
   ws-opts:
     path: /?ed=2048
     headers:
       host: a.prapt5.ir
-- name: "\U0001F1FA\U0001F1F3 UN 2010 VMS"
+- name: "\U0001F1FA\U0001F1F3 UN 2000 VMS"
   type: vmess
   server: 104.21.235.77
   port: 80
@@ -22032,13 +21755,12 @@ proxies:
   alterId: 0
   tls: false
   skip-cert-verify: true
-  servername: ''
   network: ws
   ws-opts:
     path: /?ed=2048
     headers:
       host: a.prapt5.ir
-- name: "\U0001F1FA\U0001F1F3 UN 2011 VMS"
+- name: "\U0001F1FA\U0001F1F3 UN 2001 VMS"
   type: vmess
   server: 104.21.235.78
   port: 80
@@ -22047,13 +21769,12 @@ proxies:
   alterId: 0
   tls: false
   skip-cert-verify: true
-  servername: ''
   network: ws
   ws-opts:
     path: /?ed=2048
     headers:
       host: a.prapt5.ir
-- name: "\U0001F1FA\U0001F1F3 UN 2012 VMS"
+- name: "\U0001F1FA\U0001F1F3 UN 2002 VMS"
   type: vmess
   server: 104.21.235.79
   port: 80
@@ -22062,13 +21783,12 @@ proxies:
   alterId: 0
   tls: false
   skip-cert-verify: true
-  servername: ''
   network: ws
   ws-opts:
     path: /?ed=2048
     headers:
       host: a.prapt5.ir
-- name: "\U0001F1FA\U0001F1F3 UN 2013 VMS"
+- name: "\U0001F1FA\U0001F1F3 UN 2003 VMS"
   type: vmess
   server: 104.21.236.80
   port: 80
@@ -22077,13 +21797,12 @@ proxies:
   alterId: 0
   tls: false
   skip-cert-verify: true
-  servername: ''
   network: ws
   ws-opts:
     path: /?ed=2048
     headers:
       host: a.prapt5.ir
-- name: "\U0001F1FA\U0001F1F3 UN 2014 VMS"
+- name: "\U0001F1FA\U0001F1F3 UN 2004 VMS"
   type: vmess
   server: 104.21.236.81
   port: 80
@@ -22092,13 +21811,12 @@ proxies:
   alterId: 0
   tls: false
   skip-cert-verify: true
-  servername: ''
   network: ws
   ws-opts:
     path: /?ed=2048
     headers:
       host: a.prapt5.ir
-- name: "\U0001F1FA\U0001F1F3 UN 2015 VMS"
+- name: "\U0001F1FA\U0001F1F3 UN 2005 VMS"
   type: vmess
   server: 104.21.236.82
   port: 80
@@ -22107,13 +21825,12 @@ proxies:
   alterId: 0
   tls: false
   skip-cert-verify: true
-  servername: ''
   network: ws
   ws-opts:
     path: /?ed=2048
     headers:
       host: a.prapt5.ir
-- name: "\U0001F1FA\U0001F1F3 UN 2016 VMS"
+- name: "\U0001F1FA\U0001F1F3 UN 2006 VMS"
   type: vmess
   server: 104.21.236.83
   port: 80
@@ -22122,13 +21839,12 @@ proxies:
   alterId: 0
   tls: false
   skip-cert-verify: true
-  servername: ''
   network: ws
   ws-opts:
     path: /?ed=2048
     headers:
       host: a.prapt5.ir
-- name: "\U0001F1FA\U0001F1F3 UN 2017 VMS"
+- name: "\U0001F1FA\U0001F1F3 UN 2007 VMS"
   type: vmess
   server: 104.21.236.84
   port: 80
@@ -22137,13 +21853,12 @@ proxies:
   alterId: 0
   tls: false
   skip-cert-verify: true
-  servername: ''
   network: ws
   ws-opts:
     path: /?ed=2048
     headers:
       host: a.prapt5.ir
-- name: "\U0001F1FA\U0001F1F3 UN 2018 VMS"
+- name: "\U0001F1FA\U0001F1F3 UN 2008 VMS"
   type: vmess
   server: 104.21.237.85
   port: 80
@@ -22152,13 +21867,12 @@ proxies:
   alterId: 0
   tls: false
   skip-cert-verify: true
-  servername: ''
   network: ws
   ws-opts:
     path: /?ed=2048
     headers:
       host: a.prapt5.ir
-- name: "\U0001F1FA\U0001F1F3 UN 2019 VMS"
+- name: "\U0001F1FA\U0001F1F3 UN 2009 VMS"
   type: vmess
   server: 104.21.237.86
   port: 80
@@ -22167,13 +21881,12 @@ proxies:
   alterId: 0
   tls: false
   skip-cert-verify: true
-  servername: ''
   network: ws
   ws-opts:
     path: /?ed=2048
     headers:
       host: a.prapt5.ir
-- name: "\U0001F1FA\U0001F1F3 UN 2020 VMS"
+- name: "\U0001F1FA\U0001F1F3 UN 2010 VMS"
   type: vmess
   server: 104.21.237.87
   port: 80
@@ -22182,13 +21895,12 @@ proxies:
   alterId: 0
   tls: false
   skip-cert-verify: true
-  servername: ''
   network: ws
   ws-opts:
     path: /?ed=2048
     headers:
       host: a.prapt5.ir
-- name: "\U0001F1FA\U0001F1F3 UN 2021 VMS"
+- name: "\U0001F1FA\U0001F1F3 UN 2011 VMS"
   type: vmess
   server: 104.21.237.88
   port: 80
@@ -22197,13 +21909,12 @@ proxies:
   alterId: 0
   tls: false
   skip-cert-verify: true
-  servername: ''
   network: ws
   ws-opts:
     path: /?ed=2048
     headers:
       host: a.prapt5.ir
-- name: "\U0001F1FA\U0001F1F3 UN 2022 VMS"
+- name: "\U0001F1FA\U0001F1F3 UN 2012 VMS"
   type: vmess
   server: 104.21.237.89
   port: 80
@@ -22212,13 +21923,12 @@ proxies:
   alterId: 0
   tls: false
   skip-cert-verify: true
-  servername: ''
   network: ws
   ws-opts:
     path: /?ed=2048
     headers:
       host: a.prapt5.ir
-- name: "\U0001F1FA\U0001F1F3 UN 2023 VMS"
+- name: "\U0001F1FA\U0001F1F3 UN 2013 VMS"
   type: vmess
   server: 104.21.238.90
   port: 80
@@ -22227,13 +21937,12 @@ proxies:
   alterId: 0
   tls: false
   skip-cert-verify: true
-  servername: ''
   network: ws
   ws-opts:
     path: /?ed=2048
     headers:
       host: a.prapt5.ir
-- name: "\U0001F1FA\U0001F1F3 UN 2024 VMS"
+- name: "\U0001F1FA\U0001F1F3 UN 2014 VMS"
   type: vmess
   server: 104.21.238.91
   port: 80
@@ -22242,13 +21951,12 @@ proxies:
   alterId: 0
   tls: false
   skip-cert-verify: true
-  servername: ''
   network: ws
   ws-opts:
     path: /?ed=2048
     headers:
       host: a.prapt5.ir
-- name: "\U0001F1FA\U0001F1F3 UN 2025 VMS"
+- name: "\U0001F1FA\U0001F1F3 UN 2015 VMS"
   type: vmess
   server: 104.21.238.92
   port: 80
@@ -22257,13 +21965,12 @@ proxies:
   alterId: 0
   tls: false
   skip-cert-verify: true
-  servername: ''
   network: ws
   ws-opts:
     path: /?ed=2048
     headers:
       host: a.prapt5.ir
-- name: "\U0001F1FA\U0001F1F3 UN 2026 VMS"
+- name: "\U0001F1FA\U0001F1F3 UN 2016 VMS"
   type: vmess
   server: 104.21.238.93
   port: 80
@@ -22272,13 +21979,12 @@ proxies:
   alterId: 0
   tls: false
   skip-cert-verify: true
-  servername: ''
   network: ws
   ws-opts:
     path: /?ed=2048
     headers:
       host: a.prapt5.ir
-- name: "\U0001F1FA\U0001F1F3 UN 2027 VMS"
+- name: "\U0001F1FA\U0001F1F3 UN 2017 VMS"
   type: vmess
   server: 104.21.238.94
   port: 80
@@ -22287,13 +21993,12 @@ proxies:
   alterId: 0
   tls: false
   skip-cert-verify: true
-  servername: ''
   network: ws
   ws-opts:
     path: /?ed=2048
     headers:
       host: a.prapt5.ir
-- name: "\U0001F1FA\U0001F1F3 UN 2028 VMS"
+- name: "\U0001F1FA\U0001F1F3 UN 2018 VMS"
   type: vmess
   server: 104.21.239.95
   port: 80
@@ -22302,13 +22007,12 @@ proxies:
   alterId: 0
   tls: false
   skip-cert-verify: true
-  servername: ''
   network: ws
   ws-opts:
     path: /?ed=2048
     headers:
       host: a.prapt5.ir
-- name: "\U0001F1FA\U0001F1F3 UN 2029 VMS"
+- name: "\U0001F1FA\U0001F1F3 UN 2019 VMS"
   type: vmess
   server: 104.21.239.96
   port: 80
@@ -22317,13 +22021,12 @@ proxies:
   alterId: 0
   tls: false
   skip-cert-verify: true
-  servername: ''
   network: ws
   ws-opts:
     path: /?ed=2048
     headers:
       host: a.prapt5.ir
-- name: "\U0001F1FA\U0001F1F3 UN 2030 VMS"
+- name: "\U0001F1FA\U0001F1F3 UN 2020 VMS"
   type: vmess
   server: 104.21.239.97
   port: 80
@@ -22332,13 +22035,12 @@ proxies:
   alterId: 0
   tls: false
   skip-cert-verify: true
-  servername: ''
   network: ws
   ws-opts:
     path: /?ed=2048
     headers:
       host: a.prapt5.ir
-- name: "\U0001F1FA\U0001F1F3 UN 2031 VMS"
+- name: "\U0001F1FA\U0001F1F3 UN 2021 VMS"
   type: vmess
   server: 104.21.239.98
   port: 80
@@ -22347,13 +22049,12 @@ proxies:
   alterId: 0
   tls: false
   skip-cert-verify: true
-  servername: ''
   network: ws
   ws-opts:
     path: /?ed=2048
     headers:
       host: a.prapt5.ir
-- name: "\U0001F1FA\U0001F1F3 UN 2032 VMS"
+- name: "\U0001F1FA\U0001F1F3 UN 2022 VMS"
   type: vmess
   server: 104.21.239.99
   port: 80
@@ -22362,7 +22063,146 @@ proxies:
   alterId: 0
   tls: false
   skip-cert-verify: true
-  servername: ''
+  network: ws
+  ws-opts:
+    path: /?ed=2048
+    headers:
+      host: a.prapt5.ir
+- name: "\U0001F1FA\U0001F1F3 UN 2023 VMS"
+  type: vmess
+  server: 104.21.224.0
+  port: 80
+  cipher: auto
+  uuid: 7022982f-da4c-48c9-c660-b2315abdcf7e
+  alterId: 0
+  tls: false
+  skip-cert-verify: true
+  network: ws
+  ws-opts:
+    path: /?ed=2048
+    headers:
+      host: a.prapt5.ir
+- name: "\U0001F1FA\U0001F1F3 UN 2024 VMS"
+  type: vmess
+  server: 104.21.224.1
+  port: 80
+  cipher: auto
+  uuid: 7022982f-da4c-48c9-c660-b2315abdcf7e
+  alterId: 0
+  tls: false
+  skip-cert-verify: true
+  network: ws
+  ws-opts:
+    path: /?ed=2048
+    headers:
+      host: a.prapt5.ir
+- name: "\U0001F1FA\U0001F1F3 UN 2025 VMS"
+  type: vmess
+  server: 104.21.224.2
+  port: 80
+  cipher: auto
+  uuid: 7022982f-da4c-48c9-c660-b2315abdcf7e
+  alterId: 0
+  tls: false
+  skip-cert-verify: true
+  network: ws
+  ws-opts:
+    path: /?ed=2048
+    headers:
+      host: a.prapt5.ir
+- name: "\U0001F1FA\U0001F1F3 UN 2026 VMS"
+  type: vmess
+  server: 104.21.224.3
+  port: 80
+  cipher: auto
+  uuid: 7022982f-da4c-48c9-c660-b2315abdcf7e
+  alterId: 0
+  tls: false
+  skip-cert-verify: true
+  network: ws
+  ws-opts:
+    path: /?ed=2048
+    headers:
+      host: a.prapt5.ir
+- name: "\U0001F1FA\U0001F1F3 UN 2027 VMS"
+  type: vmess
+  server: 104.21.224.4
+  port: 80
+  cipher: auto
+  uuid: 7022982f-da4c-48c9-c660-b2315abdcf7e
+  alterId: 0
+  tls: false
+  skip-cert-verify: true
+  network: ws
+  ws-opts:
+    path: /?ed=2048
+    headers:
+      host: a.prapt5.ir
+- name: "\U0001F1FA\U0001F1F3 UN 2028 VMS"
+  type: vmess
+  server: 104.21.225.5
+  port: 80
+  cipher: auto
+  uuid: 7022982f-da4c-48c9-c660-b2315abdcf7e
+  alterId: 0
+  tls: false
+  skip-cert-verify: true
+  network: ws
+  ws-opts:
+    path: /?ed=2048
+    headers:
+      host: a.prapt5.ir
+- name: "\U0001F1FA\U0001F1F3 UN 2029 VMS"
+  type: vmess
+  server: 104.21.225.6
+  port: 80
+  cipher: auto
+  uuid: 7022982f-da4c-48c9-c660-b2315abdcf7e
+  alterId: 0
+  tls: false
+  skip-cert-verify: true
+  network: ws
+  ws-opts:
+    path: /?ed=2048
+    headers:
+      host: a.prapt5.ir
+- name: "\U0001F1FA\U0001F1F3 UN 2030 VMS"
+  type: vmess
+  server: 104.21.225.7
+  port: 80
+  cipher: auto
+  uuid: 7022982f-da4c-48c9-c660-b2315abdcf7e
+  alterId: 0
+  tls: false
+  skip-cert-verify: true
+  network: ws
+  ws-opts:
+    path: /?ed=2048
+    headers:
+      host: a.prapt5.ir
+- name: "\U0001F1FA\U0001F1F3 UN 2031 VMS"
+  type: vmess
+  server: 104.21.225.8
+  port: 80
+  cipher: auto
+  uuid: 7022982f-da4c-48c9-c660-b2315abdcf7e
+  alterId: 0
+  tls: false
+  skip-cert-verify: true
+  network: ws
+  ws-opts:
+    path: /?ed=2048
+    headers:
+      host: a.prapt5.ir
+- name: "\U0001F1FA\U0001F1F3 UN 2032 VMS"
+  type: vmess
+  server: 104.21.225.9
+  port: 80
+  cipher: auto
+  uuid: 7022982f-da4c-48c9-c660-b2315abdcf7e
+  alterId: 0
+  tls: false
+  skip-cert-verify: true
   network: ws
   ws-opts:
     path: /?ed=2048
@@ -24477,6 +24317,7 @@ proxies:
   alterId: 0
   tls: false
   skip-cert-verify: true
+  servername: ''
   network: ws
   ws-opts:
     path: /?ed=2048
@@ -24491,6 +24332,7 @@ proxies:
   alterId: 0
   tls: false
   skip-cert-verify: true
+  servername: ''
   network: ws
   ws-opts:
     path: /?ed=2048
@@ -24505,6 +24347,7 @@ proxies:
   alterId: 0
   tls: false
   skip-cert-verify: true
+  servername: ''
   network: ws
   ws-opts:
     path: /?ed=2048
@@ -24519,6 +24362,7 @@ proxies:
   alterId: 0
   tls: false
   skip-cert-verify: true
+  servername: ''
   network: ws
   ws-opts:
     path: /?ed=2048
@@ -24533,6 +24377,7 @@ proxies:
   alterId: 0
   tls: false
   skip-cert-verify: true
+  servername: ''
   network: ws
   ws-opts:
     path: /?ed=2048
@@ -24547,6 +24392,7 @@ proxies:
   alterId: 0
   tls: false
   skip-cert-verify: true
+  servername: ''
   network: ws
   ws-opts:
     path: /?ed=2048
@@ -24561,6 +24407,7 @@ proxies:
   alterId: 0
   tls: false
   skip-cert-verify: true
+  servername: ''
   network: ws
   ws-opts:
     path: /?ed=2048
@@ -24575,6 +24422,7 @@ proxies:
   alterId: 0
   tls: false
   skip-cert-verify: true
+  servername: ''
   network: ws
   ws-opts:
     path: /?ed=2048
@@ -24589,6 +24437,7 @@ proxies:
   alterId: 0
   tls: false
   skip-cert-verify: true
+  servername: ''
   network: ws
   ws-opts:
     path: /?ed=2048
@@ -24603,6 +24452,7 @@ proxies:
   alterId: 0
   tls: false
   skip-cert-verify: true
+  servername: ''
   network: ws
   ws-opts:
     path: /?ed=2048
@@ -24617,6 +24467,7 @@ proxies:
   alterId: 0
   tls: false
   skip-cert-verify: true
+  servername: ''
   network: ws
   ws-opts:
     path: /?ed=2048
@@ -24631,6 +24482,7 @@ proxies:
   alterId: 0
   tls: false
   skip-cert-verify: true
+  servername: ''
   network: ws
   ws-opts:
     path: /?ed=2048
@@ -24645,6 +24497,7 @@ proxies:
   alterId: 0
   tls: false
   skip-cert-verify: true
+  servername: ''
   network: ws
   ws-opts:
     path: /?ed=2048
@@ -24659,6 +24512,7 @@ proxies:
   alterId: 0
   tls: false
   skip-cert-verify: true
+  servername: ''
   network: ws
   ws-opts:
     path: /?ed=2048
@@ -24673,6 +24527,7 @@ proxies:
   alterId: 0
   tls: false
   skip-cert-verify: true
+  servername: ''
   network: ws
   ws-opts:
     path: /?ed=2048
@@ -24687,6 +24542,7 @@ proxies:
   alterId: 0
   tls: false
   skip-cert-verify: true
+  servername: ''
   network: ws
   ws-opts:
     path: /?ed=2048
@@ -24701,6 +24557,7 @@ proxies:
   alterId: 0
   tls: false
   skip-cert-verify: true
+  servername: ''
   network: ws
   ws-opts:
     path: /?ed=2048
@@ -24715,6 +24572,7 @@ proxies:
   alterId: 0
   tls: false
   skip-cert-verify: true
+  servername: ''
   network: ws
   ws-opts:
     path: /?ed=2048
@@ -24729,6 +24587,7 @@ proxies:
   alterId: 0
   tls: false
   skip-cert-verify: true
+  servername: ''
   network: ws
   ws-opts:
     path: /?ed=2048
@@ -24743,6 +24602,7 @@ proxies:
   alterId: 0
   tls: false
   skip-cert-verify: true
+  servername: ''
   network: ws
   ws-opts:
     path: /?ed=2048
@@ -24757,6 +24617,7 @@ proxies:
   alterId: 0
   tls: false
   skip-cert-verify: true
+  servername: ''
   network: ws
   ws-opts:
     path: /?ed=2048
@@ -24771,6 +24632,7 @@ proxies:
   alterId: 0
   tls: false
   skip-cert-verify: true
+  servername: ''
   network: ws
   ws-opts:
     path: /?ed=2048
@@ -24785,6 +24647,7 @@ proxies:
   alterId: 0
   tls: false
   skip-cert-verify: true
+  servername: ''
   network: ws
   ws-opts:
     path: /?ed=2048
@@ -24799,6 +24662,7 @@ proxies:
   alterId: 0
   tls: false
   skip-cert-verify: true
+  servername: ''
   network: ws
   ws-opts:
     path: /?ed=2048
@@ -24813,6 +24677,7 @@ proxies:
   alterId: 0
   tls: false
   skip-cert-verify: true
+  servername: ''
   network: ws
   ws-opts:
     path: /?ed=2048
@@ -24827,6 +24692,7 @@ proxies:
   alterId: 0
   tls: false
   skip-cert-verify: true
+  servername: ''
   network: ws
   ws-opts:
     path: /?ed=2048
@@ -24841,6 +24707,7 @@ proxies:
   alterId: 0
   tls: false
   skip-cert-verify: true
+  servername: ''
   network: ws
   ws-opts:
     path: /?ed=2048
@@ -24855,6 +24722,7 @@ proxies:
   alterId: 0
   tls: false
   skip-cert-verify: true
+  servername: ''
   network: ws
   ws-opts:
     path: /?ed=2048
@@ -24869,6 +24737,7 @@ proxies:
   alterId: 0
   tls: false
   skip-cert-verify: true
+  servername: ''
   network: ws
   ws-opts:
     path: /?ed=2048
@@ -24883,6 +24752,7 @@ proxies:
   alterId: 0
   tls: false
   skip-cert-verify: true
+  servername: ''
   network: ws
   ws-opts:
     path: /?ed=2048
@@ -24897,6 +24767,7 @@ proxies:
   alterId: 0
   tls: false
   skip-cert-verify: true
+  servername: ''
   network: ws
   ws-opts:
     path: /?ed=2048
@@ -24911,6 +24782,7 @@ proxies:
   alterId: 0
   tls: false
   skip-cert-verify: true
+  servername: ''
   network: ws
   ws-opts:
     path: /?ed=2048
@@ -24925,6 +24797,7 @@ proxies:
   alterId: 0
   tls: false
   skip-cert-verify: true
+  servername: ''
   network: ws
   ws-opts:
     path: /?ed=2048
@@ -24939,6 +24812,7 @@ proxies:
   alterId: 0
   tls: false
   skip-cert-verify: true
+  servername: ''
   network: ws
   ws-opts:
     path: /?ed=2048
@@ -24953,6 +24827,7 @@ proxies:
   alterId: 0
   tls: false
   skip-cert-verify: true
+  servername: ''
   network: ws
   ws-opts:
     path: /?ed=2048
@@ -24967,6 +24842,7 @@ proxies:
   alterId: 0
   tls: false
   skip-cert-verify: true
+  servername: ''
   network: ws
   ws-opts:
     path: /?ed=2048
@@ -24981,6 +24857,7 @@ proxies:
   alterId: 0
   tls: false
   skip-cert-verify: true
+  servername: ''
   network: ws
   ws-opts:
     path: /?ed=2048
@@ -24995,6 +24872,7 @@ proxies:
   alterId: 0
   tls: false
   skip-cert-verify: true
+  servername: ''
   network: ws
   ws-opts:
     path: /?ed=2048
@@ -25009,6 +24887,7 @@ proxies:
   alterId: 0
   tls: false
   skip-cert-verify: true
+  servername: ''
   network: ws
   ws-opts:
     path: /?ed=2048
@@ -25023,6 +24902,7 @@ proxies:
   alterId: 0
   tls: false
   skip-cert-verify: true
+  servername: ''
   network: ws
   ws-opts:
     path: /?ed=2048
@@ -25037,6 +24917,7 @@ proxies:
   alterId: 0
   tls: false
   skip-cert-verify: true
+  servername: ''
   network: ws
   ws-opts:
     path: /?ed=2048
@@ -25051,6 +24932,7 @@ proxies:
   alterId: 0
   tls: false
   skip-cert-verify: true
+  servername: ''
   network: ws
   ws-opts:
     path: /?ed=2048
@@ -25065,6 +24947,7 @@ proxies:
   alterId: 0
   tls: false
   skip-cert-verify: true
+  servername: ''
   network: ws
   ws-opts:
     path: /?ed=2048
@@ -25079,6 +24962,7 @@ proxies:
   alterId: 0
   tls: false
   skip-cert-verify: true
+  servername: ''
   network: ws
   ws-opts:
     path: /?ed=2048
@@ -25093,6 +24977,7 @@ proxies:
   alterId: 0
   tls: false
   skip-cert-verify: true
+  servername: ''
   network: ws
   ws-opts:
     path: /?ed=2048
@@ -25107,6 +24992,7 @@ proxies:
   alterId: 0
   tls: false
   skip-cert-verify: true
+  servername: ''
   network: ws
   ws-opts:
     path: /?ed=2048
@@ -25121,6 +25007,7 @@ proxies:
   alterId: 0
   tls: false
   skip-cert-verify: true
+  servername: ''
   network: ws
   ws-opts:
     path: /?ed=2048
@@ -25135,6 +25022,7 @@ proxies:
   alterId: 0
   tls: false
   skip-cert-verify: true
+  servername: ''
   network: ws
   ws-opts:
     path: /?ed=2048
@@ -25149,6 +25037,7 @@ proxies:
   alterId: 0
   tls: false
   skip-cert-verify: true
+  servername: ''
   network: ws
   ws-opts:
     path: /?ed=2048
@@ -25163,6 +25052,7 @@ proxies:
   alterId: 0
   tls: false
   skip-cert-verify: true
+  servername: ''
   network: ws
   ws-opts:
     path: /?ed=2048
@@ -25177,6 +25067,7 @@ proxies:
   alterId: 0
   tls: false
   skip-cert-verify: true
+  servername: ''
   network: ws
   ws-opts:
     path: /?ed=2048
@@ -25191,6 +25082,7 @@ proxies:
   alterId: 0
   tls: false
   skip-cert-verify: true
+  servername: ''
   network: ws
   ws-opts:
     path: /?ed=2048
@@ -25205,6 +25097,7 @@ proxies:
   alterId: 0
   tls: false
   skip-cert-verify: true
+  servername: ''
   network: ws
   ws-opts:
     path: /?ed=2048
@@ -25219,6 +25112,7 @@ proxies:
   alterId: 0
   tls: false
   skip-cert-verify: true
+  servername: ''
   network: ws
   ws-opts:
     path: /?ed=2048
@@ -25233,6 +25127,7 @@ proxies:
   alterId: 0
   tls: false
   skip-cert-verify: true
+  servername: ''
   network: ws
   ws-opts:
     path: /?ed=2048
@@ -25247,6 +25142,7 @@ proxies:
   alterId: 0
   tls: false
   skip-cert-verify: true
+  servername: ''
   network: ws
   ws-opts:
     path: /?ed=2048
@@ -25261,6 +25157,7 @@ proxies:
   alterId: 0
   tls: false
   skip-cert-verify: true
+  servername: ''
   network: ws
   ws-opts:
     path: /?ed=2048
@@ -25275,6 +25172,7 @@ proxies:
   alterId: 0
   tls: false
   skip-cert-verify: true
+  servername: ''
   network: ws
   ws-opts:
     path: /?ed=2048
@@ -25289,6 +25187,7 @@ proxies:
   alterId: 0
   tls: false
   skip-cert-verify: true
+  servername: ''
   network: ws
   ws-opts:
     path: /?ed=2048
@@ -25303,6 +25202,7 @@ proxies:
   alterId: 0
   tls: false
   skip-cert-verify: true
+  servername: ''
   network: ws
   ws-opts:
     path: /?ed=2048
@@ -25317,6 +25217,7 @@ proxies:
   alterId: 0
   tls: false
   skip-cert-verify: true
+  servername: ''
   network: ws
   ws-opts:
     path: /?ed=2048
@@ -25331,6 +25232,7 @@ proxies:
   alterId: 0
   tls: false
   skip-cert-verify: true
+  servername: ''
   network: ws
   ws-opts:
     path: /?ed=2048
@@ -25345,6 +25247,7 @@ proxies:
   alterId: 0
   tls: false
   skip-cert-verify: true
+  servername: ''
   network: ws
   ws-opts:
     path: /?ed=2048
@@ -25359,6 +25262,7 @@ proxies:
   alterId: 0
   tls: false
   skip-cert-verify: true
+  servername: ''
   network: ws
   ws-opts:
     path: /?ed=2048
@@ -25373,6 +25277,7 @@ proxies:
   alterId: 0
   tls: false
   skip-cert-verify: true
+  servername: ''
   network: ws
   ws-opts:
     path: /?ed=2048
@@ -25387,6 +25292,7 @@ proxies:
   alterId: 0
   tls: false
   skip-cert-verify: true
+  servername: ''
   network: ws
   ws-opts:
     path: /?ed=2048
@@ -25401,6 +25307,7 @@ proxies:
   alterId: 0
   tls: false
   skip-cert-verify: true
+  servername: ''
   network: ws
   ws-opts:
     path: /?ed=2048
@@ -25415,6 +25322,7 @@ proxies:
   alterId: 0
   tls: false
   skip-cert-verify: true
+  servername: ''
   network: ws
   ws-opts:
     path: /?ed=2048
@@ -25429,6 +25337,7 @@ proxies:
   alterId: 0
   tls: false
   skip-cert-verify: true
+  servername: ''
   network: ws
   ws-opts:
     path: /?ed=2048
@@ -25443,6 +25352,7 @@ proxies:
   alterId: 0
   tls: false
   skip-cert-verify: true
+  servername: ''
   network: ws
   ws-opts:
     path: /?ed=2048
@@ -25457,6 +25367,7 @@ proxies:
   alterId: 0
   tls: false
   skip-cert-verify: true
+  servername: ''
   network: ws
   ws-opts:
     path: /?ed=2048
@@ -25471,6 +25382,7 @@ proxies:
   alterId: 0
   tls: false
   skip-cert-verify: true
+  servername: ''
   network: ws
   ws-opts:
     path: /?ed=2048
@@ -25485,6 +25397,7 @@ proxies:
   alterId: 0
   tls: false
   skip-cert-verify: true
+  servername: ''
   network: ws
   ws-opts:
     path: /?ed=2048
@@ -25499,6 +25412,7 @@ proxies:
   alterId: 0
   tls: false
   skip-cert-verify: true
+  servername: ''
   network: ws
   ws-opts:
     path: /?ed=2048
@@ -25513,6 +25427,7 @@ proxies:
   alterId: 0
   tls: false
   skip-cert-verify: true
+  servername: ''
   network: ws
   ws-opts:
     path: /?ed=2048
@@ -25527,6 +25442,7 @@ proxies:
   alterId: 0
   tls: false
   skip-cert-verify: true
+  servername: ''
   network: ws
   ws-opts:
     path: /?ed=2048
@@ -25541,6 +25457,7 @@ proxies:
   alterId: 0
   tls: false
   skip-cert-verify: true
+  servername: ''
   network: ws
   ws-opts:
     path: /?ed=2048
@@ -25555,6 +25472,7 @@ proxies:
   alterId: 0
   tls: false
   skip-cert-verify: true
+  servername: ''
   network: ws
   ws-opts:
     path: /?ed=2048
@@ -25569,6 +25487,7 @@ proxies:
   alterId: 0
   tls: false
   skip-cert-verify: true
+  servername: ''
   network: ws
   ws-opts:
     path: /?ed=2048
@@ -25583,6 +25502,7 @@ proxies:
   alterId: 0
   tls: false
   skip-cert-verify: true
+  servername: ''
   network: ws
   ws-opts:
     path: /?ed=2048
@@ -25597,6 +25517,7 @@ proxies:
   alterId: 0
   tls: false
   skip-cert-verify: true
+  servername: ''
   network: ws
   ws-opts:
     path: /?ed=2048
@@ -25611,6 +25532,7 @@ proxies:
   alterId: 0
   tls: false
   skip-cert-verify: true
+  servername: ''
   network: ws
   ws-opts:
     path: /?ed=2048
@@ -25625,6 +25547,7 @@ proxies:
   alterId: 0
   tls: false
   skip-cert-verify: true
+  servername: ''
   network: ws
   ws-opts:
     path: /?ed=2048
@@ -25639,6 +25562,7 @@ proxies:
   alterId: 0
   tls: false
   skip-cert-verify: true
+  servername: ''
   network: ws
   ws-opts:
     path: /?ed=2048
@@ -25653,6 +25577,7 @@ proxies:
   alterId: 0
   tls: false
   skip-cert-verify: true
+  servername: ''
   network: ws
   ws-opts:
     path: /?ed=2048
@@ -25667,6 +25592,7 @@ proxies:
   alterId: 0
   tls: false
   skip-cert-verify: true
+  servername: ''
   network: ws
   ws-opts:
     path: /?ed=2048
@@ -25681,6 +25607,7 @@ proxies:
   alterId: 0
   tls: false
   skip-cert-verify: true
+  servername: ''
   network: ws
   ws-opts:
     path: /?ed=2048
@@ -25695,6 +25622,7 @@ proxies:
   alterId: 0
   tls: false
   skip-cert-verify: true
+  servername: ''
   network: ws
   ws-opts:
     path: /?ed=2048
@@ -25709,6 +25637,7 @@ proxies:
   alterId: 0
   tls: false
   skip-cert-verify: true
+  servername: ''
   network: ws
   ws-opts:
     path: /?ed=2048
@@ -25723,6 +25652,7 @@ proxies:
   alterId: 0
   tls: false
   skip-cert-verify: true
+  servername: ''
   network: ws
   ws-opts:
     path: /?ed=2048
@@ -25737,6 +25667,7 @@ proxies:
   alterId: 0
   tls: false
   skip-cert-verify: true
+  servername: ''
   network: ws
   ws-opts:
     path: /?ed=2048
@@ -25751,6 +25682,7 @@ proxies:
   alterId: 0
   tls: false
   skip-cert-verify: true
+  servername: ''
   network: ws
   ws-opts:
     path: /?ed=2048
@@ -25765,6 +25697,7 @@ proxies:
   alterId: 0
   tls: false
   skip-cert-verify: true
+  servername: ''
   network: ws
   ws-opts:
     path: /?ed=2048
@@ -25779,6 +25712,7 @@ proxies:
   alterId: 0
   tls: false
   skip-cert-verify: true
+  servername: ''
   network: ws
   ws-opts:
     path: /?ed=2048
@@ -25793,6 +25727,7 @@ proxies:
   alterId: 0
   tls: false
   skip-cert-verify: true
+  servername: ''
   network: ws
   ws-opts:
     path: /?ed=2048
@@ -25807,6 +25742,7 @@ proxies:
   alterId: 0
   tls: false
   skip-cert-verify: true
+  servername: ''
   network: ws
   ws-opts:
     path: /?ed=2048
@@ -25821,6 +25757,7 @@ proxies:
   alterId: 0
   tls: false
   skip-cert-verify: true
+  servername: ''
   network: ws
   ws-opts:
     path: /?ed=2048
@@ -25835,6 +25772,7 @@ proxies:
   alterId: 0
   tls: false
   skip-cert-verify: true
+  servername: ''
   network: ws
   ws-opts:
     path: /?ed=2048
@@ -25849,6 +25787,7 @@ proxies:
   alterId: 0
   tls: false
   skip-cert-verify: true
+  servername: ''
   network: ws
   ws-opts:
     path: /?ed=2048
@@ -25863,6 +25802,7 @@ proxies:
   alterId: 0
   tls: false
   skip-cert-verify: true
+  servername: ''
   network: ws
   ws-opts:
     path: /?ed=2048
@@ -25877,6 +25817,7 @@ proxies:
   alterId: 0
   tls: false
   skip-cert-verify: true
+  servername: ''
   network: ws
   ws-opts:
     path: /?ed=2048
@@ -25891,6 +25832,7 @@ proxies:
   alterId: 0
   tls: false
   skip-cert-verify: true
+  servername: ''
   network: ws
   ws-opts:
     path: /?ed=2048
@@ -25905,6 +25847,7 @@ proxies:
   alterId: 0
   tls: false
   skip-cert-verify: true
+  servername: ''
   network: ws
   ws-opts:
     path: /?ed=2048
@@ -25919,6 +25862,7 @@ proxies:
   alterId: 0
   tls: false
   skip-cert-verify: true
+  servername: ''
   network: ws
   ws-opts:
     path: /?ed=2048
@@ -25933,6 +25877,7 @@ proxies:
   alterId: 0
   tls: false
   skip-cert-verify: true
+  servername: ''
   network: ws
   ws-opts:
     path: /?ed=2048
@@ -25947,6 +25892,7 @@ proxies:
   alterId: 0
   tls: false
   skip-cert-verify: true
+  servername: ''
   network: ws
   ws-opts:
     path: /?ed=2048
@@ -25961,6 +25907,7 @@ proxies:
   alterId: 0
   tls: false
   skip-cert-verify: true
+  servername: ''
   network: ws
   ws-opts:
     path: /?ed=2048
@@ -25975,6 +25922,7 @@ proxies:
   alterId: 0
   tls: false
   skip-cert-verify: true
+  servername: ''
   network: ws
   ws-opts:
     path: /?ed=2048
@@ -25989,6 +25937,7 @@ proxies:
   alterId: 0
   tls: false
   skip-cert-verify: true
+  servername: ''
   network: ws
   ws-opts:
     path: /?ed=2048
@@ -26003,6 +25952,7 @@ proxies:
   alterId: 0
   tls: false
   skip-cert-verify: true
+  servername: ''
   network: ws
   ws-opts:
     path: /?ed=2048
@@ -26017,6 +25967,7 @@ proxies:
   alterId: 0
   tls: false
   skip-cert-verify: true
+  servername: ''
   network: ws
   ws-opts:
     path: /?ed=2048
@@ -26031,6 +25982,7 @@ proxies:
   alterId: 0
   tls: false
   skip-cert-verify: true
+  servername: ''
   network: ws
   ws-opts:
     path: /?ed=2048
@@ -26045,6 +25997,7 @@ proxies:
   alterId: 0
   tls: false
   skip-cert-verify: true
+  servername: ''
   network: ws
   ws-opts:
     path: /?ed=2048
@@ -26059,6 +26012,7 @@ proxies:
   alterId: 0
   tls: false
   skip-cert-verify: true
+  servername: ''
   network: ws
   ws-opts:
     path: /?ed=2048
@@ -26073,6 +26027,7 @@ proxies:
   alterId: 0
   tls: false
   skip-cert-verify: true
+  servername: ''
   network: ws
   ws-opts:
     path: /?ed=2048
@@ -26087,6 +26042,7 @@ proxies:
   alterId: 0
   tls: false
   skip-cert-verify: true
+  servername: ''
   network: ws
   ws-opts:
     path: /?ed=2048
@@ -26101,6 +26057,7 @@ proxies:
   alterId: 0
   tls: false
   skip-cert-verify: true
+  servername: ''
   network: ws
   ws-opts:
     path: /?ed=2048
@@ -26115,6 +26072,7 @@ proxies:
   alterId: 0
   tls: false
   skip-cert-verify: true
+  servername: ''
   network: ws
   ws-opts:
     path: /?ed=2048
@@ -26129,6 +26087,7 @@ proxies:
   alterId: 0
   tls: false
   skip-cert-verify: true
+  servername: ''
   network: ws
   ws-opts:
     path: /?ed=2048
@@ -26143,6 +26102,7 @@ proxies:
   alterId: 0
   tls: false
   skip-cert-verify: true
+  servername: ''
   network: ws
   ws-opts:
     path: /?ed=2048
@@ -26157,6 +26117,7 @@ proxies:
   alterId: 0
   tls: false
   skip-cert-verify: true
+  servername: ''
   network: ws
   ws-opts:
     path: /?ed=2048
@@ -26171,6 +26132,7 @@ proxies:
   alterId: 0
   tls: false
   skip-cert-verify: true
+  servername: ''
   network: ws
   ws-opts:
     path: /?ed=2048
@@ -26185,6 +26147,7 @@ proxies:
   alterId: 0
   tls: false
   skip-cert-verify: true
+  servername: ''
   network: ws
   ws-opts:
     path: /?ed=2048
@@ -26199,6 +26162,7 @@ proxies:
   alterId: 0
   tls: false
   skip-cert-verify: true
+  servername: ''
   network: ws
   ws-opts:
     path: /?ed=2048
@@ -26213,6 +26177,7 @@ proxies:
   alterId: 0
   tls: false
   skip-cert-verify: true
+  servername: ''
   network: ws
   ws-opts:
     path: /?ed=2048
@@ -26227,6 +26192,7 @@ proxies:
   alterId: 0
   tls: false
   skip-cert-verify: true
+  servername: ''
   network: ws
   ws-opts:
     path: /?ed=2048
@@ -26241,6 +26207,7 @@ proxies:
   alterId: 0
   tls: false
   skip-cert-verify: true
+  servername: ''
   network: ws
   ws-opts:
     path: /?ed=2048
@@ -26255,6 +26222,7 @@ proxies:
   alterId: 0
   tls: false
   skip-cert-verify: true
+  servername: ''
   network: ws
   ws-opts:
     path: /?ed=2048
@@ -26269,6 +26237,7 @@ proxies:
   alterId: 0
   tls: false
   skip-cert-verify: true
+  servername: ''
   network: ws
   ws-opts:
     path: /?ed=2048
@@ -26283,6 +26252,7 @@ proxies:
   alterId: 0
   tls: false
   skip-cert-verify: true
+  servername: ''
   network: ws
   ws-opts:
     path: /?ed=2048
@@ -26297,6 +26267,7 @@ proxies:
   alterId: 0
   tls: false
   skip-cert-verify: true
+  servername: ''
   network: ws
   ws-opts:
     path: /?ed=2048
@@ -26311,6 +26282,7 @@ proxies:
   alterId: 0
   tls: false
   skip-cert-verify: true
+  servername: ''
   network: ws
   ws-opts:
     path: /?ed=2048
@@ -26325,6 +26297,7 @@ proxies:
   alterId: 0
   tls: false
   skip-cert-verify: true
+  servername: ''
   network: ws
   ws-opts:
     path: /?ed=2048
@@ -26339,6 +26312,7 @@ proxies:
   alterId: 0
   tls: false
   skip-cert-verify: true
+  servername: ''
   network: ws
   ws-opts:
     path: /?ed=2048
@@ -26353,6 +26327,7 @@ proxies:
   alterId: 0
   tls: false
   skip-cert-verify: true
+  servername: ''
   network: ws
   ws-opts:
     path: /?ed=2048
@@ -26367,6 +26342,7 @@ proxies:
   alterId: 0
   tls: false
   skip-cert-verify: true
+  servername: ''
   network: ws
   ws-opts:
     path: /?ed=2048
@@ -26381,6 +26357,7 @@ proxies:
   alterId: 0
   tls: false
   skip-cert-verify: true
+  servername: ''
   network: ws
   ws-opts:
     path: /?ed=2048
@@ -26395,6 +26372,7 @@ proxies:
   alterId: 0
   tls: false
   skip-cert-verify: true
+  servername: ''
   network: ws
   ws-opts:
     path: /?ed=2048
@@ -26409,6 +26387,7 @@ proxies:
   alterId: 0
   tls: false
   skip-cert-verify: true
+  servername: ''
   network: ws
   ws-opts:
     path: /?ed=2048
@@ -26423,6 +26402,7 @@ proxies:
   alterId: 0
   tls: false
   skip-cert-verify: true
+  servername: ''
   network: ws
   ws-opts:
     path: /?ed=2048
@@ -26437,6 +26417,7 @@ proxies:
   alterId: 0
   tls: false
   skip-cert-verify: true
+  servername: ''
   network: ws
   ws-opts:
     path: /?ed=2048
@@ -26451,6 +26432,7 @@ proxies:
   alterId: 0
   tls: false
   skip-cert-verify: true
+  servername: ''
   network: ws
   ws-opts:
     path: /?ed=2048
@@ -26465,6 +26447,7 @@ proxies:
   alterId: 0
   tls: false
   skip-cert-verify: true
+  servername: ''
   network: ws
   ws-opts:
     path: /?ed=2048
@@ -26479,6 +26462,7 @@ proxies:
   alterId: 0
   tls: false
   skip-cert-verify: true
+  servername: ''
   network: ws
   ws-opts:
     path: /?ed=2048
@@ -26493,6 +26477,7 @@ proxies:
   alterId: 0
   tls: false
   skip-cert-verify: true
+  servername: ''
   network: ws
   ws-opts:
     path: /?ed=2048
@@ -26507,6 +26492,7 @@ proxies:
   alterId: 0
   tls: false
   skip-cert-verify: true
+  servername: ''
   network: ws
   ws-opts:
     path: /?ed=2048
@@ -26521,6 +26507,7 @@ proxies:
   alterId: 0
   tls: false
   skip-cert-verify: true
+  servername: ''
   network: ws
   ws-opts:
     path: /?ed=2048
@@ -26535,6 +26522,7 @@ proxies:
   alterId: 0
   tls: false
   skip-cert-verify: true
+  servername: ''
   network: ws
   ws-opts:
     path: /?ed=2048
@@ -26549,6 +26537,7 @@ proxies:
   alterId: 0
   tls: false
   skip-cert-verify: true
+  servername: ''
   network: ws
   ws-opts:
     path: /?ed=2048
@@ -26563,6 +26552,7 @@ proxies:
   alterId: 0
   tls: false
   skip-cert-verify: true
+  servername: ''
   network: ws
   ws-opts:
     path: /?ed=2048
@@ -26577,6 +26567,7 @@ proxies:
   alterId: 0
   tls: false
   skip-cert-verify: true
+  servername: ''
   network: ws
   ws-opts:
     path: /?ed=2048
@@ -26591,6 +26582,7 @@ proxies:
   alterId: 0
   tls: false
   skip-cert-verify: true
+  servername: ''
   network: ws
   ws-opts:
     path: /?ed=2048
@@ -26605,6 +26597,7 @@ proxies:
   alterId: 0
   tls: false
   skip-cert-verify: true
+  servername: ''
   network: ws
   ws-opts:
     path: /?ed=2048
@@ -26619,6 +26612,7 @@ proxies:
   alterId: 0
   tls: false
   skip-cert-verify: true
+  servername: ''
   network: ws
   ws-opts:
     path: /?ed=2048
@@ -26633,6 +26627,7 @@ proxies:
   alterId: 0
   tls: false
   skip-cert-verify: true
+  servername: ''
   network: ws
   ws-opts:
     path: /?ed=2048
@@ -26647,6 +26642,7 @@ proxies:
   alterId: 0
   tls: false
   skip-cert-verify: true
+  servername: ''
   network: ws
   ws-opts:
     path: /?ed=2048
@@ -26661,6 +26657,7 @@ proxies:
   alterId: 0
   tls: false
   skip-cert-verify: true
+  servername: ''
   network: ws
   ws-opts:
     path: /?ed=2048
@@ -26675,6 +26672,7 @@ proxies:
   alterId: 0
   tls: false
   skip-cert-verify: true
+  servername: ''
   network: ws
   ws-opts:
     path: /?ed=2048
@@ -26689,6 +26687,7 @@ proxies:
   alterId: 0
   tls: false
   skip-cert-verify: true
+  servername: ''
   network: ws
   ws-opts:
     path: /?ed=2048
@@ -26703,6 +26702,7 @@ proxies:
   alterId: 0
   tls: false
   skip-cert-verify: true
+  servername: ''
   network: ws
   ws-opts:
     path: /?ed=2048
@@ -26715,7 +26715,7 @@ proxies:
   cipher: aes-256-gcm
   password: Y6R9pAtvxxzmGC
   udp: true
-- name: "\U0001F1FA\U0001F1F8 US 2344 VMS"
+- name: "\U0001F1FA\U0001F1F3 UN 2344 VMS"
   server: ming2.kiwireich.com
   port: 443
   type: vmess
@@ -26807,7 +26807,7 @@ proxies:
     headers:
       Host: us3e-mmnnfr9dop0.v2freevpn.com
   udp: true
-- name: "\U0001F1FA\U0001F1F8 US 2351 VMS"
+- name: "\U0001F1FA\U0001F1F3 UN 2351 VMS"
   server: glweidf.cfd
   port: 443
   type: vmess
@@ -26869,7 +26869,7 @@ proxies:
     headers:
       Host: ca6.tehme100.fun
   udp: true
-- name: "\U0001F1FA\U0001F1F3 UN 2355 VMS"
+- name: "\U0001F1FA\U0001F1F8 US 2355 VMS"
   server: kellie.makeup
   port: 443
   type: vmess
@@ -27047,7 +27047,7 @@ proxies:
     headers:
       Host: fi1.xv2ray.net
   udp: true
-- name: "\U0001F1FA\U0001F1F8 US 2367 VMS"
+- name: "\U0001F1FA\U0001F1F3 UN 2367 VMS"
   server: nina.bond
   port: 443
   type: vmess
@@ -27167,7 +27167,7 @@ proxies:
     headers:
       Host: ca6.tehme100.fun
   udp: true
-- name: "\U0001F1FA\U0001F1F3 UN 2375 VMS"
+- name: "\U0001F1FA\U0001F1F8 US 2375 VMS"
   server: 18arcims.ir
   port: 80
   type: vmess
@@ -27192,7 +27192,7 @@ proxies:
   tls: false
   skip-cert-verify: true
   udp: true
-- name: "\U0001F1FA\U0001F1F8 US 2377 VMS"
+- name: "\U0001F1FA\U0001F1F3 UN 2377 VMS"
   server: 18arcims.ir
   port: 80
   type: vmess
@@ -27337,7 +27337,7 @@ proxies:
   grpc-opts:
     grpc-service-name: /
   udp: true
-- name: "\U0001F1FA\U0001F1F8 US 2387 VMS"
+- name: "\U0001F1FA\U0001F1F3 UN 2387 VMS"
   server: obdii.cfd
   port: 443
   type: vmess
@@ -27567,7 +27567,7 @@ proxies:
   tls: false
   skip-cert-verify: true
   udp: true
-- name: "\U0001F1FA\U0001F1F3 UN 2404 VMS"
+- name: "\U0001F1FA\U0001F1F8 US 2404 VMS"
   server: obdii.cfd
   port: 443
   type: vmess
@@ -27830,7 +27830,7 @@ proxies:
     headers:
       Host: lt2-vmess.sshmax.xyz
   udp: true
-- name: "\U0001F1FA\U0001F1F3 UN 2423 VMS"
+- name: "\U0001F1FA\U0001F1F8 US 2423 VMS"
   server: v2ray.ibgfw.top
   port: 2053
   type: vmess
@@ -27862,7 +27862,7 @@ proxies:
     headers:
       Host: afrhms16v.bestxray.buzz
   udp: true
-- name: "\U0001F1FA\U0001F1F8 US 2425 VMS"
+- name: "\U0001F1FA\U0001F1F3 UN 2425 VMS"
   server: ming2.kiwireich.com
   port: 443
   type: vmess
@@ -27877,7 +27877,7 @@ proxies:
     headers:
       Host: ming2.kiwireich.com
   udp: true
-- name: "\U0001F1FA\U0001F1F8 US 2426 VMS"
+- name: "\U0001F1FA\U0001F1F3 UN 2426 VMS"
   server: hms24.ivideos.sbs
   port: 443
   type: vmess
@@ -27908,7 +27908,7 @@ proxies:
     headers:
       Host: v2ray.ibgfw.top
   udp: true
-- name: "\U0001F1FA\U0001F1F3 UN 2428 VMS"
+- name: "\U0001F1FA\U0001F1F8 US 2428 VMS"
   server: v2ray.ibgfw.top
   port: 2053
   type: vmess
@@ -27923,7 +27923,7 @@ proxies:
     headers:
       Host: v2ray.ibgfw.top
   udp: true
-- name: "\U0001F1FA\U0001F1F8 US 2429 VMS"
+- name: "\U0001F1FA\U0001F1F3 UN 2429 VMS"
   server: linde06.indiavideo.sbs
   port: 443
   type: vmess
@@ -31817,7 +31817,7 @@ proxy-groups:
   - "\U0001F1E6\U0001F1FA AU 326 TJN"
   - "\U0001F1EF\U0001F1F5 JP 327 VMS"
   - "\U0001F1EF\U0001F1F5 JP 328 VMS"
-  - "\U0001F1E8\U0001F1E6 CA 329 TJN"
+  - "\U0001F1FA\U0001F1F8 US 329 TJN"
   - "\U0001F1E8\U0001F1E6 CA 330 TJN"
   - "\U0001F1E8\U0001F1E6 CA 331 TJN"
   - "\U0001F1E8\U0001F1E6 CA 332 TJN"
@@ -32051,7 +32051,7 @@ proxy-groups:
   - "\U0001F1EB\U0001F1F7 FR 560 SSS"
   - "\U0001F1EB\U0001F1F7 FR 561 SSS"
   - "\U0001F1E9\U0001F1EA DE 562 SSS"
-  - "\U0001F1E9\U0001F1EA DE 563 VMS"
+  - "\U0001F1FA\U0001F1F3 UN 563 VMS"
   - "\U0001F1EB\U0001F1F7 FR 564 SSS"
   - "\U0001F1EB\U0001F1F7 FR 565 SSS"
   - "\U0001F1E8\U0001F1FF CZ 566 VMS"
@@ -32354,7 +32354,7 @@ proxy-groups:
   - "\U0001F1EF\U0001F1F5 JP 863 TJN"
   - "\U0001F1FA\U0001F1F8 US 864 TJN"
   - "\U0001F1FA\U0001F1F8 US 865 TJN"
-  - "\U0001F1FA\U0001F1F8 US 866 TJN"
+  - "\U0001F1FA\U0001F1F3 UN 866 TJN"
   - "\U0001F1FA\U0001F1F8 US 867 SSS"
   - "\U0001F1FA\U0001F1F8 US 868 VMS"
   - "\U0001F1FA\U0001F1F8 US 869 SSS"
@@ -32394,7 +32394,7 @@ proxy-groups:
   - "\U0001F1FA\U0001F1F8 US 903 SSS"
   - "\U0001F1FA\U0001F1F8 US 904 SSS"
   - "\U0001F1FA\U0001F1F8 US 905 VMS"
-  - "\U0001F1FA\U0001F1F8 US 906 TJN"
+  - "\U0001F1FA\U0001F1F3 UN 906 TJN"
   - "\U0001F1FA\U0001F1F8 US 907 TJN"
   - "\U0001F1FA\U0001F1F8 US 908 TJN"
   - "\U0001F1FA\U0001F1F3 UN 909 VMS"
@@ -32453,7 +32453,7 @@ proxy-groups:
   - "\U0001F1FA\U0001F1F8 US 962 TJN"
   - "\U0001F1EC\U0001F1E7 GB 963 SSS"
   - "\U0001F1FA\U0001F1F3 UN 964 SSS"
-  - "\U0001F1FA\U0001F1F8 US 965 VMS"
+  - "\U0001F1FA\U0001F1F3 UN 965 VMS"
   - "\U0001F1FA\U0001F1F8 US 966 VMS"
   - "\U0001F1FA\U0001F1F8 US 967 TJN"
   - "\U0001F1FA\U0001F1F8 US 968 SSS"
@@ -32490,8 +32490,8 @@ proxy-groups:
   - "\U0001F1FA\U0001F1F8 US 999 TJN"
   - "\U0001F1ED\U0001F1F0 HK 1000 TJN"
   - "\U0001F1FA\U0001F1F8 US 1001 VMS"
-  - "\U0001F1ED\U0001F1F0 HK 1002 TJN"
-  - "\U0001F1FA\U0001F1F8 US 1003 TJN"
+  - "\U0001F1EF\U0001F1F5 JP 1002 TJN"
+  - "\U0001F1FA\U0001F1F3 UN 1003 TJN"
   - "\U0001F1FA\U0001F1F3 UN 1004 VMS"
   - "\U0001F1ED\U0001F1F0 HK 1005 TJN"
   - "\U0001F1FA\U0001F1F8 US 1006 TJN"
@@ -32576,7 +32576,7 @@ proxy-groups:
   - "\U0001F1FA\U0001F1F8 US 1085 TJN"
   - "\U0001F1FA\U0001F1F8 US 1086 SSS"
   - "\U0001F1FA\U0001F1F8 US 1087 TJN"
-  - "\U0001F1FA\U0001F1F8 US 1088 VMS"
+  - "\U0001F1FA\U0001F1F3 UN 1088 VMS"
   - "\U0001F1FA\U0001F1F8 US 1089 TJN"
   - "\U0001F1FA\U0001F1F8 US 1090 TJN"
   - "\U0001F1FA\U0001F1F8 US 1091 TJN"
@@ -32584,7 +32584,7 @@ proxy-groups:
   - "\U0001F1EF\U0001F1F5 JP 1093 VMS"
   - "\U0001F1FA\U0001F1F8 US 1094 VMS"
   - "\U0001F1FA\U0001F1F8 US 1095 SSS"
-  - "\U0001F1FA\U0001F1F8 US 1096 VMS"
+  - "\U0001F1FA\U0001F1F3 UN 1096 VMS"
   - "\U0001F1FA\U0001F1F8 US 1097 TJN"
   - "\U0001F1FA\U0001F1F8 US 1098 VMS"
   - "\U0001F1FA\U0001F1F8 US 1099 TJN"
@@ -32593,7 +32593,7 @@ proxy-groups:
   - "\U0001F1FA\U0001F1F8 US 1102 TJN"
   - "\U0001F1FA\U0001F1F8 US 1103 VMS"
   - "\U0001F1FA\U0001F1F8 US 1104 SSS"
-  - "\U0001F1FA\U0001F1F3 UN 1105 TJN"
+  - "\U0001F1FA\U0001F1F8 US 1105 TJN"
   - "\U0001F1E8\U0001F1ED CH 1106 TJN"
   - "\U0001F1FA\U0001F1F8 US 1107 TJN"
   - "\U0001F1FA\U0001F1F8 US 1108 TJN"
@@ -32613,7 +32613,7 @@ proxy-groups:
   - "\U0001F1FA\U0001F1F8 US 1122 TJN"
   - "\U0001F1FA\U0001F1F8 US 1123 TJN"
   - "\U0001F1FA\U0001F1F8 US 1124 TJN"
-  - "\U0001F1ED\U0001F1F0 HK 1125 TJN"
+  - "\U0001F1EF\U0001F1F5 JP 1125 TJN"
   - "\U0001F1FA\U0001F1F8 US 1126 SSS"
   - "\U0001F1FA\U0001F1F8 US 1127 TJN"
   - "\U0001F1FA\U0001F1F8 US 1128 SSS"
@@ -32648,7 +32648,7 @@ proxy-groups:
   - "\U0001F1FA\U0001F1F3 UN 1157 SSS"
   - "\U0001F1FA\U0001F1F8 US 1158 TJN"
   - "\U0001F1F3\U0001F1F1 NL 1159 SSS"
-  - "\U0001F1FA\U0001F1F8 US 1160 TJN"
+  - "\U0001F1FA\U0001F1F3 UN 1160 TJN"
   - "\U0001F1FA\U0001F1F8 US 1161 SSS"
   - "\U0001F1FA\U0001F1F8 US 1162 SSS"
   - "\U0001F1FA\U0001F1F8 US 1163 SSS"
@@ -32724,7 +32724,7 @@ proxy-groups:
   - "\U0001F1FA\U0001F1F8 US 1233 TJN"
   - "\U0001F1FA\U0001F1F8 US 1234 VMS"
   - "\U0001F1FA\U0001F1F8 US 1235 SSS"
-  - "\U0001F1FA\U0001F1F8 US 1236 TJN"
+  - "\U0001F1FA\U0001F1F3 UN 1236 TJN"
   - "\U0001F1FA\U0001F1F8 US 1237 SSS"
   - "\U0001F1EB\U0001F1F7 FR 1238 VMS"
   - "\U0001F1FA\U0001F1F8 US 1239 VMS"
@@ -32833,7 +32833,7 @@ proxy-groups:
   - "\U0001F1FA\U0001F1F8 US 1342 VMS"
   - "\U0001F1FA\U0001F1F8 US 1343 TJN"
   - "\U0001F1FA\U0001F1F8 US 1344 TJN"
-  - "\U0001F1FA\U0001F1F8 US 1345 VMS"
+  - "\U0001F1FA\U0001F1F3 UN 1345 VMS"
   - "\U0001F1FA\U0001F1F8 US 1346 SSS"
   - "\U0001F1FA\U0001F1F8 US 1347 SSS"
   - "\U0001F1FA\U0001F1F8 US 1348 SSS"
@@ -32861,7 +32861,7 @@ proxy-groups:
   - "\U0001F1FA\U0001F1F8 US 1370 SSS"
   - "\U0001F1E6\U0001F1FA AU 1371 SSS"
   - "\U0001F1F3\U0001F1F1 NL 1372 SSS"
-  - "\U0001F1FA\U0001F1F3 UN 1373 TJN"
+  - "\U0001F1FA\U0001F1F8 US 1373 TJN"
   - "\U0001F1FA\U0001F1F8 US 1374 TJN"
   - "\U0001F1FA\U0001F1F8 US 1375 SSS"
   - "\U0001F1FA\U0001F1F8 US 1376 TJN"
@@ -32941,7 +32941,7 @@ proxy-groups:
   - "\U0001F1F1\U0001F1FA LU 1450 VMS"
   - "\U0001F1FA\U0001F1F8 US 1451 SSS"
   - "\U0001F1FA\U0001F1F3 UN 1452 VMS"
-  - "\U0001F1FA\U0001F1F3 UN 1453 VMS"
+  - "\U0001F1FA\U0001F1F8 US 1453 VMS"
   - "\U0001F1F8\U0001F1EA SE 1454 VMS"
   - "\U0001F1EF\U0001F1F5 JP 1455 VMS"
   - "\U0001F1FA\U0001F1F8 US 1456 TJN"
@@ -32953,7 +32953,7 @@ proxy-groups:
   - "\U0001F1FA\U0001F1F8 US 1462 VMS"
   - "\U0001F1FA\U0001F1F8 US 1463 TJN"
   - "\U0001F1FA\U0001F1F8 US 1464 TJN"
-  - "\U0001F1FA\U0001F1F8 US 1465 TJN"
+  - "\U0001F1FA\U0001F1F3 UN 1465 TJN"
   - "\U0001F1FA\U0001F1F8 US 1466 VMS"
   - "\U0001F1FA\U0001F1F8 US 1467 VMS"
   - "\U0001F1FA\U0001F1F8 US 1468 TJN"
@@ -33038,7 +33038,7 @@ proxy-groups:
   - "\U0001F1FA\U0001F1F8 US 1547 VMS"
   - "\U0001F1FA\U0001F1F8 US 1548 VMS"
   - "\U0001F1FA\U0001F1F8 US 1549 TJN"
-  - "\U0001F1FA\U0001F1F8 US 1550 TJN"
+  - "\U0001F1FA\U0001F1F3 UN 1550 TJN"
   - "\U0001F1FA\U0001F1F8 US 1551 VMS"
   - "\U0001F1FA\U0001F1F3 UN 1552 VMS"
   - "\U0001F1FA\U0001F1F8 US 1553 SSS"
@@ -33065,7 +33065,7 @@ proxy-groups:
   - "\U0001F1FA\U0001F1F8 US 1574 SSS"
   - "\U0001F1FA\U0001F1F8 US 1575 TJN"
   - "\U0001F1EC\U0001F1E7 GB 1576 SSS"
-  - "\U0001F1FA\U0001F1F8 US 1577 VMS"
+  - "\U0001F1FA\U0001F1F3 UN 1577 VMS"
   - "\U0001F1FA\U0001F1F8 US 1578 SSS"
   - "\U0001F1FA\U0001F1F8 US 1579 TJN"
   - "\U0001F1FA\U0001F1F8 US 1580 TJN"
@@ -33088,7 +33088,7 @@ proxy-groups:
   - "\U0001F1E9\U0001F1EA DE 1597 TJN"
   - "\U0001F1FA\U0001F1F3 UN 1598 VMS"
   - "\U0001F1F0\U0001F1F7 KR 1599 VMS"
-  - "\U0001F1FA\U0001F1F8 US 1600 TJN"
+  - "\U0001F1FA\U0001F1F3 UN 1600 TJN"
   - "\U0001F1FA\U0001F1F8 US 1601 SSS"
   - "\U0001F1FA\U0001F1F8 US 1602 TJN"
   - "\U0001F1FA\U0001F1F3 UN 1603 VMS"
@@ -33832,18 +33832,18 @@ proxy-groups:
   - "\U0001F1FA\U0001F1F3 UN 2341 VMS"
   - "\U0001F1FA\U0001F1F3 UN 2342 VMS"
   - "\U0001F1EB\U0001F1F7 FR 2343 SSS"
-  - "\U0001F1FA\U0001F1F8 US 2344 VMS"
+  - "\U0001F1FA\U0001F1F3 UN 2344 VMS"
   - "\U0001F1E8\U0001F1E6 CA 2345 VMS"
   - "\U0001F1F5\U0001F1ED PH 2346 VMS"
   - "\U0001F1F3\U0001F1F1 NL 2347 VMS"
   - "\U0001F1E8\U0001F1E6 CA 2348 VMS"
   - "\U0001F1FA\U0001F1F8 US 2349 VMS"
   - "\U0001F1FA\U0001F1F8 US 2350 VMS"
-  - "\U0001F1FA\U0001F1F8 US 2351 VMS"
+  - "\U0001F1FA\U0001F1F3 UN 2351 VMS"
   - "\U0001F1FA\U0001F1F3 UN 2352 VMS"
   - "\U0001F1FA\U0001F1F3 UN 2353 VMS"
   - "\U0001F1FA\U0001F1F8 US 2354 VMS"
-  - "\U0001F1FA\U0001F1F3 UN 2355 VMS"
+  - "\U0001F1FA\U0001F1F8 US 2355 VMS"
   - "\U0001F1FA\U0001F1F8 US 2356 VMS"
   - "\U0001F1FA\U0001F1F8 US 2357 VMS"
   - "\U0001F1FA\U0001F1F8 US 2358 VMS"
@@ -33855,7 +33855,7 @@ proxy-groups:
   - "\U0001F1FA\U0001F1F8 US 2364 VMS"
   - "\U0001F1FA\U0001F1F8 US 2365 VMS"
   - "\U0001F1FA\U0001F1F8 US 2366 VMS"
-  - "\U0001F1FA\U0001F1F8 US 2367 VMS"
+  - "\U0001F1FA\U0001F1F3 UN 2367 VMS"
   - "\U0001F1FA\U0001F1F8 US 2368 VMS"
   - "\U0001F1FA\U0001F1F8 US 2369 VMS"
   - "\U0001F1FA\U0001F1F8 US 2370 VMS"
@@ -33863,9 +33863,9 @@ proxy-groups:
   - "\U0001F1FA\U0001F1F3 UN 2372 VMS"
   - "\U0001F1FA\U0001F1F3 UN 2373 VMS"
   - "\U0001F1FA\U0001F1F8 US 2374 VMS"
-  - "\U0001F1FA\U0001F1F3 UN 2375 VMS"
+  - "\U0001F1FA\U0001F1F8 US 2375 VMS"
   - "\U0001F1E8\U0001F1E6 CA 2376 VMS"
-  - "\U0001F1FA\U0001F1F8 US 2377 VMS"
+  - "\U0001F1FA\U0001F1F3 UN 2377 VMS"
   - "\U0001F1FA\U0001F1F3 UN 2378 VMS"
   - "\U0001F1FA\U0001F1F3 UN 2379 VMS"
   - "\U0001F1FA\U0001F1F8 US 2380 VMS"
@@ -33875,7 +33875,7 @@ proxy-groups:
   - "\U0001F1FA\U0001F1F8 US 2384 VMS"
   - "\U0001F1FA\U0001F1F8 US 2385 VMS"
   - "\U0001F1FA\U0001F1F8 US 2386 VMS"
-  - "\U0001F1FA\U0001F1F8 US 2387 VMS"
+  - "\U0001F1FA\U0001F1F3 UN 2387 VMS"
   - "\U0001F1E9\U0001F1EA DE 2388 VMS"
   - "\U0001F1FA\U0001F1F8 US 2389 VMS"
   - "\U0001F1E9\U0001F1EA DE 2390 VMS"
@@ -33892,7 +33892,7 @@ proxy-groups:
   - "\U0001F1F7\U0001F1FA RU 2401 VMS"
   - "\U0001F1FA\U0001F1F3 UN 2402 VMS"
   - "\U0001F1EC\U0001F1E7 GB 2403 VMS"
-  - "\U0001F1FA\U0001F1F3 UN 2404 VMS"
+  - "\U0001F1FA\U0001F1F8 US 2404 VMS"
   - "\U0001F1E9\U0001F1EA DE 2405 VMS"
   - "\U0001F1FA\U0001F1F8 US 2406 VMS"
   - "\U0001F1EC\U0001F1E7 GB 2407 VMS"
@@ -33911,13 +33911,13 @@ proxy-groups:
   - "\U0001F1F0\U0001F1F7 KR 2420 VMS"
   - "\U0001F1F0\U0001F1F7 KR 2421 VMS"
   - "\U0001F1FA\U0001F1F8 US 2422 VMS"
-  - "\U0001F1FA\U0001F1F3 UN 2423 VMS"
+  - "\U0001F1FA\U0001F1F8 US 2423 VMS"
   - "\U0001F1F3\U0001F1F1 NL 2424 VMS"
-  - "\U0001F1FA\U0001F1F8 US 2425 VMS"
-  - "\U0001F1FA\U0001F1F8 US 2426 VMS"
+  - "\U0001F1FA\U0001F1F3 UN 2425 VMS"
+  - "\U0001F1FA\U0001F1F3 UN 2426 VMS"
   - "\U0001F1FA\U0001F1F8 US 2427 VMS"
-  - "\U0001F1FA\U0001F1F3 UN 2428 VMS"
-  - "\U0001F1FA\U0001F1F8 US 2429 VMS"
+  - "\U0001F1FA\U0001F1F8 US 2428 VMS"
+  - "\U0001F1FA\U0001F1F3 UN 2429 VMS"
   - "\U0001F1FA\U0001F1F3 UN 2430 VMS"
   - "\U0001F1FA\U0001F1F3 UN 2431 VMS"
   - "\U0001F1F5\U0001F1ED PH 2432 VMS"
@@ -34682,7 +34682,7 @@ proxy-groups:
   - "\U0001F1E6\U0001F1FA AU 326 TJN"
   - "\U0001F1EF\U0001F1F5 JP 327 VMS"
   - "\U0001F1EF\U0001F1F5 JP 328 VMS"
-  - "\U0001F1E8\U0001F1E6 CA 329 TJN"
+  - "\U0001F1FA\U0001F1F8 US 329 TJN"
   - "\U0001F1E8\U0001F1E6 CA 330 TJN"
   - "\U0001F1E8\U0001F1E6 CA 331 TJN"
   - "\U0001F1E8\U0001F1E6 CA 332 TJN"
@@ -34916,7 +34916,7 @@ proxy-groups:
   - "\U0001F1EB\U0001F1F7 FR 560 SSS"
   - "\U0001F1EB\U0001F1F7 FR 561 SSS"
   - "\U0001F1E9\U0001F1EA DE 562 SSS"
-  - "\U0001F1E9\U0001F1EA DE 563 VMS"
+  - "\U0001F1FA\U0001F1F3 UN 563 VMS"
   - "\U0001F1EB\U0001F1F7 FR 564 SSS"
   - "\U0001F1EB\U0001F1F7 FR 565 SSS"
   - "\U0001F1E8\U0001F1FF CZ 566 VMS"
@@ -35219,7 +35219,7 @@ proxy-groups:
   - "\U0001F1EF\U0001F1F5 JP 863 TJN"
   - "\U0001F1FA\U0001F1F8 US 864 TJN"
   - "\U0001F1FA\U0001F1F8 US 865 TJN"
-  - "\U0001F1FA\U0001F1F8 US 866 TJN"
+  - "\U0001F1FA\U0001F1F3 UN 866 TJN"
   - "\U0001F1FA\U0001F1F8 US 867 SSS"
   - "\U0001F1FA\U0001F1F8 US 868 VMS"
   - "\U0001F1FA\U0001F1F8 US 869 SSS"
@@ -35259,7 +35259,7 @@ proxy-groups:
   - "\U0001F1FA\U0001F1F8 US 903 SSS"
   - "\U0001F1FA\U0001F1F8 US 904 SSS"
   - "\U0001F1FA\U0001F1F8 US 905 VMS"
-  - "\U0001F1FA\U0001F1F8 US 906 TJN"
+  - "\U0001F1FA\U0001F1F3 UN 906 TJN"
   - "\U0001F1FA\U0001F1F8 US 907 TJN"
   - "\U0001F1FA\U0001F1F8 US 908 TJN"
   - "\U0001F1FA\U0001F1F3 UN 909 VMS"
@@ -35318,7 +35318,7 @@ proxy-groups:
   - "\U0001F1FA\U0001F1F8 US 962 TJN"
   - "\U0001F1EC\U0001F1E7 GB 963 SSS"
   - "\U0001F1FA\U0001F1F3 UN 964 SSS"
-  - "\U0001F1FA\U0001F1F8 US 965 VMS"
+  - "\U0001F1FA\U0001F1F3 UN 965 VMS"
   - "\U0001F1FA\U0001F1F8 US 966 VMS"
   - "\U0001F1FA\U0001F1F8 US 967 TJN"
   - "\U0001F1FA\U0001F1F8 US 968 SSS"
@@ -35355,8 +35355,8 @@ proxy-groups:
   - "\U0001F1FA\U0001F1F8 US 999 TJN"
   - "\U0001F1ED\U0001F1F0 HK 1000 TJN"
   - "\U0001F1FA\U0001F1F8 US 1001 VMS"
-  - "\U0001F1ED\U0001F1F0 HK 1002 TJN"
-  - "\U0001F1FA\U0001F1F8 US 1003 TJN"
+  - "\U0001F1EF\U0001F1F5 JP 1002 TJN"
+  - "\U0001F1FA\U0001F1F3 UN 1003 TJN"
   - "\U0001F1FA\U0001F1F3 UN 1004 VMS"
   - "\U0001F1ED\U0001F1F0 HK 1005 TJN"
   - "\U0001F1FA\U0001F1F8 US 1006 TJN"
@@ -35441,7 +35441,7 @@ proxy-groups:
   - "\U0001F1FA\U0001F1F8 US 1085 TJN"
   - "\U0001F1FA\U0001F1F8 US 1086 SSS"
   - "\U0001F1FA\U0001F1F8 US 1087 TJN"
-  - "\U0001F1FA\U0001F1F8 US 1088 VMS"
+  - "\U0001F1FA\U0001F1F3 UN 1088 VMS"
   - "\U0001F1FA\U0001F1F8 US 1089 TJN"
   - "\U0001F1FA\U0001F1F8 US 1090 TJN"
   - "\U0001F1FA\U0001F1F8 US 1091 TJN"
@@ -35449,7 +35449,7 @@ proxy-groups:
   - "\U0001F1EF\U0001F1F5 JP 1093 VMS"
   - "\U0001F1FA\U0001F1F8 US 1094 VMS"
   - "\U0001F1FA\U0001F1F8 US 1095 SSS"
-  - "\U0001F1FA\U0001F1F8 US 1096 VMS"
+  - "\U0001F1FA\U0001F1F3 UN 1096 VMS"
   - "\U0001F1FA\U0001F1F8 US 1097 TJN"
   - "\U0001F1FA\U0001F1F8 US 1098 VMS"
   - "\U0001F1FA\U0001F1F8 US 1099 TJN"
@@ -35458,7 +35458,7 @@ proxy-groups:
   - "\U0001F1FA\U0001F1F8 US 1102 TJN"
   - "\U0001F1FA\U0001F1F8 US 1103 VMS"
   - "\U0001F1FA\U0001F1F8 US 1104 SSS"
-  - "\U0001F1FA\U0001F1F3 UN 1105 TJN"
+  - "\U0001F1FA\U0001F1F8 US 1105 TJN"
   - "\U0001F1E8\U0001F1ED CH 1106 TJN"
   - "\U0001F1FA\U0001F1F8 US 1107 TJN"
   - "\U0001F1FA\U0001F1F8 US 1108 TJN"
@@ -35478,7 +35478,7 @@ proxy-groups:
   - "\U0001F1FA\U0001F1F8 US 1122 TJN"
   - "\U0001F1FA\U0001F1F8 US 1123 TJN"
   - "\U0001F1FA\U0001F1F8 US 1124 TJN"
-  - "\U0001F1ED\U0001F1F0 HK 1125 TJN"
+  - "\U0001F1EF\U0001F1F5 JP 1125 TJN"
   - "\U0001F1FA\U0001F1F8 US 1126 SSS"
   - "\U0001F1FA\U0001F1F8 US 1127 TJN"
   - "\U0001F1FA\U0001F1F8 US 1128 SSS"
@@ -35513,7 +35513,7 @@ proxy-groups:
   - "\U0001F1FA\U0001F1F3 UN 1157 SSS"
   - "\U0001F1FA\U0001F1F8 US 1158 TJN"
   - "\U0001F1F3\U0001F1F1 NL 1159 SSS"
-  - "\U0001F1FA\U0001F1F8 US 1160 TJN"
+  - "\U0001F1FA\U0001F1F3 UN 1160 TJN"
   - "\U0001F1FA\U0001F1F8 US 1161 SSS"
   - "\U0001F1FA\U0001F1F8 US 1162 SSS"
   - "\U0001F1FA\U0001F1F8 US 1163 SSS"
@@ -35589,7 +35589,7 @@ proxy-groups:
   - "\U0001F1FA\U0001F1F8 US 1233 TJN"
   - "\U0001F1FA\U0001F1F8 US 1234 VMS"
   - "\U0001F1FA\U0001F1F8 US 1235 SSS"
-  - "\U0001F1FA\U0001F1F8 US 1236 TJN"
+  - "\U0001F1FA\U0001F1F3 UN 1236 TJN"
   - "\U0001F1FA\U0001F1F8 US 1237 SSS"
   - "\U0001F1EB\U0001F1F7 FR 1238 VMS"
   - "\U0001F1FA\U0001F1F8 US 1239 VMS"
@@ -35698,7 +35698,7 @@ proxy-groups:
   - "\U0001F1FA\U0001F1F8 US 1342 VMS"
   - "\U0001F1FA\U0001F1F8 US 1343 TJN"
   - "\U0001F1FA\U0001F1F8 US 1344 TJN"
-  - "\U0001F1FA\U0001F1F8 US 1345 VMS"
+  - "\U0001F1FA\U0001F1F3 UN 1345 VMS"
   - "\U0001F1FA\U0001F1F8 US 1346 SSS"
   - "\U0001F1FA\U0001F1F8 US 1347 SSS"
   - "\U0001F1FA\U0001F1F8 US 1348 SSS"
@@ -35726,7 +35726,7 @@ proxy-groups:
   - "\U0001F1FA\U0001F1F8 US 1370 SSS"
   - "\U0001F1E6\U0001F1FA AU 1371 SSS"
   - "\U0001F1F3\U0001F1F1 NL 1372 SSS"
-  - "\U0001F1FA\U0001F1F3 UN 1373 TJN"
+  - "\U0001F1FA\U0001F1F8 US 1373 TJN"
   - "\U0001F1FA\U0001F1F8 US 1374 TJN"
   - "\U0001F1FA\U0001F1F8 US 1375 SSS"
   - "\U0001F1FA\U0001F1F8 US 1376 TJN"
@@ -35806,7 +35806,7 @@ proxy-groups:
   - "\U0001F1F1\U0001F1FA LU 1450 VMS"
   - "\U0001F1FA\U0001F1F8 US 1451 SSS"
   - "\U0001F1FA\U0001F1F3 UN 1452 VMS"
-  - "\U0001F1FA\U0001F1F3 UN 1453 VMS"
+  - "\U0001F1FA\U0001F1F8 US 1453 VMS"
   - "\U0001F1F8\U0001F1EA SE 1454 VMS"
   - "\U0001F1EF\U0001F1F5 JP 1455 VMS"
   - "\U0001F1FA\U0001F1F8 US 1456 TJN"
@@ -35818,7 +35818,7 @@ proxy-groups:
   - "\U0001F1FA\U0001F1F8 US 1462 VMS"
   - "\U0001F1FA\U0001F1F8 US 1463 TJN"
   - "\U0001F1FA\U0001F1F8 US 1464 TJN"
-  - "\U0001F1FA\U0001F1F8 US 1465 TJN"
+  - "\U0001F1FA\U0001F1F3 UN 1465 TJN"
   - "\U0001F1FA\U0001F1F8 US 1466 VMS"
   - "\U0001F1FA\U0001F1F8 US 1467 VMS"
   - "\U0001F1FA\U0001F1F8 US 1468 TJN"
@@ -35903,7 +35903,7 @@ proxy-groups:
   - "\U0001F1FA\U0001F1F8 US 1547 VMS"
   - "\U0001F1FA\U0001F1F8 US 1548 VMS"
   - "\U0001F1FA\U0001F1F8 US 1549 TJN"
-  - "\U0001F1FA\U0001F1F8 US 1550 TJN"
+  - "\U0001F1FA\U0001F1F3 UN 1550 TJN"
   - "\U0001F1FA\U0001F1F8 US 1551 VMS"
   - "\U0001F1FA\U0001F1F3 UN 1552 VMS"
   - "\U0001F1FA\U0001F1F8 US 1553 SSS"
@@ -35930,7 +35930,7 @@ proxy-groups:
   - "\U0001F1FA\U0001F1F8 US 1574 SSS"
   - "\U0001F1FA\U0001F1F8 US 1575 TJN"
   - "\U0001F1EC\U0001F1E7 GB 1576 SSS"
-  - "\U0001F1FA\U0001F1F8 US 1577 VMS"
+  - "\U0001F1FA\U0001F1F3 UN 1577 VMS"
   - "\U0001F1FA\U0001F1F8 US 1578 SSS"
   - "\U0001F1FA\U0001F1F8 US 1579 TJN"
   - "\U0001F1FA\U0001F1F8 US 1580 TJN"
@@ -35953,7 +35953,7 @@ proxy-groups:
   - "\U0001F1E9\U0001F1EA DE 1597 TJN"
   - "\U0001F1FA\U0001F1F3 UN 1598 VMS"
   - "\U0001F1F0\U0001F1F7 KR 1599 VMS"
-  - "\U0001F1FA\U0001F1F8 US 1600 TJN"
+  - "\U0001F1FA\U0001F1F3 UN 1600 TJN"
   - "\U0001F1FA\U0001F1F8 US 1601 SSS"
   - "\U0001F1FA\U0001F1F8 US 1602 TJN"
   - "\U0001F1FA\U0001F1F3 UN 1603 VMS"
@@ -36697,18 +36697,18 @@ proxy-groups:
   - "\U0001F1FA\U0001F1F3 UN 2341 VMS"
   - "\U0001F1FA\U0001F1F3 UN 2342 VMS"
   - "\U0001F1EB\U0001F1F7 FR 2343 SSS"
-  - "\U0001F1FA\U0001F1F8 US 2344 VMS"
+  - "\U0001F1FA\U0001F1F3 UN 2344 VMS"
   - "\U0001F1E8\U0001F1E6 CA 2345 VMS"
   - "\U0001F1F5\U0001F1ED PH 2346 VMS"
   - "\U0001F1F3\U0001F1F1 NL 2347 VMS"
   - "\U0001F1E8\U0001F1E6 CA 2348 VMS"
   - "\U0001F1FA\U0001F1F8 US 2349 VMS"
   - "\U0001F1FA\U0001F1F8 US 2350 VMS"
-  - "\U0001F1FA\U0001F1F8 US 2351 VMS"
+  - "\U0001F1FA\U0001F1F3 UN 2351 VMS"
   - "\U0001F1FA\U0001F1F3 UN 2352 VMS"
   - "\U0001F1FA\U0001F1F3 UN 2353 VMS"
   - "\U0001F1FA\U0001F1F8 US 2354 VMS"
-  - "\U0001F1FA\U0001F1F3 UN 2355 VMS"
+  - "\U0001F1FA\U0001F1F8 US 2355 VMS"
   - "\U0001F1FA\U0001F1F8 US 2356 VMS"
   - "\U0001F1FA\U0001F1F8 US 2357 VMS"
   - "\U0001F1FA\U0001F1F8 US 2358 VMS"
@@ -36720,7 +36720,7 @@ proxy-groups:
   - "\U0001F1FA\U0001F1F8 US 2364 VMS"
   - "\U0001F1FA\U0001F1F8 US 2365 VMS"
   - "\U0001F1FA\U0001F1F8 US 2366 VMS"
-  - "\U0001F1FA\U0001F1F8 US 2367 VMS"
+  - "\U0001F1FA\U0001F1F3 UN 2367 VMS"
   - "\U0001F1FA\U0001F1F8 US 2368 VMS"
   - "\U0001F1FA\U0001F1F8 US 2369 VMS"
   - "\U0001F1FA\U0001F1F8 US 2370 VMS"
@@ -36728,9 +36728,9 @@ proxy-groups:
   - "\U0001F1FA\U0001F1F3 UN 2372 VMS"
   - "\U0001F1FA\U0001F1F3 UN 2373 VMS"
   - "\U0001F1FA\U0001F1F8 US 2374 VMS"
-  - "\U0001F1FA\U0001F1F3 UN 2375 VMS"
+  - "\U0001F1FA\U0001F1F8 US 2375 VMS"
   - "\U0001F1E8\U0001F1E6 CA 2376 VMS"
-  - "\U0001F1FA\U0001F1F8 US 2377 VMS"
+  - "\U0001F1FA\U0001F1F3 UN 2377 VMS"
   - "\U0001F1FA\U0001F1F3 UN 2378 VMS"
   - "\U0001F1FA\U0001F1F3 UN 2379 VMS"
   - "\U0001F1FA\U0001F1F8 US 2380 VMS"
@@ -36740,7 +36740,7 @@ proxy-groups:
   - "\U0001F1FA\U0001F1F8 US 2384 VMS"
   - "\U0001F1FA\U0001F1F8 US 2385 VMS"
   - "\U0001F1FA\U0001F1F8 US 2386 VMS"
-  - "\U0001F1FA\U0001F1F8 US 2387 VMS"
+  - "\U0001F1FA\U0001F1F3 UN 2387 VMS"
   - "\U0001F1E9\U0001F1EA DE 2388 VMS"
   - "\U0001F1FA\U0001F1F8 US 2389 VMS"
   - "\U0001F1E9\U0001F1EA DE 2390 VMS"
@@ -36757,7 +36757,7 @@ proxy-groups:
   - "\U0001F1F7\U0001F1FA RU 2401 VMS"
   - "\U0001F1FA\U0001F1F3 UN 2402 VMS"
   - "\U0001F1EC\U0001F1E7 GB 2403 VMS"
-  - "\U0001F1FA\U0001F1F3 UN 2404 VMS"
+  - "\U0001F1FA\U0001F1F8 US 2404 VMS"
   - "\U0001F1E9\U0001F1EA DE 2405 VMS"
   - "\U0001F1FA\U0001F1F8 US 2406 VMS"
   - "\U0001F1EC\U0001F1E7 GB 2407 VMS"
@@ -36776,13 +36776,13 @@ proxy-groups:
   - "\U0001F1F0\U0001F1F7 KR 2420 VMS"
   - "\U0001F1F0\U0001F1F7 KR 2421 VMS"
   - "\U0001F1FA\U0001F1F8 US 2422 VMS"
-  - "\U0001F1FA\U0001F1F3 UN 2423 VMS"
+  - "\U0001F1FA\U0001F1F8 US 2423 VMS"
   - "\U0001F1F3\U0001F1F1 NL 2424 VMS"
-  - "\U0001F1FA\U0001F1F8 US 2425 VMS"
-  - "\U0001F1FA\U0001F1F8 US 2426 VMS"
+  - "\U0001F1FA\U0001F1F3 UN 2425 VMS"
+  - "\U0001F1FA\U0001F1F3 UN 2426 VMS"
   - "\U0001F1FA\U0001F1F8 US 2427 VMS"
-  - "\U0001F1FA\U0001F1F3 UN 2428 VMS"
-  - "\U0001F1FA\U0001F1F8 US 2429 VMS"
+  - "\U0001F1FA\U0001F1F8 US 2428 VMS"
+  - "\U0001F1FA\U0001F1F3 UN 2429 VMS"
   - "\U0001F1FA\U0001F1F3 UN 2430 VMS"
   - "\U0001F1FA\U0001F1F3 UN 2431 VMS"
   - "\U0001F1F5\U0001F1ED PH 2432 VMS"
